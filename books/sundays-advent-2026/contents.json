@@ -1,0 +1,680 @@
+{
+ "id": "sundays-2026-11-26",
+ "title": "Duets for the Coming Sundays",
+ "subtitle": "Thanksgiving Day to Sunday after Christmas, November 2026",
+ "blurb": "Hymns of the day and seasonal favourites for the weeks ahead.",
+ "pieces": 28,
+ "layouts": {
+  "facing": {
+   "path": "books/sundays-advent-2026/sundays-2026-11-26-facing.pdf",
+   "pages": 71,
+   "bytes": 953016
+  },
+  "score": {
+   "path": "books/sundays-advent-2026/sundays-2026-11-26-score.pdf",
+   "pages": 54,
+   "bytes": 714406
+  },
+  "screen": {
+   "path": "books/sundays-advent-2026/sundays-2026-11-26-screen.pdf",
+   "pages": 58,
+   "bytes": 946165
+  },
+  "screen-score": {
+   "path": "books/sundays-advent-2026/sundays-2026-11-26-screen-score.pdf",
+   "pages": 48,
+   "bytes": 664562
+  }
+ },
+ "items": [
+  {
+   "slug": "now-thank-we-all-our-god",
+   "title": "Now Thank We All Our God",
+   "subtitle": "NUN DANKET",
+   "composer": "Johann Cr\u00fcger, 1647",
+   "levels": {
+    "p": 1.7,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Thanksgiving Day \u00b7 Nov 26",
+   "problems": [],
+   "pages": {
+    "facing": 4,
+    "score": 4,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "we-gather-together",
+   "title": "We Gather Together",
+   "subtitle": "KREMSER",
+   "composer": "Traditional Dutch circa 1597",
+   "levels": {
+    "p": 2.0,
+    "s": 2.2
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 34,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "Thanksgiving Day \u00b7 Nov 26",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 5,
+    "screen": 5,
+    "screen-score": 4
+   }
+  },
+  {
+   "slug": "for-the-beauty-of-the-earth",
+   "title": "For the Beauty of the Earth",
+   "subtitle": "DIX",
+   "composer": "Conrad Kocher, 1838",
+   "levels": {
+    "p": 1.2,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Thanksgiving Day \u00b7 Nov 26",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 7,
+    "screen": 7,
+    "screen-score": 6
+   }
+  },
+  {
+   "slug": "praise-to-the-lord-the-almighty",
+   "title": "Praise to the Lord, the Almighty",
+   "subtitle": "LOBE DEN HERREN",
+   "composer": "Ander Theil des Erneuerten Gesangbuch, 1665",
+   "levels": {
+    "p": 1.4,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 21,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Thanksgiving Day \u00b7 Nov 26",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 8,
+    "screen": 8,
+    "screen-score": 7
+   }
+  },
+  {
+   "slug": "savior-of-the-nations-come",
+   "title": "Savior of the Nations Come",
+   "subtitle": "NUN KOMM, DER HEIDEN HEILAND",
+   "composer": "Walter's Geistliche Gesangb\u00fcchlein, 1524",
+   "levels": {
+    "p": 1.8,
+    "s": 2.2
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "First Sunday of Advent \u00b7 Nov 29",
+   "problems": [],
+   "pages": {
+    "facing": 12,
+    "score": 10,
+    "screen": 10,
+    "screen-score": 8
+   }
+  },
+  {
+   "slug": "bach-savior-of-the-nations-come",
+   "title": "Savior of the Nations, Come",
+   "subtitle": "Nun komm, der Heiden Heiland \u00b7 BWV 36.8-2",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.3,
+    "s": 4.0
+   },
+   "key": "Bm",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "First Sunday of Advent \u00b7 Nov 29",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 12,
+    "screen": 12,
+    "screen-score": 9
+   }
+  },
+  {
+   "slug": "wake-awake-for-night-is-flying",
+   "title": "Wake, Awake, for Night Is Flying",
+   "subtitle": "WACHET AUF",
+   "composer": "Phillip Nicolai, 1599",
+   "levels": {
+    "p": 1.7,
+    "s": 3.5
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 11,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "First Sunday of Advent \u00b7 Nov 29",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 13,
+    "screen": 13,
+    "screen-score": 11
+   }
+  },
+  {
+   "slug": "o-lord-how-shall-i-meet-thee",
+   "title": "O Lord, How Shall I Meet Thee",
+   "subtitle": "WIE SOLL ICH DICH EMPFANGE",
+   "composer": "Johann Cr\u00fcger, 1653",
+   "levels": {
+    "p": 3.8,
+    "s": 2.7
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 51,
+   "flavor": "setting",
+   "flavor_text": "Three stanzas: chorale \u00b7 tune in the Secondo \u00b7 full",
+   "section": "First Sunday of Advent \u00b7 Nov 29",
+   "problems": [],
+   "pages": {
+    "facing": 18,
+    "score": 15,
+    "screen": 16,
+    "screen-score": 13
+   }
+  },
+  {
+   "slug": "on-jordans-bank-the-baptists-cry",
+   "title": "On Jordan's Bank the Baptist's Cry",
+   "subtitle": "PUER NOBIS NASCITUR",
+   "composer": "Michael Praetorius, 1609",
+   "levels": {
+    "p": 1.2,
+    "s": 2.7
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Second Sunday of Advent \u00b7 Dec 6",
+   "problems": [],
+   "pages": {
+    "facing": 22,
+    "score": 19,
+    "screen": 20,
+    "screen-score": 17
+   }
+  },
+  {
+   "slug": "comfort-comfort-ye-my-people",
+   "title": "Comfort, Comfort Ye My People",
+   "subtitle": "FREU DICH SEHR, O MEINE SEELE",
+   "composer": "Trente Quatre Pseaumes de David, Geneva, 1551",
+   "levels": {
+    "p": 1.2,
+    "s": 3.0
+   },
+   "key": "G",
+   "meter": "6/4",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Second Sunday of Advent \u00b7 Dec 6",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 20,
+    "screen": 21,
+    "screen-score": 18
+   }
+  },
+  {
+   "slug": "bach-comfort-comfort-ye-my-people",
+   "title": "Comfort, Comfort Ye My People",
+   "subtitle": "Freu dich sehr, o meine Seele \u00b7 BWV 32.6",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 3.1,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 39,
+   "flavor": "setting",
+   "flavor_text": "Three stanzas: chorale \u00b7 tune in the Secondo \u00b7 full",
+   "section": "Second Sunday of Advent \u00b7 Dec 6",
+   "problems": [
+    "4 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 26,
+    "score": 21,
+    "screen": 23,
+    "screen-score": 19
+   }
+  },
+  {
+   "slug": "hark-the-glad-sound",
+   "title": "Hark the Glad Sound",
+   "subtitle": "CHESTERFIELD",
+   "composer": "or 'Richmond (Haweis)' or 'Spa Fields Chapel' Thomas Haweis, 1792",
+   "levels": {
+    "p": 1.5,
+    "s": 1.8
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 14,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Second Sunday of Advent \u00b7 Dec 6",
+   "problems": [
+    "1 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 30,
+    "score": 25,
+    "screen": 27,
+    "screen-score": 22
+   }
+  },
+  {
+   "slug": "o-come-o-come-emmanuel",
+   "title": "O Come O Come Emmanuel",
+   "subtitle": "VENI EMMANUEL",
+   "composer": "15th Century French processional",
+   "levels": {
+    "p": 1.4,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Third Sunday of Advent \u00b7 Dec 13",
+   "problems": [],
+   "pages": {
+    "facing": 32,
+    "score": 26,
+    "screen": 28,
+    "screen-score": 23
+   }
+  },
+  {
+   "slug": "bach-wake-awake-for-night-is-flying",
+   "title": "Wake, Awake, for Night Is Flying",
+   "subtitle": "Wachet auf, ruft uns die Stimme \u00b7 BWV 140.7",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.4,
+    "s": 2.9
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Third Sunday of Advent \u00b7 Dec 13",
+   "problems": [],
+   "pages": {
+    "facing": 34,
+    "score": 28,
+    "screen": 30,
+    "screen-score": 24
+   }
+  },
+  {
+   "slug": "gabriels-message",
+   "title": "Gabriel's Message",
+   "subtitle": "GABRIEL`S MESSAGE",
+   "composer": "Traditional Basque Carol",
+   "levels": {
+    "p": 1.1,
+    "s": 1.6
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Fourth Sunday of Advent \u00b7 Dec 20",
+   "problems": [],
+   "pages": {
+    "facing": 36,
+    "score": 30,
+    "screen": 32,
+    "screen-score": 26
+   }
+  },
+  {
+   "slug": "lo-how-a-rose-eer-blooming",
+   "title": "Lo, How a Rose E'er Blooming",
+   "subtitle": "ES IST EIN ROS ENTSPRUNGEN (RHYTHMIC)",
+   "composer": "German from K\u00f6ln, 1599",
+   "levels": {
+    "p": 1.8,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Fourth Sunday of Advent \u00b7 Dec 20",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 32,
+    "screen": 34,
+    "screen-score": 27
+   }
+  },
+  {
+   "slug": "bach-savior-of-the-nations-come-2",
+   "title": "Savior of the Nations, Come (II)",
+   "subtitle": "Nun komm, der Heiden Heiland \u00b7 BWV 62.6",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.2,
+    "s": 3.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "Fourth Sunday of Advent \u00b7 Dec 20",
+   "problems": [],
+   "pages": {
+    "facing": 40,
+    "score": 33,
+    "screen": 36,
+    "screen-score": 28
+   }
+  },
+  {
+   "slug": "silent-night",
+   "title": "Silent Night",
+   "subtitle": "STILLE NACHT",
+   "composer": "Franz Xaver Gruber, 1818",
+   "levels": {
+    "p": 1.7,
+    "s": 1.9
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 12,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Christmas Eve \u00b7 Dec 24",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 35,
+    "screen": 38,
+    "screen-score": 30
+   }
+  },
+  {
+   "slug": "o-little-town-of-bethlehem",
+   "title": "O Little Town of Bethlehem",
+   "subtitle": "ST. LOUIS",
+   "composer": "Lewis H. Redner, 1868",
+   "levels": {
+    "p": 1.9,
+    "s": 1.8
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Christmas Eve \u00b7 Dec 24",
+   "problems": [],
+   "pages": {
+    "facing": 44,
+    "score": 36,
+    "screen": 39,
+    "screen-score": 31
+   }
+  },
+  {
+   "slug": "away-in-a-manger",
+   "title": "Away in a Manger",
+   "subtitle": "MUELLER",
+   "composer": "James R. Murray, 1887",
+   "levels": {
+    "p": 1.8,
+    "s": 1.8
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 34,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "Christmas Eve \u00b7 Dec 24",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 37,
+    "screen": 41,
+    "screen-score": 32
+   }
+  },
+  {
+   "slug": "joy-to-the-world",
+   "title": "Joy to the World",
+   "subtitle": "ANTIOCH",
+   "composer": "pieced together from \"Messiah\" George F. Handel, 1741",
+   "levels": {
+    "p": 2.5,
+    "s": 2.1
+   },
+   "key": "D",
+   "meter": "2/4",
+   "bars": 19,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Christmas Day \u00b7 Dec 25",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 39,
+    "screen": 43,
+    "screen-score": 34
+   }
+  },
+  {
+   "slug": "hark-the-herald-angels-sing",
+   "title": "Hark! the Herald Angels Sing",
+   "subtitle": "MENDELSSOHN",
+   "composer": "'Festgesang' Felix Mendelssohn, 1840",
+   "levels": {
+    "p": 1.9,
+    "s": 2.2
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 40,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "Christmas Day \u00b7 Dec 25",
+   "problems": [],
+   "pages": {
+    "facing": 50,
+    "score": 40,
+    "screen": 44,
+    "screen-score": 35
+   }
+  },
+  {
+   "slug": "of-the-fathers-love-begotten",
+   "title": "Of the Father's Love Begotten",
+   "subtitle": "DIVINUM MYSTERIUM",
+   "composer": "or 'Corde Natus' Latin Plainsong, 13th Century",
+   "levels": {
+    "p": 1.5,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "6/4",
+   "bars": 14,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Christmas Day \u00b7 Dec 25",
+   "problems": [],
+   "pages": {
+    "facing": 54,
+    "score": 43,
+    "screen": 47,
+    "screen-score": 38
+   }
+  },
+  {
+   "slug": "bach-from-heaven-above-to-earth-i-come",
+   "title": "From Heaven Above to Earth I Come",
+   "subtitle": "Vom Himmel hoch, da komm ich her \u00b7 BWV 248.9-1",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.3,
+    "s": 2.9
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Christmas Day \u00b7 Dec 25",
+   "problems": [],
+   "pages": {
+    "facing": 56,
+    "score": 44,
+    "screen": 48,
+    "screen-score": 39
+   }
+  },
+  {
+   "slug": "a-great-and-mighty-wonder",
+   "title": "A Great and Mighty Wonder",
+   "subtitle": "ES IST EIN ROS ENTSPRUNGEN (RHYTHMIC)",
+   "composer": "German from K\u00f6ln, 1599",
+   "levels": {
+    "p": 1.9,
+    "s": 2.1
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 30,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "Sunday after Christmas \u00b7 Dec 27",
+   "problems": [],
+   "pages": {
+    "facing": 58,
+    "score": 45,
+    "screen": 49,
+    "screen-score": 40
+   }
+  },
+  {
+   "slug": "all-my-heart-this-night-rejoices",
+   "title": "All My Heart This Night Rejoices",
+   "subtitle": "EBELING",
+   "composer": "or 'Bonn' or 'Warum Sollt Ich' or 'All My Heart This Night' Johann Georg Ebeling, 1666",
+   "levels": {
+    "p": 1.2,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Sunday after Christmas \u00b7 Dec 27",
+   "problems": [],
+   "pages": {
+    "facing": 62,
+    "score": 48,
+    "screen": 52,
+    "screen-score": 42
+   }
+  },
+  {
+   "slug": "all-praise-to-jesus-hallowed-name",
+   "title": "All Praise to Jesus' Hallowed Name",
+   "subtitle": "GELOBET SEIST DU",
+   "composer": "ancient German found in Walter's Geistliche Gesangb\u00fcchlein, 1524",
+   "levels": {
+    "p": 1.3,
+    "s": 3.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 11,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Sunday after Christmas \u00b7 Dec 27",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 49,
+    "screen": 53,
+    "screen-score": 43
+   }
+  },
+  {
+   "slug": "angels-we-have-heard-on-high",
+   "title": "Angels We Have Heard on High",
+   "subtitle": "GLORIA",
+   "composer": "French carol melody",
+   "levels": {
+    "p": 3.7,
+    "s": 2.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 63,
+   "flavor": "setting",
+   "flavor_text": "Three stanzas: chorale \u00b7 tune in the Secondo \u00b7 full",
+   "section": "Sunday after Christmas \u00b7 Dec 27",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 50,
+    "screen": 54,
+    "screen-score": 44
+   }
+  }
+ ],
+ "seconds": 26.5
+}

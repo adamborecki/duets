@@ -1,0 +1,452 @@
+{
+ "id": "classical-themes",
+ "title": "Classical Themes",
+ "subtitle": "Famous melodies for piano four hands",
+ "blurb": "Well-loved themes from Bach to Brahms.",
+ "pieces": 18,
+ "layouts": {
+  "facing": {
+   "path": "/home/user/duets/books/classical-themes/classical-themes-facing.pdf",
+   "pages": 73,
+   "bytes": 918319
+  },
+  "score": {
+   "path": "/home/user/duets/books/classical-themes/classical-themes-score.pdf",
+   "pages": 57,
+   "bytes": 731380
+  },
+  "screen": {
+   "path": "/home/user/duets/books/classical-themes/classical-themes-screen.pdf",
+   "pages": 59,
+   "bytes": 899911
+  },
+  "screen-score": {
+   "path": "/home/user/duets/books/classical-themes/classical-themes-screen-score.pdf",
+   "pages": 55,
+   "bytes": 684189
+  }
+ },
+ "items": [
+  {
+   "slug": "pachelbel-canon-in-d",
+   "title": "Canon in D",
+   "subtitle": "",
+   "composer": "Johann Pachelbel, c. 1680",
+   "levels": {
+    "p": 1.3,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 4,
+    "score": 4,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "fur-elise",
+   "title": "F\u00fcr Elise",
+   "subtitle": "",
+   "composer": "Ludwig van Beethoven, 1810",
+   "levels": {
+    "p": 3.3,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 121,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 6,
+    "screen": 5,
+    "screen-score": 4
+   }
+  },
+  {
+   "slug": "hungarian-dance-no-5",
+   "title": "Hungarian Dance No. 5",
+   "subtitle": "",
+   "composer": "Johannes Brahms, 1869",
+   "levels": {
+    "p": 2.9,
+    "s": 3.7
+   },
+   "key": "Bm",
+   "meter": "2/4",
+   "bars": 34,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 12,
+    "screen": 12,
+    "screen-score": 11
+   }
+  },
+  {
+   "slug": "huntsmens-chorus",
+   "title": "Huntsmen's Chorus",
+   "subtitle": "",
+   "composer": "Carl Maria von Weber (Der Freisch\u00fctz, 1821)",
+   "levels": {
+    "p": 1.8,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 14,
+    "screen": 14,
+    "screen-score": 13
+   }
+  },
+  {
+   "slug": "intermezzo-from-cavalleria-rusticana",
+   "title": "Intermezzo from Cavalleria Rusticana",
+   "subtitle": "",
+   "composer": "Pietro Mascagni (Cavalleria rusticana), 1890",
+   "levels": {
+    "p": 2.3,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 29,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 18,
+    "score": 16,
+    "screen": 16,
+    "screen-score": 14
+   }
+  },
+  {
+   "slug": "je-crois-entendre-encore",
+   "title": "Je crois entendre encore",
+   "subtitle": "",
+   "composer": "Georges Bizet (The Pearl Fishers), 1863",
+   "levels": {
+    "p": 1.6,
+    "s": 2.7
+   },
+   "key": "Am",
+   "meter": "4/4",
+   "bars": 43,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 20,
+    "score": 18,
+    "screen": 18,
+    "screen-score": 16
+   }
+  },
+  {
+   "slug": "jesu-joy-of-mans-desiring",
+   "title": "Jesu, Joy of Man's Desiring",
+   "subtitle": "",
+   "composer": "Johann Sebastian Bach, 1723",
+   "levels": {
+    "p": 2.7,
+    "s": 4.1
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 71,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 21,
+    "screen": 22,
+    "screen-score": 20
+   }
+  },
+  {
+   "slug": "jig-from-the-water-music",
+   "title": "Jig from the Water Music",
+   "subtitle": "",
+   "composer": "George Frideric Handel, 1717",
+   "levels": {
+    "p": 3.5,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 36,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 34,
+    "score": 28,
+    "screen": 28,
+    "screen-score": 26
+   }
+  },
+  {
+   "slug": "largo-from-the-new-world-symphony",
+   "title": "Largo from the \"New World\" Symphony",
+   "subtitle": "\"Goin' Home\"",
+   "composer": "Anton\u00edn Dvo\u0159\u00e1k, 1893",
+   "levels": {
+    "p": 1.2,
+    "s": 2.0
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 31,
+    "screen": 31,
+    "screen-score": 28
+   }
+  },
+  {
+   "slug": "liebestraum-no-3",
+   "title": "Liebestraum No. 3",
+   "subtitle": "",
+   "composer": "Franz Liszt, 1850",
+   "levels": {
+    "p": 3.2,
+    "s": 2.7
+   },
+   "key": "F",
+   "meter": "6/4",
+   "bars": 84,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 40,
+    "score": 33,
+    "screen": 33,
+    "screen-score": 30
+   }
+  },
+  {
+   "slug": "o-mio-babbino-caro",
+   "title": "O mio babbino caro",
+   "subtitle": "",
+   "composer": "Giacomo Puccini (Gianni Schicchi), 1918",
+   "levels": {
+    "p": 4.1,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 27,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [
+    "1 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 46,
+    "score": 39,
+    "screen": 38,
+    "screen-score": 35
+   }
+  },
+  {
+   "slug": "ode-to-joy",
+   "title": "Ode to Joy",
+   "subtitle": "from Symphony No. 9",
+   "composer": "Ludwig van Beethoven, 1824",
+   "levels": {
+    "p": 1.3,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 41,
+    "screen": 40,
+    "screen-score": 37
+   }
+  },
+  {
+   "slug": "radetzky-march",
+   "title": "Radetzky March",
+   "subtitle": "",
+   "composer": "Johann Strauss I, 1848",
+   "levels": {
+    "p": 4.1,
+    "s": 2.6
+   },
+   "key": "D",
+   "meter": "2/2",
+   "bars": 43,
+   "flavor": "easy-secondo",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 50,
+    "score": 42,
+    "screen": 41,
+    "screen-score": 38
+   }
+  },
+  {
+   "slug": "reverie",
+   "title": "R\u00eaverie",
+   "subtitle": "",
+   "composer": "Claude Debussy, 1890",
+   "levels": {
+    "p": 2.2,
+    "s": 2.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 56,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 54,
+    "score": 45,
+    "screen": 45,
+    "screen-score": 42
+   }
+  },
+  {
+   "slug": "song-of-india",
+   "title": "Song of India",
+   "subtitle": "",
+   "composer": "Nikolai Rimsky-Korsakov (Sadko), 1896",
+   "levels": {
+    "p": 2.5,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 56,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 60,
+    "score": 49,
+    "screen": 49,
+    "screen-score": 46
+   }
+  },
+  {
+   "slug": "surprise-symphony-andante",
+   "title": "Surprise Symphony (Andante)",
+   "subtitle": "from Symphony No. 94",
+   "composer": "Joseph Haydn, 1791",
+   "levels": {
+    "p": 2.3,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "2/4",
+   "bars": 8,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 52,
+    "screen": 53,
+    "screen-score": 49
+   }
+  },
+  {
+   "slug": "mozart-symphony-no-40-theme",
+   "title": "Symphony No. 40 (Opening Theme)",
+   "subtitle": "",
+   "composer": "Wolfgang Amadeus Mozart, 1788",
+   "levels": {
+    "p": 2.0,
+    "s": 3.6
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 53,
+    "screen": 54,
+    "screen-score": 50
+   }
+  },
+  {
+   "slug": "william-tell-overture-finale",
+   "title": "William Tell Overture (Finale)",
+   "subtitle": "",
+   "composer": "Gioachino Rossini, 1829",
+   "levels": {
+    "p": 3.5,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 60,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 68,
+    "score": 54,
+    "screen": 55,
+    "screen-score": 51
+   }
+  }
+ ],
+ "seconds": 57.6
+}

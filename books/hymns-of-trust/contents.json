@@ -1,0 +1,2614 @@
+{
+ "id": "hymns-of-trust",
+ "title": "Hymns of Trust & Comfort",
+ "subtitle": "Hymns for any Sunday, volume 2, for piano four hands",
+ "blurb": "Hymns of trust, comfort, prayer and the Christian life.",
+ "pieces": 112,
+ "layouts": {
+  "facing": {
+   "path": "/home/user/duets/books/hymns-of-trust/hymns-of-trust-facing.pdf",
+   "pages": 235,
+   "bytes": 2437403
+  },
+  "score": {
+   "path": "/home/user/duets/books/hymns-of-trust/hymns-of-trust-score.pdf",
+   "pages": 153,
+   "bytes": 1816814
+  },
+  "screen": {
+   "path": "/home/user/duets/books/hymns-of-trust/hymns-of-trust-screen.pdf",
+   "pages": 182,
+   "bytes": 2313172
+  },
+  "screen-score": {
+   "path": "/home/user/duets/books/hymns-of-trust/hymns-of-trust-screen-score.pdf",
+   "pages": 131,
+   "bytes": 1653763
+  }
+ },
+ "items": [
+  {
+   "slug": "all-depends-on-our-possessing",
+   "title": "All Depends on Our Possessing",
+   "subtitle": "ALLES IST AN GOTTES SEGEN",
+   "composer": "Johann Balthasar K\u00f6nig, 1738",
+   "levels": {
+    "p": 1.5,
+    "s": 1.6
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 6,
+    "screen": 4,
+    "screen-score": 4
+   }
+  },
+  {
+   "slug": "fear-not-o-little-flock",
+   "title": "Fear Not, O Little Flock",
+   "subtitle": "KOMMT HER ZU MIR, SPRICHT GOTTES SOHN",
+   "composer": "traditional German, 1490",
+   "levels": {
+    "p": 1.1,
+    "s": 2.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 7,
+    "screen": 5,
+    "screen-score": 5
+   }
+  },
+  {
+   "slug": "god-will-take-care-of-you",
+   "title": "God Will Take Care of You",
+   "subtitle": "MARTIN",
+   "composer": "Walter Stillman Martin, 1905",
+   "levels": {
+    "p": 1.7,
+    "s": 3.5
+   },
+   "key": "Bb",
+   "meter": "6/8",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 8,
+    "screen": 7,
+    "screen-score": 6
+   }
+  },
+  {
+   "slug": "how-firm-a-foundation",
+   "title": "How Firm a Foundation",
+   "subtitle": "FOUNDATION (FUNK)",
+   "composer": "or 'Protection' Joseph Funk, 1832",
+   "levels": {
+    "p": 1.6,
+    "s": 2.0
+   },
+   "key": "Ab",
+   "meter": "2/2",
+   "bars": 17,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 12,
+    "score": 9,
+    "screen": 9,
+    "screen-score": 7
+   }
+  },
+  {
+   "slug": "i-am-jesus-little-lamb",
+   "title": "I Am Jesus' Little Lamb",
+   "subtitle": "WEIL ICH JESU SCH\u00c4FLEIN BIN",
+   "composer": "Bruder Choral-Buch, 1784",
+   "levels": {
+    "p": 3.4,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 10,
+    "screen": 10,
+    "screen-score": 8
+   }
+  },
+  {
+   "slug": "i-know-whom-i-have-believed",
+   "title": "I Know Whom I Have Believed",
+   "subtitle": "I KNOW WHOM I HAVE BELIEVED",
+   "composer": "McGranahan, James (1840-1907)",
+   "levels": {
+    "p": 2.2,
+    "s": 2.1
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 12,
+    "screen": 12,
+    "screen-score": 9
+   }
+  },
+  {
+   "slug": "i-place-my-trust-in-god",
+   "title": "I Place My Trust in God",
+   "subtitle": "HALY TRUST",
+   "composer": "Kropf, Loren J. (1989-)",
+   "levels": {
+    "p": 2.7,
+    "s": 2.3
+   },
+   "key": "Bb",
+   "meter": "2/2",
+   "bars": 17,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 18,
+    "score": 13,
+    "screen": 14,
+    "screen-score": 10
+   }
+  },
+  {
+   "slug": "if-god-himself-be-for-me",
+   "title": "If God Himself Be for Me",
+   "subtitle": "WOODBIRD",
+   "composer": "or 'Es Flog Ein Kleins Waldv\u00f6gelein' traditional German found in \"Memminger Tabulaturbuche\", 17th Century",
+   "levels": {
+    "p": 1.4,
+    "s": 3.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 20,
+    "score": 14,
+    "screen": 16,
+    "screen-score": 11
+   }
+  },
+  {
+   "slug": "in-these-our-days-so-perilous",
+   "title": "In These Our Days So Perilous",
+   "subtitle": "VERLEIH UNS FRIEDEN GN\u00c4DIGLICH",
+   "composer": "Martin Luther. Found in Klug's Geistliche Lieder, 1533",
+   "levels": {
+    "p": 1.6,
+    "s": 2.8
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 22,
+    "score": 15,
+    "screen": 18,
+    "screen-score": 12
+   }
+  },
+  {
+   "slug": "the-lords-my-shepherd",
+   "title": "The Lord's My Shepherd",
+   "subtitle": "MAROSA-BROTHER JAMES AIR",
+   "composer": "Bain, James Leith Macbeth (1860-1925)",
+   "levels": {
+    "p": 2.4,
+    "s": 2.4
+   },
+   "key": "D",
+   "meter": "3/2",
+   "bars": 17,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 16,
+    "screen": 19,
+    "screen-score": 13
+   }
+  },
+  {
+   "slug": "my-hope-is-built",
+   "title": "My Hope Is Built",
+   "subtitle": "MELITA",
+   "composer": "John Bacchus Dykes, 1861",
+   "levels": {
+    "p": 2.0,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 17,
+    "screen": 20,
+    "screen-score": 14
+   }
+  },
+  {
+   "slug": "our-god-our-help-in-ages-past",
+   "title": "Our God, Our Help in Ages Past",
+   "subtitle": "ST. ANNE",
+   "composer": "William Croft, 1708",
+   "levels": {
+    "p": 1.2,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 28,
+    "score": 18,
+    "screen": 21,
+    "screen-score": 15
+   }
+  },
+  {
+   "slug": "souls-of-men-why-will-ye-scatter",
+   "title": "Souls of Men! Why Will Ye Scatter",
+   "subtitle": "IN BABILONE",
+   "composer": "traditional Dutch found in \"Oude en Nieuwe Hollantse Boerenlities en Contradansen\", 1710",
+   "levels": {
+    "p": 1.4,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 30,
+    "score": 19,
+    "screen": 22,
+    "screen-score": 16
+   }
+  },
+  {
+   "slug": "thine-arm-o-lord-in-days-of-old",
+   "title": "Thine Arm, O Lord, in Days of Old",
+   "subtitle": "KINGSFOLD",
+   "composer": "traditional English",
+   "levels": {
+    "p": 1.4,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 32,
+    "score": 21,
+    "screen": 24,
+    "screen-score": 17
+   }
+  },
+  {
+   "slug": "under-his-wings",
+   "title": "Under His Wings",
+   "subtitle": "UNDER HIS WINGS",
+   "composer": "Sankey, Ira David (1840-1908)",
+   "levels": {
+    "p": 2.1,
+    "s": 2.6
+   },
+   "key": "F",
+   "meter": "6/4",
+   "bars": 16,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 34,
+    "score": 22,
+    "screen": 26,
+    "screen-score": 18
+   }
+  },
+  {
+   "slug": "the-winds-and-billows-loudly-roar",
+   "title": "The Winds and Billows Loudly Roar",
+   "subtitle": "CONSOLATION-MORNING SONG",
+   "composer": "Wyeth, John (1770-1858)",
+   "levels": {
+    "p": 2.2,
+    "s": 2.1
+   },
+   "key": "Ab",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust",
+   "problems": [],
+   "pages": {
+    "facing": 36,
+    "score": 24,
+    "screen": 28,
+    "screen-score": 19
+   }
+  },
+  {
+   "slug": "all-hail-the-power-of-jesus-name",
+   "title": "All Hail the Power of Jesus' Name",
+   "subtitle": "CORONATION",
+   "composer": "Oliver Holden, 1793",
+   "levels": {
+    "p": 1.4,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 25,
+    "screen": 29,
+    "screen-score": 20
+   }
+  },
+  {
+   "slug": "alleluia-sing-to-jesus",
+   "title": "Alleluia, Sing to Jesus!",
+   "subtitle": "HYFRYDOL",
+   "composer": "Rowland H. Prichard, 1830",
+   "levels": {
+    "p": 1.3,
+    "s": 2.1
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 40,
+    "score": 26,
+    "screen": 30,
+    "screen-score": 21
+   }
+  },
+  {
+   "slug": "beautiful-savior",
+   "title": "Beautiful Savior",
+   "subtitle": "CRUSADER`S HYMN",
+   "composer": "Silesian folk song, 1842",
+   "levels": {
+    "p": 3.6,
+    "s": 2.4
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 28,
+    "screen": 32,
+    "screen-score": 23
+   }
+  },
+  {
+   "slug": "crown-him-with-many-crowns",
+   "title": "Crown Him with Many Crowns",
+   "subtitle": "DIADEMATA",
+   "composer": "George J. Elvey, 1868",
+   "levels": {
+    "p": 1.9,
+    "s": 1.9
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 44,
+    "score": 30,
+    "screen": 34,
+    "screen-score": 25
+   }
+  },
+  {
+   "slug": "from-nazareth",
+   "title": "From Nazareth",
+   "subtitle": "PUER NOBIS NASCITUR",
+   "composer": "Michael Praetorius, 1609",
+   "levels": {
+    "p": 2.2,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 31,
+    "screen": 36,
+    "screen-score": 26
+   }
+  },
+  {
+   "slug": "the-galilean-fishers-toil",
+   "title": "The Galilean Fishers Toil",
+   "subtitle": "OLD 137TH",
+   "composer": "or 'Norwich' from Day's Psalter, 1563",
+   "levels": {
+    "p": 1.3,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 32,
+    "screen": 37,
+    "screen-score": 27
+   }
+  },
+  {
+   "slug": "hallelujah-what-a-savior",
+   "title": "Hallelujah, What a Savior!",
+   "subtitle": "HALLELUJAH WHAT A SAVIOR",
+   "composer": "Bliss, Philip Paul (1838-1876)",
+   "levels": {
+    "p": 1.6,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 50,
+    "score": 33,
+    "screen": 39,
+    "screen-score": 28
+   }
+  },
+  {
+   "slug": "i-need-thee-every-hour",
+   "title": "I Need Thee Every Hour",
+   "subtitle": "I NEED THEE EVERY HOUR",
+   "composer": "Robert Lowry, 1872",
+   "levels": {
+    "p": 2.6,
+    "s": 2.9
+   },
+   "key": "Ab",
+   "meter": "3/4",
+   "bars": 18,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 52,
+    "score": 34,
+    "screen": 40,
+    "screen-score": 29
+   }
+  },
+  {
+   "slug": "jesus-king-of-glory",
+   "title": "Jesus, King of Glory",
+   "subtitle": "ST. ALBAN",
+   "composer": "Franz Joseph Haydn, 1774",
+   "levels": {
+    "p": 1.9,
+    "s": 1.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 54,
+    "score": 35,
+    "screen": 41,
+    "screen-score": 30
+   }
+  },
+  {
+   "slug": "jesus-shall-reign",
+   "title": "Jesus Shall Reign",
+   "subtitle": "DUKE STREET",
+   "composer": "John Hatton, 1793",
+   "levels": {
+    "p": 1.4,
+    "s": 2.7
+   },
+   "key": "Eb",
+   "meter": "2/2",
+   "bars": 16,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 56,
+    "score": 37,
+    "screen": 43,
+    "screen-score": 31
+   }
+  },
+  {
+   "slug": "jesus-thy-boundless-love-to-me",
+   "title": "Jesus, Thy Boundless Love to Me",
+   "subtitle": "YOAKLEY",
+   "composer": "William Yoakley, 1820",
+   "levels": {
+    "p": 1.3,
+    "s": 2.6
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 25,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 58,
+    "score": 38,
+    "screen": 44,
+    "screen-score": 32
+   }
+  },
+  {
+   "slug": "the-lily-of-the-valley",
+   "title": "The Lily of the Valley",
+   "subtitle": "SALVATION",
+   "composer": "or 'The Lily of the Valley' William S. Hays, 1881",
+   "levels": {
+    "p": 1.5,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 33,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 60,
+    "score": 40,
+    "screen": 46,
+    "screen-score": 33
+   }
+  },
+  {
+   "slug": "lord-enthroned-in-heavenly-splendor",
+   "title": "Lord, Enthroned in Heavenly Splendor",
+   "subtitle": "BRYN CALFARIA",
+   "composer": "William Owen, 1852",
+   "levels": {
+    "p": 2.5,
+    "s": 2.6
+   },
+   "key": "Bb",
+   "meter": "6/4",
+   "bars": 15,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 62,
+    "score": 42,
+    "screen": 48,
+    "screen-score": 35
+   }
+  },
+  {
+   "slug": "no-not-one",
+   "title": "No, Not One!",
+   "subtitle": "NO, NOT ONE",
+   "composer": "George Crawford Hugg, 1894",
+   "levels": {
+    "p": 2.0,
+    "s": 1.8
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 43,
+    "screen": 50,
+    "screen-score": 36
+   }
+  },
+  {
+   "slug": "none-other-lamb",
+   "title": "None Other Lamb",
+   "subtitle": "ROSSETTI",
+   "composer": "William Jeater, 1907",
+   "levels": {
+    "p": 2.5,
+    "s": 2.3
+   },
+   "key": "D",
+   "meter": "3/2",
+   "bars": 9,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 44,
+    "screen": 52,
+    "screen-score": 37
+   }
+  },
+  {
+   "slug": "o-for-a-thousand-tongues",
+   "title": "O for a Thousand Tongues",
+   "subtitle": "AZMON",
+   "composer": "Carl G. Gl\u00e4ser, 1828",
+   "levels": {
+    "p": 1.8,
+    "s": 3.0
+   },
+   "key": "Ab",
+   "meter": "3/2",
+   "bars": 9,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 68,
+    "score": 45,
+    "screen": 53,
+    "screen-score": 38
+   }
+  },
+  {
+   "slug": "o-the-deep-deep-love-of-jesus",
+   "title": "O the Deep, Deep Love of Jesus",
+   "subtitle": "EBENEZER",
+   "composer": "or 'Ton-Y-Botel' Thomas J. Williams, 1890",
+   "levels": {
+    "p": 2.2,
+    "s": 3.1
+   },
+   "key": "C",
+   "meter": "8/4",
+   "bars": 16,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 70,
+    "score": 46,
+    "screen": 54,
+    "screen-score": 39
+   }
+  },
+  {
+   "slug": "one-things-needful",
+   "title": "One Thing's Needful",
+   "subtitle": "EINS IST NOT",
+   "composer": "Adam Krieger (1634-1666)",
+   "levels": {
+    "p": 2.8,
+    "s": 2.7
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 72,
+    "score": 48,
+    "screen": 56,
+    "screen-score": 41
+   }
+  },
+  {
+   "slug": "praise-my-soul-the-king-of-heaven",
+   "title": "Praise My Soul the King of Heaven",
+   "subtitle": "PRAISE MY SOUL",
+   "composer": "or 'Lauda Anima' or 'St. Paul' John Goss, 1869",
+   "levels": {
+    "p": 2.1,
+    "s": 2.2
+   },
+   "key": "Eb",
+   "meter": "2/4",
+   "bars": 25,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 74,
+    "score": 50,
+    "screen": 58,
+    "screen-score": 43
+   }
+  },
+  {
+   "slug": "we-know-thee-who-thou-art",
+   "title": "We Know Thee Who Thou Art",
+   "subtitle": "SELLINGE",
+   "composer": "John Pyke Hullah, 1868",
+   "levels": {
+    "p": 1.5,
+    "s": 2.6
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Redeemer",
+   "problems": [],
+   "pages": {
+    "facing": 76,
+    "score": 51,
+    "screen": 60,
+    "screen-score": 44
+   }
+  },
+  {
+   "slug": "abide-with-me",
+   "title": "Abide with Me",
+   "subtitle": "EVENTIDE",
+   "composer": "William H. Monk, 1861",
+   "levels": {
+    "p": 3.3,
+    "s": 2.2
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 78,
+    "score": 52,
+    "screen": 61,
+    "screen-score": 45
+   }
+  },
+  {
+   "slug": "amazing-grace",
+   "title": "Amazing Grace",
+   "subtitle": "NEW BRITAIN",
+   "composer": "James P. Carrell and David L. Clayton, 1831",
+   "levels": {
+    "p": 1.7,
+    "s": 1.8
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 80,
+    "score": 54,
+    "screen": 63,
+    "screen-score": 47
+   }
+  },
+  {
+   "slug": "be-still-my-soul",
+   "title": "Be Still My Soul",
+   "subtitle": "FINLANDIA",
+   "composer": "Jean Sibelius, 1899",
+   "levels": {
+    "p": 2.1,
+    "s": 2.2
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 82,
+    "score": 55,
+    "screen": 64,
+    "screen-score": 48
+   }
+  },
+  {
+   "slug": "beneath-the-cross-of-jesus",
+   "title": "Beneath the Cross of Jesus",
+   "subtitle": "ST. CHRISTOPHER",
+   "composer": "Frederick C. Maker, 1881",
+   "levels": {
+    "p": 1.3,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 84,
+    "score": 57,
+    "screen": 66,
+    "screen-score": 49
+   }
+  },
+  {
+   "slug": "blessed-assurance",
+   "title": "Blessed Assurance",
+   "subtitle": "BLESSED ASSURANCE-ASSURANCE",
+   "composer": "Knapp, Phoebe P. (1839-1908)",
+   "levels": {
+    "p": 2.2,
+    "s": 3.2
+   },
+   "key": "D",
+   "meter": "9/8",
+   "bars": 17,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Cross & Comfort",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 86,
+    "score": 58,
+    "screen": 67,
+    "screen-score": 50
+   }
+  },
+  {
+   "slug": "blind-bartimaeus",
+   "title": "Blind Bartimaeus",
+   "subtitle": "FILLMORE",
+   "composer": "Jeremiah Ingalls (1764-1828)",
+   "levels": {
+    "p": 2.2,
+    "s": 2.7
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 25,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 88,
+    "score": 60,
+    "screen": 69,
+    "screen-score": 52
+   }
+  },
+  {
+   "slug": "come-ye-disconsolate",
+   "title": "Come, Ye Disconsolate",
+   "subtitle": "CONSOLATOR (WEBBE)",
+   "composer": "Samuel Webbe, 1792",
+   "levels": {
+    "p": 1.8,
+    "s": 1.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 90,
+    "score": 61,
+    "screen": 71,
+    "screen-score": 53
+   }
+  },
+  {
+   "slug": "it-is-well-with-my-soul",
+   "title": "It Is Well with My Soul",
+   "subtitle": "IT IS WELL-VILLE DU HAVRE",
+   "composer": "Bliss, Philip Paul (1838-1876)",
+   "levels": {
+    "p": 1.1,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 22,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 92,
+    "score": 62,
+    "screen": 72,
+    "screen-score": 54
+   }
+  },
+  {
+   "slug": "moment-by-moment",
+   "title": "Moment by Moment",
+   "subtitle": "WHITTLE",
+   "composer": "May Whittle Moody, 1893",
+   "levels": {
+    "p": 1.4,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 94,
+    "score": 63,
+    "screen": 74,
+    "screen-score": 55
+   }
+  },
+  {
+   "slug": "my-song-shall-be-of-jesus",
+   "title": "My Song Shall Be of Jesus",
+   "subtitle": "SONDANCE",
+   "composer": "Kenneth W. Paxton, 1998",
+   "levels": {
+    "p": 1.7,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 96,
+    "score": 65,
+    "screen": 76,
+    "screen-score": 57
+   }
+  },
+  {
+   "slug": "nearer-my-god-to-thee",
+   "title": "Nearer, My God, to Thee",
+   "subtitle": "BETHANY (MASON)",
+   "composer": "Lowell Mason, 1856",
+   "levels": {
+    "p": 2.4,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "6/4",
+   "bars": 16,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 98,
+    "score": 67,
+    "screen": 78,
+    "screen-score": 58
+   }
+  },
+  {
+   "slug": "the-old-rugged-cross",
+   "title": "The Old Rugged Cross",
+   "subtitle": "OLD RUGGED CROSS",
+   "composer": "Bennard, George (1873-1958)",
+   "levels": {
+    "p": 2.3,
+    "s": 1.9
+   },
+   "key": "Bb",
+   "meter": "6/4",
+   "bars": 17,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 100,
+    "score": 69,
+    "screen": 80,
+    "screen-score": 59
+   }
+  },
+  {
+   "slug": "rejoice-my-heart-be-glad-and-sing",
+   "title": "Rejoice, My Heart, Be Glad and Sing",
+   "subtitle": "ICH SINGE DIR MIT HERZ",
+   "composer": "Johann Balthasar K\u00f6nig, 1738",
+   "levels": {
+    "p": 2.3,
+    "s": 2.4
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Cross & Comfort",
+   "problems": [],
+   "pages": {
+    "facing": 102,
+    "score": 71,
+    "screen": 82,
+    "screen-score": 60
+   }
+  },
+  {
+   "slug": "by-grace-im-saved",
+   "title": "By Grace I'm Saved",
+   "subtitle": "O DASS ICH TANSEND ZUNGEN",
+   "composer": "Johann Balthasar K\u00f6nig, 1738",
+   "levels": {
+    "p": 2.3,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 104,
+    "score": 72,
+    "screen": 83,
+    "screen-score": 61
+   }
+  },
+  {
+   "slug": "a-child-of-the-king",
+   "title": "A Child of the King",
+   "subtitle": "BINGHAMTON",
+   "composer": "Sumner, John Bunnell (1838-1918)",
+   "levels": {
+    "p": 1.7,
+    "s": 2.8
+   },
+   "key": "Eb",
+   "meter": "3/4",
+   "bars": 25,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 106,
+    "score": 73,
+    "screen": 85,
+    "screen-score": 62
+   }
+  },
+  {
+   "slug": "dear-christians-one-and-all-rejoice-2",
+   "title": "Dear Christians, One and All Rejoice",
+   "subtitle": "NUN FREUT EUCH",
+   "composer": "attr. Martin Luther from Etlich Christlich Lider, Wittenberg, 1524",
+   "levels": {
+    "p": 1.9,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 108,
+    "score": 75,
+    "screen": 87,
+    "screen-score": 63
+   }
+  },
+  {
+   "slug": "dear-christians-one-and-all-rejoice",
+   "title": "Dear Christians, One and All Rejoice",
+   "subtitle": "ES IST GEWISSLICH AN DER ZEIT",
+   "composer": "Klug's Geistliche Lieder, Wittenberg, 1533",
+   "levels": {
+    "p": 2.3,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 110,
+    "score": 77,
+    "screen": 89,
+    "screen-score": 64
+   }
+  },
+  {
+   "slug": "jesus-sinners-doth-receive",
+   "title": "Jesus Sinners Doth Receive",
+   "subtitle": "MEINEN JESUM LASS` ICH NICHT (DARMSTADT)",
+   "composer": "Neu-verfertigtes Darmst\u00e4dtiches Gesang-Buch, 1699",
+   "levels": {
+    "p": 1.8,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 112,
+    "score": 79,
+    "screen": 91,
+    "screen-score": 65
+   }
+  },
+  {
+   "slug": "lord-jesus-think-on-me",
+   "title": "Lord Jesus Think on Me",
+   "subtitle": "SOUTHWELL",
+   "composer": "William Daman's Psalter, 1579",
+   "levels": {
+    "p": 1.4,
+    "s": 2.8
+   },
+   "key": "Ab",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 114,
+    "score": 80,
+    "screen": 92,
+    "screen-score": 66
+   }
+  },
+  {
+   "slug": "o-lord-my-soul-convicted",
+   "title": "O Lord My Soul Convicted",
+   "subtitle": "WINCHESTER NEW",
+   "composer": "\"Musikalisches Handbuch\", Hamburg, 1690",
+   "levels": {
+    "p": 1.2,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 116,
+    "score": 81,
+    "screen": 93,
+    "screen-score": 67
+   }
+  },
+  {
+   "slug": "o-love-how-deep-how-broad-how-high",
+   "title": "O Love, How Deep, How Broad, How High",
+   "subtitle": "DEO GRACIAS",
+   "composer": "or 'Agincourt' traditional English, circa 1415",
+   "levels": {
+    "p": 1.4,
+    "s": 2.5
+   },
+   "key": "E",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 118,
+    "score": 82,
+    "screen": 94,
+    "screen-score": 68
+   }
+  },
+  {
+   "slug": "out-of-the-deep-i-cry-to-thee-2",
+   "title": "Out of the Deep I Cry to Thee",
+   "subtitle": "AUS TIEFER NOT (STRASSBURG)",
+   "composer": "or 'Strassburg' from K\u00f6pfel's Gesangbuch, Strassburg, 1525",
+   "levels": {
+    "p": 3.5,
+    "s": 2.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 120,
+    "score": 83,
+    "screen": 95,
+    "screen-score": 69
+   }
+  },
+  {
+   "slug": "out-of-the-deep-i-cry-to-thee",
+   "title": "Out of the Deep I Cry to Thee",
+   "subtitle": "AUS TIEFER NOT (LUTHER)",
+   "composer": "or 'Af Dybsens N\u00f8d' Martin Luther from Erfurt Enchiridion, 1524",
+   "levels": {
+    "p": 2.1,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Justification",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 122,
+    "score": 85,
+    "screen": 97,
+    "screen-score": 71
+   }
+  },
+  {
+   "slug": "rock-of-ages",
+   "title": "Rock of Ages",
+   "subtitle": "TOPLADY",
+   "composer": "Thomas Hastings, 1830",
+   "levels": {
+    "p": 2.2,
+    "s": 2.1
+   },
+   "key": "Bb",
+   "meter": "6/4",
+   "bars": 13,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 124,
+    "score": 87,
+    "screen": 99,
+    "screen-score": 72
+   }
+  },
+  {
+   "slug": "salvation-unto-us-has-come",
+   "title": "Salvation unto Us Has Come",
+   "subtitle": "ES IST DAS HEIL UNS KOMMEN HER",
+   "composer": "traditional German circa 1400 from Etlich Christlich Lider, Wittenberg, 1524",
+   "levels": {
+    "p": 1.5,
+    "s": 3.1
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 126,
+    "score": 88,
+    "screen": 100,
+    "screen-score": 73
+   }
+  },
+  {
+   "slug": "today-thy-mercy-calls-me",
+   "title": "Today Thy Mercy Calls Me",
+   "subtitle": "ANTHES",
+   "composer": "Friedrich K. Anthes, 1847",
+   "levels": {
+    "p": 2.1,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 128,
+    "score": 90,
+    "screen": 102,
+    "screen-score": 74
+   }
+  },
+  {
+   "slug": "while-oer-our-guilty-land-o-lord",
+   "title": "While o'er Our Guilty Land, O Lord",
+   "subtitle": "FEDERAL STREET",
+   "composer": "Henry K. Oliver, 1832",
+   "levels": {
+    "p": 2.1,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Justification",
+   "problems": [],
+   "pages": {
+    "facing": 130,
+    "score": 92,
+    "screen": 104,
+    "screen-score": 75
+   }
+  },
+  {
+   "slug": "all-who-believe-and-are-baptized",
+   "title": "All Who Believe and Are Baptized",
+   "subtitle": "ES IST DAS HEIL UNS KOMMEN HER",
+   "composer": "German circa 1400 from Etlich Christlich Lider, Wittenberg, 1524",
+   "levels": {
+    "p": 1.9,
+    "s": 2.9
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Baptism & Supper",
+   "problems": [],
+   "pages": {
+    "facing": 132,
+    "score": 93,
+    "screen": 105,
+    "screen-score": 76
+   }
+  },
+  {
+   "slug": "at-the-lambs-high-feast",
+   "title": "At the Lamb's High Feast",
+   "subtitle": "SONNE DER GERECHTIGKEIT",
+   "composer": "Czech, Kirchengeseng, 1566",
+   "levels": {
+    "p": 2.2,
+    "s": 3.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Baptism & Supper",
+   "problems": [],
+   "pages": {
+    "facing": 134,
+    "score": 95,
+    "screen": 107,
+    "screen-score": 77
+   }
+  },
+  {
+   "slug": "baptized-into-thy-name-most-holy",
+   "title": "Baptized into Thy Name Most Holy",
+   "subtitle": "O DASS ICH TAUSEND ZUNGEN H\u00c4TTE (DRETZEL)",
+   "composer": "Kornelius Heinrich Dretzel, 1731",
+   "levels": {
+    "p": 1.8,
+    "s": 2.2
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 24,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Baptism & Supper",
+   "problems": [],
+   "pages": {
+    "facing": 136,
+    "score": 96,
+    "screen": 108,
+    "screen-score": 78
+   }
+  },
+  {
+   "slug": "i-come-o-savior-to-thy-table",
+   "title": "I Come, O Savior, to Thy Table",
+   "subtitle": "ICH STERBE T\u00c4GLICH",
+   "composer": "Emskirchner Choralbuch, 1756",
+   "levels": {
+    "p": 1.3,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Baptism & Supper",
+   "problems": [],
+   "pages": {
+    "facing": 138,
+    "score": 97,
+    "screen": 110,
+    "screen-score": 79
+   }
+  },
+  {
+   "slug": "jesus-christ-our-blessed-savior-2",
+   "title": "Jesus Christ, Our Blessed Savior",
+   "subtitle": "JESUS CHRISTUS UNSER HEILAND, DER VON UNS (KLUG)",
+   "composer": "Klug's Geistliche Lieder, Wittenberg, 1533",
+   "levels": {
+    "p": 1.4,
+    "s": 2.8
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 11,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Baptism & Supper",
+   "problems": [],
+   "pages": {
+    "facing": 140,
+    "score": 98,
+    "screen": 112,
+    "screen-score": 80
+   }
+  },
+  {
+   "slug": "jesus-christ-our-blessed-savior",
+   "title": "Jesus Christ, Our Blessed Savior",
+   "subtitle": "JESUS CHRISTUS UNSER HEILAND, DER VON UNS (WALTER)",
+   "composer": "Walter's Geistliche Gesangb\u00fcchlein, 1524",
+   "levels": {
+    "p": 1.5,
+    "s": 2.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Baptism & Supper",
+   "problems": [],
+   "pages": {
+    "facing": 142,
+    "score": 99,
+    "screen": 113,
+    "screen-score": 81
+   }
+  },
+  {
+   "slug": "let-all-mortal-flesh-keep-silence",
+   "title": "Let All Mortal Flesh Keep Silence",
+   "subtitle": "PICARDY",
+   "composer": "traditional French",
+   "levels": {
+    "p": 3.4,
+    "s": 2.1
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Baptism & Supper",
+   "problems": [],
+   "pages": {
+    "facing": 144,
+    "score": 100,
+    "screen": 114,
+    "screen-score": 82
+   }
+  },
+  {
+   "slug": "o-lord-i-am-not-worthy",
+   "title": "O Lord, I Am Not Worthy",
+   "subtitle": "NON DIGNUS",
+   "composer": "traditional air, before 1871",
+   "levels": {
+    "p": 1.9,
+    "s": 1.9
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Baptism & Supper",
+   "problems": [],
+   "pages": {
+    "facing": 146,
+    "score": 102,
+    "screen": 116,
+    "screen-score": 84
+   }
+  },
+  {
+   "slug": "thou-who-at-thy-first-eucharist",
+   "title": "Thou, Who at Thy First Eucharist",
+   "subtitle": "UNDE ET MEMORES",
+   "composer": "William Henry Monk, 1875",
+   "levels": {
+    "p": 2.3,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Baptism & Supper",
+   "problems": [],
+   "pages": {
+    "facing": 148,
+    "score": 103,
+    "screen": 117,
+    "screen-score": 85
+   }
+  },
+  {
+   "slug": "to-avert-from-men-gods-wrath",
+   "title": "To Avert from Men God's Wrath",
+   "subtitle": "GETHSEMANE",
+   "composer": "or 'Petra' Richard Redhead, 1853",
+   "levels": {
+    "p": 1.2,
+    "s": 2.5
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Baptism & Supper",
+   "problems": [],
+   "pages": {
+    "facing": 150,
+    "score": 104,
+    "screen": 119,
+    "screen-score": 86
+   }
+  },
+  {
+   "slug": "be-thou-my-vision",
+   "title": "Be Thou My Vision",
+   "subtitle": "SLANE",
+   "composer": "Traditional Irish",
+   "levels": {
+    "p": 2.2,
+    "s": 2.3
+   },
+   "key": "Eb",
+   "meter": "3/4",
+   "bars": 16,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 152,
+    "score": 105,
+    "screen": 120,
+    "screen-score": 87
+   }
+  },
+  {
+   "slug": "come-thou-fount-of-every-blessing",
+   "title": "Come Thou Fount of Every Blessing",
+   "subtitle": "NETTLETON",
+   "composer": "Asahel Nettleton, 1812",
+   "levels": {
+    "p": 1.7,
+    "s": 2.7
+   },
+   "key": "Eb",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 154,
+    "score": 106,
+    "screen": 121,
+    "screen-score": 88
+   }
+  },
+  {
+   "slug": "did-you-think-to-pray",
+   "title": "Did You Think to Pray?",
+   "subtitle": "STOCKBRIDGE",
+   "composer": "or 'Did You Think To Pray' William Oscar Perkins, 1876",
+   "levels": {
+    "p": 2.1,
+    "s": 3.0
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 156,
+    "score": 107,
+    "screen": 123,
+    "screen-score": 89
+   }
+  },
+  {
+   "slug": "guide-me-o-thou-great-jehovah",
+   "title": "Guide Me, O Thou Great Jehovah",
+   "subtitle": "CWM RHONDDA",
+   "composer": "John Hughes, 1907",
+   "levels": {
+    "p": 1.9,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 158,
+    "score": 108,
+    "screen": 125,
+    "screen-score": 90
+   }
+  },
+  {
+   "slug": "happy-the-man-who-feareth-god-2",
+   "title": "Happy the Man Who Feareth God",
+   "subtitle": "WO GOTT ZUM HAUS",
+   "composer": "Klug's Geistliche Lieder, Wittenberg, 1533",
+   "levels": {
+    "p": 3.2,
+    "s": 2.6
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 160,
+    "score": 109,
+    "screen": 127,
+    "screen-score": 91
+   }
+  },
+  {
+   "slug": "happy-the-man-who-feareth-god",
+   "title": "Happy the Man Who Feareth God",
+   "subtitle": "WO GOTT ZUM HAUS (WALTER)",
+   "composer": "Walter's Geistliche Gesangb\u00fcchlein, 1524",
+   "levels": {
+    "p": 2.3,
+    "s": 2.4
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 10,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 162,
+    "score": 110,
+    "screen": 128,
+    "screen-score": 92
+   }
+  },
+  {
+   "slug": "he-leadeth-me",
+   "title": "He Leadeth Me",
+   "subtitle": "HE LEADETH ME",
+   "composer": "Bradbury, William Batchelder (1816-1868)",
+   "levels": {
+    "p": 2.5,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 164,
+    "score": 111,
+    "screen": 129,
+    "screen-score": 93
+   }
+  },
+  {
+   "slug": "he-who-would-valiant-be",
+   "title": "He Who Would Valiant Be",
+   "subtitle": "MONKS GATE",
+   "composer": "traditional English",
+   "levels": {
+    "p": 1.7,
+    "s": 3.1
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Prayer & Consecration",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 166,
+    "score": 112,
+    "screen": 131,
+    "screen-score": 94
+   }
+  },
+  {
+   "slug": "jesus-wants-all-of-his-children",
+   "title": "Jesus Wants All of His Children",
+   "subtitle": "BLESSED ARE THEY",
+   "composer": "Wood, Mrs. James W.",
+   "levels": {
+    "p": 1.9,
+    "s": 2.7
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 168,
+    "score": 113,
+    "screen": 133,
+    "screen-score": 95
+   }
+  },
+  {
+   "slug": "lord-of-glory-who-hast-bought-us",
+   "title": "Lord of Glory, Who Hast Bought Us",
+   "subtitle": "HYFRYDOL",
+   "composer": "Rowland H. Prichard, 1830",
+   "levels": {
+    "p": 2.6,
+    "s": 2.8
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 170,
+    "score": 114,
+    "screen": 134,
+    "screen-score": 96
+   }
+  },
+  {
+   "slug": "lord-thee-i-love-with-all-my-heart",
+   "title": "Lord, Thee I Love with All My Heart",
+   "subtitle": "HERZLICH LIEB HAB ICH DICH O HERR",
+   "composer": "Strassburg, 1577",
+   "levels": {
+    "p": 2.0,
+    "s": 2.1
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 31,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 172,
+    "score": 116,
+    "screen": 136,
+    "screen-score": 98
+   }
+  },
+  {
+   "slug": "more-love-to-thee",
+   "title": "More Love to Thee",
+   "subtitle": "MORE LOVE TO THEE",
+   "composer": "William Howard Doane, 1870",
+   "levels": {
+    "p": 1.4,
+    "s": 2.3
+   },
+   "key": "Ab",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 176,
+    "score": 118,
+    "screen": 139,
+    "screen-score": 100
+   }
+  },
+  {
+   "slug": "my-faith-looks-up-to-thee",
+   "title": "My Faith Looks Up to Thee",
+   "subtitle": "OLIVET",
+   "composer": "Mason, Lowell (1792-1872)",
+   "levels": {
+    "p": 1.2,
+    "s": 3.2
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 178,
+    "score": 119,
+    "screen": 140,
+    "screen-score": 101
+   }
+  },
+  {
+   "slug": "my-jesus-as-thou-wilt",
+   "title": "My Jesus, as Thou Wilt",
+   "subtitle": "JEWETT",
+   "composer": "or 'Weber' Carl M. von Weber, 1821",
+   "levels": {
+    "p": 1.6,
+    "s": 2.2
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 180,
+    "score": 120,
+    "screen": 141,
+    "screen-score": 102
+   }
+  },
+  {
+   "slug": "not-worthy-lord-to-gather-up-the-crumbs",
+   "title": "Not Worthy, Lord, to Gather Up the Crumbs",
+   "subtitle": "EVENTIDE",
+   "composer": "William H. Monk, 1861",
+   "levels": {
+    "p": 3.3,
+    "s": 2.2
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 182,
+    "score": 121,
+    "screen": 142,
+    "screen-score": 103
+   }
+  },
+  {
+   "slug": "o-lord-my-god-i-thirst-for-you",
+   "title": "O Lord, My God, I Thirst for You",
+   "subtitle": "KINGSFOLD",
+   "composer": "traditional English",
+   "levels": {
+    "p": 2.0,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 184,
+    "score": 123,
+    "screen": 144,
+    "screen-score": 105
+   }
+  },
+  {
+   "slug": "o-that-the-lord-would-guide-my-ways",
+   "title": "O That the Lord Would Guide My Ways",
+   "subtitle": "EVAN",
+   "composer": "or 'Eva' William H. Havergal, 1847",
+   "levels": {
+    "p": 2.1,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "3/2",
+   "bars": 9,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 186,
+    "score": 125,
+    "screen": 146,
+    "screen-score": 106
+   }
+  },
+  {
+   "slug": "our-father-thou-in-heaven-above",
+   "title": "Our Father Thou in Heaven Above",
+   "subtitle": "VATER UNSER IM HIMMELREICH",
+   "composer": "attr. Martin Luther, found in Valentin Schumann's Geistliche Lieder, Leipzig, 1539",
+   "levels": {
+    "p": 1.7,
+    "s": 3.2
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 188,
+    "score": 126,
+    "screen": 147,
+    "screen-score": 107
+   }
+  },
+  {
+   "slug": "pass-me-not-o-gentle-savior",
+   "title": "Pass Me Not, O Gentle Savior",
+   "subtitle": "PASS ME NOT O GENTLE SAVIOR",
+   "composer": "William Howard Doane, 1870",
+   "levels": {
+    "p": 1.8,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 190,
+    "score": 127,
+    "screen": 149,
+    "screen-score": 108
+   }
+  },
+  {
+   "slug": "savior-like-a-shepherd-lead-us",
+   "title": "Savior, Like a Shepherd Lead Us",
+   "subtitle": "BRADBURY",
+   "composer": "Bradbury, William Batchelder (1816-1868)",
+   "levels": {
+    "p": 2.7,
+    "s": 2.9
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 192,
+    "score": 128,
+    "screen": 151,
+    "screen-score": 109
+   }
+  },
+  {
+   "slug": "take-my-life-and-let-it-be",
+   "title": "Take My Life and Let It Be",
+   "subtitle": "MOZART",
+   "composer": "Wolfgang Amadeus Mozart (1756-1791)",
+   "levels": {
+    "p": 2.0,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 16,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 194,
+    "score": 129,
+    "screen": 153,
+    "screen-score": 110
+   }
+  },
+  {
+   "slug": "take-thou-my-hand-and-lead-me",
+   "title": "Take Thou My Hand and Lead Me",
+   "subtitle": "SO NIMM DENN MEINE H\u00c4NDE",
+   "composer": "Friedrich Silcher, 1842",
+   "levels": {
+    "p": 1.3,
+    "s": 2.8
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 196,
+    "score": 130,
+    "screen": 154,
+    "screen-score": 111
+   }
+  },
+  {
+   "slug": "we-give-thee-but-thine-own",
+   "title": "We Give Thee but Thine Own",
+   "subtitle": "ENERGY",
+   "composer": "William H. Monk (1823-1889)",
+   "levels": {
+    "p": 1.3,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 198,
+    "score": 131,
+    "screen": 156,
+    "screen-score": 112
+   }
+  },
+  {
+   "slug": "we-now-implore-god-the-holy-ghost",
+   "title": "We Now Implore God the Holy Ghost",
+   "subtitle": "NUN BITTEN WIR DEN HEILIGEN GEIST",
+   "composer": "ancient German found in Walter's Geistliche Gesangb\u00fcchlein, 1524",
+   "levels": {
+    "p": 1.2,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 200,
+    "score": 132,
+    "screen": 157,
+    "screen-score": 113
+   }
+  },
+  {
+   "slug": "what-a-friend-we-have-in-jesus",
+   "title": "What a Friend We Have in Jesus",
+   "subtitle": "UNTITLED",
+   "composer": "Charles C. Converse, 1868",
+   "levels": {
+    "p": 2.9,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 202,
+    "score": 133,
+    "screen": 158,
+    "screen-score": 114
+   }
+  },
+  {
+   "slug": "where-he-leads-me",
+   "title": "Where He Leads Me",
+   "subtitle": "BLANDY",
+   "composer": "or 'Norris' attr. John Samuel Norris (1844-1907) or Philip Paul Bliss (1838-1876)",
+   "levels": {
+    "p": 2.1,
+    "s": 1.8
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 204,
+    "score": 135,
+    "screen": 160,
+    "screen-score": 116
+   }
+  },
+  {
+   "slug": "whiter-than-snow",
+   "title": "Whiter Than Snow",
+   "subtitle": "WHITER THAN SNOW",
+   "composer": "William Gustavus Fischer, 1872",
+   "levels": {
+    "p": 2.3,
+    "s": 2.5
+   },
+   "key": "A",
+   "meter": "3/4",
+   "bars": 25,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Prayer & Consecration",
+   "problems": [],
+   "pages": {
+    "facing": 206,
+    "score": 136,
+    "screen": 162,
+    "screen-score": 117
+   }
+  },
+  {
+   "slug": "despair-not-o-heart",
+   "title": "Despair Not, O Heart",
+   "subtitle": "IAM MOESTA",
+   "composer": "or 'Jam Moesta' or 'Despair Not O Heart' or 'Med Sorgen Og Klagen' unknown, sometimes attr. Martin Luther, 1542",
+   "levels": {
+    "p": 1.7,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "2/4",
+   "bars": 17,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 208,
+    "score": 137,
+    "screen": 164,
+    "screen-score": 118
+   }
+  },
+  {
+   "slug": "glorious-things-of-thee-are-spoken",
+   "title": "Glorious Things of Thee Are Spoken",
+   "subtitle": "AUSTRIA (HAYDN)",
+   "composer": "or 'Austrian Hymn' Franz Joseph Haydn, 1797",
+   "levels": {
+    "p": 1.7,
+    "s": 2.1
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 210,
+    "score": 138,
+    "screen": 165,
+    "screen-score": 119
+   }
+  },
+  {
+   "slug": "hark-hark-my-soul",
+   "title": "Hark, Hark, My Soul!",
+   "subtitle": "FINLANDIA",
+   "composer": "Jean Sibelius, 1899",
+   "levels": {
+    "p": 3.0,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 212,
+    "score": 140,
+    "screen": 167,
+    "screen-score": 120
+   }
+  },
+  {
+   "slug": "im-but-a-stranger-here",
+   "title": "I'm but a Stranger Here",
+   "subtitle": "ST. EDMUND (SULLIVAN)",
+   "composer": "Arthur Seymour Sullivan, 1872",
+   "levels": {
+    "p": 1.7,
+    "s": 1.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 216,
+    "score": 143,
+    "screen": 170,
+    "screen-score": 122
+   }
+  },
+  {
+   "slug": "jerusalem-the-golden",
+   "title": "Jerusalem the Golden",
+   "subtitle": "EWING",
+   "composer": "Alexander C. Ewing, 1853",
+   "levels": {
+    "p": 2.5,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 218,
+    "score": 144,
+    "screen": 171,
+    "screen-score": 123
+   }
+  },
+  {
+   "slug": "let-children-hear-the-mighty-deeds",
+   "title": "Let Children Hear the Mighty Deeds",
+   "subtitle": "LEA",
+   "composer": "James Lea Summers, (1837-1881)",
+   "levels": {
+    "p": 1.4,
+    "s": 2.7
+   },
+   "key": "A",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 220,
+    "score": 145,
+    "screen": 172,
+    "screen-score": 124
+   }
+  },
+  {
+   "slug": "lord-who-at-canas-wedding-feast",
+   "title": "Lord, Who at Cana's Wedding Feast",
+   "subtitle": "ST. URSULA",
+   "composer": "Frederick Westlake, 1863",
+   "levels": {
+    "p": 1.9,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 222,
+    "score": 146,
+    "screen": 173,
+    "screen-score": 125
+   }
+  },
+  {
+   "slug": "o-father-all-creating",
+   "title": "O Father, All Creating",
+   "subtitle": "AURELIA",
+   "composer": "Samuel Sebastian Wesley, 1864",
+   "levels": {
+    "p": 2.5,
+    "s": 2.6
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 224,
+    "score": 147,
+    "screen": 175,
+    "screen-score": 126
+   }
+  },
+  {
+   "slug": "oh-blest-the-house",
+   "title": "Oh, Blest the House",
+   "subtitle": "WO GOTT ZUM HAUS",
+   "composer": "Klug's Geistliche Lieder, 1533",
+   "levels": {
+    "p": 1.9,
+    "s": 2.0
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 226,
+    "score": 148,
+    "screen": 177,
+    "screen-score": 127
+   }
+  },
+  {
+   "slug": "savior-who-thy-flock-art-feeding",
+   "title": "Savior, Who Thy Flock Art Feeding",
+   "subtitle": "BATTY",
+   "composer": "or 'Ringe recht' from Johann Thommen's Musicalischer Christenschatz, Basel, 1745",
+   "levels": {
+    "p": 1.3,
+    "s": 2.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 228,
+    "score": 149,
+    "screen": 178,
+    "screen-score": 128
+   }
+  },
+  {
+   "slug": "though-in-the-midst-of-life-we-be",
+   "title": "Though in the Midst of Life We Be",
+   "subtitle": "MITTEN WIR IM LEBEN SIND",
+   "composer": "Medieval sequence altered by Martin Luther. Found in Walter's Geistliche Gesangb\u00fcchlein, 1524",
+   "levels": {
+    "p": 1.3,
+    "s": 2.9
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 29,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 230,
+    "score": 150,
+    "screen": 179,
+    "screen-score": 129
+   }
+  },
+  {
+   "slug": "you-parents-hear-what-jesus-taught",
+   "title": "You Parents Hear What Jesus Taught",
+   "subtitle": "HERR JESU CHRIST, DICT ZU UNS WEND",
+   "composer": "Cantionale Germanicum, Dresden, 1628",
+   "levels": {
+    "p": 1.3,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "3/2",
+   "bars": 9,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Home, Life & Heaven",
+   "problems": [],
+   "pages": {
+    "facing": 234,
+    "score": 153,
+    "screen": 182,
+    "screen-score": 131
+   }
+  }
+ ],
+ "seconds": 33.8
+}

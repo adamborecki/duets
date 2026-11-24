@@ -1,27 +1,29 @@
 {
  "id": "hymns-of-praise",
  "title": "Hymns of Praise",
- "pieces": 65,
+ "subtitle": "Hymns for any Sunday, volume 1, for piano four hands",
+ "blurb": "Praise and thanksgiving, opening and closing hymns, morning and evening, the Word and the Church.",
+ "pieces": 66,
  "layouts": {
   "facing": {
    "path": "/home/user/duets/books/hymns-of-praise/hymns-of-praise-facing.pdf",
-   "pages": 143,
-   "bytes": 1715876
+   "pages": 145,
+   "bytes": 1711753
   },
   "score": {
    "path": "/home/user/duets/books/hymns-of-praise/hymns-of-praise-score.pdf",
-   "pages": 98,
-   "bytes": 1248188
+   "pages": 100,
+   "bytes": 1254840
   },
   "screen": {
    "path": "/home/user/duets/books/hymns-of-praise/hymns-of-praise-screen.pdf",
-   "pages": 108,
-   "bytes": 1645091
+   "pages": 109,
+   "bytes": 1656144
   },
   "screen-score": {
    "path": "/home/user/duets/books/hymns-of-praise/hymns-of-praise-screen-score.pdf",
    "pages": 93,
-   "bytes": 1193329
+   "bytes": 1184869
   }
  },
  "items": [
@@ -78,7 +80,7 @@
    "composer": "Edwin G. Monk, 1861",
    "levels": {
     "p": 1.2,
-    "s": 2.8
+    "s": 2.7
    },
    "key": "C",
    "meter": "4/4",
@@ -86,9 +88,7 @@
    "flavor": "easy-primo",
    "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
    "section": "Praise",
-   "problems": [
-    "1 moments where a player's hands cross"
-   ],
+   "problems": [],
    "pages": {
     "facing": 10,
     "score": 7,
@@ -310,7 +310,7 @@
    "composer": "Johannes Kugelmann`s Concentus Novi, 1540",
    "levels": {
     "p": 1.1,
-    "s": 3.0
+    "s": 3.1
    },
    "key": "G",
    "meter": "3/4",
@@ -332,7 +332,7 @@
    "subtitle": "GOTT SEI GELOBET UND GEBENEDEIET",
    "composer": "or 'Enchiridion' or 'Gud V\u00e6re Lovet Evig Nu' traditional German c. 1400 found in Klug's Geistliche Lieder, Wittenberg, 1533",
    "levels": {
-    "p": 1.5,
+    "p": 1.4,
     "s": 2.2
    },
    "key": "D",
@@ -608,7 +608,7 @@
    "subtitle": "CHRISTUS DER IST MEIN LEBEN",
    "composer": "Melchior Vulpius, 1609",
    "levels": {
-    "p": 3.5,
+    "p": 3.6,
     "s": 2.4
    },
    "key": "Eb",
@@ -655,7 +655,7 @@
    "composer": "or 'Arnsberg' or 'Groeningen' Joachim Neander, 1680",
    "levels": {
     "p": 2.1,
-    "s": 2.4
+    "s": 2.2
    },
    "key": "G",
    "meter": "4/4",
@@ -701,7 +701,7 @@
    "composer": "Henry Smart, 1867",
    "levels": {
     "p": 2.1,
-    "s": 2.3
+    "s": 2.5
    },
    "key": "C",
    "meter": "4/4",
@@ -724,7 +724,7 @@
    "composer": "Phillipp Nicolai, 1599",
    "levels": {
     "p": 2.5,
-    "s": 2.7
+    "s": 2.6
    },
    "key": "Eb",
    "meter": "4/4",
@@ -956,7 +956,7 @@
    "composer": "Liederbuch f\u00fcr Kleinkinder-Schulen, 1842",
    "levels": {
     "p": 1.2,
-    "s": 2.6
+    "s": 2.7
    },
    "key": "F",
    "meter": "4/4",
@@ -964,9 +964,7 @@
    "flavor": "easy-primo",
    "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
    "section": "Morning & Evening",
-   "problems": [
-    "1 moments where a player's hands cross"
-   ],
+   "problems": [],
    "pages": {
     "facing": 92,
     "score": 65,
@@ -1003,11 +1001,11 @@
    "subtitle": "O LUX BEATA TRINITAS",
    "composer": "ancient Latin",
    "levels": {
-    "p": 3.6,
+    "p": 2.9,
     "s": 2.4
    },
    "key": "D",
-   "meter": "15/8",
+   "meter": "4/4",
    "bars": 4,
    "flavor": "tune-below-flowing",
    "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
@@ -1040,7 +1038,7 @@
     "facing": 98,
     "score": 69,
     "screen": 76,
-    "screen-score": 65
+    "screen-score": 64
    }
   },
   {
@@ -1063,7 +1061,7 @@
     "facing": 100,
     "score": 70,
     "screen": 77,
-    "screen-score": 66
+    "screen-score": 65
    }
   },
   {
@@ -1086,6 +1084,29 @@
     "facing": 102,
     "score": 72,
     "screen": 79,
+    "screen-score": 67
+   }
+  },
+  {
+   "slug": "blest-be-the-tie-that-binds",
+   "title": "Blest Be the Tie That Binds",
+   "subtitle": "BOYLSTON",
+   "composer": "Mason, Lowell (1792-1872)",
+   "levels": {
+    "p": 1.3,
+    "s": 3.1
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 9,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "The Word & the Church",
+   "problems": [],
+   "pages": {
+    "facing": 104,
+    "score": 73,
+    "screen": 80,
     "screen-score": 68
    }
   },
@@ -1106,9 +1127,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 104,
-    "score": 73,
-    "screen": 80,
+    "facing": 106,
+    "score": 74,
+    "screen": 81,
     "screen-score": 69
    }
   },
@@ -1129,9 +1150,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 106,
-    "score": 75,
-    "screen": 82,
+    "facing": 108,
+    "score": 76,
+    "screen": 83,
     "screen-score": 71
    }
   },
@@ -1152,9 +1173,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 108,
-    "score": 76,
-    "screen": 84,
+    "facing": 110,
+    "score": 77,
+    "screen": 85,
     "screen-score": 72
    }
   },
@@ -1175,9 +1196,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 110,
-    "score": 78,
-    "screen": 86,
+    "facing": 112,
+    "score": 79,
+    "screen": 87,
     "screen-score": 74
    }
   },
@@ -1198,9 +1219,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 112,
-    "score": 79,
-    "screen": 87,
+    "facing": 114,
+    "score": 80,
+    "screen": 88,
     "screen-score": 75
    }
   },
@@ -1221,9 +1242,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 114,
-    "score": 80,
-    "screen": 88,
+    "facing": 116,
+    "score": 81,
+    "screen": 89,
     "screen-score": 76
    }
   },
@@ -1234,7 +1255,7 @@
    "composer": "Meyer, Lucy Jane Rider (1849-1922)",
    "levels": {
     "p": 2.4,
-    "s": 3.4
+    "s": 3.3
    },
    "key": "Eb",
    "meter": "6/8",
@@ -1244,9 +1265,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 116,
-    "score": 82,
-    "screen": 90,
+    "facing": 118,
+    "score": 83,
+    "screen": 91,
     "screen-score": 77
    }
   },
@@ -1267,9 +1288,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 118,
-    "score": 84,
-    "screen": 92,
+    "facing": 120,
+    "score": 85,
+    "screen": 93,
     "screen-score": 79
    }
   },
@@ -1290,9 +1311,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 120,
-    "score": 85,
-    "screen": 93,
+    "facing": 122,
+    "score": 86,
+    "screen": 94,
     "screen-score": 80
    }
   },
@@ -1313,9 +1334,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 122,
-    "score": 86,
-    "screen": 94,
+    "facing": 124,
+    "score": 87,
+    "screen": 95,
     "screen-score": 81
    }
   },
@@ -1336,9 +1357,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 124,
-    "score": 87,
-    "screen": 95,
+    "facing": 126,
+    "score": 88,
+    "screen": 96,
     "screen-score": 82
    }
   },
@@ -1359,9 +1380,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 126,
-    "score": 88,
-    "screen": 97,
+    "facing": 128,
+    "score": 89,
+    "screen": 98,
     "screen-score": 83
    }
   },
@@ -1382,9 +1403,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 128,
-    "score": 89,
-    "screen": 98,
+    "facing": 130,
+    "score": 90,
+    "screen": 99,
     "screen-score": 84
    }
   },
@@ -1405,9 +1426,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 132,
-    "score": 91,
-    "screen": 101,
+    "facing": 134,
+    "score": 93,
+    "screen": 102,
     "screen-score": 87
    }
   },
@@ -1428,9 +1449,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 134,
-    "score": 92,
-    "screen": 102,
+    "facing": 136,
+    "score": 94,
+    "screen": 103,
     "screen-score": 88
    }
   },
@@ -1451,9 +1472,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 136,
-    "score": 93,
-    "screen": 103,
+    "facing": 138,
+    "score": 95,
+    "screen": 104,
     "screen-score": 89
    }
   },
@@ -1464,7 +1485,7 @@
    "composer": "Henry Thomas Smart, 1868",
    "levels": {
     "p": 2.1,
-    "s": 2.8
+    "s": 2.7
    },
    "key": "A",
    "meter": "4/4",
@@ -1474,9 +1495,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 138,
-    "score": 94,
-    "screen": 104,
+    "facing": 140,
+    "score": 96,
+    "screen": 105,
     "screen-score": 90
    }
   },
@@ -1497,9 +1518,9 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 140,
-    "score": 96,
-    "screen": 106,
+    "facing": 142,
+    "score": 98,
+    "screen": 107,
     "screen-score": 91
    }
   },
@@ -1520,12 +1541,12 @@
    "section": "The Word & the Church",
    "problems": [],
    "pages": {
-    "facing": 142,
-    "score": 98,
-    "screen": 108,
+    "facing": 144,
+    "score": 100,
+    "screen": 109,
     "screen-score": 93
    }
   }
  ],
- "seconds": 103.0
+ "seconds": 34.0
 }

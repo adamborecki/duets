@@ -1,27 +1,29 @@
 {
  "id": "childrens-songs",
  "title": "Nursery Songs & Singing Games",
+ "subtitle": "Very easy duets for piano four hands",
+ "blurb": "Children's songs in the easiest settings.",
  "pieces": 29,
  "layouts": {
   "facing": {
    "path": "/home/user/duets/books/childrens-songs/childrens-songs-facing.pdf",
    "pages": 71,
-   "bytes": 851572
+   "bytes": 850947
   },
   "score": {
    "path": "/home/user/duets/books/childrens-songs/childrens-songs-score.pdf",
    "pages": 46,
-   "bytes": 618576
+   "bytes": 617951
   },
   "screen": {
    "path": "/home/user/duets/books/childrens-songs/childrens-songs-screen.pdf",
    "pages": 48,
-   "bytes": 813188
+   "bytes": 813521
   },
   "screen-score": {
    "path": "/home/user/duets/books/childrens-songs/childrens-songs-screen-score.pdf",
    "pages": 45,
-   "bytes": 563898
+   "bytes": 562802
   }
  },
  "items": [
@@ -538,7 +540,7 @@
    "composer": "French traditional",
    "levels": {
     "p": 2.5,
-    "s": 2.1
+    "s": 2.2
    },
    "key": "F",
    "meter": "2/4",
@@ -546,7 +548,9 @@
    "flavor": "easy-secondo",
    "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
    "section": "",
-   "problems": [],
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
    "pages": {
     "facing": 54,
     "score": 35,
@@ -676,7 +680,7 @@
    "composer": "American traditional (18th century)",
    "levels": {
     "p": 2.5,
-    "s": 1.9
+    "s": 2.0
    },
    "key": "C",
    "meter": "2/4",
@@ -693,5 +697,5 @@
    }
   }
  ],
- "seconds": 58.2
+ "seconds": 49.1
 }

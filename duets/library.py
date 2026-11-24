@@ -59,7 +59,27 @@ def tune_from_abc(abc: AbcTune) -> Tune:
         b.melody = merge_ties(b.melody)
         b.voices = {k: merge_ties(v) for k, v in b.voices.items()}
     tune.slug = meta.get("slug") or slugify(tune.title)
+    _normalise_meter(tune)
     return tune
+
+
+_COMMON_METERS = {(4, 4), (3, 4), (2, 4), (6, 8), (2, 2), (3, 2), (6, 4), (9, 8), (12, 8), (3, 8), (4, 2), (8, 4)}
+
+
+def _normalise_meter(tune: Tune) -> None:
+    """Free-rhythm hymns arrive with whatever 'meter' their commonest bar
+    length suggests (23/8 ...).  Give them a plain beat to count in, and keep
+    hymn tempos within what people actually play."""
+    m = tune.meter
+    if tune.free_meter and (m.num, m.den) not in _COMMON_METERS:
+        new = Meter(4, 2) if m.den <= 2 else Meter(4, 4)
+        if tune.tempo:
+            tune.tempo = int(round(tune.tempo * float(m.beat_len / new.beat_len)))
+        tune.meter = new
+    if tune.category == "hymn" and tune.tempo:
+        while tune.tempo > 200:
+            tune.tempo //= 2
+        tune.tempo = min(tune.tempo, 144)
 
 
 def load_file(path: Path) -> list:

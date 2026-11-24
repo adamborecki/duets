@@ -1,27 +1,29 @@
 {
  "id": "bach-chorales",
  "title": "Bach Chorales",
- "pieces": 93,
+ "subtitle": "Four-part chorales of J. S. Bach set for piano four hands",
+ "blurb": "Bach's own harmonizations of the great Lutheran chorales, arranged by season, with chord symbols.",
+ "pieces": 146,
  "layouts": {
   "facing": {
    "path": "/home/user/duets/books/bach-chorales/bach-chorales-facing.pdf",
-   "pages": 201,
-   "bytes": 2417957
+   "pages": 313,
+   "bytes": 3471118
   },
   "score": {
    "path": "/home/user/duets/books/bach-chorales/bach-chorales-score.pdf",
-   "pages": 149,
-   "bytes": 1826620
+   "pages": 228,
+   "bytes": 2660396
   },
   "screen": {
    "path": "/home/user/duets/books/bach-chorales/bach-chorales-screen.pdf",
-   "pages": 157,
-   "bytes": 2361018
+   "pages": 250,
+   "bytes": 3383859
   },
   "screen-score": {
    "path": "/home/user/duets/books/bach-chorales/bach-chorales-screen-score.pdf",
-   "pages": 160,
-   "bytes": 1782898
+   "pages": 236,
+   "bytes": 2548039
   }
  },
  "items": [
@@ -44,10 +46,33 @@
     "2 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 6,
-    "score": 6,
-    "screen": 4,
-    "screen-score": 4
+    "facing": 8,
+    "score": 7,
+    "screen": 5,
+    "screen-score": 5
+   }
+  },
+  {
+   "slug": "bach-comfort-comfort-ye-my-people-2",
+   "title": "Comfort, Comfort Ye My People (II)",
+   "subtitle": "Freu dich sehr, o meine Seele \u00b7 BWV 194.6",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.2,
+    "s": 3.4
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 9,
+    "screen": 7,
+    "screen-score": 6
    }
   },
   {
@@ -69,10 +94,10 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 8,
-    "score": 8,
-    "screen": 6,
-    "screen-score": 5
+    "facing": 12,
+    "score": 11,
+    "screen": 9,
+    "screen-score": 7
    }
   },
   {
@@ -92,10 +117,33 @@
    "section": "Advent",
    "problems": [],
    "pages": {
-    "facing": 10,
-    "score": 9,
-    "screen": 8,
-    "screen-score": 6
+    "facing": 14,
+    "score": 12,
+    "screen": 11,
+    "screen-score": 8
+   }
+  },
+  {
+   "slug": "bach-savior-of-the-nations-come-2",
+   "title": "Savior of the Nations, Come (II)",
+   "subtitle": "Nun komm, der Heiden Heiland \u00b7 BWV 62.6",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 3.4,
+    "s": 3.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 10,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 13,
+    "screen": 12,
+    "screen-score": 9
    }
   },
   {
@@ -115,10 +163,10 @@
    "section": "Advent",
    "problems": [],
    "pages": {
-    "facing": 12,
-    "score": 10,
-    "screen": 9,
-    "screen-score": 7
+    "facing": 18,
+    "score": 15,
+    "screen": 13,
+    "screen-score": 11
    }
   },
   {
@@ -138,10 +186,33 @@
    "section": "Christmas & New Year",
    "problems": [],
    "pages": {
-    "facing": 14,
-    "score": 12,
-    "screen": 11,
-    "screen-score": 9
+    "facing": 20,
+    "score": 17,
+    "screen": 15,
+    "screen-score": 13
+   }
+  },
+  {
+   "slug": "bach-break-forth-o-beauteous-heavenly-light-2",
+   "title": "Break Forth, O Beauteous Heavenly Light (II)",
+   "subtitle": "Ermuntre dich, mein schwacher Geist \u00b7 BWV 43.11",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.3,
+    "s": 1.9
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 23,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Christmas & New Year",
+   "problems": [],
+   "pages": {
+    "facing": 22,
+    "score": 19,
+    "screen": 17,
+    "screen-score": 15
    }
   },
   {
@@ -161,10 +232,10 @@
    "section": "Christmas & New Year",
    "problems": [],
    "pages": {
-    "facing": 16,
-    "score": 14,
-    "screen": 13,
-    "screen-score": 11
+    "facing": 24,
+    "score": 20,
+    "screen": 18,
+    "screen-score": 16
    }
   },
   {
@@ -186,10 +257,10 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 18,
-    "score": 15,
-    "screen": 14,
-    "screen-score": 12
+    "facing": 26,
+    "score": 21,
+    "screen": 19,
+    "screen-score": 17
    }
   },
   {
@@ -211,10 +282,10 @@
     "7 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 20,
-    "score": 17,
-    "screen": 16,
-    "screen-score": 14
+    "facing": 28,
+    "score": 23,
+    "screen": 21,
+    "screen-score": 19
    }
   },
   {
@@ -236,10 +307,33 @@
     "3 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 22,
-    "score": 19,
-    "screen": 18,
-    "screen-score": 16
+    "facing": 30,
+    "score": 25,
+    "screen": 23,
+    "screen-score": 21
+   }
+  },
+  {
+   "slug": "bach-from-heaven-above-to-earth-i-come-2",
+   "title": "From Heaven Above to Earth I Come (II)",
+   "subtitle": "Vom Himmel hoch, da komm ich her \u00b7 BWV 248.23-2",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.2,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "12/8",
+   "bars": 14,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Christmas & New Year",
+   "problems": [],
+   "pages": {
+    "facing": 32,
+    "score": 27,
+    "screen": 24,
+    "screen-score": 23
    }
   },
   {
@@ -261,10 +355,33 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 24,
-    "score": 21,
-    "screen": 19,
-    "screen-score": 18
+    "facing": 34,
+    "score": 28,
+    "screen": 25,
+    "screen-score": 24
+   }
+  },
+  {
+   "slug": "bach-help-me-to-praise-gods-goodness-2",
+   "title": "Help Me to Praise God's Goodness (II)",
+   "subtitle": "Helft mir Gotts G\u00fcte preisen \u00b7 BWV 16.6",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 3.0,
+    "s": 3.2
+   },
+   "key": "Am",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Christmas & New Year",
+   "problems": [],
+   "pages": {
+    "facing": 36,
+    "score": 29,
+    "screen": 26,
+    "screen-score": 25
    }
   },
   {
@@ -286,10 +403,10 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 26,
-    "score": 22,
-    "screen": 20,
-    "screen-score": 19
+    "facing": 38,
+    "score": 31,
+    "screen": 27,
+    "screen-score": 27
    }
   },
   {
@@ -309,10 +426,35 @@
    "section": "Christmas & New Year",
    "problems": [],
    "pages": {
-    "facing": 28,
-    "score": 24,
-    "screen": 22,
-    "screen-score": 21
+    "facing": 40,
+    "score": 33,
+    "screen": 29,
+    "screen-score": 29
+   }
+  },
+  {
+   "slug": "bach-jesus-now-be-praised-2",
+   "title": "Jesus, Now Be Praised (II)",
+   "subtitle": "Jesu, nun sei gepreiset \u00b7 BWV 362",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.4,
+    "s": 2.5
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Christmas & New Year",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 42,
+    "score": 35,
+    "screen": 31,
+    "screen-score": 31
    }
   },
   {
@@ -332,10 +474,33 @@
    "section": "Christmas & New Year",
    "problems": [],
    "pages": {
-    "facing": 30,
-    "score": 26,
-    "screen": 24,
-    "screen-score": 23
+    "facing": 44,
+    "score": 38,
+    "screen": 34,
+    "screen-score": 33
+   }
+  },
+  {
+   "slug": "bach-the-old-year-now-hath-passed-away-2",
+   "title": "The Old Year Now Hath Passed Away (II)",
+   "subtitle": "Das alte Jahr vergangen ist \u00b7 BWV 289",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 3.3,
+    "s": 3.1
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Christmas & New Year",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 39,
+    "screen": 36,
+    "screen-score": 34
    }
   },
   {
@@ -355,10 +520,35 @@
    "section": "Christmas & New Year",
    "problems": [],
    "pages": {
-    "facing": 32,
-    "score": 27,
-    "screen": 26,
-    "screen-score": 24
+    "facing": 48,
+    "score": 41,
+    "screen": 38,
+    "screen-score": 36
+   }
+  },
+  {
+   "slug": "bach-praise-god-the-lord-ye-sons-of-men-2",
+   "title": "Praise God the Lord, Ye Sons of Men (II)",
+   "subtitle": "Lobt Gott, ihr Christen, allzugleich \u00b7 BWV 375",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.2,
+    "s": 3.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Christmas & New Year",
+   "problems": [
+    "4 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 50,
+    "score": 42,
+    "screen": 39,
+    "screen-score": 37
    }
   },
   {
@@ -378,10 +568,10 @@
    "section": "Christmas & New Year",
    "problems": [],
    "pages": {
-    "facing": 34,
-    "score": 28,
-    "screen": 27,
-    "screen-score": 25
+    "facing": 52,
+    "score": 43,
+    "screen": 41,
+    "screen-score": 39
    }
   },
   {
@@ -401,10 +591,33 @@
    "section": "Christmas & New Year",
    "problems": [],
    "pages": {
-    "facing": 36,
-    "score": 29,
-    "screen": 28,
-    "screen-score": 26
+    "facing": 54,
+    "score": 44,
+    "screen": 42,
+    "screen-score": 40
+   }
+  },
+  {
+   "slug": "bach-we-praise-you-jesus-at-your-birth-2",
+   "title": "We Praise You, Jesus, at Your Birth (II)",
+   "subtitle": "Gelobet seist du, Jesu Christ \u00b7 BWV 64.2",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.9,
+    "s": 3.1
+   },
+   "key": "Am",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Christmas & New Year",
+   "problems": [],
+   "pages": {
+    "facing": 56,
+    "score": 45,
+    "screen": 43,
+    "screen-score": 41
    }
   },
   {
@@ -426,10 +639,33 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 38,
-    "score": 30,
-    "screen": 29,
-    "screen-score": 27
+    "facing": 58,
+    "score": 47,
+    "screen": 44,
+    "screen-score": 43
+   }
+  },
+  {
+   "slug": "bach-wir-christenleut-2",
+   "title": "Wir Christenleut (II)",
+   "subtitle": "Wir Christenleut \u00b7 BWV 40.3",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.0,
+    "s": 3.8
+   },
+   "key": "Dm",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Christmas & New Year",
+   "problems": [],
+   "pages": {
+    "facing": 60,
+    "score": 48,
+    "screen": 46,
+    "screen-score": 44
    }
   },
   {
@@ -451,10 +687,35 @@
     "2 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 40,
-    "score": 31,
-    "screen": 31,
-    "screen-score": 28
+    "facing": 62,
+    "score": 50,
+    "screen": 48,
+    "screen-score": 46
+   }
+  },
+  {
+   "slug": "bach-o-morning-star-how-fair-and-bright-2",
+   "title": "O Morning Star, How Fair and Bright (II)",
+   "subtitle": "Wie sch\u00f6n leuchtet der Morgenstern \u00b7 BWV 36.4-2",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.0,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Epiphany",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 64,
+    "score": 52,
+    "screen": 50,
+    "screen-score": 47
    }
   },
   {
@@ -474,10 +735,33 @@
    "section": "Lent & Passion",
    "problems": [],
    "pages": {
-    "facing": 42,
-    "score": 33,
-    "screen": 33,
-    "screen-score": 29
+    "facing": 66,
+    "score": 54,
+    "screen": 52,
+    "screen-score": 48
+   }
+  },
+  {
+   "slug": "bach-alas-my-god-2",
+   "title": "Alas, My God (II)",
+   "subtitle": "Ach Gott und Herr \u00b7 BWV 48.3",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.7,
+    "s": 3.4
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Lent & Passion",
+   "problems": [],
+   "pages": {
+    "facing": 68,
+    "score": 55,
+    "screen": 53,
+    "screen-score": 49
    }
   },
   {
@@ -497,10 +781,33 @@
    "section": "Lent & Passion",
    "problems": [],
    "pages": {
-    "facing": 44,
-    "score": 34,
-    "screen": 34,
-    "screen-score": 30
+    "facing": 70,
+    "score": 57,
+    "screen": 54,
+    "screen-score": 51
+   }
+  },
+  {
+   "slug": "bach-christ-who-makes-us-blessed-2",
+   "title": "Christ, Who Makes Us Blessed (II)",
+   "subtitle": "Christus, der uns selig macht \u00b7 BWV 245.37",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.6,
+    "s": 3.4
+   },
+   "key": "Cm",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Lent & Passion",
+   "problems": [],
+   "pages": {
+    "facing": 72,
+    "score": 59,
+    "screen": 56,
+    "screen-score": 53
    }
   },
   {
@@ -523,10 +830,35 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 46,
-    "score": 36,
-    "screen": 36,
-    "screen-score": 32
+    "facing": 74,
+    "score": 61,
+    "screen": 58,
+    "screen-score": 55
+   }
+  },
+  {
+   "slug": "bach-commit-thou-all-thy-griefs-passion-chorale-2",
+   "title": "Commit Thou All Thy Griefs (Passion Chorale) (II)",
+   "subtitle": "Befiehl du deine Wege \u00b7 BWV 270",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.1,
+    "s": 2.6
+   },
+   "key": "Bm",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Lent & Passion",
+   "problems": [
+    "4 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 76,
+    "score": 62,
+    "screen": 60,
+    "screen-score": 56
    }
   },
   {
@@ -546,10 +878,10 @@
    "section": "Lent & Passion",
    "problems": [],
    "pages": {
-    "facing": 48,
-    "score": 37,
-    "screen": 38,
-    "screen-score": 33
+    "facing": 78,
+    "score": 63,
+    "screen": 62,
+    "screen-score": 57
    }
   },
   {
@@ -569,10 +901,10 @@
    "section": "Lent & Passion",
    "problems": [],
    "pages": {
-    "facing": 50,
-    "score": 39,
-    "screen": 39,
-    "screen-score": 35
+    "facing": 80,
+    "score": 65,
+    "screen": 63,
+    "screen-score": 59
    }
   },
   {
@@ -594,10 +926,35 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 52,
-    "score": 41,
-    "screen": 41,
-    "screen-score": 37
+    "facing": 82,
+    "score": 67,
+    "screen": 65,
+    "screen-score": 61
+   }
+  },
+  {
+   "slug": "bach-jesus-i-will-ponder-now-2",
+   "title": "Jesus, I Will Ponder Now (II)",
+   "subtitle": "Jesu Leiden, Pein und Tod \u00b7 BWV 245.14",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.5,
+    "s": 2.5
+   },
+   "key": "A",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Lent & Passion",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 84,
+    "score": 69,
+    "screen": 67,
+    "screen-score": 63
    }
   },
   {
@@ -619,10 +976,10 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 54,
-    "score": 43,
-    "screen": 43,
-    "screen-score": 39
+    "facing": 86,
+    "score": 71,
+    "screen": 69,
+    "screen-score": 65
    }
   },
   {
@@ -642,10 +999,35 @@
    "section": "Lent & Passion",
    "problems": [],
    "pages": {
-    "facing": 56,
-    "score": 44,
-    "screen": 45,
-    "screen-score": 40
+    "facing": 88,
+    "score": 72,
+    "screen": 71,
+    "screen-score": 66
+   }
+  },
+  {
+   "slug": "bach-lord-jesus-christ-thou-highest-good-2",
+   "title": "Lord Jesus Christ, Thou Highest Good (II)",
+   "subtitle": "Herr Jesu Christ, du h\u00f6chstes Gut \u00b7 BWV 48.7",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.4,
+    "s": 2.7
+   },
+   "key": "Gm",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Lent & Passion",
+   "problems": [
+    "3 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 90,
+    "score": 74,
+    "screen": 73,
+    "screen-score": 68
    }
   },
   {
@@ -665,10 +1047,35 @@
    "section": "Lent & Passion",
    "problems": [],
    "pages": {
-    "facing": 58,
-    "score": 46,
-    "screen": 47,
-    "screen-score": 42
+    "facing": 92,
+    "score": 75,
+    "screen": 75,
+    "screen-score": 70
+   }
+  },
+  {
+   "slug": "bach-o-dearest-jesus-what-law-hast-thou-broken-2",
+   "title": "O Dearest Jesus, What Law Hast Thou Broken (II)",
+   "subtitle": "Herzliebster Jesu, was hast du verbrochen \u00b7 BWV 244.3",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.5,
+    "s": 2.7
+   },
+   "key": "Bm",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Lent & Passion",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 94,
+    "score": 77,
+    "screen": 76,
+    "screen-score": 72
    }
   },
   {
@@ -688,10 +1095,33 @@
    "section": "Lent & Passion",
    "problems": [],
    "pages": {
-    "facing": 60,
-    "score": 48,
-    "screen": 48,
-    "screen-score": 44
+    "facing": 96,
+    "score": 78,
+    "screen": 77,
+    "screen-score": 73
+   }
+  },
+  {
+   "slug": "bach-o-man-bewail-thy-grievous-sin-2",
+   "title": "O Man, Bewail Thy Grievous Sin (II)",
+   "subtitle": "O Mensch, bewein dein S\u00fcnde gro\u00df \u00b7 BWV 402",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 3.6,
+    "s": 3.4
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 22,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Lent & Passion",
+   "problems": [],
+   "pages": {
+    "facing": 98,
+    "score": 80,
+    "screen": 79,
+    "screen-score": 75
    }
   },
   {
@@ -713,10 +1143,33 @@
     "2 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 62,
-    "score": 50,
-    "screen": 50,
-    "screen-score": 46
+    "facing": 100,
+    "score": 82,
+    "screen": 81,
+    "screen-score": 77
+   }
+  },
+  {
+   "slug": "bach-o-sacred-head-now-wounded-2",
+   "title": "O Sacred Head, Now Wounded (II)",
+   "subtitle": "O Haupt voll Blut und Wunden \u00b7 BWV 244.44",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.2,
+    "s": 3.4
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Lent & Passion",
+   "problems": [],
+   "pages": {
+    "facing": 102,
+    "score": 83,
+    "screen": 82,
+    "screen-score": 78
    }
   },
   {
@@ -736,10 +1189,35 @@
    "section": "Lent & Passion",
    "problems": [],
    "pages": {
-    "facing": 64,
-    "score": 51,
-    "screen": 51,
-    "screen-score": 47
+    "facing": 104,
+    "score": 84,
+    "screen": 83,
+    "screen-score": 80
+   }
+  },
+  {
+   "slug": "bach-upon-the-cross-extended-2",
+   "title": "Upon the Cross Extended (II)",
+   "subtitle": "O Welt, sieh hier dein Leben \u00b7 BWV 395",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.3,
+    "s": 2.3
+   },
+   "key": "A",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Lent & Passion",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 106,
+    "score": 85,
+    "screen": 85,
+    "screen-score": 81
    }
   },
   {
@@ -759,10 +1237,33 @@
    "section": "Palm Sunday & Easter",
    "problems": [],
    "pages": {
-    "facing": 66,
-    "score": 52,
-    "screen": 53,
-    "screen-score": 48
+    "facing": 108,
+    "score": 86,
+    "screen": 87,
+    "screen-score": 82
+   }
+  },
+  {
+   "slug": "bach-all-glory-laud-and-honor-2",
+   "title": "All Glory, Laud and Honor (II)",
+   "subtitle": "Valet will ich dir geben \u00b7 BWV 245.26",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.0,
+    "s": 2.5
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Palm Sunday & Easter",
+   "problems": [],
+   "pages": {
+    "facing": 110,
+    "score": 88,
+    "screen": 89,
+    "screen-score": 84
    }
   },
   {
@@ -784,10 +1285,10 @@
     "1 moments where Secondo reaches into the Primo's notes"
    ],
    "pages": {
-    "facing": 68,
-    "score": 54,
-    "screen": 55,
-    "screen-score": 50
+    "facing": 112,
+    "score": 89,
+    "screen": 90,
+    "screen-score": 85
    }
   },
   {
@@ -810,10 +1311,33 @@
     "2 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 72,
-    "score": 57,
-    "screen": 58,
-    "screen-score": 53
+    "facing": 116,
+    "score": 92,
+    "screen": 93,
+    "screen-score": 88
+   }
+  },
+  {
+   "slug": "bach-christ-jesus-lay-in-deaths-strong-bands-2",
+   "title": "Christ Jesus Lay in Death's Strong Bands (II)",
+   "subtitle": "Christ lag in Todesbanden \u00b7 BWV 4.8",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.3,
+    "s": 2.7
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Palm Sunday & Easter",
+   "problems": [],
+   "pages": {
+    "facing": 118,
+    "score": 94,
+    "screen": 95,
+    "screen-score": 90
    }
   },
   {
@@ -833,10 +1357,33 @@
    "section": "Palm Sunday & Easter",
    "problems": [],
    "pages": {
-    "facing": 74,
-    "score": 59,
-    "screen": 60,
-    "screen-score": 55
+    "facing": 120,
+    "score": 95,
+    "screen": 97,
+    "screen-score": 91
+   }
+  },
+  {
+   "slug": "bach-jesus-christ-my-sure-defense-2",
+   "title": "Jesus Christ, My Sure Defense (II)",
+   "subtitle": "Jesus, meine Zuversicht \u00b7 BWV 145-a",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.5,
+    "s": 2.6
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Palm Sunday & Easter",
+   "problems": [],
+   "pages": {
+    "facing": 122,
+    "score": 96,
+    "screen": 98,
+    "screen-score": 93
    }
   },
   {
@@ -858,10 +1405,35 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 76,
-    "score": 60,
-    "screen": 61,
-    "screen-score": 57
+    "facing": 124,
+    "score": 97,
+    "screen": 100,
+    "screen-score": 94
+   }
+  },
+  {
+   "slug": "bach-jesus-christ-our-blessed-savior-2",
+   "title": "Jesus Christ, Our Blessed Savior (II)",
+   "subtitle": "Jesus Christus, unser Heiland \u00b7 BWV 364",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.1,
+    "s": 2.8
+   },
+   "key": "Dm",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Palm Sunday & Easter",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 126,
+    "score": 98,
+    "screen": 102,
+    "screen-score": 96
    }
   },
   {
@@ -881,10 +1453,10 @@
    "section": "Palm Sunday & Easter",
    "problems": [],
    "pages": {
-    "facing": 78,
-    "score": 61,
-    "screen": 63,
-    "screen-score": 59
+    "facing": 128,
+    "score": 99,
+    "screen": 103,
+    "screen-score": 97
    }
   },
   {
@@ -906,10 +1478,35 @@
     "2 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 80,
-    "score": 63,
-    "screen": 65,
-    "screen-score": 61
+    "facing": 130,
+    "score": 101,
+    "screen": 105,
+    "screen-score": 99
+   }
+  },
+  {
+   "slug": "bach-all-glory-be-to-god-on-high-2",
+   "title": "All Glory Be to God on High (II)",
+   "subtitle": "Allein Gott in der H\u00f6h sei Ehr \u00b7 BWV 260",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.3,
+    "s": 4.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Pentecost & Trinity",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 132,
+    "score": 102,
+    "screen": 107,
+    "screen-score": 101
    }
   },
   {
@@ -929,10 +1526,10 @@
    "section": "Pentecost & Trinity",
    "problems": [],
    "pages": {
-    "facing": 82,
-    "score": 64,
-    "screen": 67,
-    "screen-score": 63
+    "facing": 134,
+    "score": 104,
+    "screen": 109,
+    "screen-score": 103
    }
   },
   {
@@ -954,10 +1551,10 @@
     "3 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 84,
-    "score": 65,
-    "screen": 68,
-    "screen-score": 64
+    "facing": 136,
+    "score": 105,
+    "screen": 110,
+    "screen-score": 104
    }
   },
   {
@@ -979,10 +1576,10 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 88,
-    "score": 67,
-    "screen": 70,
-    "screen-score": 66
+    "facing": 140,
+    "score": 107,
+    "screen": 112,
+    "screen-score": 106
    }
   },
   {
@@ -1004,10 +1601,10 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 90,
-    "score": 69,
-    "screen": 72,
-    "screen-score": 68
+    "facing": 142,
+    "score": 109,
+    "screen": 114,
+    "screen-score": 108
    }
   },
   {
@@ -1029,10 +1626,10 @@
     "2 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 92,
-    "score": 70,
-    "screen": 73,
-    "screen-score": 69
+    "facing": 144,
+    "score": 110,
+    "screen": 115,
+    "screen-score": 109
    }
   },
   {
@@ -1052,10 +1649,33 @@
    "section": "Pentecost & Trinity",
    "problems": [],
    "pages": {
-    "facing": 96,
-    "score": 74,
-    "screen": 76,
-    "screen-score": 72
+    "facing": 148,
+    "score": 114,
+    "screen": 118,
+    "screen-score": 112
+   }
+  },
+  {
+   "slug": "bach-we-now-implore-god-the-holy-ghost-2",
+   "title": "We Now Implore God the Holy Ghost (II)",
+   "subtitle": "Nun bitten wir den heiligen Geist \u00b7 BWV 197.5",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.6,
+    "s": 3.1
+   },
+   "key": "A",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Pentecost & Trinity",
+   "problems": [],
+   "pages": {
+    "facing": 150,
+    "score": 115,
+    "screen": 120,
+    "screen-score": 113
    }
   },
   {
@@ -1077,10 +1697,10 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 98,
-    "score": 75,
-    "screen": 78,
-    "screen-score": 74
+    "facing": 152,
+    "score": 117,
+    "screen": 122,
+    "screen-score": 114
    }
   },
   {
@@ -1102,10 +1722,33 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 100,
-    "score": 76,
-    "screen": 80,
-    "screen-score": 75
+    "facing": 154,
+    "score": 118,
+    "screen": 124,
+    "screen-score": 115
+   }
+  },
+  {
+   "slug": "bach-grant-peace-we-pray-in-mercy-lord-2",
+   "title": "Grant Peace, We Pray, in Mercy, Lord (II)",
+   "subtitle": "Verleih uns Frieden gn\u00e4diglich \u00b7 BWV 126.6",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.2,
+    "s": 2.7
+   },
+   "key": "Am",
+   "meter": "4/4",
+   "bars": 30,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Reformation",
+   "problems": [],
+   "pages": {
+    "facing": 158,
+    "score": 121,
+    "screen": 127,
+    "screen-score": 117
    }
   },
   {
@@ -1125,10 +1768,10 @@
    "section": "Reformation",
    "problems": [],
    "pages": {
-    "facing": 104,
-    "score": 79,
-    "screen": 83,
-    "screen-score": 77
+    "facing": 162,
+    "score": 124,
+    "screen": 130,
+    "screen-score": 119
    }
   },
   {
@@ -1150,10 +1793,10 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 106,
-    "score": 81,
-    "screen": 84,
-    "screen-score": 79
+    "facing": 164,
+    "score": 126,
+    "screen": 131,
+    "screen-score": 121
    }
   },
   {
@@ -1173,10 +1816,33 @@
    "section": "Reformation",
    "problems": [],
    "pages": {
-    "facing": 108,
-    "score": 82,
-    "screen": 85,
-    "screen-score": 80
+    "facing": 166,
+    "score": 127,
+    "screen": 132,
+    "screen-score": 122
+   }
+  },
+  {
+   "slug": "bach-a-mighty-fortress-is-our-god-2",
+   "title": "A Mighty Fortress Is Our God (II)",
+   "subtitle": "Ein feste Burg ist unser Gott \u00b7 BWV 303",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.4,
+    "s": 2.7
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Reformation",
+   "problems": [],
+   "pages": {
+    "facing": 168,
+    "score": 129,
+    "screen": 134,
+    "screen-score": 124
    }
   },
   {
@@ -1196,10 +1862,33 @@
    "section": "Reformation",
    "problems": [],
    "pages": {
-    "facing": 110,
-    "score": 84,
-    "screen": 87,
-    "screen-score": 82
+    "facing": 170,
+    "score": 130,
+    "screen": 136,
+    "screen-score": 126
+   }
+  },
+  {
+   "slug": "bach-o-lord-look-down-from-heaven-2",
+   "title": "O Lord, Look Down from Heaven (II)",
+   "subtitle": "Ach Gott, vom Himmel sieh darein \u00b7 BWV 77.6",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.9,
+    "s": 3.0
+   },
+   "key": "Dm",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Reformation",
+   "problems": [],
+   "pages": {
+    "facing": 172,
+    "score": 131,
+    "screen": 137,
+    "screen-score": 128
    }
   },
   {
@@ -1219,10 +1908,35 @@
    "section": "Reformation",
    "problems": [],
    "pages": {
-    "facing": 112,
-    "score": 85,
-    "screen": 88,
-    "screen-score": 84
+    "facing": 174,
+    "score": 133,
+    "screen": 139,
+    "screen-score": 130
+   }
+  },
+  {
+   "slug": "bach-salvation-unto-us-has-come-2",
+   "title": "Salvation unto Us Has Come (II)",
+   "subtitle": "Es ist das Heil uns kommen her \u00b7 BWV 9.7",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.7,
+    "s": 4.2
+   },
+   "key": "E",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Reformation",
+   "problems": [
+    "5 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 176,
+    "score": 134,
+    "screen": 140,
+    "screen-score": 131
    }
   },
   {
@@ -1242,10 +1956,10 @@
    "section": "Reformation",
    "problems": [],
    "pages": {
-    "facing": 114,
-    "score": 86,
-    "screen": 89,
-    "screen-score": 86
+    "facing": 178,
+    "score": 136,
+    "screen": 142,
+    "screen-score": 133
    }
   },
   {
@@ -1265,10 +1979,10 @@
    "section": "Praise & Thanksgiving",
    "problems": [],
    "pages": {
-    "facing": 116,
-    "score": 87,
-    "screen": 90,
-    "screen-score": 87
+    "facing": 180,
+    "score": 137,
+    "screen": 143,
+    "screen-score": 134
    }
   },
   {
@@ -1288,10 +2002,10 @@
    "section": "Praise & Thanksgiving",
    "problems": [],
    "pages": {
-    "facing": 118,
-    "score": 88,
-    "screen": 91,
-    "screen-score": 88
+    "facing": 182,
+    "score": 138,
+    "screen": 144,
+    "screen-score": 135
    }
   },
   {
@@ -1311,10 +2025,33 @@
    "section": "Praise & Thanksgiving",
    "problems": [],
    "pages": {
-    "facing": 120,
-    "score": 90,
-    "screen": 93,
-    "screen-score": 90
+    "facing": 184,
+    "score": 140,
+    "screen": 146,
+    "screen-score": 137
+   }
+  },
+  {
+   "slug": "bach-jesu-joy-of-mans-desiring-werde-munter-2",
+   "title": "Jesu, Joy of Man's Desiring (Werde munter) (II)",
+   "subtitle": "Werde munter, mein Gem\u00fcte \u00b7 BWV 244.40",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.4,
+    "s": 2.6
+   },
+   "key": "F#m",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Praise & Thanksgiving",
+   "problems": [],
+   "pages": {
+    "facing": 186,
+    "score": 141,
+    "screen": 147,
+    "screen-score": 138
    }
   },
   {
@@ -1334,10 +2071,10 @@
    "section": "Praise & Thanksgiving",
    "problems": [],
    "pages": {
-    "facing": 122,
-    "score": 91,
-    "screen": 94,
-    "screen-score": 92
+    "facing": 188,
+    "score": 143,
+    "screen": 149,
+    "screen-score": 140
    }
   },
   {
@@ -1357,10 +2094,35 @@
    "section": "Praise & Thanksgiving",
    "problems": [],
    "pages": {
-    "facing": 124,
-    "score": 93,
-    "screen": 96,
-    "screen-score": 94
+    "facing": 190,
+    "score": 145,
+    "screen": 151,
+    "screen-score": 142
+   }
+  },
+  {
+   "slug": "bach-my-soul-now-praise-your-maker-2",
+   "title": "My Soul, Now Praise Your Maker (II)",
+   "subtitle": "Nun lob, mein Seel, den Herren \u00b7 BWV 29.8",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.0,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 41,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Praise & Thanksgiving",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 194,
+    "score": 148,
+    "screen": 154,
+    "screen-score": 145
    }
   },
   {
@@ -1380,10 +2142,10 @@
    "section": "Praise & Thanksgiving",
    "problems": [],
    "pages": {
-    "facing": 128,
-    "score": 96,
-    "screen": 99,
-    "screen-score": 97
+    "facing": 198,
+    "score": 150,
+    "screen": 157,
+    "screen-score": 147
    }
   },
   {
@@ -1403,10 +2165,33 @@
    "section": "Praise & Thanksgiving",
    "problems": [],
    "pages": {
-    "facing": 130,
-    "score": 97,
-    "screen": 101,
-    "screen-score": 99
+    "facing": 200,
+    "score": 151,
+    "screen": 159,
+    "screen-score": 149
+   }
+  },
+  {
+   "slug": "bach-now-thank-we-all-our-god-2",
+   "title": "Now Thank We All Our God (II)",
+   "subtitle": "Nun danket alle Gott \u00b7 BWV 252",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.0,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Praise & Thanksgiving",
+   "problems": [],
+   "pages": {
+    "facing": 202,
+    "score": 152,
+    "screen": 160,
+    "screen-score": 150
    }
   },
   {
@@ -1426,10 +2211,10 @@
    "section": "Praise & Thanksgiving",
    "problems": [],
    "pages": {
-    "facing": 132,
-    "score": 98,
-    "screen": 102,
-    "screen-score": 101
+    "facing": 204,
+    "score": 153,
+    "screen": 161,
+    "screen-score": 151
    }
   },
   {
@@ -1451,10 +2236,10 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 134,
-    "score": 100,
-    "screen": 104,
-    "screen-score": 103
+    "facing": 206,
+    "score": 155,
+    "screen": 163,
+    "screen-score": 153
    }
   },
   {
@@ -1474,10 +2259,10 @@
    "section": "Praise & Thanksgiving",
    "problems": [],
    "pages": {
-    "facing": 136,
-    "score": 102,
-    "screen": 106,
-    "screen-score": 105
+    "facing": 208,
+    "score": 157,
+    "screen": 165,
+    "screen-score": 155
    }
   },
   {
@@ -1497,10 +2282,33 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 138,
-    "score": 103,
-    "screen": 108,
-    "screen-score": 107
+    "facing": 210,
+    "score": 158,
+    "screen": 167,
+    "screen-score": 156
+   }
+  },
+  {
+   "slug": "bach-abide-o-dearest-jesus-2",
+   "title": "Abide, O Dearest Jesus (II)",
+   "subtitle": "Christus, der ist mein Leben \u00b7 BWV 282",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.6,
+    "s": 3.0
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Trust & Prayer",
+   "problems": [],
+   "pages": {
+    "facing": 212,
+    "score": 159,
+    "screen": 168,
+    "screen-score": 157
    }
   },
   {
@@ -1520,10 +2328,33 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 140,
-    "score": 104,
-    "screen": 109,
-    "screen-score": 108
+    "facing": 214,
+    "score": 161,
+    "screen": 170,
+    "screen-score": 159
+   }
+  },
+  {
+   "slug": "bach-blessed-jesus-at-thy-word-2",
+   "title": "Blessed Jesus, at Thy Word (II)",
+   "subtitle": "Liebster Jesu, wir sind hier \u00b7 BWV 373",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.1,
+    "s": 3.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 10,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Trust & Prayer",
+   "problems": [],
+   "pages": {
+    "facing": 216,
+    "score": 162,
+    "screen": 171,
+    "screen-score": 160
    }
   },
   {
@@ -1545,10 +2376,33 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 142,
-    "score": 105,
-    "screen": 110,
-    "screen-score": 109
+    "facing": 218,
+    "score": 163,
+    "screen": 172,
+    "screen-score": 162
+   }
+  },
+  {
+   "slug": "bach-come-follow-me-the-savior-spake-2",
+   "title": "Come, Follow Me, the Savior Spake (II)",
+   "subtitle": "Machs mit mir, Gott, nach deiner G\u00fct \u00b7 BWV 245.22",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.6,
+    "s": 2.8
+   },
+   "key": "E",
+   "meter": "4/4",
+   "bars": 10,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust & Prayer",
+   "problems": [],
+   "pages": {
+    "facing": 220,
+    "score": 164,
+    "screen": 173,
+    "screen-score": 163
    }
   },
   {
@@ -1568,10 +2422,10 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 144,
-    "score": 106,
-    "screen": 111,
-    "screen-score": 110
+    "facing": 222,
+    "score": 165,
+    "screen": 174,
+    "screen-score": 164
    }
   },
   {
@@ -1591,10 +2445,33 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 146,
-    "score": 108,
-    "screen": 113,
-    "screen-score": 112
+    "facing": 224,
+    "score": 167,
+    "screen": 176,
+    "screen-score": 166
+   }
+  },
+  {
+   "slug": "bach-if-thou-but-trust-in-god-to-guide-thee-2",
+   "title": "If Thou But Trust in God to Guide Thee (II)",
+   "subtitle": "Wer nur den lieben Gott l\u00e4sst walten \u00b7 BWV 88.7",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.3,
+    "s": 2.8
+   },
+   "key": "Bm",
+   "meter": "4/4",
+   "bars": 11,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust & Prayer",
+   "problems": [],
+   "pages": {
+    "facing": 226,
+    "score": 168,
+    "screen": 177,
+    "screen-score": 167
    }
   },
   {
@@ -1614,10 +2491,10 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 148,
-    "score": 109,
-    "screen": 114,
-    "screen-score": 113
+    "facing": 228,
+    "score": 169,
+    "screen": 178,
+    "screen-score": 168
    }
   },
   {
@@ -1637,10 +2514,33 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 150,
-    "score": 111,
-    "screen": 116,
-    "screen-score": 115
+    "facing": 230,
+    "score": 171,
+    "screen": 180,
+    "screen-score": 170
+   }
+  },
+  {
+   "slug": "bach-in-thee-lord-have-i-put-my-trust-2",
+   "title": "In Thee, Lord, Have I Put My Trust (II)",
+   "subtitle": "In dich hab ich gehoffet, Herr \u00b7 BWV 244.32",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.3,
+    "s": 3.6
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Trust & Prayer",
+   "problems": [],
+   "pages": {
+    "facing": 232,
+    "score": 172,
+    "screen": 182,
+    "screen-score": 172
    }
   },
   {
@@ -1660,10 +2560,35 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 152,
-    "score": 112,
-    "screen": 118,
-    "screen-score": 117
+    "facing": 234,
+    "score": 173,
+    "screen": 184,
+    "screen-score": 174
+   }
+  },
+  {
+   "slug": "bach-jesus-i-will-never-leave-2",
+   "title": "Jesus I Will Never Leave (II)",
+   "subtitle": "Meinen Jesum lass ich nicht \u00b7 BWV 154.8",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.3,
+    "s": 2.8
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust & Prayer",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 236,
+    "score": 174,
+    "screen": 185,
+    "screen-score": 176
    }
   },
   {
@@ -1683,10 +2608,10 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 154,
-    "score": 113,
-    "screen": 119,
-    "screen-score": 119
+    "facing": 238,
+    "score": 176,
+    "screen": 187,
+    "screen-score": 177
    }
   },
   {
@@ -1706,10 +2631,33 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 156,
-    "score": 115,
-    "screen": 120,
-    "screen-score": 121
+    "facing": 240,
+    "score": 178,
+    "screen": 188,
+    "screen-score": 179
+   }
+  },
+  {
+   "slug": "bach-jesus-my-souls-delight-2",
+   "title": "Jesus, My Soul's Delight (II)",
+   "subtitle": "Jesu, meiner Seelen Wonne \u00b7 BWV 359",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.1,
+    "s": 2.6
+   },
+   "key": "A",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust & Prayer",
+   "problems": [],
+   "pages": {
+    "facing": 242,
+    "score": 179,
+    "screen": 189,
+    "screen-score": 180
    }
   },
   {
@@ -1731,10 +2679,33 @@
     "3 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 158,
-    "score": 116,
-    "screen": 121,
-    "screen-score": 122
+    "facing": 244,
+    "score": 180,
+    "screen": 191,
+    "screen-score": 181
+   }
+  },
+  {
+   "slug": "bach-jesus-priceless-treasure-2",
+   "title": "Jesus, Priceless Treasure (II)",
+   "subtitle": "Jesu, meine Freude \u00b7 BWV 64.8",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.1,
+    "s": 2.5
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust & Prayer",
+   "problems": [],
+   "pages": {
+    "facing": 246,
+    "score": 182,
+    "screen": 193,
+    "screen-score": 183
    }
   },
   {
@@ -1754,10 +2725,35 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 160,
-    "score": 118,
-    "screen": 123,
-    "screen-score": 124
+    "facing": 248,
+    "score": 183,
+    "screen": 195,
+    "screen-score": 184
+   }
+  },
+  {
+   "slug": "bach-jesus-who-my-soul-hast-rescued-2",
+   "title": "Jesus, Who My Soul Hast Rescued (II)",
+   "subtitle": "Jesu, der du meine Seele \u00b7 BWV 353",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.2,
+    "s": 2.6
+   },
+   "key": "Gm",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Trust & Prayer",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 250,
+    "score": 184,
+    "screen": 197,
+    "screen-score": 186
    }
   },
   {
@@ -1777,10 +2773,10 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 162,
-    "score": 120,
-    "screen": 125,
-    "screen-score": 126
+    "facing": 252,
+    "score": 185,
+    "screen": 199,
+    "screen-score": 187
    }
   },
   {
@@ -1800,10 +2796,35 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 164,
-    "score": 121,
-    "screen": 126,
-    "screen-score": 127
+    "facing": 254,
+    "score": 186,
+    "screen": 200,
+    "screen-score": 188
+   }
+  },
+  {
+   "slug": "bach-o-god-thou-faithful-god-2",
+   "title": "O God, Thou Faithful God (II)",
+   "subtitle": "O Gott, du frommer Gott \u00b7 BWV 398",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.9,
+    "s": 2.7
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust & Prayer",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 256,
+    "score": 188,
+    "screen": 202,
+    "screen-score": 190
    }
   },
   {
@@ -1823,10 +2844,10 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 166,
-    "score": 123,
-    "screen": 128,
-    "screen-score": 129
+    "facing": 258,
+    "score": 190,
+    "screen": 204,
+    "screen-score": 192
    }
   },
   {
@@ -1848,10 +2869,33 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 168,
-    "score": 125,
-    "screen": 130,
-    "screen-score": 131
+    "facing": 260,
+    "score": 192,
+    "screen": 206,
+    "screen-score": 194
+   }
+  },
+  {
+   "slug": "bach-our-father-thou-in-heaven-above-2",
+   "title": "Our Father, Thou in Heaven Above (II)",
+   "subtitle": "Vater unser im Himmelreich \u00b7 BWV 102.7",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.3,
+    "s": 2.5
+   },
+   "key": "Gm",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust & Prayer",
+   "problems": [],
+   "pages": {
+    "facing": 262,
+    "score": 193,
+    "screen": 208,
+    "screen-score": 195
    }
   },
   {
@@ -1871,10 +2915,10 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 170,
-    "score": 126,
-    "screen": 132,
-    "screen-score": 133
+    "facing": 264,
+    "score": 194,
+    "screen": 210,
+    "screen-score": 197
    }
   },
   {
@@ -1894,10 +2938,35 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 172,
-    "score": 128,
-    "screen": 134,
-    "screen-score": 135
+    "facing": 266,
+    "score": 196,
+    "screen": 212,
+    "screen-score": 199
+   }
+  },
+  {
+   "slug": "bach-what-god-ordains-is-always-good-2",
+   "title": "What God Ordains Is Always Good (II)",
+   "subtitle": "Was Gott tut, das ist wohlgetan \u00b7 BWV 69.6-a",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.2,
+    "s": 3.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Trust & Prayer",
+   "problems": [
+    "4 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 268,
+    "score": 197,
+    "screen": 213,
+    "screen-score": 200
    }
   },
   {
@@ -1917,10 +2986,33 @@
    "section": "Trust & Prayer",
    "problems": [],
    "pages": {
-    "facing": 174,
-    "score": 129,
-    "screen": 135,
-    "screen-score": 136
+    "facing": 270,
+    "score": 198,
+    "screen": 214,
+    "screen-score": 202
+   }
+  },
+  {
+   "slug": "bach-when-in-the-hour-of-deepest-need-2",
+   "title": "When in the Hour of Deepest Need (II)",
+   "subtitle": "Wenn wir in h\u00f6chsten N\u00f6ten sein \u00b7 BWV 432",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.6,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 10,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust & Prayer",
+   "problems": [],
+   "pages": {
+    "facing": 272,
+    "score": 199,
+    "screen": 215,
+    "screen-score": 203
    }
   },
   {
@@ -1942,10 +3034,33 @@
     "2 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 176,
-    "score": 130,
-    "screen": 136,
-    "screen-score": 137
+    "facing": 274,
+    "score": 200,
+    "screen": 216,
+    "screen-score": 204
+   }
+  },
+  {
+   "slug": "bach-why-should-cross-and-trial-grieve-me-2",
+   "title": "Why Should Cross and Trial Grieve Me (II)",
+   "subtitle": "Warum sollt ich mich denn gr\u00e4men \u00b7 BWV 422",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.0,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Trust & Prayer",
+   "problems": [],
+   "pages": {
+    "facing": 276,
+    "score": 202,
+    "screen": 218,
+    "screen-score": 206
    }
   },
   {
@@ -1967,10 +3082,35 @@
     "2 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 178,
-    "score": 132,
-    "screen": 138,
-    "screen-score": 139
+    "facing": 278,
+    "score": 203,
+    "screen": 220,
+    "screen-score": 207
+   }
+  },
+  {
+   "slug": "bach-the-will-of-god-is-always-best-2",
+   "title": "The Will of God Is Always Best (II)",
+   "subtitle": "Was mein Gott will, das g'scheh allzeit \u00b7 BWV 103.6",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.4,
+    "s": 2.6
+   },
+   "key": "Bm",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Trust & Prayer",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 280,
+    "score": 205,
+    "screen": 222,
+    "screen-score": 209
    }
   },
   {
@@ -1990,10 +3130,10 @@
    "section": "Morning & Evening",
    "problems": [],
    "pages": {
-    "facing": 180,
-    "score": 134,
-    "screen": 140,
-    "screen-score": 141
+    "facing": 282,
+    "score": 206,
+    "screen": 224,
+    "screen-score": 210
    }
   },
   {
@@ -2013,10 +3153,33 @@
    "section": "Morning & Evening",
    "problems": [],
    "pages": {
-    "facing": 182,
-    "score": 135,
-    "screen": 141,
-    "screen-score": 143
+    "facing": 284,
+    "score": 207,
+    "screen": 225,
+    "screen-score": 212
+   }
+  },
+  {
+   "slug": "bach-i-thank-thee-dear-lord-2",
+   "title": "I Thank Thee, Dear Lord (II)",
+   "subtitle": "Ich dank dir, lieber Herre \u00b7 BWV 348",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.4,
+    "s": 3.4
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Morning & Evening",
+   "problems": [],
+   "pages": {
+    "facing": 286,
+    "score": 209,
+    "screen": 227,
+    "screen-score": 214
    }
   },
   {
@@ -2036,10 +3199,10 @@
    "section": "Morning & Evening",
    "problems": [],
    "pages": {
-    "facing": 184,
-    "score": 137,
-    "screen": 143,
-    "screen-score": 145
+    "facing": 288,
+    "score": 211,
+    "screen": 229,
+    "screen-score": 216
    }
   },
   {
@@ -2059,10 +3222,10 @@
    "section": "Morning & Evening",
    "problems": [],
    "pages": {
-    "facing": 186,
-    "score": 138,
-    "screen": 144,
-    "screen-score": 146
+    "facing": 290,
+    "score": 212,
+    "screen": 230,
+    "screen-score": 217
    }
   },
   {
@@ -2084,10 +3247,35 @@
     "1 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 188,
-    "score": 140,
-    "screen": 146,
-    "screen-score": 148
+    "facing": 292,
+    "score": 214,
+    "screen": 232,
+    "screen-score": 219
+   }
+  },
+  {
+   "slug": "bach-now-rest-beneath-nights-shadow-2",
+   "title": "Now Rest Beneath Night's Shadow (II)",
+   "subtitle": "Nun ruhen alle W\u00e4lder \u00b7 BWV 13.6",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.0,
+    "s": 2.2
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Morning & Evening",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 294,
+    "score": 216,
+    "screen": 234,
+    "screen-score": 221
    }
   },
   {
@@ -2107,10 +3295,10 @@
    "section": "Morning & Evening",
    "problems": [],
    "pages": {
-    "facing": 190,
-    "score": 142,
-    "screen": 148,
-    "screen-score": 150
+    "facing": 296,
+    "score": 217,
+    "screen": 236,
+    "screen-score": 222
    }
   },
   {
@@ -2130,10 +3318,10 @@
    "section": "The Last Things",
    "problems": [],
    "pages": {
-    "facing": 192,
-    "score": 143,
-    "screen": 150,
-    "screen-score": 152
+    "facing": 298,
+    "score": 218,
+    "screen": 238,
+    "screen-score": 224
    }
   },
   {
@@ -2153,10 +3341,35 @@
    "section": "The Last Things",
    "problems": [],
    "pages": {
-    "facing": 194,
-    "score": 144,
-    "screen": 151,
-    "screen-score": 153
+    "facing": 300,
+    "score": 219,
+    "screen": 239,
+    "screen-score": 225
+   }
+  },
+  {
+   "slug": "bach-the-day-is-surely-drawing-near-2",
+   "title": "The Day Is Surely Drawing Near (II)",
+   "subtitle": "Es ist gewisslich an der Zeit \u00b7 BWV 248.59-6",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.3,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "The Last Things",
+   "problems": [
+    "6 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 302,
+    "score": 220,
+    "screen": 240,
+    "screen-score": 227
    }
   },
   {
@@ -2178,10 +3391,35 @@
     "8 moments where a player's hands cross"
    ],
    "pages": {
-    "facing": 196,
-    "score": 145,
-    "screen": 152,
-    "screen-score": 155
+    "facing": 304,
+    "score": 221,
+    "screen": 242,
+    "screen-score": 228
+   }
+  },
+  {
+   "slug": "bach-in-peace-and-joy-i-now-depart-2",
+   "title": "In Peace and Joy I Now Depart (II)",
+   "subtitle": "Mit Fried und Freud ich fahr dahin \u00b7 BWV 83.5",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.8,
+    "s": 3.2
+   },
+   "key": "Am",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "The Last Things",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 306,
+    "score": 222,
+    "screen": 244,
+    "screen-score": 229
    }
   },
   {
@@ -2201,10 +3439,10 @@
    "section": "The Last Things",
    "problems": [],
    "pages": {
-    "facing": 198,
-    "score": 146,
-    "screen": 154,
-    "screen-score": 157
+    "facing": 308,
+    "score": 224,
+    "screen": 245,
+    "screen-score": 231
    }
   },
   {
@@ -2224,12 +3462,37 @@
    "section": "The Last Things",
    "problems": [],
    "pages": {
-    "facing": 200,
-    "score": 148,
-    "screen": 156,
-    "screen-score": 159
+    "facing": 310,
+    "score": 226,
+    "screen": 247,
+    "screen-score": 233
+   }
+  },
+  {
+   "slug": "bach-o-eternity-thou-thunderous-word-2",
+   "title": "O Eternity, Thou Thunderous Word (II)",
+   "subtitle": "O Ewigkeit, du Donnerwort \u00b7 BWV 397",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.2,
+    "s": 2.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "The Last Things",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 312,
+    "score": 228,
+    "screen": 249,
+    "screen-score": 235
    }
   }
  ],
- "seconds": 154.9
+ "seconds": 206.2
 }

@@ -1,0 +1,2203 @@
+{
+ "id": "oldies",
+ "title": "Gaslight & Tin Pan Alley",
+ "subtitle": "Parlour songs, waltzes and marches, 1860\u20131925, for piano four hands",
+ "blurb": "Sweetheart waltzes, vaudeville numbers, Cohan marches and Neapolitan songs.",
+ "pieces": 93,
+ "layouts": {
+  "facing": {
+   "path": "/home/user/duets/books/oldies/oldies-facing.pdf",
+   "pages": 281,
+   "bytes": 3173599
+  },
+  "score": {
+   "path": "/home/user/duets/books/oldies/oldies-score.pdf",
+   "pages": 231,
+   "bytes": 2587682
+  },
+  "screen": {
+   "path": "/home/user/duets/books/oldies/oldies-screen.pdf",
+   "pages": 240,
+   "bytes": 3202342
+  },
+  "screen-score": {
+   "path": "/home/user/duets/books/oldies/oldies-screen-score.pdf",
+   "pages": 221,
+   "bytes": 2371145
+  }
+ },
+ "items": [
+  {
+   "slug": "after-the-ball",
+   "title": "After the Ball",
+   "subtitle": "",
+   "composer": "Charles K. Harris, 1892",
+   "levels": {
+    "p": 2.5,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 96,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 6,
+    "screen": 4,
+    "screen-score": 4
+   }
+  },
+  {
+   "slug": "ah-sweet-mystery-of-life",
+   "title": "Ah! Sweet Mystery of Life",
+   "subtitle": "",
+   "composer": "Victor Herbert, 1910",
+   "levels": {
+    "p": 2.5,
+    "s": 2.8
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 10,
+    "screen": 8,
+    "screen-score": 8
+   }
+  },
+  {
+   "slug": "alabama-jubilee",
+   "title": "Alabama Jubilee",
+   "subtitle": "",
+   "composer": "George L. Cobb, 1915",
+   "levels": {
+    "p": 1.5,
+    "s": 2.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 12,
+    "score": 12,
+    "screen": 10,
+    "screen-score": 10
+   }
+  },
+  {
+   "slug": "alice-blue-gown",
+   "title": "Alice Blue Gown",
+   "subtitle": "",
+   "composer": "Harry Tierney, 1919",
+   "levels": {
+    "p": 2.5,
+    "s": 2.1
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 36,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 14,
+    "screen": 12,
+    "screen-score": 12
+   }
+  },
+  {
+   "slug": "aloha-oe",
+   "title": "Aloha Oe",
+   "subtitle": "",
+   "composer": "Queen Lili\u02bbuokalani, 1878",
+   "levels": {
+    "p": 1.4,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 16,
+    "screen": 14,
+    "screen-score": 14
+   }
+  },
+  {
+   "slug": "amapola",
+   "title": "Amapola",
+   "subtitle": "",
+   "composer": "Joseph Lacalle, 1920",
+   "levels": {
+    "p": 2.7,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 20,
+    "score": 19,
+    "screen": 17,
+    "screen-score": 17
+   }
+  },
+  {
+   "slug": "ballin-the-jack",
+   "title": "Ballin' the Jack",
+   "subtitle": "",
+   "composer": "Chris Smith, 1913",
+   "levels": {
+    "p": 2.7,
+    "s": 2.5
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 22,
+    "screen": 20,
+    "screen-score": 20
+   }
+  },
+  {
+   "slug": "the-band-played-on",
+   "title": "The Band Played On",
+   "subtitle": "",
+   "composer": "Charles B. Ward, 1895",
+   "levels": {
+    "p": 1.5,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 34,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 24,
+    "screen": 22,
+    "screen-score": 21
+   }
+  },
+  {
+   "slug": "because",
+   "title": "Because",
+   "subtitle": "",
+   "composer": "Guy d'Hardelot, 1902",
+   "levels": {
+    "p": 2.4,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 36,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 28,
+    "score": 26,
+    "screen": 24,
+    "screen-score": 23
+   }
+  },
+  {
+   "slug": "the-bells-of-st-marys",
+   "title": "The Bells of St. Mary's",
+   "subtitle": "",
+   "composer": "A. Emmett Adams, 1917",
+   "levels": {
+    "p": 3.6,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [
+    "6 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 32,
+    "score": 29,
+    "screen": 27,
+    "screen-score": 25
+   }
+  },
+  {
+   "slug": "bill-bailey-wont-you-please-come-home",
+   "title": "Bill Bailey, Won't You Please Come Home?",
+   "subtitle": "",
+   "composer": "Hughie Cannon, 1902",
+   "levels": {
+    "p": 1.4,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 34,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 36,
+    "score": 32,
+    "screen": 30,
+    "screen-score": 28
+   }
+  },
+  {
+   "slug": "a-bird-in-a-gilded-cage",
+   "title": "A Bird in a Gilded Cage",
+   "subtitle": "",
+   "composer": "Harry Von Tilzer, 1900",
+   "levels": {
+    "p": 2.7,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 65,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 34,
+    "screen": 32,
+    "screen-score": 30
+   }
+  },
+  {
+   "slug": "by-the-light-of-the-silvery-moon",
+   "title": "By the Light of the Silvery Moon",
+   "subtitle": "",
+   "composer": "Gus Edwards, 1909",
+   "levels": {
+    "p": 2.2,
+    "s": 3.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 37,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 37,
+    "screen": 35,
+    "screen-score": 33
+   }
+  },
+  {
+   "slug": "chinatown-my-chinatown",
+   "title": "Chinatown, My Chinatown",
+   "subtitle": "",
+   "composer": "Jean Schwartz, 1910",
+   "levels": {
+    "p": 1.4,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 39,
+    "screen": 37,
+    "screen-score": 35
+   }
+  },
+  {
+   "slug": "ciribiribin",
+   "title": "Ciribiribin",
+   "subtitle": "",
+   "composer": "Alberto Pestalozza, 1898",
+   "levels": {
+    "p": 2.3,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 72,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 41,
+    "screen": 39,
+    "screen-score": 37
+   }
+  },
+  {
+   "slug": "come-josephine-in-my-flying-machine",
+   "title": "Come, Josephine, in My Flying Machine",
+   "subtitle": "",
+   "composer": "Fred Fisher, 1910",
+   "levels": {
+    "p": 1.6,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 66,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 52,
+    "score": 45,
+    "screen": 43,
+    "screen-score": 41
+   }
+  },
+  {
+   "slug": "core-ngrato",
+   "title": "Core 'ngrato",
+   "subtitle": "",
+   "composer": "Salvatore Cardillo, 1911",
+   "levels": {
+    "p": 2.9,
+    "s": 3.5
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 30,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 56,
+    "score": 48,
+    "screen": 46,
+    "screen-score": 44
+   }
+  },
+  {
+   "slug": "cuddle-up-a-little-closer-lovey-mine",
+   "title": "Cuddle Up a Little Closer, Lovey Mine",
+   "subtitle": "",
+   "composer": "Karl Hoschna, 1908",
+   "levels": {
+    "p": 1.8,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 60,
+    "score": 51,
+    "screen": 50,
+    "screen-score": 47
+   }
+  },
+  {
+   "slug": "daddy-wouldnt-buy-me-a-bow-wow",
+   "title": "Daddy Wouldn't Buy Me a Bow-Wow",
+   "subtitle": "",
+   "composer": "Joseph Tabrar, 1892",
+   "levels": {
+    "p": 1.7,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 62,
+    "score": 53,
+    "screen": 52,
+    "screen-score": 49
+   }
+  },
+  {
+   "slug": "daisy-bell-a-bicycle-built-for-two",
+   "title": "Daisy Bell (A Bicycle Built for Two)",
+   "subtitle": "",
+   "composer": "Harry Dacre, 1892",
+   "levels": {
+    "p": 1.8,
+    "s": 1.9
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 55,
+    "screen": 54,
+    "screen-score": 51
+   }
+  },
+  {
+   "slug": "dardanella",
+   "title": "Dardanella",
+   "subtitle": "",
+   "composer": "Felix Bernard & Johnny S. Black, 1919",
+   "levels": {
+    "p": 4.2,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "2/2",
+   "bars": 57,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 57,
+    "screen": 56,
+    "screen-score": 53
+   }
+  },
+  {
+   "slug": "the-daring-young-man-on-the-flying-trapeze",
+   "title": "The Daring Young Man on the Flying Trapeze",
+   "subtitle": "",
+   "composer": "Gaston Lyle, 1867",
+   "levels": {
+    "p": 1.5,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 49,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 70,
+    "score": 61,
+    "screen": 60,
+    "screen-score": 57
+   }
+  },
+  {
+   "slug": "fascination",
+   "title": "Fascination",
+   "subtitle": "",
+   "composer": "Fermo Dante Marchetti, 1904",
+   "levels": {
+    "p": 3.1,
+    "s": 2.2
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 72,
+    "score": 63,
+    "screen": 62,
+    "screen-score": 59
+   }
+  },
+  {
+   "slug": "funiculi-funicula",
+   "title": "Funicul\u00ec funicul\u00e0",
+   "subtitle": "",
+   "composer": "Luigi Denza, 1880",
+   "levels": {
+    "p": 2.8,
+    "s": 4.0
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 54,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 74,
+    "score": 65,
+    "screen": 64,
+    "screen-score": 61
+   }
+  },
+  {
+   "slug": "give-my-regards-to-broadway",
+   "title": "Give My Regards to Broadway",
+   "subtitle": "",
+   "composer": "George M. Cohan, 1904",
+   "levels": {
+    "p": 1.2,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 78,
+    "score": 69,
+    "screen": 68,
+    "screen-score": 65
+   }
+  },
+  {
+   "slug": "the-holy-city",
+   "title": "The Holy City",
+   "subtitle": "",
+   "composer": "Stephen Adams, 1892",
+   "levels": {
+    "p": 2.6,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 64,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 80,
+    "score": 71,
+    "screen": 70,
+    "screen-score": 67
+   }
+  },
+  {
+   "slug": "the-honeysuckle-and-the-bee",
+   "title": "The Honeysuckle and the Bee",
+   "subtitle": "",
+   "composer": "William H. Penn, 1901",
+   "levels": {
+    "p": 2.0,
+    "s": 2.8
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 86,
+    "score": 76,
+    "screen": 75,
+    "screen-score": 72
+   }
+  },
+  {
+   "slug": "i-belong-to-glasgow",
+   "title": "I Belong to Glasgow",
+   "subtitle": "",
+   "composer": "Will Fyffe, 1920",
+   "levels": {
+    "p": 3.2,
+    "s": 2.6
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 88,
+    "score": 77,
+    "screen": 76,
+    "screen-score": 73
+   }
+  },
+  {
+   "slug": "i-do-like-to-be-beside-the-seaside",
+   "title": "I Do Like to Be Beside the Seaside",
+   "subtitle": "",
+   "composer": "John A. Glover-Kind, 1907",
+   "levels": {
+    "p": 2.2,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 33,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 92,
+    "score": 79,
+    "screen": 79,
+    "screen-score": 75
+   }
+  },
+  {
+   "slug": "i-want-a-girl",
+   "title": "I Want a Girl",
+   "subtitle": "",
+   "composer": "Harry Von Tilzer, 1911",
+   "levels": {
+    "p": 2.4,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "2/4",
+   "bars": 54,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 94,
+    "score": 81,
+    "screen": 81,
+    "screen-score": 77
+   }
+  },
+  {
+   "slug": "ida-sweet-as-apple-cider",
+   "title": "Ida! Sweet as Apple Cider",
+   "subtitle": "",
+   "composer": "Eddie Munson, 1903",
+   "levels": {
+    "p": 2.1,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 98,
+    "score": 83,
+    "screen": 84,
+    "screen-score": 79
+   }
+  },
+  {
+   "slug": "if-you-were-the-only-girl-in-the-world",
+   "title": "If You Were the Only Girl in the World",
+   "subtitle": "",
+   "composer": "Nat D. Ayer, 1916",
+   "levels": {
+    "p": 3.2,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 41,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [
+    "6 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 100,
+    "score": 85,
+    "screen": 86,
+    "screen-score": 81
+   }
+  },
+  {
+   "slug": "ill-be-with-you-in-apple-blossom-time",
+   "title": "I'll Be with You in Apple Blossom Time",
+   "subtitle": "",
+   "composer": "Albert Von Tilzer, 1920",
+   "levels": {
+    "p": 1.6,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 104,
+    "score": 88,
+    "screen": 89,
+    "screen-score": 84
+   }
+  },
+  {
+   "slug": "ill-take-you-home-again-kathleen",
+   "title": "I'll Take You Home Again, Kathleen",
+   "subtitle": "",
+   "composer": "Thomas P. Westendorf, 1875",
+   "levels": {
+    "p": 2.2,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [
+    "5 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 106,
+    "score": 90,
+    "screen": 91,
+    "screen-score": 86
+   }
+  },
+  {
+   "slug": "im-always-chasing-rainbows",
+   "title": "I'm Always Chasing Rainbows",
+   "subtitle": "",
+   "composer": "Harry Carroll (after Chopin), 1918",
+   "levels": {
+    "p": 2.1,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 108,
+    "score": 92,
+    "screen": 93,
+    "screen-score": 88
+   }
+  },
+  {
+   "slug": "im-falling-in-love-with-someone",
+   "title": "I'm Falling in Love with Someone",
+   "subtitle": "",
+   "composer": "Victor Herbert, 1910",
+   "levels": {
+    "p": 1.9,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 49,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 112,
+    "score": 94,
+    "screen": 96,
+    "screen-score": 91
+   }
+  },
+  {
+   "slug": "im-forever-blowing-bubbles",
+   "title": "I'm Forever Blowing Bubbles",
+   "subtitle": "",
+   "composer": "John Kellette, 1919",
+   "levels": {
+    "p": 2.5,
+    "s": 2.2
+   },
+   "key": "Bb",
+   "meter": "3/4",
+   "bars": 58,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 114,
+    "score": 96,
+    "screen": 98,
+    "screen-score": 93
+   }
+  },
+  {
+   "slug": "in-my-merry-oldsmobile",
+   "title": "In My Merry Oldsmobile",
+   "subtitle": "",
+   "composer": "Gus Edwards, 1905",
+   "levels": {
+    "p": 1.5,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 118,
+    "score": 99,
+    "screen": 101,
+    "screen-score": 96
+   }
+  },
+  {
+   "slug": "in-the-good-old-summertime",
+   "title": "In the Good Old Summertime",
+   "subtitle": "",
+   "composer": "George Evans, 1902",
+   "levels": {
+    "p": 3.4,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 120,
+    "score": 101,
+    "screen": 103,
+    "screen-score": 98
+   }
+  },
+  {
+   "slug": "in-the-shade-of-the-old-apple-tree",
+   "title": "In the Shade of the Old Apple Tree",
+   "subtitle": "",
+   "composer": "Egbert Van Alstyne, 1905",
+   "levels": {
+    "p": 1.9,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 124,
+    "score": 104,
+    "screen": 106,
+    "screen-score": 101
+   }
+  },
+  {
+   "slug": "indian-summer",
+   "title": "Indian Summer",
+   "subtitle": "",
+   "composer": "Victor Herbert, 1919",
+   "levels": {
+    "p": 2.2,
+    "s": 2.6
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 126,
+    "score": 106,
+    "screen": 108,
+    "screen-score": 103
+   }
+  },
+  {
+   "slug": "its-a-long-way-to-tipperary",
+   "title": "It's a Long Way to Tipperary",
+   "subtitle": "",
+   "composer": "Jack Judge, 1912",
+   "levels": {
+    "p": 1.9,
+    "s": 2.1
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 130,
+    "score": 109,
+    "screen": 111,
+    "screen-score": 106
+   }
+  },
+  {
+   "slug": "keep-the-home-fires-burning",
+   "title": "Keep the Home Fires Burning",
+   "subtitle": "",
+   "composer": "Ivor Novello, 1914",
+   "levels": {
+    "p": 4.1,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 39,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [
+    "4 moments where Secondo reaches into the Primo's notes",
+    "4 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 132,
+    "score": 111,
+    "screen": 113,
+    "screen-score": 108
+   }
+  },
+  {
+   "slug": "a-kiss-in-the-dark",
+   "title": "A Kiss in the Dark",
+   "subtitle": "",
+   "composer": "Victor Herbert, 1922",
+   "levels": {
+    "p": 1.9,
+    "s": 3.0
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 136,
+    "score": 115,
+    "screen": 117,
+    "screen-score": 112
+   }
+  },
+  {
+   "slug": "kiss-me-again",
+   "title": "Kiss Me Again",
+   "subtitle": "",
+   "composer": "Victor Herbert, 1905",
+   "levels": {
+    "p": 3.0,
+    "s": 2.4
+   },
+   "key": "A",
+   "meter": "3/4",
+   "bars": 38,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 138,
+    "score": 117,
+    "screen": 119,
+    "screen-score": 114
+   }
+  },
+  {
+   "slug": "la-cumparsita",
+   "title": "La Cumparsita",
+   "subtitle": "",
+   "composer": "Gerardo Matos Rodr\u00edguez, 1916",
+   "levels": {
+    "p": 2.7,
+    "s": 3.2
+   },
+   "key": "Gm",
+   "meter": "4/4",
+   "bars": 34,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 140,
+    "score": 119,
+    "screen": 121,
+    "screen-score": 116
+   }
+  },
+  {
+   "slug": "la-golondrina",
+   "title": "La Golondrina",
+   "subtitle": "",
+   "composer": "Narciso Serradell, 1862",
+   "levels": {
+    "p": 3.0,
+    "s": 2.0
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [
+    "8 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 144,
+    "score": 122,
+    "screen": 124,
+    "screen-score": 119
+   }
+  },
+  {
+   "slug": "la-paloma",
+   "title": "La Paloma",
+   "subtitle": "",
+   "composer": "Sebasti\u00e1n Yradier, 1863",
+   "levels": {
+    "p": 2.1,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 36,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 146,
+    "score": 124,
+    "screen": 126,
+    "screen-score": 121
+   }
+  },
+  {
+   "slug": "let-me-call-you-sweetheart",
+   "title": "Let Me Call You Sweetheart",
+   "subtitle": "",
+   "composer": "Leo Friedman, 1910",
+   "levels": {
+    "p": 1.3,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 148,
+    "score": 126,
+    "screen": 128,
+    "screen-score": 123
+   }
+  },
+  {
+   "slug": "lily-of-laguna",
+   "title": "Lily of Laguna",
+   "subtitle": "",
+   "composer": "Leslie Stuart, 1898",
+   "levels": {
+    "p": 3.4,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 150,
+    "score": 128,
+    "screen": 130,
+    "screen-score": 125
+   }
+  },
+  {
+   "slug": "little-brown-jug",
+   "title": "Little Brown Jug",
+   "subtitle": "",
+   "composer": "Joseph Winner, 1869",
+   "levels": {
+    "p": 1.7,
+    "s": 2.1
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 63,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 152,
+    "score": 130,
+    "screen": 132,
+    "screen-score": 127
+   }
+  },
+  {
+   "slug": "the-love-nest",
+   "title": "The Love Nest",
+   "subtitle": "",
+   "composer": "Louis A. Hirsch, 1920",
+   "levels": {
+    "p": 1.6,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 156,
+    "score": 134,
+    "screen": 136,
+    "screen-score": 130
+   }
+  },
+  {
+   "slug": "marcheta",
+   "title": "Marcheta",
+   "subtitle": "",
+   "composer": "Victor Schertzinger, 1913",
+   "levels": {
+    "p": 2.7,
+    "s": 2.6
+   },
+   "key": "Eb",
+   "meter": "3/4",
+   "bars": 41,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 160,
+    "score": 137,
+    "screen": 139,
+    "screen-score": 133
+   }
+  },
+  {
+   "slug": "marys-a-grand-old-name",
+   "title": "Mary's a Grand Old Name",
+   "subtitle": "",
+   "composer": "George M. Cohan, 1905",
+   "levels": {
+    "p": 3.4,
+    "s": 2.3
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 34,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [
+    "26 moments where Secondo reaches into the Primo's notes",
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 162,
+    "score": 139,
+    "screen": 141,
+    "screen-score": 135
+   }
+  },
+  {
+   "slug": "melody-of-love",
+   "title": "Melody of Love",
+   "subtitle": "",
+   "composer": "H. Engelmann, 1903",
+   "levels": {
+    "p": 1.4,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 64,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 166,
+    "score": 143,
+    "screen": 145,
+    "screen-score": 138
+   }
+  },
+  {
+   "slug": "memories",
+   "title": "Memories",
+   "subtitle": "",
+   "composer": "Egbert Van Alstyne, 1915",
+   "levels": {
+    "p": 3.1,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 24,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 170,
+    "score": 146,
+    "screen": 148,
+    "screen-score": 141
+   }
+  },
+  {
+   "slug": "missouri-waltz",
+   "title": "Missouri Waltz",
+   "subtitle": "",
+   "composer": "Frederic Knight Logan, 1914",
+   "levels": {
+    "p": 2.3,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 172,
+    "score": 148,
+    "screen": 150,
+    "screen-score": 143
+   }
+  },
+  {
+   "slug": "moonlight-and-roses",
+   "title": "Moonlight and Roses",
+   "subtitle": "",
+   "composer": "Edwin H. Lemare (Andantino in D flat), 1925",
+   "levels": {
+    "p": 1.3,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 174,
+    "score": 150,
+    "screen": 152,
+    "screen-score": 145
+   }
+  },
+  {
+   "slug": "my-gal-sal",
+   "title": "My Gal Sal",
+   "subtitle": "",
+   "composer": "Paul Dresser, 1905",
+   "levels": {
+    "p": 2.6,
+    "s": 2.1
+   },
+   "key": "Bb",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 176,
+    "score": 151,
+    "screen": 154,
+    "screen-score": 146
+   }
+  },
+  {
+   "slug": "my-old-man-said-follow-the-van",
+   "title": "My Old Man (Said Follow the Van)",
+   "subtitle": "",
+   "composer": "Charles Collins, 1919",
+   "levels": {
+    "p": 1.2,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 178,
+    "score": 153,
+    "screen": 156,
+    "screen-score": 148
+   }
+  },
+  {
+   "slug": "my-wild-irish-rose",
+   "title": "My Wild Irish Rose",
+   "subtitle": "",
+   "composer": "Chauncey Olcott, 1899",
+   "levels": {
+    "p": 3.3,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 67,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 180,
+    "score": 154,
+    "screen": 157,
+    "screen-score": 149
+   }
+  },
+  {
+   "slug": "o-sole-mio",
+   "title": "'O sole mio",
+   "subtitle": "",
+   "composer": "Eduardo di Capua, 1898",
+   "levels": {
+    "p": 1.4,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 186,
+    "score": 158,
+    "screen": 162,
+    "screen-score": 154
+   }
+  },
+  {
+   "slug": "oh-johnny-oh-johnny-oh",
+   "title": "Oh Johnny, Oh Johnny, Oh!",
+   "subtitle": "",
+   "composer": "Abe Olman, 1917",
+   "levels": {
+    "p": 1.3,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 188,
+    "score": 160,
+    "screen": 164,
+    "screen-score": 156
+   }
+  },
+  {
+   "slug": "on-the-banks-of-the-wabash-far-away",
+   "title": "On the Banks of the Wabash, Far Away",
+   "subtitle": "",
+   "composer": "Paul Dresser, 1897",
+   "levels": {
+    "p": 2.2,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 190,
+    "score": 162,
+    "screen": 166,
+    "screen-score": 158
+   }
+  },
+  {
+   "slug": "over-there",
+   "title": "Over There",
+   "subtitle": "",
+   "composer": "George M. Cohan, 1917",
+   "levels": {
+    "p": 3.6,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 192,
+    "score": 164,
+    "screen": 168,
+    "screen-score": 160
+   }
+  },
+  {
+   "slug": "pack-up-your-troubles-in-your-old-kit-bag",
+   "title": "Pack Up Your Troubles in Your Old Kit-Bag",
+   "subtitle": "",
+   "composer": "Felix Powell, 1915",
+   "levels": {
+    "p": 1.3,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 194,
+    "score": 166,
+    "screen": 170,
+    "screen-score": 162
+   }
+  },
+  {
+   "slug": "peg-o-my-heart",
+   "title": "Peg o' My Heart",
+   "subtitle": "",
+   "composer": "Fred Fisher, 1913",
+   "levels": {
+    "p": 1.7,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 196,
+    "score": 168,
+    "screen": 172,
+    "screen-score": 164
+   }
+  },
+  {
+   "slug": "pretty-baby",
+   "title": "Pretty Baby",
+   "subtitle": "",
+   "composer": "Tony Jackson & Egbert Van Alstyne, 1916",
+   "levels": {
+    "p": 3.0,
+    "s": 3.1
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 14,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 198,
+    "score": 169,
+    "screen": 174,
+    "screen-score": 165
+   }
+  },
+  {
+   "slug": "red-wing",
+   "title": "Red Wing",
+   "subtitle": "",
+   "composer": "Kerry Mills, 1907",
+   "levels": {
+    "p": 1.5,
+    "s": 2.1
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 85,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [
+    "10 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 200,
+    "score": 171,
+    "screen": 176,
+    "screen-score": 166
+   }
+  },
+  {
+   "slug": "rock-a-bye-your-baby-with-a-dixie-melody",
+   "title": "Rock-a-Bye Your Baby with a Dixie Melody",
+   "subtitle": "",
+   "composer": "Jean Schwartz, 1918",
+   "levels": {
+    "p": 3.2,
+    "s": 4.0
+   },
+   "key": "C",
+   "meter": "2/2",
+   "bars": 33,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 206,
+    "score": 175,
+    "screen": 180,
+    "screen-score": 171
+   }
+  },
+  {
+   "slug": "roses-of-picardy",
+   "title": "Roses of Picardy",
+   "subtitle": "",
+   "composer": "Haydn Wood, 1916",
+   "levels": {
+    "p": 1.5,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 210,
+    "score": 177,
+    "screen": 183,
+    "screen-score": 173
+   }
+  },
+  {
+   "slug": "row-row-row",
+   "title": "Row, Row, Row",
+   "subtitle": "",
+   "composer": "James V. Monaco, 1912",
+   "levels": {
+    "p": 3.7,
+    "s": 3.5
+   },
+   "key": "Bb",
+   "meter": "2/4",
+   "bars": 67,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 214,
+    "score": 180,
+    "screen": 186,
+    "screen-score": 176
+   }
+  },
+  {
+   "slug": "school-days",
+   "title": "School Days",
+   "subtitle": "",
+   "composer": "Gus Edwards, 1907",
+   "levels": {
+    "p": 1.9,
+    "s": 2.3
+   },
+   "key": "Bb",
+   "meter": "3/4",
+   "bars": 64,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 218,
+    "score": 183,
+    "screen": 190,
+    "screen-score": 179
+   }
+  },
+  {
+   "slug": "second-hand-rose",
+   "title": "Second Hand Rose",
+   "subtitle": "",
+   "composer": "James F. Hanley, 1921",
+   "levels": {
+    "p": 1.5,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 43,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 222,
+    "score": 186,
+    "screen": 193,
+    "screen-score": 181
+   }
+  },
+  {
+   "slug": "shine-on-harvest-moon",
+   "title": "Shine On, Harvest Moon",
+   "subtitle": "",
+   "composer": "Nora Bayes & Jack Norworth, 1908",
+   "levels": {
+    "p": 3.0,
+    "s": 3.2
+   },
+   "key": "C",
+   "meter": "2/2",
+   "bars": 33,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 226,
+    "score": 189,
+    "screen": 196,
+    "screen-score": 183
+   }
+  },
+  {
+   "slug": "silver-threads-among-the-gold",
+   "title": "Silver Threads Among the Gold",
+   "subtitle": "",
+   "composer": "H. P. Danks, 1873",
+   "levels": {
+    "p": 3.1,
+    "s": 2.3
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 228,
+    "score": 191,
+    "screen": 198,
+    "screen-score": 185
+   }
+  },
+  {
+   "slug": "smilin-through",
+   "title": "Smilin' Through",
+   "subtitle": "",
+   "composer": "Arthur A. Penn, 1919",
+   "levels": {
+    "p": 1.6,
+    "s": 2.5
+   },
+   "key": "Eb",
+   "meter": "3/4",
+   "bars": 37,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 232,
+    "score": 195,
+    "screen": 201,
+    "screen-score": 188
+   }
+  },
+  {
+   "slug": "theres-a-long-long-trail",
+   "title": "There's a Long, Long Trail",
+   "subtitle": "",
+   "composer": "Zo Elliott, 1914",
+   "levels": {
+    "p": 2.2,
+    "s": 2.3
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 65,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 236,
+    "score": 198,
+    "screen": 204,
+    "screen-score": 191
+   }
+  },
+  {
+   "slug": "three-oclock-in-the-morning",
+   "title": "Three O'Clock in the Morning",
+   "subtitle": "",
+   "composer": "Juli\u00e1n Robledo, 1919",
+   "levels": {
+    "p": 2.5,
+    "s": 2.9
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 35,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 240,
+    "score": 200,
+    "screen": 207,
+    "screen-score": 193
+   }
+  },
+  {
+   "slug": "till-we-meet-again",
+   "title": "Till We Meet Again",
+   "subtitle": "",
+   "composer": "Richard A. Whiting, 1918",
+   "levels": {
+    "p": 1.6,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 51,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 242,
+    "score": 202,
+    "screen": 209,
+    "screen-score": 195
+   }
+  },
+  {
+   "slug": "toyland",
+   "title": "Toyland",
+   "subtitle": "",
+   "composer": "Victor Herbert, 1903",
+   "levels": {
+    "p": 2.5,
+    "s": 1.9
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 22,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 246,
+    "score": 204,
+    "screen": 211,
+    "screen-score": 197
+   }
+  },
+  {
+   "slug": "the-trail-of-the-lonesome-pine",
+   "title": "The Trail of the Lonesome Pine",
+   "subtitle": "",
+   "composer": "Harry Carroll, 1913",
+   "levels": {
+    "p": 1.9,
+    "s": 2.9
+   },
+   "key": "D",
+   "meter": "6/8",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 248,
+    "score": 205,
+    "screen": 213,
+    "screen-score": 198
+   }
+  },
+  {
+   "slug": "wait-till-the-sun-shines-nellie",
+   "title": "Wait Till the Sun Shines, Nellie",
+   "subtitle": "",
+   "composer": "Harry Von Tilzer, 1905",
+   "levels": {
+    "p": 3.4,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 252,
+    "score": 207,
+    "screen": 216,
+    "screen-score": 200
+   }
+  },
+  {
+   "slug": "waiting-for-the-robert-e-lee",
+   "title": "Waiting for the Robert E. Lee",
+   "subtitle": "",
+   "composer": "Lewis F. Muir, 1912",
+   "levels": {
+    "p": 2.8,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "2/4",
+   "bars": 67,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 256,
+    "score": 210,
+    "screen": 219,
+    "screen-score": 203
+   }
+  },
+  {
+   "slug": "when-irish-eyes-are-smiling",
+   "title": "When Irish Eyes Are Smiling",
+   "subtitle": "",
+   "composer": "Ernest R. Ball, 1912",
+   "levels": {
+    "p": 1.4,
+    "s": 2.7
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 35,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 260,
+    "score": 213,
+    "screen": 222,
+    "screen-score": 206
+   }
+  },
+  {
+   "slug": "when-you-and-i-were-young-maggie",
+   "title": "When You and I Were Young, Maggie",
+   "subtitle": "",
+   "composer": "James A. Butterfield, 1866",
+   "levels": {
+    "p": 2.0,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "2/4",
+   "bars": 33,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 262,
+    "score": 215,
+    "screen": 224,
+    "screen-score": 208
+   }
+  },
+  {
+   "slug": "when-you-were-sweet-sixteen",
+   "title": "When You Were Sweet Sixteen",
+   "subtitle": "",
+   "composer": "James Thornton, 1898",
+   "levels": {
+    "p": 3.6,
+    "s": 2.2
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [
+    "2 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 264,
+    "score": 217,
+    "screen": 226,
+    "screen-score": 209
+   }
+  },
+  {
+   "slug": "when-you-wore-a-tulip",
+   "title": "When You Wore a Tulip",
+   "subtitle": "",
+   "composer": "Percy Wenrich, 1914",
+   "levels": {
+    "p": 1.2,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 266,
+    "score": 219,
+    "screen": 228,
+    "screen-score": 210
+   }
+  },
+  {
+   "slug": "where-the-river-shannon-flows",
+   "title": "Where the River Shannon Flows",
+   "subtitle": "",
+   "composer": "James I. Russell, 1905",
+   "levels": {
+    "p": 2.5,
+    "s": 2.3
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 268,
+    "score": 221,
+    "screen": 230,
+    "screen-score": 212
+   }
+  },
+  {
+   "slug": "whispering-hope",
+   "title": "Whispering Hope",
+   "subtitle": "",
+   "composer": "Septimus Winner, 1868",
+   "levels": {
+    "p": 2.2,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 56,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 270,
+    "score": 223,
+    "screen": 232,
+    "screen-score": 214
+   }
+  },
+  {
+   "slug": "the-yankee-doodle-boy",
+   "title": "The Yankee Doodle Boy",
+   "subtitle": "",
+   "composer": "George M. Cohan, 1904",
+   "levels": {
+    "p": 2.3,
+    "s": 1.8
+   },
+   "key": "C",
+   "meter": "2/4",
+   "bars": 17,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 274,
+    "score": 226,
+    "screen": 235,
+    "screen-score": 216
+   }
+  },
+  {
+   "slug": "you-made-me-love-you",
+   "title": "You Made Me Love You",
+   "subtitle": "",
+   "composer": "James V. Monaco, 1913",
+   "levels": {
+    "p": 2.5,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 276,
+    "score": 227,
+    "screen": 236,
+    "screen-score": 217
+   }
+  },
+  {
+   "slug": "you-tell-me-your-dream-ill-tell-you-mine",
+   "title": "You Tell Me Your Dream, I'll Tell You Mine",
+   "subtitle": "",
+   "composer": "Charles N. Daniels, 1899",
+   "levels": {
+    "p": 1.6,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 66,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 278,
+    "score": 229,
+    "screen": 238,
+    "screen-score": 219
+   }
+  }
+ ],
+ "seconds": 154.4
+}

@@ -1,27 +1,29 @@
 {
  "id": "rounds",
  "title": "Rounds",
+ "subtitle": "Canons for two players",
+ "blurb": "The Secondo chases the Primo.",
  "pieces": 4,
  "layouts": {
   "facing": {
    "path": "/home/user/duets/books/rounds/rounds-facing.pdf",
    "pages": 13,
-   "bytes": 138007
+   "bytes": 139162
   },
   "score": {
    "path": "/home/user/duets/books/rounds/rounds-score.pdf",
    "pages": 11,
-   "bytes": 117809
+   "bytes": 117961
   },
   "screen": {
    "path": "/home/user/duets/books/rounds/rounds-screen.pdf",
    "pages": 10,
-   "bytes": 149603
+   "bytes": 150212
   },
   "screen-score": {
    "path": "/home/user/duets/books/rounds/rounds-screen-score.pdf",
    "pages": 10,
-   "bytes": 100869
+   "bytes": 99811
   }
  },
  "items": [
@@ -124,5 +126,5 @@
    }
   }
  ],
- "seconds": 28.6
+ "seconds": 22.5
 }

@@ -1,0 +1,310 @@
+{
+ "id": "spirituals-gospel",
+ "title": "Spirituals & Gospel Songs",
+ "subtitle": "for piano four hands",
+ "blurb": "African-American spirituals and gospel-song favourites.",
+ "pieces": 12,
+ "layouts": {
+  "facing": {
+   "path": "/home/user/duets/books/spirituals-gospel/spirituals-gospel-facing.pdf",
+   "pages": 45,
+   "bytes": 581591
+  },
+  "score": {
+   "path": "/home/user/duets/books/spirituals-gospel/spirituals-gospel-score.pdf",
+   "pages": 36,
+   "bytes": 450396
+  },
+  "screen": {
+   "path": "/home/user/duets/books/spirituals-gospel/spirituals-gospel-screen.pdf",
+   "pages": 38,
+   "bytes": 588021
+  },
+  "screen-score": {
+   "path": "/home/user/duets/books/spirituals-gospel/spirituals-gospel-screen-score.pdf",
+   "pages": 31,
+   "bytes": 414751
+  }
+ },
+ "items": [
+  {
+   "slug": "calon-lan",
+   "title": "Calon L\u00e2n",
+   "subtitle": "",
+   "composer": "John Hughes, 1899",
+   "levels": {
+    "p": 2.0,
+    "s": 3.2
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 4,
+    "score": 4,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "down-by-the-riverside",
+   "title": "Down by the Riverside",
+   "subtitle": "",
+   "composer": "African-American spiritual",
+   "levels": {
+    "p": 2.2,
+    "s": 2.0
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 42,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 6,
+    "screen": 5,
+    "screen-score": 4
+   }
+  },
+  {
+   "slug": "go-tell-it-on-the-mountain",
+   "title": "Go Tell It on the Mountain",
+   "subtitle": "",
+   "composer": "African-American spiritual",
+   "levels": {
+    "p": 2.1,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 9,
+    "screen": 8,
+    "screen-score": 7
+   }
+  },
+  {
+   "slug": "hes-got-the-whole-world-in-his-hands",
+   "title": "He's Got the Whole World in His Hands",
+   "subtitle": "",
+   "composer": "African-American spiritual",
+   "levels": {
+    "p": 1.8,
+    "s": 1.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 12,
+    "score": 10,
+    "screen": 9,
+    "screen-score": 8
+   }
+  },
+  {
+   "slug": "how-can-i-keep-from-singing",
+   "title": "How Can I Keep from Singing?",
+   "subtitle": "",
+   "composer": "Robert Lowry, 1868",
+   "levels": {
+    "p": 2.9,
+    "s": 3.1
+   },
+   "key": "G",
+   "meter": "3/2",
+   "bars": 20,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 12,
+    "screen": 11,
+    "screen-score": 10
+   }
+  },
+  {
+   "slug": "jerusalem",
+   "title": "Jerusalem",
+   "subtitle": "",
+   "composer": "C. Hubert H. Parry, 1916",
+   "levels": {
+    "p": 1.7,
+    "s": 2.8
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 14,
+    "screen": 13,
+    "screen-score": 11
+   }
+  },
+  {
+   "slug": "joshua-fit-the-battle-of-jericho",
+   "title": "Joshua Fit the Battle of Jericho",
+   "subtitle": "",
+   "composer": "African-American spiritual",
+   "levels": {
+    "p": 3.5,
+    "s": 2.9
+   },
+   "key": "Dm",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 18,
+    "score": 16,
+    "screen": 15,
+    "screen-score": 12
+   }
+  },
+  {
+   "slug": "just-a-closer-walk-with-thee",
+   "title": "Just a Closer Walk with Thee",
+   "subtitle": "",
+   "composer": "Traditional gospel song",
+   "levels": {
+    "p": 2.6,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 48,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 22,
+    "score": 18,
+    "screen": 18,
+    "screen-score": 14
+   }
+  },
+  {
+   "slug": "let-us-break-bread-together",
+   "title": "Let Us Break Bread Together",
+   "subtitle": "",
+   "composer": "African-American spiritual",
+   "levels": {
+    "p": 1.5,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 49,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 21,
+    "screen": 21,
+    "screen-score": 17
+   }
+  },
+  {
+   "slug": "lifes-railway-to-heaven",
+   "title": "Life's Railway to Heaven",
+   "subtitle": "",
+   "composer": "Charles D. Tillman, 1890",
+   "levels": {
+    "p": 2.5,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 97,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 32,
+    "score": 26,
+    "screen": 26,
+    "screen-score": 21
+   }
+  },
+  {
+   "slug": "sometimes-i-feel-like-a-motherless-child",
+   "title": "Sometimes I Feel Like a Motherless Child",
+   "subtitle": "",
+   "composer": "African-American spiritual",
+   "levels": {
+    "p": 3.4,
+    "s": 2.4
+   },
+   "key": "Am",
+   "meter": "4/4",
+   "bars": 40,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 32,
+    "screen": 32,
+    "screen-score": 26
+   }
+  },
+  {
+   "slug": "swing-low-sweet-chariot",
+   "title": "Swing Low, Sweet Chariot",
+   "subtitle": "",
+   "composer": "African-American spiritual (Wallace Willis)",
+   "levels": {
+    "p": 1.6,
+    "s": 2.3
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 35,
+    "screen": 36,
+    "screen-score": 29
+   }
+  }
+ ],
+ "seconds": 54.3
+}

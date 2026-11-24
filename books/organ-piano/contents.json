@@ -1,0 +1,588 @@
+{
+ "id": "organ-piano",
+ "title": "Hymns for Organ & Piano",
+ "subtitle": "Two instruments, two players",
+ "blurb": "The organ plays each hymn as it stands in the hymnal, with pedals; the piano adds the tune in octaves over flowing broken chords. Hymnal keys are kept. In the facing-pages edition the organ part is on the left-hand pages and the piano part on the right.",
+ "pieces": 24,
+ "layouts": {
+  "facing": {
+   "path": "/home/user/duets/books/organ-piano/organ-piano-facing.pdf",
+   "pages": 83,
+   "bytes": 904750
+  },
+  "score": {
+   "path": "/home/user/duets/books/organ-piano/organ-piano-score.pdf",
+   "pages": 55,
+   "bytes": 664549
+  },
+  "screen": {
+   "path": "/home/user/duets/books/organ-piano/organ-piano-screen.pdf",
+   "pages": 70,
+   "bytes": 873052
+  },
+  "screen-score": {
+   "path": "/home/user/duets/books/organ-piano/organ-piano-screen-score.pdf",
+   "pages": 54,
+   "bytes": 611711
+  }
+ },
+ "items": [
+  {
+   "slug": "savior-of-the-nations-come",
+   "title": "Savior of the Nations Come",
+   "subtitle": "NUN KOMM, DER HEIDEN HEILAND",
+   "composer": "Walter's Geistliche Gesangb\u00fcchlein, 1524",
+   "levels": {
+    "p": 3.3,
+    "s": 2.3
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 4,
+    "score": 4,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "wake-awake-for-night-is-flying",
+   "title": "Wake, Awake, for Night Is Flying",
+   "subtitle": "WACHET AUF",
+   "composer": "Phillip Nicolai, 1599",
+   "levels": {
+    "p": 3.6,
+    "s": 3.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 11,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 6,
+    "screen": 5,
+    "screen-score": 5
+   }
+  },
+  {
+   "slug": "o-come-o-come-emmanuel",
+   "title": "O Come O Come Emmanuel",
+   "subtitle": "VENI EMMANUEL",
+   "composer": "15th Century French processional",
+   "levels": {
+    "p": 3.5,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 12,
+    "score": 10,
+    "screen": 11,
+    "screen-score": 8
+   }
+  },
+  {
+   "slug": "comfort-comfort-ye-my-people",
+   "title": "Comfort, Comfort Ye My People",
+   "subtitle": "FREU DICH SEHR, O MEINE SEELE",
+   "composer": "Trente Quatre Pseaumes de David, Geneva, 1551",
+   "levels": {
+    "p": 3.2,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "6/4",
+   "bars": 16,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 12,
+    "screen": 14,
+    "screen-score": 10
+   }
+  },
+  {
+   "slug": "on-jordans-bank-the-baptists-cry",
+   "title": "On Jordan's Bank the Baptist's Cry",
+   "subtitle": "PUER NOBIS NASCITUR",
+   "composer": "Michael Praetorius, 1609",
+   "levels": {
+    "p": 3.1,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [
+    "3 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 18,
+    "score": 14,
+    "screen": 16,
+    "screen-score": 12
+   }
+  },
+  {
+   "slug": "lo-how-a-rose-eer-blooming",
+   "title": "Lo, How a Rose E'er Blooming",
+   "subtitle": "ES IST EIN ROS ENTSPRUNGEN (RHYTHMIC)",
+   "composer": "German from K\u00f6ln, 1599",
+   "levels": {
+    "p": 3.3,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 20,
+    "score": 16,
+    "screen": 18,
+    "screen-score": 14
+   }
+  },
+  {
+   "slug": "of-the-fathers-love-begotten",
+   "title": "Of the Father's Love Begotten",
+   "subtitle": "DIVINUM MYSTERIUM",
+   "composer": "or 'Corde Natus' Latin Plainsong, 13th Century",
+   "levels": {
+    "p": 3.2,
+    "s": 2.6
+   },
+   "key": "F",
+   "meter": "6/4",
+   "bars": 14,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 18,
+    "screen": 21,
+    "screen-score": 16
+   }
+  },
+  {
+   "slug": "silent-night",
+   "title": "Silent Night",
+   "subtitle": "STILLE NACHT",
+   "composer": "Franz Xaver Gruber, 1818",
+   "levels": {
+    "p": 3.1,
+    "s": 2.9
+   },
+   "key": "Bb",
+   "meter": "3/4",
+   "bars": 12,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 20,
+    "screen": 23,
+    "screen-score": 18
+   }
+  },
+  {
+   "slug": "joy-to-the-world",
+   "title": "Joy to the World",
+   "subtitle": "ANTIOCH",
+   "composer": "pieced together from \"Messiah\" George F. Handel, 1741",
+   "levels": {
+    "p": 3.5,
+    "s": 3.1
+   },
+   "key": "D",
+   "meter": "2/4",
+   "bars": 19,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 28,
+    "score": 22,
+    "screen": 25,
+    "screen-score": 20
+   }
+  },
+  {
+   "slug": "o-come-all-ye-faithful",
+   "title": "O Come, All Ye Faithful",
+   "subtitle": "ADESTE FIDELES",
+   "composer": "or 'Portuguese Hymn' John F. Wade, 1743",
+   "levels": {
+    "p": 3.3,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 21,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 30,
+    "score": 24,
+    "screen": 27,
+    "screen-score": 22
+   }
+  },
+  {
+   "slug": "hark-the-herald-angels-sing",
+   "title": "Hark! the Herald Angels Sing",
+   "subtitle": "MENDELSSOHN",
+   "composer": "'Festgesang' Felix Mendelssohn, 1840",
+   "levels": {
+    "p": 3.3,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 34,
+    "score": 27,
+    "screen": 31,
+    "screen-score": 25
+   }
+  },
+  {
+   "slug": "now-thank-we-all-our-god",
+   "title": "Now Thank We All Our God",
+   "subtitle": "NUN DANKET",
+   "composer": "Johann Cr\u00fcger, 1647",
+   "levels": {
+    "p": 3.3,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 29,
+    "screen": 35,
+    "screen-score": 28
+   }
+  },
+  {
+   "slug": "we-gather-together",
+   "title": "We Gather Together",
+   "subtitle": "KREMSER",
+   "composer": "Traditional Dutch circa 1597",
+   "levels": {
+    "p": 3.7,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 31,
+    "screen": 38,
+    "screen-score": 30
+   }
+  },
+  {
+   "slug": "praise-to-the-lord-the-almighty",
+   "title": "Praise to the Lord, the Almighty",
+   "subtitle": "LOBE DEN HERREN",
+   "composer": "Ander Theil des Erneuerten Gesangbuch, 1665",
+   "levels": {
+    "p": 3.5,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 21,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 44,
+    "score": 33,
+    "screen": 40,
+    "screen-score": 32
+   }
+  },
+  {
+   "slug": "a-mighty-fortress-is-our-god",
+   "title": "A Mighty Fortress Is Our God",
+   "subtitle": "EIN FESTE BURG (ISORHYTHMIC)",
+   "composer": "Martin Luther, 1529",
+   "levels": {
+    "p": 3.3,
+    "s": 3.2
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 35,
+    "screen": 43,
+    "screen-score": 34
+   }
+  },
+  {
+   "slug": "holy-holy-holy",
+   "title": "Holy, Holy, Holy",
+   "subtitle": "NICAEA",
+   "composer": "John Bacchus Dykes, 1861",
+   "levels": {
+    "p": 3.6,
+    "s": 2.8
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 52,
+    "score": 38,
+    "screen": 46,
+    "screen-score": 37
+   }
+  },
+  {
+   "slug": "beautiful-savior",
+   "title": "Beautiful Savior",
+   "subtitle": "CRUSADER`S HYMN",
+   "composer": "Silesian folk song, 1842",
+   "levels": {
+    "p": 3.5,
+    "s": 2.5
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 56,
+    "score": 40,
+    "screen": 49,
+    "screen-score": 39
+   }
+  },
+  {
+   "slug": "abide-with-me",
+   "title": "Abide with Me",
+   "subtitle": "EVENTIDE",
+   "composer": "William H. Monk, 1861",
+   "levels": {
+    "p": 3.3,
+    "s": 2.3
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 60,
+    "score": 42,
+    "screen": 52,
+    "screen-score": 41
+   }
+  },
+  {
+   "slug": "amazing-grace",
+   "title": "Amazing Grace",
+   "subtitle": "NEW BRITAIN",
+   "composer": "James P. Carrell and David L. Clayton, 1831",
+   "levels": {
+    "p": 3.1,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 44,
+    "screen": 55,
+    "screen-score": 43
+   }
+  },
+  {
+   "slug": "for-the-beauty-of-the-earth",
+   "title": "For the Beauty of the Earth",
+   "subtitle": "DIX",
+   "composer": "Conrad Kocher, 1838",
+   "levels": {
+    "p": 2.7,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 46,
+    "screen": 57,
+    "screen-score": 45
+   }
+  },
+  {
+   "slug": "jesus-christ-is-risen-today",
+   "title": "Jesus Christ Is Risen Today",
+   "subtitle": "EASTER HYMN",
+   "composer": "Lyra Davidica, 1708",
+   "levels": {
+    "p": 3.6,
+    "s": 3.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 68,
+    "score": 48,
+    "screen": 59,
+    "screen-score": 47
+   }
+  },
+  {
+   "slug": "o-sacred-head-now-wounded",
+   "title": "O Sacred Head, Now Wounded",
+   "subtitle": "PASSION CHORALE",
+   "composer": "or 'Herzlich Tut Mich Verlangen' Hans Leo Hassler, 1601. Adapted by J.S. Bach, 1729",
+   "levels": {
+    "p": 3.3,
+    "s": 3.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 72,
+    "score": 50,
+    "screen": 62,
+    "screen-score": 49
+   }
+  },
+  {
+   "slug": "crown-him-with-many-crowns",
+   "title": "Crown Him with Many Crowns",
+   "subtitle": "DIADEMATA",
+   "composer": "George J. Elvey, 1868",
+   "levels": {
+    "p": 3.9,
+    "s": 2.6
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 76,
+    "score": 52,
+    "screen": 65,
+    "screen-score": 51
+   }
+  },
+  {
+   "slug": "the-churchs-one-foundation",
+   "title": "The Church's One Foundation",
+   "subtitle": "AURELIA",
+   "composer": "Samuel Sebastian Wesley, 1864",
+   "levels": {
+    "p": 3.6,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "organ-piano",
+   "flavor_text": "For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 80,
+    "score": 54,
+    "screen": 68,
+    "screen-score": 53
+   }
+  }
+ ],
+ "seconds": 25.7
+}
