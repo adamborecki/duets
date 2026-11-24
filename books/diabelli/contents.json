@@ -6,24 +6,24 @@
  "pieces": 35,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/diabelli/diabelli-facing.pdf",
+   "path": "diabelli-facing.pdf",
    "pages": 149,
-   "bytes": 1826322
+   "bytes": 1829007
   },
   "score": {
-   "path": "/home/user/duets/books/diabelli/diabelli-score.pdf",
+   "path": "diabelli-score.pdf",
    "pages": 128,
-   "bytes": 1500361
+   "bytes": 1502397
   },
   "screen": {
-   "path": "/home/user/duets/books/diabelli/diabelli-screen.pdf",
+   "path": "diabelli-screen.pdf",
    "pages": 132,
-   "bytes": 1797032
+   "bytes": 1799272
   },
   "screen-score": {
-   "path": "/home/user/duets/books/diabelli/diabelli-screen-score.pdf",
+   "path": "diabelli-screen-score.pdf",
    "pages": 113,
-   "bytes": 1352001
+   "bytes": 1353908
   }
  },
  "items": [
@@ -845,5 +845,5 @@
    }
   }
  ],
- "seconds": 94.9
+ "seconds": 21.5
 }

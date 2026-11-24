@@ -147,3 +147,54 @@ def test_engraving_produces_matching_part_pages(library, tmp_path):
     assert r["pages"] % 2 == 0 and not [w for w in r["warnings"] if "barcheck" in w]
     r = render_layout(piece, "score", tmp_path, "t")
     assert r["pages"] >= 1 and not [w for w in r["warnings"] if "barcheck" in w]
+
+
+def test_practice_notes_match_the_piece(library):
+    from duets.playdata import TICKS, piece_notes
+    tune = library["silent-night"]
+    piece = make_piece(tune, "easy-primo")
+    data = piece_notes(piece)
+    order = piece.play_order()
+    assert len(data["bars"]) == len(order)
+    assert data["bars"] == sorted(data["bars"]) and data["bars"][0] == 0
+    assert data["len"] == round(sum(float(piece.bars[i].length) for i in order) * TICKS)
+    assert set(data["h"]) == {"prh", "plh", "srh", "slh"}
+    for hand, arr in data["h"].items():
+        assert len(arr) % 3 == 0
+        starts, durs, midis = arr[0::3], arr[1::3], arr[2::3]
+        assert starts, hand
+        assert all(0 <= t < data["len"] for t in starts)
+        assert all(d >= 1 for d in durs)
+        assert all(t + d <= data["len"] for t, d in zip(starts, durs))
+        assert all(21 <= m <= 108 for m in midis)            # on the piano
+    # the Primo's top line starts on the tune's first note
+    first = min(zip(data["h"]["prh"][0::3], data["h"]["prh"][2::3]))
+    melody = [e for b in piece.bars for e in b.hands["prh"][0] if e.pitches]
+    assert first[1] in {p.midi for p in melody[0].pitches}
+
+
+def test_practice_notes_join_ties():
+    from duets.playdata import TICKS, piece_notes
+    tune = tune_from_abc(parse_abc("X:1\nT:Tied\nM:4/4\nL:1/4\nK:C\n\"C\"c4-|\"C\"c2 \"G7\"d2|\"C\"c4|]\n")[0])
+    piece = arrange(tune, Options(primo=1, secondo=1, key="original"))
+    data = piece_notes(piece)
+    prh = list(zip(data["h"]["prh"][0::3], data["h"]["prh"][1::3]))
+    assert (0, 6 * TICKS) in prh                              # a whole note tied to a half note sounds once
+
+
+def test_page_tree_is_nested_without_losing_pages(tmp_path):
+    from pypdf import PdfReader, PdfWriter
+    from duets.render import balance_page_tree
+    w = PdfWriter()
+    for k in range(150):
+        w.add_blank_page(width=100 + k, height=200)
+    w.add_outline_item("Page 101", 100)
+    balance_page_tree(w)
+    out = tmp_path / "tree.pdf"
+    with open(out, "wb") as fh:
+        w.write(fh)
+    r = PdfReader(str(out), strict=True)
+    assert [int(p.mediabox.width) for p in r.pages] == [100 + k for k in range(150)]
+    assert r.get_destination_page_number(r.outline[0]) == 100
+    root = r.trailer["/Root"]["/Pages"]
+    assert len(root["/Kids"]) <= 8 and root["/Count"] == 150

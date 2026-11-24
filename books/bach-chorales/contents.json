@@ -6,24 +6,24 @@
  "pieces": 146,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/bach-chorales/bach-chorales-facing.pdf",
+   "path": "bach-chorales-facing.pdf",
    "pages": 313,
-   "bytes": 3471118
+   "bytes": 3476637
   },
   "score": {
-   "path": "/home/user/duets/books/bach-chorales/bach-chorales-score.pdf",
+   "path": "bach-chorales-score.pdf",
    "pages": 228,
-   "bytes": 2660396
+   "bytes": 2664438
   },
   "screen": {
-   "path": "/home/user/duets/books/bach-chorales/bach-chorales-screen.pdf",
+   "path": "bach-chorales-screen.pdf",
    "pages": 250,
-   "bytes": 3383859
+   "bytes": 3388273
   },
   "screen-score": {
-   "path": "/home/user/duets/books/bach-chorales/bach-chorales-screen-score.pdf",
+   "path": "bach-chorales-screen-score.pdf",
    "pages": 236,
-   "bytes": 2548039
+   "bytes": 2552207
   }
  },
  "items": [
@@ -3494,5 +3494,5 @@
    }
   }
  ],
- "seconds": 206.2
+ "seconds": 41.5
 }

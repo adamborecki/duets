@@ -6,24 +6,24 @@
  "pieces": 54,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/jazz-age/jazz-age-facing.pdf",
+   "path": "jazz-age-facing.pdf",
    "pages": 159,
-   "bytes": 2035579
+   "bytes": 2038390
   },
   "score": {
-   "path": "/home/user/duets/books/jazz-age/jazz-age-score.pdf",
+   "path": "jazz-age-score.pdf",
    "pages": 129,
-   "bytes": 1617030
+   "bytes": 1619429
   },
   "screen": {
-   "path": "/home/user/duets/books/jazz-age/jazz-age-screen.pdf",
+   "path": "jazz-age-screen.pdf",
    "pages": 133,
-   "bytes": 2026251
+   "bytes": 2029951
   },
   "screen-score": {
-   "path": "/home/user/duets/books/jazz-age/jazz-age-screen-score.pdf",
+   "path": "jazz-age-screen-score.pdf",
    "pages": 120,
-   "bytes": 1504104
+   "bytes": 1506129
   }
  },
  "items": [
@@ -1276,5 +1276,5 @@
    }
   }
  ],
- "seconds": 113.2
+ "seconds": 23.7
 }

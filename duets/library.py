@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import Optional
 
 from .abc import AbcTune, apply_play_order, irregular_bars, parse_abc
-from .model import Ev, F, Tune, merge_ties, total
+from .model import Ev, F, Tune, merge_ties, total, play_order
 from .theory import Meter
 
 LIBRARY_ROOT = Path(__file__).resolve().parent.parent / "library"
@@ -134,6 +134,29 @@ def validate(tune: Tune) -> list:
     notes += [p for b in tune.bars for v in b.voices.values() for e in v for p in e.pitches]
     if len(notes) < 8:
         problems.append("too few notes")
+    problems += repeat_problems(tune.bars)
+    return problems
+
+
+def repeat_problems(bars) -> list:
+    """Repeat signs and endings that do not add up: a first ending with no
+    repeat sign or no second ending, a third ending (the model plays a repeat
+    twice), or a bar that is never reached."""
+    problems = []
+    n = len(bars)
+    for i, b in enumerate(bars):
+        last = i + 1 >= n or bars[i + 1].volta != b.volta
+        if b.volta > 2:
+            problems.append(f"bar {i + 1}: ending {b.volta} (only first and second endings are supported)")
+        if b.volta == 1 and last and not b.end_repeat:
+            problems.append(f"bar {i + 1}: first ending without a repeat sign")
+        if b.volta == 1 and last and not (i + 1 < n and bars[i + 1].volta == 2):
+            problems.append(f"bar {i + 1}: first ending without a second ending")
+        if b.volta == 2 and (i == 0 or bars[i - 1].volta not in (1, 2)):
+            problems.append(f"bar {i + 1}: second ending without a first ending")
+    unplayed = sorted(set(range(n)) - set(play_order(bars)))
+    if unplayed:
+        problems.append("bars never played: " + ", ".join(str(i + 1) for i in unplayed[:6]))
     return problems
 
 

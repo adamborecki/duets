@@ -6,24 +6,24 @@
  "pieces": 20,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/variations/variations-facing.pdf",
+   "path": "variations-facing.pdf",
    "pages": 149,
-   "bytes": 1560027
+   "bytes": 1562500
   },
   "score": {
-   "path": "/home/user/duets/books/variations/variations-score.pdf",
+   "path": "variations-score.pdf",
    "pages": 124,
-   "bytes": 1358352
+   "bytes": 1360380
   },
   "screen": {
-   "path": "/home/user/duets/books/variations/variations-screen.pdf",
+   "path": "variations-screen.pdf",
    "pages": 131,
-   "bytes": 1546187
+   "bytes": 1548425
   },
   "screen-score": {
-   "path": "/home/user/duets/books/variations/variations-screen-score.pdf",
+   "path": "variations-screen-score.pdf",
    "pages": 139,
-   "bytes": 1276937
+   "bytes": 1279291
   }
  },
  "items": [
@@ -488,5 +488,5 @@
    }
   }
  ],
- "seconds": 90.6
+ "seconds": 20.4
 }

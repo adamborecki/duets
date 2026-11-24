@@ -6,24 +6,24 @@
  "pieces": 18,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/classical-themes/classical-themes-facing.pdf",
+   "path": "classical-themes-facing.pdf",
    "pages": 73,
-   "bytes": 918319
+   "bytes": 919650
   },
   "score": {
-   "path": "/home/user/duets/books/classical-themes/classical-themes-score.pdf",
+   "path": "classical-themes-score.pdf",
    "pages": 57,
-   "bytes": 731380
+   "bytes": 732270
   },
   "screen": {
-   "path": "/home/user/duets/books/classical-themes/classical-themes-screen.pdf",
+   "path": "classical-themes-screen.pdf",
    "pages": 59,
-   "bytes": 899911
+   "bytes": 900805
   },
   "screen-score": {
-   "path": "/home/user/duets/books/classical-themes/classical-themes-screen-score.pdf",
+   "path": "classical-themes-screen-score.pdf",
    "pages": 55,
-   "bytes": 684189
+   "bytes": 684978
   }
  },
  "items": [
@@ -448,5 +448,5 @@
    }
   }
  ],
- "seconds": 57.6
+ "seconds": 13.1
 }

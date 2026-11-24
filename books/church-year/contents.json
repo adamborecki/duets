@@ -6,24 +6,24 @@
  "pieces": 59,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/church-year/church-year-facing.pdf",
+   "path": "church-year-facing.pdf",
    "pages": 139,
-   "bytes": 1637280
+   "bytes": 1639833
   },
   "score": {
-   "path": "/home/user/duets/books/church-year/church-year-score.pdf",
+   "path": "church-year-score.pdf",
    "pages": 108,
-   "bytes": 1252276
+   "bytes": 1254074
   },
   "screen": {
-   "path": "/home/user/duets/books/church-year/church-year-screen.pdf",
+   "path": "church-year-screen.pdf",
    "pages": 115,
-   "bytes": 1652842
+   "bytes": 1654755
   },
   "screen-score": {
-   "path": "/home/user/duets/books/church-year/church-year-screen-score.pdf",
+   "path": "church-year-screen-score.pdf",
    "pages": 92,
-   "bytes": 1126039
+   "bytes": 1127607
   }
  },
  "items": [
@@ -1385,5 +1385,5 @@
    }
   }
  ],
- "seconds": 37.3
+ "seconds": 21.3
 }

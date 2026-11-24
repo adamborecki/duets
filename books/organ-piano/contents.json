@@ -6,24 +6,24 @@
  "pieces": 24,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/organ-piano/organ-piano-facing.pdf",
+   "path": "organ-piano-facing.pdf",
    "pages": 83,
-   "bytes": 904750
+   "bytes": 906201
   },
   "score": {
-   "path": "/home/user/duets/books/organ-piano/organ-piano-score.pdf",
+   "path": "organ-piano-score.pdf",
    "pages": 55,
-   "bytes": 664549
+   "bytes": 665338
   },
   "screen": {
-   "path": "/home/user/duets/books/organ-piano/organ-piano-screen.pdf",
+   "path": "organ-piano-screen.pdf",
    "pages": 70,
-   "bytes": 873052
+   "bytes": 874278
   },
   "screen-score": {
-   "path": "/home/user/duets/books/organ-piano/organ-piano-screen-score.pdf",
+   "path": "organ-piano-screen-score.pdf",
    "pages": 54,
-   "bytes": 611711
+   "bytes": 612498
   }
  },
  "items": [
@@ -584,5 +584,5 @@
    }
   }
  ],
- "seconds": 25.7
+ "seconds": 11.5
 }

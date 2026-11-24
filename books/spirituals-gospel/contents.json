@@ -6,24 +6,24 @@
  "pieces": 12,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/spirituals-gospel/spirituals-gospel-facing.pdf",
+   "path": "spirituals-gospel-facing.pdf",
    "pages": 45,
-   "bytes": 581591
+   "bytes": 581602
   },
   "score": {
-   "path": "/home/user/duets/books/spirituals-gospel/spirituals-gospel-score.pdf",
+   "path": "spirituals-gospel-score.pdf",
    "pages": 36,
-   "bytes": 450396
+   "bytes": 449852
   },
   "screen": {
-   "path": "/home/user/duets/books/spirituals-gospel/spirituals-gospel-screen.pdf",
+   "path": "spirituals-gospel-screen.pdf",
    "pages": 38,
-   "bytes": 588021
+   "bytes": 588984
   },
   "screen-score": {
-   "path": "/home/user/duets/books/spirituals-gospel/spirituals-gospel-screen-score.pdf",
+   "path": "spirituals-gospel-screen-score.pdf",
    "pages": 31,
-   "bytes": 414751
+   "bytes": 414703
   }
  },
  "items": [
@@ -176,7 +176,7 @@
    },
    "key": "Dm",
    "meter": "4/4",
-   "bars": 25,
+   "bars": 24,
    "flavor": "tune-below-flowing",
    "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
    "section": "",
@@ -306,5 +306,5 @@
    }
   }
  ],
- "seconds": 54.3
+ "seconds": 16.4
 }

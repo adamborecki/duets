@@ -6,24 +6,24 @@
  "pieces": 4,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/rounds/rounds-facing.pdf",
+   "path": "rounds-facing.pdf",
    "pages": 13,
-   "bytes": 139162
+   "bytes": 139382
   },
   "score": {
-   "path": "/home/user/duets/books/rounds/rounds-score.pdf",
+   "path": "rounds-score.pdf",
    "pages": 11,
-   "bytes": 117961
+   "bytes": 118177
   },
   "screen": {
-   "path": "/home/user/duets/books/rounds/rounds-screen.pdf",
+   "path": "rounds-screen.pdf",
    "pages": 10,
-   "bytes": 150212
+   "bytes": 150426
   },
   "screen-score": {
-   "path": "/home/user/duets/books/rounds/rounds-screen-score.pdf",
+   "path": "rounds-screen-score.pdf",
    "pages": 10,
-   "bytes": 99811
+   "bytes": 100011
   }
  },
  "items": [
@@ -126,5 +126,5 @@
    }
   }
  ],
- "seconds": 22.5
+ "seconds": 7.1
 }

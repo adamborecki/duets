@@ -22,6 +22,31 @@ or go straight to the [`books/`](books/) folder. Each book comes in four edition
 
 Every PDF has bookmarks and a contents page listing the Primo and Secondo difficulty of each piece.
 
+### The practice page
+
+In the catalog, **▶ practice** (or a duet's title) puts that piece on the screen with a player beside it:
+
+- **Hear either part.** Untick *Primo sounds* and the computer plays the Secondo while you play the Primo — or
+  the other way round, or both parts to hear how it goes.
+- **Slow it down** (40–125 % of the marked tempo), with an optional metronome, a count-in and a loop.
+- **The page turns itself** as the music plays (screen and facing-page editions); ←/→ or a tap on the page
+  edge turns by hand, Space starts and stops, and a click on the progress bar jumps to that bar.
+- **Both parts or just yours.** *Primo only* / *Secondo only* fills a tablet or phone held upright with one
+  part; *Both parts* is the two-up view for a laptop on the music stand.
+- **🎲 Surprise us** on the catalog opens a random duet from whatever the search and level filters show.
+
+The practice page needs a web server (it fetches the notes and only the pages it shows). With GitHub Pages
+switched on for this repository, the catalog is the site's front page and everything works there. On your
+own computer:
+
+```sh
+python -m duets serve          # then open http://127.0.0.1:8000/
+```
+
+The sound is a plain synthesized piano — a practice partner, not a recording. The page keeps the screen
+awake while it is open; **F** or ⛶ gives it the whole screen. (On an iPhone the ring/silent switch also
+silences web pages — switch it to ring to hear the player.)
+
 ### Reading the ratings
 
 `●○○○○` beginner · `●●○○○` late beginner · `●●●○○` early intermediate · `●●●●○` intermediate ·
@@ -48,6 +73,8 @@ python -m duets sunday --weeks 6                          # hymns for the coming
 python -m duets sunday 2026-11-29 --weeks 4 --build       # ... and a PDF packet of them
 python -m duets book advent-christmas                     # rebuild a book; "book all" for everything
 python -m duets flavors                                   # list recipes and layouts
+python -m duets catalog                                   # rebuild index.html and play.html
+python -m duets serve                                     # catalog + practice page on this computer
 ```
 
 Useful switches for `make`: `--flavor`, `--primo N`, `--secondo N` (1–5), `--melody p|s|swap`,
@@ -93,10 +120,12 @@ duets/        the generator
   difficulty.py ratings and sanity checks (hand collisions, stretches, un-notatable rhythms)
   notate.py     splitting durations the way engravers do · lily.py LilyPond output
   engrave.py    clefs, 8va, shared line/page breaks, the four editions · books.py book assembly
-  sundays.py    the church year and hymn suggestions · site.py the catalog page
+  sundays.py    the church year and hymn suggestions
+  site.py       the catalog and practice pages · playdata.py the notes the practice page plays
 library/      about a thousand tunes in ABC, with sources and rights (library/README.md)
 books/        the finished books
 tools/        the importers that built the library
+vendor/pdfjs/ PDF.js (Apache 2.0), which draws the pages on the practice page
 tests/        pytest
 ```
 
@@ -127,3 +156,5 @@ later book — are still under copyright, so they are not here.
 - The organ-and-piano settings are a first version: one recipe, hymns only, and no registration hints.
 - "One hand each" classics are only as easy as the original hand was.
 - Ratings are estimates — good for comparing pieces, not gospel.
+- The practice page follows the music by page, not by bar, and only in the screen and facing-page
+  editions; the full-score editions turn by hand.

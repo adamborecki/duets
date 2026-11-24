@@ -6,24 +6,24 @@
  "pieces": 29,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/childrens-songs/childrens-songs-facing.pdf",
+   "path": "childrens-songs-facing.pdf",
    "pages": 71,
-   "bytes": 850947
+   "bytes": 851268
   },
   "score": {
-   "path": "/home/user/duets/books/childrens-songs/childrens-songs-score.pdf",
+   "path": "childrens-songs-score.pdf",
    "pages": 46,
-   "bytes": 617951
+   "bytes": 618050
   },
   "screen": {
-   "path": "/home/user/duets/books/childrens-songs/childrens-songs-screen.pdf",
+   "path": "childrens-songs-screen.pdf",
    "pages": 48,
-   "bytes": 813521
+   "bytes": 820973
   },
   "screen-score": {
-   "path": "/home/user/duets/books/childrens-songs/childrens-songs-screen-score.pdf",
+   "path": "childrens-songs-screen-score.pdf",
    "pages": 45,
-   "bytes": 562802
+   "bytes": 563039
   }
  },
  "items": [
@@ -564,12 +564,12 @@
    "subtitle": "",
    "composer": "John W. Bratton, 1907",
    "levels": {
-    "p": 3.3,
+    "p": 3.4,
     "s": 3.5
    },
    "key": "G",
    "meter": "6/8",
-   "bars": 75,
+   "bars": 74,
    "flavor": "tune-below",
    "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
    "section": "",
@@ -697,5 +697,5 @@
    }
   }
  ],
- "seconds": 49.1
+ "seconds": 21.7
 }

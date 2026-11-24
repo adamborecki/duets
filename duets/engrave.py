@@ -424,7 +424,8 @@ def render_layout(piece: Piece, layout: str, workdir: Path, stem: str, paper: st
             n = render.two_up(paths["s"], paths["p"], out)
         for pth in paths.values():
             pth.unlink(missing_ok=True)
-        return {"path": out, "pages": n, "warnings": warnings, "staff_size": plan.staff_size}
+        return {"path": out, "pages": n, "warnings": warnings, "staff_size": plan.staff_size,
+                "page_breaks": sorted(plan.page_breaks)}
 
     spec = _score_spec(piece, layout, pw, midi=midi_out is not None)
     size = spec.staff_size

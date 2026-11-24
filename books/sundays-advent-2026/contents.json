@@ -6,24 +6,24 @@
  "pieces": 28,
  "layouts": {
   "facing": {
-   "path": "books/sundays-advent-2026/sundays-2026-11-26-facing.pdf",
+   "path": "sundays-2026-11-26-facing.pdf",
    "pages": 71,
-   "bytes": 953016
+   "bytes": 954244
   },
   "score": {
-   "path": "books/sundays-advent-2026/sundays-2026-11-26-score.pdf",
+   "path": "sundays-2026-11-26-score.pdf",
    "pages": 54,
-   "bytes": 714406
+   "bytes": 715193
   },
   "screen": {
-   "path": "books/sundays-advent-2026/sundays-2026-11-26-screen.pdf",
+   "path": "sundays-2026-11-26-screen.pdf",
    "pages": 58,
-   "bytes": 946165
+   "bytes": 947057
   },
   "screen-score": {
-   "path": "books/sundays-advent-2026/sundays-2026-11-26-screen-score.pdf",
+   "path": "sundays-2026-11-26-screen-score.pdf",
    "pages": 48,
-   "bytes": 664562
+   "bytes": 665240
   }
  },
  "items": [
@@ -676,5 +676,5 @@
    }
   }
  ],
- "seconds": 26.5
+ "seconds": 13.4
 }

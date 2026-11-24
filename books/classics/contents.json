@@ -6,24 +6,24 @@
  "pieces": 67,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/classics/classics-facing.pdf",
+   "path": "classics-facing.pdf",
    "pages": 301,
-   "bytes": 3473558
+   "bytes": 3478837
   },
   "score": {
-   "path": "/home/user/duets/books/classics/classics-score.pdf",
+   "path": "classics-score.pdf",
    "pages": 241,
-   "bytes": 2849623
+   "bytes": 2853908
   },
   "screen": {
-   "path": "/home/user/duets/books/classics/classics-screen.pdf",
+   "path": "classics-screen.pdf",
    "pages": 263,
-   "bytes": 3333828
+   "bytes": 3338482
   },
   "screen-score": {
-   "path": "/home/user/duets/books/classics/classics-screen-score.pdf",
+   "path": "classics-screen-score.pdf",
    "pages": 231,
-   "bytes": 2680730
+   "bytes": 2684781
   }
  },
  "items": [
@@ -1614,5 +1614,5 @@
    }
   }
  ],
- "seconds": 154.4
+ "seconds": 34.2
 }

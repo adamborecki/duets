@@ -6,24 +6,24 @@
  "pieces": 7,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/joplin-rags/joplin-rags-facing.pdf",
+   "path": "joplin-rags-facing.pdf",
    "pages": 69,
-   "bytes": 889527
+   "bytes": 890751
   },
   "score": {
-   "path": "/home/user/duets/books/joplin-rags/joplin-rags-score.pdf",
+   "path": "joplin-rags-score.pdf",
    "pages": 60,
-   "bytes": 776663
+   "bytes": 777559
   },
   "screen": {
-   "path": "/home/user/duets/books/joplin-rags/joplin-rags-screen.pdf",
+   "path": "joplin-rags-screen.pdf",
    "pages": 54,
-   "bytes": 883162
+   "bytes": 883949
   },
   "screen-score": {
-   "path": "/home/user/duets/books/joplin-rags/joplin-rags-screen-score.pdf",
+   "path": "joplin-rags-screen-score.pdf",
    "pages": 55,
-   "bytes": 740702
+   "bytes": 741491
   }
  },
  "items": [
@@ -197,5 +197,5 @@
    }
   }
  ],
- "seconds": 92.2
+ "seconds": 19.9
 }

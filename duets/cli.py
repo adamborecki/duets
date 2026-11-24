@@ -138,6 +138,70 @@ def cmd_catalog(args):
     build_site()
 
 
+def cmd_serve(args):
+    """Serve the repository folder so the catalog and practice page work locally."""
+    import http.server
+    import os
+    import re
+    from .books import ROOT
+
+    class Handler(http.server.SimpleHTTPRequestHandler):
+        """Static files with byte ranges, so the practice page can fetch just the
+        pages it shows from a big book (GitHub Pages does the same)."""
+
+        def __init__(self, *a, **kw):
+            super().__init__(*a, directory=str(ROOT), **kw)
+
+        def log_message(self, *a):
+            pass
+
+        def end_headers(self):
+            self.send_header("Accept-Ranges", "bytes")
+            super().end_headers()
+
+        def send_head(self):
+            m = re.fullmatch(r"bytes=(\d*)-(\d*)", self.headers.get("Range", "").strip())
+            path = self.translate_path(self.path)
+            if not m or not (m.group(1) or m.group(2)) or not os.path.isfile(path):
+                self._left = None
+                return super().send_head()
+            size = os.path.getsize(path)
+            if m.group(1):
+                start, end = int(m.group(1)), min(int(m.group(2) or size - 1), size - 1)
+            else:                                           # last N bytes
+                start, end = max(0, size - int(m.group(2))), size - 1
+            if start > end or start >= size:
+                self.send_error(416, "Requested range not satisfiable")
+                return None
+            f = open(path, "rb")
+            f.seek(start)
+            self._left = end - start + 1
+            self.send_response(206)
+            self.send_header("Content-Type", self.guess_type(path))
+            self.send_header("Content-Range", f"bytes {start}-{end}/{size}")
+            self.send_header("Content-Length", str(self._left))
+            self.end_headers()
+            return f
+
+        def copyfile(self, source, outputfile):
+            left = getattr(self, "_left", None)
+            if left is None:
+                return super().copyfile(source, outputfile)
+            while left > 0:
+                chunk = source.read(min(65536, left))
+                if not chunk:
+                    break
+                outputfile.write(chunk)
+                left -= len(chunk)
+
+    with http.server.ThreadingHTTPServer(("127.0.0.1", args.port), Handler) as srv:
+        print(f"Catalog and practice page: http://127.0.0.1:{args.port}/   (Ctrl-C to stop)")
+        try:
+            srv.serve_forever()
+        except KeyboardInterrupt:
+            pass
+
+
 def _common(p):
     p.add_argument("--flavor", default="", help="arrangement recipe (see: python -m duets flavors)")
     p.add_argument("--primo", type=int, help="override Primo difficulty 1-5")
@@ -211,6 +275,9 @@ def main(argv=None):
     p.set_defaults(fn=cmd_variations)
     p = sub.add_parser("catalog", help="rebuild the browsable catalog page")
     p.set_defaults(fn=cmd_catalog)
+    p = sub.add_parser("serve", help="open the catalog and practice page on this computer")
+    p.add_argument("--port", type=int, default=8000)
+    p.set_defaults(fn=cmd_serve)
     args = ap.parse_args(argv)
     args.fn(args)
 

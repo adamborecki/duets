@@ -6,24 +6,24 @@
  "pieces": 60,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/ella-frank-nat/ella-frank-nat-facing.pdf",
+   "path": "ella-frank-nat-facing.pdf",
    "pages": 179,
-   "bytes": 2379049
+   "bytes": 2382348
   },
   "score": {
-   "path": "/home/user/duets/books/ella-frank-nat/ella-frank-nat-score.pdf",
+   "path": "ella-frank-nat-score.pdf",
    "pages": 153,
-   "bytes": 1812611
+   "bytes": 1815278
   },
   "screen": {
-   "path": "/home/user/duets/books/ella-frank-nat/ella-frank-nat-screen.pdf",
+   "path": "ella-frank-nat-screen.pdf",
    "pages": 153,
-   "bytes": 2358114
+   "bytes": 2361029
   },
   "screen-score": {
-   "path": "/home/user/duets/books/ella-frank-nat/ella-frank-nat-screen-score.pdf",
+   "path": "ella-frank-nat-screen-score.pdf",
    "pages": 145,
-   "bytes": 1755385
+   "bytes": 1757938
   }
  },
  "items": [
@@ -1421,5 +1421,5 @@
    }
   }
  ],
- "seconds": 120.5
+ "seconds": 28.5
 }

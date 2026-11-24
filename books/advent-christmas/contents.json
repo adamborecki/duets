@@ -6,24 +6,24 @@
  "pieces": 71,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/advent-christmas/advent-christmas-facing.pdf",
+   "path": "advent-christmas-facing.pdf",
    "pages": 183,
-   "bytes": 2070768
+   "bytes": 2073950
   },
   "score": {
-   "path": "/home/user/duets/books/advent-christmas/advent-christmas-score.pdf",
+   "path": "advent-christmas-score.pdf",
    "pages": 134,
-   "bytes": 1527955
+   "bytes": 1529868
   },
   "screen": {
-   "path": "/home/user/duets/books/advent-christmas/advent-christmas-screen.pdf",
+   "path": "advent-christmas-screen.pdf",
    "pages": 136,
-   "bytes": 2036779
+   "bytes": 2032112
   },
   "screen-score": {
-   "path": "/home/user/duets/books/advent-christmas/advent-christmas-screen-score.pdf",
+   "path": "advent-christmas-screen-score.pdf",
    "pages": 125,
-   "bytes": 1447840
+   "bytes": 1449854
   }
  },
  "items": [
@@ -1669,5 +1669,5 @@
    }
   }
  ],
- "seconds": 43.0
+ "seconds": 29.8
 }

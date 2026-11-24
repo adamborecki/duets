@@ -6,24 +6,24 @@
  "pieces": 66,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/hymns-of-praise/hymns-of-praise-facing.pdf",
+   "path": "hymns-of-praise-facing.pdf",
    "pages": 145,
-   "bytes": 1711753
+   "bytes": 1714426
   },
   "score": {
-   "path": "/home/user/duets/books/hymns-of-praise/hymns-of-praise-score.pdf",
+   "path": "hymns-of-praise-score.pdf",
    "pages": 100,
-   "bytes": 1254840
+   "bytes": 1256523
   },
   "screen": {
-   "path": "/home/user/duets/books/hymns-of-praise/hymns-of-praise-screen.pdf",
+   "path": "hymns-of-praise-screen.pdf",
    "pages": 109,
-   "bytes": 1656144
+   "bytes": 1657944
   },
   "screen-score": {
-   "path": "/home/user/duets/books/hymns-of-praise/hymns-of-praise-screen-score.pdf",
+   "path": "hymns-of-praise-screen-score.pdf",
    "pages": 93,
-   "bytes": 1184869
+   "bytes": 1186439
   }
  },
  "items": [
@@ -1548,5 +1548,5 @@
    }
   }
  ],
- "seconds": 34.0
+ "seconds": 21.7
 }

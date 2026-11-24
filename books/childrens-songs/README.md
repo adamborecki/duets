@@ -36,7 +36,7 @@ Children's songs in the easiest settings.
 | 21 | She'll Be Coming 'Round the Mountain | C | ●○○○○ 1.3 | ●●●○○ 2.8 | Primo: the tune in octaves · Secondo: full accompaniment |
 | 22 | Skip to My Lou | F | ●●○○○ 1.6 | ●●○○○ 1.9 | The tune passes between the players (easy) |
 | 23 | Sur le pont d'Avignon | F | ●●○○○ 2.5 | ●●○○○ 2.2 | Primo: tune with harmony notes · Secondo: simple bass and chords |
-| 24 | The Teddy Bears' Picnic | G | ●●●○○ 3.3 | ●●●●○ 3.5 | Secondo plays the tune · Primo accompanies above |
+| 24 | The Teddy Bears' Picnic | G | ●●●○○ 3.4 | ●●●●○ 3.5 | Secondo plays the tune · Primo accompanies above |
 | 25 | This Old Man | G | ●●○○○ 1.5 | ●●○○○ 2.0 | Both parts easy: tune in octaves over held chords |
 | 26 | Three Blind Mice | F | ●●○○○ 1.9 | ●●○○○ 1.7 | Tune in octaves over a simple bass-and-chord pattern |
 | 27 | Twinkle, Twinkle, Little Star | F | ●○○○○ 1.0 | ●●○○○ 2.5 | Primo: the tune in octaves · Secondo: full accompaniment |

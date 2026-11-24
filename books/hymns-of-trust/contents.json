@@ -6,24 +6,24 @@
  "pieces": 112,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/hymns-of-trust/hymns-of-trust-facing.pdf",
+   "path": "hymns-of-trust-facing.pdf",
    "pages": 235,
-   "bytes": 2437403
+   "bytes": 2441568
   },
   "score": {
-   "path": "/home/user/duets/books/hymns-of-trust/hymns-of-trust-score.pdf",
+   "path": "hymns-of-trust-score.pdf",
    "pages": 153,
-   "bytes": 1816814
+   "bytes": 1819613
   },
   "screen": {
-   "path": "/home/user/duets/books/hymns-of-trust/hymns-of-trust-screen.pdf",
+   "path": "hymns-of-trust-screen.pdf",
    "pages": 182,
-   "bytes": 2313172
+   "bytes": 2316364
   },
   "screen-score": {
-   "path": "/home/user/duets/books/hymns-of-trust/hymns-of-trust-screen-score.pdf",
+   "path": "hymns-of-trust-screen-score.pdf",
    "pages": 131,
-   "bytes": 1653763
+   "bytes": 1656189
   }
  },
  "items": [
@@ -2610,5 +2610,5 @@
    }
   }
  ],
- "seconds": 33.8
+ "seconds": 31.1
 }

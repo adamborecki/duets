@@ -6,24 +6,24 @@
  "pieces": 28,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/thanksgiving/thanksgiving-facing.pdf",
+   "path": "thanksgiving-facing.pdf",
    "pages": 67,
-   "bytes": 940802
+   "bytes": 942022
   },
   "score": {
-   "path": "/home/user/duets/books/thanksgiving/thanksgiving-score.pdf",
+   "path": "thanksgiving-score.pdf",
    "pages": 52,
-   "bytes": 695503
+   "bytes": 696286
   },
   "screen": {
-   "path": "/home/user/duets/books/thanksgiving/thanksgiving-screen.pdf",
+   "path": "thanksgiving-screen.pdf",
    "pages": 56,
-   "bytes": 936826
+   "bytes": 937617
   },
   "screen-score": {
-   "path": "/home/user/duets/books/thanksgiving/thanksgiving-screen-score.pdf",
+   "path": "thanksgiving-screen-score.pdf",
    "pages": 48,
-   "bytes": 634749
+   "bytes": 635427
   }
  },
  "items": [
@@ -674,5 +674,5 @@
    }
   }
  ],
- "seconds": 12.3
+ "seconds": 13.0
 }

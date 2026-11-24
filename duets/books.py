@@ -413,9 +413,21 @@ def _render_chunk(job: tuple) -> list:
         render.compile_batch(texts)
     except Exception:
         pass
+    from .playdata import piece_notes
     for entry, piece in pieces.values():
-        for layout in layouts:
-            out.append(_render_one(entry, piece, layout, workdir, paper))
+        rs = [_render_one(entry, piece, layout, workdir, paper) for layout in layouts]
+        if rs and rs[0].get("ok"):
+            try:
+                notes = piece_notes(piece)               # for the practice page
+                # where the pages turn (bar indices), so the page can follow the music
+                notes["pb"] = {r["layout"]: r["page_breaks"] for r in rs if r.get("ok") and r.get("page_breaks")}
+                order = piece.play_order()
+                if order != list(range(len(piece.bars))):
+                    notes["ord"] = order
+                rs[0]["notes"] = notes
+            except Exception:
+                rs[0]["notes"] = None
+        out.extend(rs)
     return out
 
 
@@ -428,7 +440,8 @@ def _render_one(entry: Entry, piece, layout: str, workdir: str, paper: str) -> d
                 "subtitle": piece.subtitle, "composer": piece.composer, "levels": dict(piece.levels),
                 "key": piece.key.short, "meter": piece.meter.text, "bars": len(piece.bars),
                 "flavor": entry.flavor, "flavor_text": piece.flavor, "section": entry.section,
-                "problems": piece.stats.get("problems", []), "secs": round(time.time() - t0, 1)}
+                "problems": piece.stats.get("problems", []), "secs": round(time.time() - t0, 1),
+                "page_breaks": r.get("page_breaks")}
     except Exception as exc:  # keep the book going; report at the end
         import traceback
         return {"ok": False, "id": entry.id, "slug": entry.slug, "layout": layout,
@@ -663,7 +676,7 @@ def build_book(book: BookDef, layouts=LAYOUTS, paper: str = "letter", jobs: int 
                                   outer=(layout == "facing"))
         final = outdir / f"{book.id}-{layout}.pdf"
         _finalize_with_outline(numbered, final, toc)
-        report["layouts"][layout] = {"path": str(final), "pages": render.page_count(final),
+        report["layouts"][layout] = {"path": final.name, "pages": render.page_count(final),
                                      "bytes": final.stat().st_size}
         for it in items:
             report["warnings"] += [f"{it['id']}: {w}" for w in it["warnings"]]
@@ -677,6 +690,9 @@ def build_book(book: BookDef, layouts=LAYOUTS, paper: str = "letter", jobs: int 
         else:
             for item, t in zip(report["items"], toc):
                 item["pages"][layout] = t["page"]
+    notes = [results[(e.id, layouts[0])].get("notes") for e in good]
+    (outdir / "notes.json").write_text(json.dumps({"v": 1, "items": notes}, separators=(",", ":")),
+                                       encoding="utf-8")
     report["seconds"] = round(time.time() - t0, 1)
     (outdir / "contents.json").write_text(json.dumps(
         {k: v for k, v in report.items() if k not in ("failures", "warnings")}, indent=1), encoding="utf-8")
@@ -706,6 +722,7 @@ def _finalize_with_outline(src: Path, dst: Path, toc: list) -> None:
             parent = w.add_outline_item(section, idx)
         w.add_outline_item(t["title"], idx, parent=parent if t["section"] else None)
     w.add_metadata({"/Title": "", "/Creator": "duets"})
+    render.balance_page_tree(w)
     with open(dst, "wb") as fh:
         w.write(fh)
     tmp.unlink(missing_ok=True)

@@ -194,6 +194,39 @@ def concat(pdfs, out: Path, outline=None) -> int:
     return len(w.pages)
 
 
+def balance_page_tree(w: PdfWriter, fanout: int = 8) -> None:
+    """Nest the writer's flat page list into a tree.  A viewer that fetches a
+    big book piecemeal over the web (PDF.js on the practice page) can then find
+    page 300 by reading a few small nodes instead of every page before it.
+    Call this last, just before ``w.write``."""
+    from pypdf.generic import ArrayObject, DictionaryObject, NameObject, NumberObject
+    root_ref = w._root_object.raw_get("/Pages")
+    root = root_ref.get_object()
+    level = list(root["/Kids"])
+    if len(level) <= fanout:
+        return
+
+    def count(ref) -> int:
+        o = ref.get_object()
+        return int(o["/Count"]) if o.get("/Type") == "/Pages" else 1
+
+    while len(level) > fanout:
+        nxt = []
+        for i in range(0, len(level), fanout):
+            group = level[i:i + fanout]
+            node = DictionaryObject({NameObject("/Type"): NameObject("/Pages")})
+            ref = w._add_object(node)
+            for k in group:
+                k.get_object()[NameObject("/Parent")] = ref
+            node[NameObject("/Kids")] = ArrayObject(group)
+            node[NameObject("/Count")] = NumberObject(sum(count(k) for k in group))
+            nxt.append(ref)
+        level = nxt
+    for k in level:
+        k.get_object()[NameObject("/Parent")] = root_ref
+    root[NameObject("/Kids")] = ArrayObject(level)
+
+
 def png_preview(pdf: Path, out_prefix: Path, dpi: int = 80, first: int = 1, last: int | None = None) -> list:
     """Rasterise pages with pdftoppm (for eyeballing output)."""
     out_prefix = Path(out_prefix)

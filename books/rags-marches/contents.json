@@ -6,24 +6,24 @@
  "pieces": 14,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/rags-marches/rags-marches-facing.pdf",
+   "path": "rags-marches-facing.pdf",
    "pages": 49,
-   "bytes": 662806
+   "bytes": 662955
   },
   "score": {
-   "path": "/home/user/duets/books/rags-marches/rags-marches-score.pdf",
+   "path": "rags-marches-score.pdf",
    "pages": 40,
-   "bytes": 512975
+   "bytes": 513108
   },
   "screen": {
-   "path": "/home/user/duets/books/rags-marches/rags-marches-screen.pdf",
+   "path": "rags-marches-screen.pdf",
    "pages": 40,
-   "bytes": 653498
+   "bytes": 653265
   },
   "screen-score": {
-   "path": "/home/user/duets/books/rags-marches/rags-marches-screen-score.pdf",
+   "path": "rags-marches-screen-score.pdf",
    "pages": 37,
-   "bytes": 493649
+   "bytes": 486156
   }
  },
  "items": [
@@ -341,7 +341,7 @@
    },
    "key": "G",
    "meter": "6/8",
-   "bars": 75,
+   "bars": 74,
    "flavor": "easy-secondo",
    "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
    "section": "",
@@ -356,5 +356,5 @@
    }
   }
  ],
- "seconds": 53.4
+ "seconds": 18.6
 }

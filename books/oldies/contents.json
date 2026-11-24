@@ -6,24 +6,24 @@
  "pieces": 93,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/oldies/oldies-facing.pdf",
+   "path": "oldies-facing.pdf",
    "pages": 281,
-   "bytes": 3173599
+   "bytes": 3178721
   },
   "score": {
-   "path": "/home/user/duets/books/oldies/oldies-score.pdf",
+   "path": "oldies-score.pdf",
    "pages": 231,
-   "bytes": 2587682
+   "bytes": 2591793
   },
   "screen": {
-   "path": "/home/user/duets/books/oldies/oldies-screen.pdf",
+   "path": "oldies-screen.pdf",
    "pages": 240,
-   "bytes": 3202342
+   "bytes": 3206624
   },
   "screen-score": {
-   "path": "/home/user/duets/books/oldies/oldies-screen-score.pdf",
+   "path": "oldies-screen-score.pdf",
    "pages": 221,
-   "bytes": 2371145
+   "bytes": 2375052
   }
  },
  "items": [
@@ -2199,5 +2199,5 @@
    }
   }
  ],
- "seconds": 154.4
+ "seconds": 41.7
 }

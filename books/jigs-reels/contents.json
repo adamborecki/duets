@@ -6,24 +6,24 @@
  "pieces": 95,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/jigs-reels/jigs-reels-facing.pdf",
+   "path": "jigs-reels-facing.pdf",
    "pages": 235,
-   "bytes": 2654430
+   "bytes": 2658595
   },
   "score": {
-   "path": "/home/user/duets/books/jigs-reels/jigs-reels-score.pdf",
+   "path": "jigs-reels-score.pdf",
    "pages": 201,
-   "bytes": 2061059
+   "bytes": 2064713
   },
   "screen": {
-   "path": "/home/user/duets/books/jigs-reels/jigs-reels-screen.pdf",
+   "path": "jigs-reels-screen.pdf",
    "pages": 205,
-   "bytes": 2607114
+   "bytes": 2610781
   },
   "screen-score": {
-   "path": "/home/user/duets/books/jigs-reels/jigs-reels-screen-score.pdf",
+   "path": "jigs-reels-screen-score.pdf",
    "pages": 169,
-   "bytes": 1892339
+   "bytes": 1895390
   }
  },
  "items": [
@@ -2219,5 +2219,5 @@
    }
   }
  ],
- "seconds": 143.5
+ "seconds": 31.1
 }

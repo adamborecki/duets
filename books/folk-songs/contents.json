@@ -6,24 +6,24 @@
  "pieces": 95,
  "layouts": {
   "facing": {
-   "path": "/home/user/duets/books/folk-songs/folk-songs-facing.pdf",
+   "path": "folk-songs-facing.pdf",
    "pages": 225,
-   "bytes": 2597748
+   "bytes": 2585729
   },
   "score": {
-   "path": "/home/user/duets/books/folk-songs/folk-songs-score.pdf",
+   "path": "folk-songs-score.pdf",
    "pages": 184,
-   "bytes": 1932780
+   "bytes": 1934897
   },
   "screen": {
-   "path": "/home/user/duets/books/folk-songs/folk-songs-screen.pdf",
+   "path": "folk-songs-screen.pdf",
    "pages": 195,
-   "bytes": 2515036
+   "bytes": 2503480
   },
   "screen-score": {
-   "path": "/home/user/duets/books/folk-songs/folk-songs-screen-score.pdf",
+   "path": "folk-songs-screen-score.pdf",
    "pages": 165,
-   "bytes": 1797578
+   "bytes": 1792628
   }
  },
  "items": [
@@ -1257,7 +1257,7 @@
    },
    "key": "G",
    "meter": "3/4",
-   "bars": 28,
+   "bars": 27,
    "flavor": "trade-easy",
    "flavor_text": "The tune passes between the players (easy)",
    "section": "",
@@ -1740,7 +1740,7 @@
    },
    "key": "Dm",
    "meter": "3/4",
-   "bars": 33,
+   "bars": 32,
    "flavor": "easy-primo-rich",
    "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
    "section": "",
@@ -2213,5 +2213,5 @@
    }
   }
  ],
- "seconds": 128.3
+ "seconds": 37.7
 }
