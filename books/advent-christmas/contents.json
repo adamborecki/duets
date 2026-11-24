@@ -1,27 +1,29 @@
 {
  "id": "advent-christmas",
  "title": "Advent & Christmas",
- "pieces": 72,
+ "subtitle": "Hymns and carols for piano four hands",
+ "blurb": "Advent chorales, Christmas hymns from the Lutheran tradition and favourite carols.",
+ "pieces": 71,
  "layouts": {
   "facing": {
    "path": "/home/user/duets/books/advent-christmas/advent-christmas-facing.pdf",
-   "pages": 177,
-   "bytes": 2012513
+   "pages": 181,
+   "bytes": 2073742
   },
   "score": {
    "path": "/home/user/duets/books/advent-christmas/advent-christmas-score.pdf",
-   "pages": 131,
-   "bytes": 1518331
+   "pages": 132,
+   "bytes": 1519947
   },
   "screen": {
    "path": "/home/user/duets/books/advent-christmas/advent-christmas-screen.pdf",
-   "pages": 133,
-   "bytes": 1991137
+   "pages": 134,
+   "bytes": 2007837
   },
   "screen-score": {
    "path": "/home/user/duets/books/advent-christmas/advent-christmas-screen-score.pdf",
    "pages": 123,
-   "bytes": 1451986
+   "bytes": 1438749
   }
  },
  "items": [
@@ -95,17 +97,17 @@
    }
   },
   {
-   "slug": "gabriels-message",
-   "title": "Gabriel's Message",
-   "subtitle": "GABRIEL`S MESSAGE",
-   "composer": "Traditional Basque Carol",
+   "slug": "the-day-is-surely-drawing-near",
+   "title": "The Day Is Surely Drawing Near",
+   "subtitle": "ES IST GEWISSLICH AN DER ZEIT",
+   "composer": "Klug's Geistliche Lieder, Wittenberg, 1533",
    "levels": {
     "p": 1.4,
-    "s": 1.9
+    "s": 2.1
    },
-   "key": "C",
-   "meter": "3/4",
-   "bars": 33,
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
    "flavor": "chorale-easy",
    "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
    "section": "Advent",
@@ -118,17 +120,17 @@
    }
   },
   {
-   "slug": "hark-the-glad-sound",
-   "title": "Hark the Glad Sound",
-   "subtitle": "CHESTERFIELD",
-   "composer": "or 'Richmond (Haweis)' or 'Spa Fields Chapel' Thomas Haweis, 1792",
+   "slug": "gabriels-message",
+   "title": "Gabriel's Message",
+   "subtitle": "GABRIEL`S MESSAGE",
+   "composer": "Traditional Basque Carol",
    "levels": {
-    "p": 3.0,
-    "s": 2.1
+    "p": 4.1,
+    "s": 2.9
    },
-   "key": "G",
+   "key": "C",
    "meter": "3/4",
-   "bars": 14,
+   "bars": 33,
    "flavor": "tune-below-flowing",
    "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
    "section": "Advent",
@@ -141,42 +143,19 @@
    }
   },
   {
-   "slug": "jesus-came-the-heavens-adoring",
-   "title": "Jesus Came, the Heavens Adoring",
-   "subtitle": "SIEH, HIER BIN ICH, EHRENKOENIG",
-   "composer": "Geistreiches Gesangbuch Darmstadt, Germany, 1698",
+   "slug": "hark-the-glad-sound",
+   "title": "Hark the Glad Sound",
+   "subtitle": "CHESTERFIELD",
+   "composer": "or 'Richmond (Haweis)' or 'Spa Fields Chapel' Thomas Haweis, 1792",
    "levels": {
-    "p": 1.8,
-    "s": 1.9
+    "p": 2.1,
+    "s": 1.8
    },
-   "key": "D",
-   "meter": "4/4",
-   "bars": 12,
+   "key": "G",
+   "meter": "3/4",
+   "bars": 14,
    "flavor": "chorale",
    "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
-   "section": "Advent",
-   "problems": [],
-   "pages": {
-    "facing": 18,
-    "score": 15,
-    "screen": 14,
-    "screen-score": 12
-   }
-  },
-  {
-   "slug": "the-king-shall-come",
-   "title": "The King Shall Come",
-   "subtitle": "CONSOLATION-MORNING SONG",
-   "composer": "Wyeth, John (1770-1858)",
-   "levels": {
-    "p": 2.2,
-    "s": 2.3
-   },
-   "key": "C",
-   "meter": "4/4",
-   "bars": 9,
-   "flavor": "easy-secondo",
-   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
    "section": "Advent",
    "problems": [],
    "pages": {
@@ -187,19 +166,19 @@
    }
   },
   {
-   "slug": "lift-up-your-heads-ye-mighty-gates",
-   "title": "Lift Up Your Heads, Ye Mighty Gates",
-   "subtitle": "MILWAUKEE",
-   "composer": "or 'Macht hoch die T\u00fcr (Lemke)' August Lemke, 1849",
+   "slug": "jesus-came-the-heavens-adoring",
+   "title": "Jesus Came, the Heavens Adoring",
+   "subtitle": "SIEH, HIER BIN ICH, EHRENKOENIG",
+   "composer": "Geistreiches Gesangbuch Darmstadt, Germany, 1698",
    "levels": {
-    "p": 1.8,
-    "s": 3.0
+    "p": 2.3,
+    "s": 2.7
    },
-   "key": "A",
-   "meter": "3/4",
-   "bars": 31,
-   "flavor": "chorale-octaves",
-   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "key": "D",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
    "section": "Advent",
    "problems": [],
    "pages": {
@@ -210,26 +189,72 @@
    }
   },
   {
-   "slug": "lo-he-comes-with-clouds-descending",
-   "title": "Lo! He Comes with Clouds Descending",
-   "subtitle": "HELMSLEY",
-   "composer": "attr. Thomas Olivers, 1765",
+   "slug": "the-king-shall-come",
+   "title": "The King Shall Come",
+   "subtitle": "CONSOLATION-MORNING SONG",
+   "composer": "Wyeth, John (1770-1858)",
    "levels": {
-    "p": 1.9,
-    "s": 2.9
+    "p": 1.7,
+    "s": 2.7
+   },
+   "key": "Ab",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 18,
+    "screen": 17,
+    "screen-score": 15
+   }
+  },
+  {
+   "slug": "lift-up-your-heads-ye-mighty-gates",
+   "title": "Lift Up Your Heads, Ye Mighty Gates",
+   "subtitle": "MILWAUKEE",
+   "composer": "or 'Macht hoch die T\u00fcr (Lemke)' August Lemke, 1849",
+   "levels": {
+    "p": 1.8,
+    "s": 2.8
    },
    "key": "C",
-   "meter": "4/4",
-   "bars": 26,
+   "meter": "3/4",
+   "bars": 31,
    "flavor": "trade",
    "flavor_text": "The tune passes between the players",
    "section": "Advent",
    "problems": [],
    "pages": {
-    "facing": 24,
+    "facing": 26,
     "score": 19,
     "screen": 18,
     "screen-score": 16
+   }
+  },
+  {
+   "slug": "lo-he-comes-with-clouds-descending",
+   "title": "Lo! He Comes with Clouds Descending",
+   "subtitle": "HELMSLEY",
+   "composer": "attr. Thomas Olivers, 1765",
+   "levels": {
+    "p": 3.0,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 28,
+    "score": 21,
+    "screen": 20,
+    "screen-score": 18
    }
   },
   {
@@ -249,10 +274,10 @@
    "section": "Advent",
    "problems": [],
    "pages": {
-    "facing": 26,
-    "score": 21,
-    "screen": 20,
-    "screen-score": 18
+    "facing": 30,
+    "score": 23,
+    "screen": 22,
+    "screen-score": 20
    }
   },
   {
@@ -261,21 +286,21 @@
    "subtitle": "WIE SOLL ICH DICH EMPFANGE",
    "composer": "Johann Cr\u00fcger, 1653",
    "levels": {
-    "p": 2.1,
-    "s": 2.3
+    "p": 1.6,
+    "s": 3.1
    },
    "key": "Eb",
    "meter": "4/4",
    "bars": 17,
-   "flavor": "chorale",
-   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
    "section": "Advent",
    "problems": [],
    "pages": {
-    "facing": 32,
-    "score": 26,
-    "screen": 24,
-    "screen-score": 22
+    "facing": 36,
+    "score": 28,
+    "screen": 26,
+    "screen-score": 24
    }
   },
   {
@@ -297,10 +322,10 @@
     "2 moments where Secondo reaches into the Primo's notes"
    ],
    "pages": {
-    "facing": 34,
-    "score": 28,
-    "screen": 26,
-    "screen-score": 23
+    "facing": 38,
+    "score": 30,
+    "screen": 28,
+    "screen-score": 25
    }
   },
   {
@@ -310,7 +335,7 @@
    "composer": "Walter's Geistliche Gesangb\u00fcchlein, 1524",
    "levels": {
     "p": 3.1,
-    "s": 2.3
+    "s": 2.4
    },
    "key": "Bb",
    "meter": "4/4",
@@ -320,10 +345,33 @@
    "section": "Advent",
    "problems": [],
    "pages": {
-    "facing": 38,
-    "score": 30,
-    "screen": 28,
-    "screen-score": 25
+    "facing": 42,
+    "score": 32,
+    "screen": 30,
+    "screen-score": 27
+   }
+  },
+  {
+   "slug": "wake-awake-for-night-is-flying",
+   "title": "Wake, Awake, for Night Is Flying",
+   "subtitle": "WACHET AUF",
+   "composer": "Phillip Nicolai, 1599",
+   "levels": {
+    "p": 3.4,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "23/8",
+   "bars": 22,
+   "flavor": "setting",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 35,
+    "screen": 32,
+    "screen-score": 29
    }
   },
   {
@@ -343,10 +391,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 42,
-    "score": 33,
-    "screen": 30,
-    "screen-score": 27
+    "facing": 52,
+    "score": 40,
+    "screen": 38,
+    "screen-score": 34
    }
   },
   {
@@ -356,7 +404,7 @@
    "composer": "ancient German found in Walter's Geistliche Gesangb\u00fcchlein, 1524",
    "levels": {
     "p": 3.5,
-    "s": 2.2
+    "s": 2.3
    },
    "key": "C",
    "meter": "4/4",
@@ -366,10 +414,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 44,
-    "score": 34,
-    "screen": 31,
-    "screen-score": 28
+    "facing": 54,
+    "score": 41,
+    "screen": 39,
+    "screen-score": 35
    }
   },
   {
@@ -389,10 +437,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 46,
-    "score": 35,
-    "screen": 32,
-    "screen-score": 29
+    "facing": 56,
+    "score": 42,
+    "screen": 40,
+    "screen-score": 36
    }
   },
   {
@@ -402,7 +450,7 @@
    "composer": "French carol melody",
    "levels": {
     "p": 2.8,
-    "s": 2.4
+    "s": 2.3
    },
    "key": "G",
    "meter": "4/4",
@@ -412,10 +460,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 48,
-    "score": 36,
-    "screen": 33,
-    "screen-score": 30
+    "facing": 58,
+    "score": 43,
+    "screen": 41,
+    "screen-score": 37
    }
   },
   {
@@ -435,10 +483,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 50,
-    "score": 38,
-    "screen": 35,
-    "screen-score": 32
+    "facing": 60,
+    "score": 45,
+    "screen": 43,
+    "screen-score": 39
    }
   },
   {
@@ -458,10 +506,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 52,
-    "score": 39,
-    "screen": 36,
-    "screen-score": 34
+    "facing": 62,
+    "score": 46,
+    "screen": 44,
+    "screen-score": 40
    }
   },
   {
@@ -481,10 +529,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 54,
-    "score": 40,
-    "screen": 37,
-    "screen-score": 35
+    "facing": 64,
+    "score": 47,
+    "screen": 45,
+    "screen-score": 41
    }
   },
   {
@@ -504,10 +552,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 56,
-    "score": 42,
-    "screen": 39,
-    "screen-score": 37
+    "facing": 66,
+    "score": 49,
+    "screen": 47,
+    "screen-score": 43
    }
   },
   {
@@ -527,10 +575,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 58,
-    "score": 44,
-    "screen": 41,
-    "screen-score": 39
+    "facing": 68,
+    "score": 51,
+    "screen": 49,
+    "screen-score": 45
    }
   },
   {
@@ -550,10 +598,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 60,
-    "score": 45,
-    "screen": 42,
-    "screen-score": 40
+    "facing": 70,
+    "score": 52,
+    "screen": 50,
+    "screen-score": 46
    }
   },
   {
@@ -573,10 +621,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 62,
-    "score": 46,
-    "screen": 43,
-    "screen-score": 41
+    "facing": 72,
+    "score": 53,
+    "screen": 51,
+    "screen-score": 47
    }
   },
   {
@@ -596,10 +644,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 64,
-    "score": 47,
-    "screen": 44,
-    "screen-score": 43
+    "facing": 74,
+    "score": 54,
+    "screen": 52,
+    "screen-score": 49
    }
   },
   {
@@ -619,10 +667,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 66,
-    "score": 48,
-    "screen": 45,
-    "screen-score": 44
+    "facing": 76,
+    "score": 55,
+    "screen": 53,
+    "screen-score": 50
    }
   },
   {
@@ -632,7 +680,7 @@
    "composer": "Traditional English carol, possibly dating from as early as the 13th Century",
    "levels": {
     "p": 2.3,
-    "s": 2.4
+    "s": 2.5
    },
    "key": "D",
    "meter": "3/4",
@@ -642,10 +690,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 68,
-    "score": 49,
-    "screen": 46,
-    "screen-score": 45
+    "facing": 78,
+    "score": 56,
+    "screen": 54,
+    "screen-score": 51
    }
   },
   {
@@ -665,10 +713,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 70,
-    "score": 51,
-    "screen": 48,
-    "screen-score": 47
+    "facing": 80,
+    "score": 58,
+    "screen": 56,
+    "screen-score": 53
    }
   },
   {
@@ -688,10 +736,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 72,
-    "score": 52,
-    "screen": 49,
-    "screen-score": 48
+    "facing": 82,
+    "score": 59,
+    "screen": 57,
+    "screen-score": 54
    }
   },
   {
@@ -701,7 +749,7 @@
    "composer": "English traditional carol",
    "levels": {
     "p": 2.6,
-    "s": 4.0
+    "s": 3.7
    },
    "key": "D",
    "meter": "6/8",
@@ -711,10 +759,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 74,
-    "score": 54,
-    "screen": 51,
-    "screen-score": 49
+    "facing": 84,
+    "score": 61,
+    "screen": 59,
+    "screen-score": 55
    }
   },
   {
@@ -734,35 +782,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 76,
-    "score": 56,
-    "screen": 53,
-    "screen-score": 51
-   }
-  },
-  {
-   "slug": "god-rest-you-merry-gentlemen",
-   "title": "God Rest You Merry, Gentlemen",
-   "subtitle": "",
-   "composer": "English traditional carol",
-   "levels": {
-    "p": 3.9,
-    "s": 2.2
-   },
-   "key": "Em",
-   "meter": "4/4",
-   "bars": 21,
-   "flavor": "showy-primo",
-   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
-   "section": "Christmas",
-   "problems": [
-    "1 moments where Secondo reaches into the Primo's notes"
-   ],
-   "pages": {
-    "facing": 78,
-    "score": 58,
-    "screen": 55,
-    "screen-score": 53
+    "facing": 86,
+    "score": 63,
+    "screen": 61,
+    "screen-score": 57
    }
   },
   {
@@ -782,10 +805,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 80,
-    "score": 60,
-    "screen": 57,
-    "screen-score": 55
+    "facing": 88,
+    "score": 65,
+    "screen": 63,
+    "screen-score": 59
    }
   },
   {
@@ -805,10 +828,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 82,
-    "score": 62,
-    "screen": 59,
-    "screen-score": 56
+    "facing": 90,
+    "score": 67,
+    "screen": 65,
+    "screen-score": 60
    }
   },
   {
@@ -818,7 +841,7 @@
    "composer": "German from K\u00f6ln, 1599",
    "levels": {
     "p": 3.0,
-    "s": 1.9
+    "s": 2.0
    },
    "key": "G",
    "meter": "4/4",
@@ -828,10 +851,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 84,
-    "score": 63,
-    "screen": 60,
-    "screen-score": 57
+    "facing": 92,
+    "score": 68,
+    "screen": 66,
+    "screen-score": 61
    }
   },
   {
@@ -851,10 +874,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 86,
-    "score": 65,
-    "screen": 62,
-    "screen-score": 59
+    "facing": 94,
+    "score": 70,
+    "screen": 68,
+    "screen-score": 63
    }
   },
   {
@@ -874,10 +897,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 92,
-    "score": 69,
-    "screen": 67,
-    "screen-score": 64
+    "facing": 100,
+    "score": 74,
+    "screen": 72,
+    "screen-score": 68
    }
   },
   {
@@ -897,10 +920,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 94,
-    "score": 70,
-    "screen": 68,
-    "screen-score": 65
+    "facing": 102,
+    "score": 75,
+    "screen": 73,
+    "screen-score": 69
    }
   },
   {
@@ -920,10 +943,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 96,
-    "score": 71,
-    "screen": 69,
-    "screen-score": 66
+    "facing": 104,
+    "score": 76,
+    "screen": 74,
+    "screen-score": 70
    }
   },
   {
@@ -943,10 +966,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 98,
-    "score": 72,
-    "screen": 70,
-    "screen-score": 67
+    "facing": 106,
+    "score": 77,
+    "screen": 75,
+    "screen-score": 71
    }
   },
   {
@@ -966,33 +989,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 100,
-    "score": 73,
-    "screen": 71,
-    "screen-score": 68
-   }
-  },
-  {
-   "slug": "it-came-upon-the-midnight-clear",
-   "title": "It Came upon the Midnight Clear",
-   "subtitle": "",
-   "composer": "Richard Storrs Willis (Carol), 1850",
-   "levels": {
-    "p": 2.8,
-    "s": 2.8
-   },
-   "key": "C",
-   "meter": "6/8",
-   "bars": 17,
-   "flavor": "trade-easy",
-   "flavor_text": "The tune passes between the players (easy)",
-   "section": "Christmas",
-   "problems": [],
-   "pages": {
-    "facing": 102,
-    "score": 74,
-    "screen": 72,
-    "screen-score": 69
+    "facing": 108,
+    "score": 78,
+    "screen": 76,
+    "screen-score": 72
    }
   },
   {
@@ -1002,7 +1002,7 @@
    "composer": "James Lord Pierpont, 1857",
    "levels": {
     "p": 3.8,
-    "s": 2.0
+    "s": 1.9
    },
    "key": "G",
    "meter": "4/4",
@@ -1012,10 +1012,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 104,
-    "score": 76,
-    "screen": 74,
-    "screen-score": 70
+    "facing": 110,
+    "score": 79,
+    "screen": 77,
+    "screen-score": 73
    }
   },
   {
@@ -1035,10 +1035,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 108,
-    "score": 79,
-    "screen": 77,
-    "screen-score": 73
+    "facing": 114,
+    "score": 82,
+    "screen": 80,
+    "screen-score": 76
    }
   },
   {
@@ -1058,10 +1058,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 112,
-    "score": 81,
-    "screen": 79,
-    "screen-score": 75
+    "facing": 118,
+    "score": 84,
+    "screen": 82,
+    "screen-score": 78
    }
   },
   {
@@ -1071,7 +1071,7 @@
    "composer": "German from K\u00f6ln, 1599",
    "levels": {
     "p": 3.2,
-    "s": 2.3
+    "s": 2.4
    },
    "key": "F",
    "meter": "4/4",
@@ -1081,10 +1081,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 114,
-    "score": 83,
-    "screen": 81,
-    "screen-score": 77
+    "facing": 120,
+    "score": 86,
+    "screen": 84,
+    "screen-score": 80
    }
   },
   {
@@ -1094,7 +1094,7 @@
    "composer": "ancient Latin found in Erfurt Enchiridion, 1524",
    "levels": {
     "p": 2.3,
-    "s": 2.6
+    "s": 2.7
    },
    "key": "C",
    "meter": "4/4",
@@ -1104,10 +1104,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 118,
-    "score": 87,
-    "screen": 85,
-    "screen-score": 81
+    "facing": 124,
+    "score": 90,
+    "screen": 88,
+    "screen-score": 84
    }
   },
   {
@@ -1127,10 +1127,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 120,
-    "score": 88,
-    "screen": 86,
-    "screen-score": 82
+    "facing": 126,
+    "score": 91,
+    "screen": 89,
+    "screen-score": 85
    }
   },
   {
@@ -1150,10 +1150,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 122,
-    "score": 90,
-    "screen": 88,
-    "screen-score": 84
+    "facing": 128,
+    "score": 93,
+    "screen": 91,
+    "screen-score": 87
    }
   },
   {
@@ -1175,10 +1175,10 @@
     "1 moments where Secondo reaches into the Primo's notes"
    ],
    "pages": {
-    "facing": 128,
-    "score": 95,
-    "screen": 93,
-    "screen-score": 89
+    "facing": 134,
+    "score": 98,
+    "screen": 96,
+    "screen-score": 92
    }
   },
   {
@@ -1198,10 +1198,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 130,
-    "score": 96,
-    "screen": 95,
-    "screen-score": 90
+    "facing": 136,
+    "score": 99,
+    "screen": 98,
+    "screen-score": 93
    }
   },
   {
@@ -1221,10 +1221,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 132,
-    "score": 98,
-    "screen": 97,
-    "screen-score": 92
+    "facing": 138,
+    "score": 101,
+    "screen": 100,
+    "screen-score": 95
    }
   },
   {
@@ -1244,10 +1244,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 134,
-    "score": 100,
-    "screen": 99,
-    "screen-score": 93
+    "facing": 140,
+    "score": 103,
+    "screen": 102,
+    "screen-score": 96
    }
   },
   {
@@ -1267,10 +1267,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 136,
-    "score": 102,
-    "screen": 101,
-    "screen-score": 95
+    "facing": 142,
+    "score": 105,
+    "screen": 104,
+    "screen-score": 98
    }
   },
   {
@@ -1290,10 +1290,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 138,
-    "score": 103,
-    "screen": 102,
-    "screen-score": 96
+    "facing": 144,
+    "score": 106,
+    "screen": 105,
+    "screen-score": 99
    }
   },
   {
@@ -1313,10 +1313,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 142,
-    "score": 105,
-    "screen": 105,
-    "screen-score": 98
+    "facing": 148,
+    "score": 108,
+    "screen": 108,
+    "screen-score": 101
    }
   },
   {
@@ -1326,7 +1326,7 @@
    "composer": "or 'Jesous Ahatonia' or 'Une Jeunne Pucelle' traditional French, 1557",
    "levels": {
     "p": 2.3,
-    "s": 2.5
+    "s": 2.6
    },
    "key": "D",
    "meter": "4/4",
@@ -1336,10 +1336,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 144,
-    "score": 106,
-    "screen": 106,
-    "screen-score": 99
+    "facing": 150,
+    "score": 109,
+    "screen": 109,
+    "screen-score": 102
    }
   },
   {
@@ -1359,10 +1359,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 146,
-    "score": 108,
-    "screen": 108,
-    "screen-score": 101
+    "facing": 152,
+    "score": 111,
+    "screen": 111,
+    "screen-score": 104
    }
   },
   {
@@ -1382,10 +1382,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 148,
-    "score": 110,
-    "screen": 110,
-    "screen-score": 103
+    "facing": 154,
+    "score": 113,
+    "screen": 113,
+    "screen-score": 106
    }
   },
   {
@@ -1405,10 +1405,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 150,
-    "score": 112,
-    "screen": 112,
-    "screen-score": 104
+    "facing": 156,
+    "score": 115,
+    "screen": 115,
+    "screen-score": 107
    }
   },
   {
@@ -1428,10 +1428,10 @@
    "section": "Christmas",
    "problems": [],
    "pages": {
-    "facing": 152,
-    "score": 114,
-    "screen": 114,
-    "screen-score": 105
+    "facing": 158,
+    "score": 117,
+    "screen": 117,
+    "screen-score": 108
    }
   },
   {
@@ -1453,33 +1453,10 @@
     "2 moments where Secondo reaches into the Primo's notes"
    ],
    "pages": {
-    "facing": 154,
-    "score": 116,
-    "screen": 116,
-    "screen-score": 107
-   }
-  },
-  {
-   "slug": "what-child-is-this-greensleeves",
-   "title": "What Child Is This? (Greensleeves)",
-   "subtitle": "",
-   "composer": "English traditional (Greensleeves)",
-   "levels": {
-    "p": 2.9,
-    "s": 3.3
-   },
-   "key": "Am",
-   "meter": "6/8",
-   "bars": 20,
-   "flavor": "easy-primo-rich",
-   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
-   "section": "Christmas",
-   "problems": [],
-   "pages": {
-    "facing": 156,
-    "score": 117,
-    "screen": 118,
-    "screen-score": 109
+    "facing": 160,
+    "score": 119,
+    "screen": 119,
+    "screen-score": 110
    }
   },
   {
@@ -1499,9 +1476,9 @@
    "section": "Epiphany",
    "problems": [],
    "pages": {
-    "facing": 158,
-    "score": 119,
-    "screen": 120,
+    "facing": 162,
+    "score": 120,
+    "screen": 121,
     "screen-score": 111
    }
   },
@@ -1522,9 +1499,9 @@
    "section": "Epiphany",
    "problems": [],
    "pages": {
-    "facing": 160,
-    "score": 120,
-    "screen": 121,
+    "facing": 164,
+    "score": 121,
+    "screen": 122,
     "screen-score": 112
    }
   },
@@ -1547,9 +1524,9 @@
     "2 moments where Secondo reaches into the Primo's notes"
    ],
    "pages": {
-    "facing": 162,
-    "score": 122,
-    "screen": 123,
+    "facing": 166,
+    "score": 123,
+    "screen": 124,
     "screen-score": 114
    }
   },
@@ -1560,7 +1537,7 @@
    "composer": "Nikolaus Hermann, 1554",
    "levels": {
     "p": 3.3,
-    "s": 2.2
+    "s": 2.3
    },
    "key": "F",
    "meter": "4/4",
@@ -1570,9 +1547,9 @@
    "section": "Epiphany",
    "problems": [],
    "pages": {
-    "facing": 164,
-    "score": 123,
-    "screen": 124,
+    "facing": 168,
+    "score": 124,
+    "screen": 125,
     "screen-score": 115
    }
   },
@@ -1593,9 +1570,9 @@
    "section": "Epiphany",
    "problems": [],
    "pages": {
-    "facing": 166,
-    "score": 124,
-    "screen": 125,
+    "facing": 170,
+    "score": 125,
+    "screen": 126,
     "screen-score": 116
    }
   },
@@ -1606,7 +1583,7 @@
    "composer": "Klug's Geistliche Lieder, Wittenberg, 1533",
    "levels": {
     "p": 2.4,
-    "s": 2.7
+    "s": 2.5
    },
    "key": "Eb",
    "meter": "4/4",
@@ -1616,9 +1593,9 @@
    "section": "Epiphany",
    "problems": [],
    "pages": {
-    "facing": 168,
-    "score": 125,
-    "screen": 127,
+    "facing": 172,
+    "score": 126,
+    "screen": 128,
     "screen-score": 117
    }
   },
@@ -1639,9 +1616,9 @@
    "section": "Epiphany",
    "problems": [],
    "pages": {
-    "facing": 170,
-    "score": 126,
-    "screen": 128,
+    "facing": 174,
+    "score": 127,
+    "screen": 129,
     "screen-score": 118
    }
   },
@@ -1652,7 +1629,7 @@
    "composer": "Johann Balthasar K\u00f6nig, 1738",
    "levels": {
     "p": 2.2,
-    "s": 2.6
+    "s": 2.7
    },
    "key": "Eb",
    "meter": "4/4",
@@ -1662,9 +1639,9 @@
    "section": "Epiphany",
    "problems": [],
    "pages": {
-    "facing": 172,
-    "score": 128,
-    "screen": 130,
+    "facing": 176,
+    "score": 129,
+    "screen": 131,
     "screen-score": 120
    }
   },
@@ -1685,12 +1662,12 @@
    "section": "New Year",
    "problems": [],
    "pages": {
-    "facing": 174,
-    "score": 129,
-    "screen": 131,
+    "facing": 178,
+    "score": 130,
+    "screen": 132,
     "screen-score": 121
    }
   }
  ],
- "seconds": 26.1
+ "seconds": 75.1
 }

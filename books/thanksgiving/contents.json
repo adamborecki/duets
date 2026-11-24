@@ -1,27 +1,29 @@
 {
  "id": "thanksgiving",
  "title": "Thanksgiving & Harvest",
+ "subtitle": "Hymns and songs of gratitude for piano four hands",
+ "blurb": "Hymns of thanks and praise and a few harvest-time songs.",
  "pieces": 28,
  "layouts": {
   "facing": {
    "path": "/home/user/duets/books/thanksgiving/thanksgiving-facing.pdf",
    "pages": 67,
-   "bytes": 959299
+   "bytes": 940802
   },
   "score": {
    "path": "/home/user/duets/books/thanksgiving/thanksgiving-score.pdf",
-   "pages": 53,
-   "bytes": 697092
+   "pages": 52,
+   "bytes": 695503
   },
   "screen": {
    "path": "/home/user/duets/books/thanksgiving/thanksgiving-screen.pdf",
-   "pages": 57,
-   "bytes": 937684
+   "pages": 56,
+   "bytes": 936826
   },
   "screen-score": {
    "path": "/home/user/duets/books/thanksgiving/thanksgiving-screen-score.pdf",
    "pages": 48,
-   "bytes": 671060
+   "bytes": 634749
   }
  },
  "items": [
@@ -78,7 +80,7 @@
    "composer": "Conrad Kocher, 1838",
    "levels": {
     "p": 1.8,
-    "s": 1.9
+    "s": 2.0
    },
    "key": "G",
    "meter": "4/4",
@@ -124,7 +126,7 @@
    "composer": "Geistliche Kirchenges\u00e4ng, K\u00f6ln, 1623",
    "levels": {
     "p": 2.5,
-    "s": 2.5
+    "s": 2.6
    },
    "key": "D",
    "meter": "6/4",
@@ -135,7 +137,7 @@
    "problems": [],
    "pages": {
     "facing": 18,
-    "score": 17,
+    "score": 16,
     "screen": 15,
     "screen-score": 15
    }
@@ -158,7 +160,7 @@
    "problems": [],
    "pages": {
     "facing": 20,
-    "score": 19,
+    "score": 18,
     "screen": 17,
     "screen-score": 16
    }
@@ -181,7 +183,7 @@
    "problems": [],
    "pages": {
     "facing": 22,
-    "score": 20,
+    "score": 19,
     "screen": 18,
     "screen-score": 17
    }
@@ -204,7 +206,7 @@
    "problems": [],
    "pages": {
     "facing": 24,
-    "score": 22,
+    "score": 21,
     "screen": 20,
     "screen-score": 19
    }
@@ -227,7 +229,7 @@
    "problems": [],
    "pages": {
     "facing": 26,
-    "score": 24,
+    "score": 23,
     "screen": 22,
     "screen-score": 21
    }
@@ -250,7 +252,7 @@
    "problems": [],
    "pages": {
     "facing": 28,
-    "score": 26,
+    "score": 25,
     "screen": 24,
     "screen-score": 23
    }
@@ -273,7 +275,7 @@
    "problems": [],
    "pages": {
     "facing": 30,
-    "score": 27,
+    "score": 26,
     "screen": 26,
     "screen-score": 24
    }
@@ -296,7 +298,7 @@
    "problems": [],
    "pages": {
     "facing": 32,
-    "score": 29,
+    "score": 28,
     "screen": 28,
     "screen-score": 26
    }
@@ -319,7 +321,7 @@
    "problems": [],
    "pages": {
     "facing": 34,
-    "score": 31,
+    "score": 30,
     "screen": 30,
     "screen-score": 27
    }
@@ -342,7 +344,7 @@
    "problems": [],
    "pages": {
     "facing": 36,
-    "score": 33,
+    "score": 32,
     "screen": 32,
     "screen-score": 29
    }
@@ -365,7 +367,7 @@
    "problems": [],
    "pages": {
     "facing": 38,
-    "score": 34,
+    "score": 33,
     "screen": 34,
     "screen-score": 30
    }
@@ -388,7 +390,7 @@
    "problems": [],
    "pages": {
     "facing": 40,
-    "score": 35,
+    "score": 34,
     "screen": 35,
     "screen-score": 31
    }
@@ -411,7 +413,7 @@
    "problems": [],
    "pages": {
     "facing": 42,
-    "score": 37,
+    "score": 36,
     "screen": 37,
     "screen-score": 32
    }
@@ -434,7 +436,7 @@
    "problems": [],
    "pages": {
     "facing": 46,
-    "score": 39,
+    "score": 38,
     "screen": 40,
     "screen-score": 34
    }
@@ -457,7 +459,7 @@
    "problems": [],
    "pages": {
     "facing": 48,
-    "score": 40,
+    "score": 39,
     "screen": 42,
     "screen-score": 35
    }
@@ -480,7 +482,7 @@
    "problems": [],
    "pages": {
     "facing": 50,
-    "score": 41,
+    "score": 40,
     "screen": 43,
     "screen-score": 36
    }
@@ -503,7 +505,7 @@
    "problems": [],
    "pages": {
     "facing": 52,
-    "score": 43,
+    "score": 42,
     "screen": 45,
     "screen-score": 37
    }
@@ -526,7 +528,7 @@
    "problems": [],
    "pages": {
     "facing": 54,
-    "score": 45,
+    "score": 44,
     "screen": 47,
     "screen-score": 39
    }
@@ -538,7 +540,7 @@
    "composer": "Harmonized by Johann Sebastian Bach",
    "levels": {
     "p": 1.4,
-    "s": 2.8
+    "s": 2.7
    },
    "key": "A",
    "meter": "4/4",
@@ -549,7 +551,7 @@
    "problems": [],
    "pages": {
     "facing": 56,
-    "score": 46,
+    "score": 45,
     "screen": 49,
     "screen-score": 41
    }
@@ -572,7 +574,7 @@
    "problems": [],
    "pages": {
     "facing": 58,
-    "score": 47,
+    "score": 46,
     "screen": 50,
     "screen-score": 42
    }
@@ -583,8 +585,8 @@
    "subtitle": "WOODBIRD",
    "composer": "or 'Es Flog Ein Kleins Waldv\u00f6gelein' traditional German found in \"Memminger Tabulaturbuche\", 17th Century",
    "levels": {
-    "p": 3.4,
-    "s": 2.1
+    "p": 3.3,
+    "s": 2.2
    },
    "key": "G",
    "meter": "4/4",
@@ -595,7 +597,7 @@
    "problems": [],
    "pages": {
     "facing": 60,
-    "score": 48,
+    "score": 47,
     "screen": 51,
     "screen-score": 43
    }
@@ -618,7 +620,7 @@
    "problems": [],
    "pages": {
     "facing": 62,
-    "score": 50,
+    "score": 49,
     "screen": 53,
     "screen-score": 45
    }
@@ -630,7 +632,7 @@
    "composer": "Harmonized by Johann Sebastian Bach",
    "levels": {
     "p": 2.2,
-    "s": 2.6
+    "s": 2.3
    },
    "key": "Bb",
    "meter": "3/4",
@@ -641,7 +643,7 @@
    "problems": [],
    "pages": {
     "facing": 64,
-    "score": 51,
+    "score": 50,
     "screen": 54,
     "screen-score": 46
    }
@@ -666,11 +668,11 @@
    ],
    "pages": {
     "facing": 66,
-    "score": 52,
-    "screen": 56,
+    "score": 51,
+    "screen": 55,
     "screen-score": 47
    }
   }
  ],
- "seconds": 33.6
+ "seconds": 67.2
 }
