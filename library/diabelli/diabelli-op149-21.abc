@@ -1,0 +1,42 @@
+X:1
+T:Melodious Piece No. 21
+T:Melodische Übungsstücke, Op. 149 No. 21
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Andante amoroso
+%%duets slug: diabelli-op149-21
+M:4/4
+L:1/8
+Q:1/4=70
+K:A
+V:S
+|: [c'e']3 [bd'] [ac'] [ac'] [ac'] [ac'] | [c'e']2 [bd']2 z2 b3/2 d'/2 | [bd']2 [ac']2 z2 a3/2 c'/2 |
+b3 d'/2 c'/2 b z3 | [c'e']3 [bd'] [ac'] [ac'] [ac'] [ac'] | [c'e']2 [bd']4 [ac']2 | b3 b b c'/2 b/2 a3/2 b/2 |
+[1 c'4 e' d' b e' :| [2 c'5 c'/2 z/2 c'/2 z/2 c'/2 z/2 |: d'3 d'/2 c'/2 b [bd'e']/2 z/2 [bd'e']/2 z/2 [bd'e']/2 z/2 | [c'e']3 [bd']/2 [ac']/2 [ac'] a/2 z/2 b/2 z/2 c'/2 z/2 |
+d'3 d'/2 c'/2 b [bd'e']/2 z/2 [bd'e']/2 z/2 [bd'e']/2 z/2 | [c'e']3 [bd']/2 [ac']/2 [ac'] z [ac']/2 z/2 [bd']/2 z/2 | [c'e']2 [bd']3/2 [ac']/2 [ac'] [ac'] [bd'] [c'e'] | [c'e']2 [bd']2 z b c' d' |
+d'2 c' z/2 c'/2 e'3/2 d'/2 c'/2 d'/2 b/2 c'/2 | [1 a4 z a/2 z/2 b/2 z/2 c'/2 z/2 :| [2 a4 z [bd'] [c'e'] [bd'] | [ac']4 z b c' b |
+a/2 z/2 b c' b a/2 z/2 b c' b | a z c'3/2 a/2 a z c'3/2 a/2 | a2 z3/2 a/2 a4 |]
+V:plh
+|: [ce]3 [Bd] [Ac] [Ac] [Ac] [Ac] | [ce]2 [Bd]2 z2 B3/2 d/2 | [Bd]2 [Ac]2 z2 A3/2 c/2 |
+B3 d/2 c/2 B z3 | [ce]3 [Bd] [Ac] [Ac] [Ac] [Ac] | [ce]2 [Bd]4 [Ac]2 | B3 B B c/2 B/2 A3/2 B/2 |
+[1 c4 e d B e :| [2 c5 c/2 z/2 c/2 z/2 c/2 z/2 |: d3 d/2 c/2 B [Bde]/2 z/2 [Bde]/2 z/2 [Bde]/2 z/2 | [ce]3 [Bd]/2 [Ac]/2 [Ac] A/2 z/2 B/2 z/2 c/2 z/2 |
+d3 d/2 c/2 B [Bde]/2 z/2 [Bde]/2 z/2 [Bde]/2 z/2 | [ce]3 [Bd]/2 [Ac]/2 [Ac] z [Ac]/2 z/2 [Bd]/2 z/2 | [ce]2 [Bd]3/2 [Ac]/2 [Ac] [Ac] [Bd] [ce] | [ce]2 [Bd]2 z B c d |
+d2 c z/2 c/2 e3/2 d/2 c/2 d/2 B/2 c/2 | [1 A4 z A/2 z/2 B/2 z/2 c/2 z/2 :| [2 A4 z [Bd] [ce] [Bd] | [Ac]4 z B c B |
+A/2 z/2 B c B A/2 z/2 B c B | A z [ce]3/2 [Ac]/2 [Ac] z [ce]3/2 [Ac]/2 | [Ac]2 z3/2 [Ace]/2 [Ace]4 |]
+V:srh
+|: A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 | ^A,/2 C/2 E/2 C/2 B,/2 D/2 E/2 D/2 B,/2 D/2 E/2 D/2 G,/2 D/2 E/2 D/2 | B,/2 D/2 E/2 D/2 A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 |
+G,/2 B,/2 E/2 B,/2 G,/2 E/2 A,/2 E/2 G,/2 E/2 [G,B,]/2 E/2 [A,C]/2 E/2 [G,D]/2 E/2 | A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 | ^A,/2 C/2 E/2 C/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 =A,/2 C/2 A,/2 C/2 | A,/2 B,/2 F/2 B,/2 A,/2 B,/2 F/2 B,/2 A,/2 B,/2 F/2 B,/2 F,/2 F/2 F,/2 F/2 |
+[1 G,/2 C/2 =F/2 C/2 G,/2 C/2 F/2 C/2 G,/2 D/2 E/2 D/2 G,/2 D/2 E/2 D/2 :| [2 G,/2 C/2 =F/2 C/2 G,/2 C/2 F/2 C/2 [G,CF] z3 |: F,/2 B,/2 D/2 B,/2 F,/2 B,/2 D/2 B,/2 G,/2 B,/2 E/2 B,/2 G,/2 B,/2 E/2 B,/2 | A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 A,/2 E/2 C/2 E/2 B,/2 E/2 A,/2 E/2 |
+F,/2 B,/2 D/2 F/2 F,/2 B,/2 D/2 F/2 G,/2 B,/2 D/2 E/2 G,/2 B,/2 D/2 E/2 | A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 | A,/2 E/2 =G/2 E/2 A,/2 E/2 G/2 E/2 A,/2 E/2 G/2 E/2 A,/2 E/2 G/2 E/2 | ^A,/2 E/2 =G/2 E/2 B,/2 D/2 F/2 D/2 B,/2 F/2 D/2 F/2 C/2 F/2 B,/2 F/2 |
+F2 E z/2 E/2 G3/2 F/2 E/2 F/2 D/2 E/2 | [1 C/2 A,/2 E/2 C/2 A, z5 :| [2 C/2 A,/2 E/2 C/2 A,/2 E,/2 A,/2 C/2 E/2 E,/2 E/2 E,/2 E/2 E,/2 E/2 E,/2 | C/2 A,/2 E/2 C/2 A,/2 E,/2 A,/2 C/2 E/2 E,/2 E/2 E,/2 E/2 E,/2 E/2 E,/2 |
+A,/2 E/2 E,/2 E/2 E,/2 E/2 E,/2 E/2 A,/2 E/2 E,/2 E/2 E,/2 E/2 E,/2 E/2 | A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 A,/2 C/2 E/2 C/2 | A,2 z3/2 [A,CE]/2 [A,CE]4 |]
+V:slh
+|: A,, z C, z E, z3 | E,, z E,2 z2 E,, z | A,,, z A,,2 z2 C,2 |
+E,2 E,,2 E, [D,E,] [C,E,] [B,,E,] | A,, z C, z E, z3 | E,, z [E,,E,]2 [^E,,^E,]2 [F,,F,]2 | [D,,D,] [D,F,]/2 z/2 [D,F,]/2 z/2 [D,F,]/2 z/2 [D,F,] z [D,,D,] [D,,D,] |
+[1 [C,,C,]4 [B,,,B,,] z [E,,E,] z :| [2 [C,,C,] z C, z C,, z3 |: D,, z D, z E,, z3 | A,, z C, z E, z3 |
+B,,, z B,, z E,, z3 | A,, z C, z E, z3 | A,,, z A,, z A,, z A,, z | D,, z D, z D,, z3 |
+z E,, E, E, [E,,B,,E,]4 | [1 A,,2 z/2 A,,/2 E,,/2 C,,/2 A,,, z3 :| [2 A,, z5 E,,2 | A,,2 z4 E,,2 |
+A,, z E,,2 A,, z E,,2 | A,, z3 A,, z3 | A,,2 z3/2 [A,,,A,,]/2 [A,,,A,,]4 |]

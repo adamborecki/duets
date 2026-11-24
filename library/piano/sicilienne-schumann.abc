@@ -1,0 +1,52 @@
+X:1
+T:Sicilienne
+T:Album for the Young, Op. 68 No. 11
+C:Robert Schumann
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schumann
+%%duets credit: Robert Schumann. Source edition: Philippe Hézaine for the Mutopia Project (Creative Commons Attribution-ShareAlike 2.5).
+%%duets tempo-text: Playfully
+%%duets slug: sicilienne-schumann
+M:6/8
+L:1/8
+Q:3/8=84
+K:Am
+V:S
+e |: ^G2 G G/2 z/2 A/2 z/2 B/2 z/2 | A2 A A2 e | ^G2 G G/2 z/2 A/2 z/2 B/2 z/2 |
+A5 G | ^F2 F F ^A _d | B2 B B2 A | G _G E B2 B, |
+[1 E5 e :| [2 E5 g | ^A2 A A/2 z/2 B/2 z/2 _d/2 z/2 | B2 B B2 g |
+^A2 A A/2 z/2 B/2 z/2 _d/2 z/2 | B5 [_GA] | G2 G G _G E | [Ec]2 [Ec] [Ec]2 c |
+B A G d2 D | G5 z | g ^A2 A A/2 z/2 B/2 z/2 | _d/2 z/2 B2 B B2 |
+g ^A2 A A/2 z/2 B/2 z/2 | _d/2 z/2 B5 | [_GA] =G2 G G _G | E [Ec]2 [Ec] [Ec]2 |
+c B A G d2 | D G2 [E^G]3 | e ^G2 G G/2 z/2 A/2 z/2 | B/2 z/2 A2 A A2 |
+e ^G2 G G/2 z/2 A/2 z/2 | B/2 z/2 A5 | G ^F2 F F ^A | _d B2 B B2 |
+A G _G E B2 | B, E5 | z A/2 c/2 e/2 c/2 f/2 d/2 e/2 c/2 f/2 d/2 | [M:2/4]e/2 c/2 d/2 B/2 A/2 z/2 A/2 c/2 |
+e/2 c/2 f/2 d/2 e/2 c/2 f/2 d/2 | e/2 c/2 d/2 B/2 A/2 z/2 A/2 B/2 | c/2 A/2 e/2 c/2 B/2 G/2 e/2 c/2 | B/2 G/2 [^D^F]/2 G/2 E/2 z/2 A/2 B/2 |
+c/2 A/2 e/2 c/2 B/2 G/2 e/2 c/2 | B/2 G/2 [^D^F]/2 G/2 E/2 z/2 A/2 c/2 | e/2 c/2 f/2 d/2 e/2 c/2 f/2 d/2 | e/2 c/2 d/2 B/2 A/2 z/2 A/2 c/2 |
+e/2 c/2 f/2 d/2 e/2 c/2 f/2 d/2 | e/2 c/2 d/2 B/2 A/2 z3/2 | [M:6/8]z4 e ^G- | ^G G G/2 z/2 A/2 z/2 B/2 z/2 A- |
+A A A2 e ^G- | ^G G G/2 z/2 A/2 z/2 B/2 z/2 A- | A4 G ^F- | ^F F F ^A _d B- |
+B B B2 A G | _G E B2 B, E- | E4 g ^A- | ^A A A/2 z/2 B/2 z/2 _d/2 z/2 B- |
+B B B2 g ^A- | ^A A A/2 z/2 B/2 z/2 _d/2 z/2 B- | B4 [_GA] =G- | G G G _G E [Ec]- |
+[Ec] [Ec] [Ec]2 c B | A G d2 D G- | G [E^G]3 e G- | ^G G G/2 z/2 A/2 z/2 B/2 z/2 A- |
+A A A2 e ^G- | ^G G G/2 z/2 A/2 z/2 B/2 z/2 A- | A4 G ^F- | ^F F F ^A _d B- |
+B B B2 A G | _G E B2 B, E- | E4 z2 |]
+V:lh
+z |: [B,D]2 [B,D] [B,D]3 | [CE]2 [CE] [CE]3 | [B,D]2 [B,D] [B,D]3 |
+[CE]5 [B,D] | [^A,^C]2 [A,C] [A,C]3 | [B,_E]2 [B,E] [B,E]2 B, | E2 G, B,2 B,, |
+[1 E,5 z :| [2 E,5 z | [^CE]2 [CE] [CE]3 | [_E_G]2 [EG] [EG]3 |
+[^CE]2 [CE] [CE]3 | [_E_G]5 ^D | E2 E E z2 | [A,C]2 [A,C] [A,C]2 C |
+B, A, G, D2 D, | G,5 z | z [^CE]2 [CE] [CE]2- | [^CE] [_E_G]2 [EG] [EG]2- |
+[_E_G] [^C=E]2 [CE] [CE]2- | [^CE] [_E_G]5 | ^D E2 E E z | z [A,C]2 [A,C] [A,C]2 |
+C B, A, G, D2 | D, G,2 [E,B,]3 | z [B,D]2 [B,D] [B,D]2- | [B,D] [CE]2 [CE] [CE]2- |
+[CE] [B,D]2 [B,D] [B,D]2- | [B,D] [CE]5 | [B,D] [^A,^C]2 [A,C] [A,C]2- | [^A,^C] [B,_E]2 [B,E] [B,E]2 |
+B, E2 G, B,2 | B,, E,5 | z [A,CE]2 [A,DF] [A,CE] [A,DF] | [M:2/4][A,CE] [E,_A,D] [=A,C] [A,CE]- |
+[A,CE] [A,DF] [A,CE] [A,DF] | [A,CE] [E,_A,D] [=A,C] [A,CE]- | [A,CE] [_G,A,E] [=G,B,] [_G,A,E] | [G,B,] B, E, [A,CE]- |
+[A,CE] [_G,A,E] [=G,B,] [_G,A,E] | [G,B,] B, E, [A,CE]- | [A,CE] [A,DF] [A,CE] [A,DF] | [A,CE] [E,_A,D] [=A,C] [A,CE]- |
+[A,CE] [A,DF] [A,CE] [A,DF] | [A,CE] [E,_A,D] [=A,C] z | [M:6/8]z5 [B,D]- | [B,D] [B,D] [B,D]3 [CE]- |
+[CE] [CE] [CE]3 [B,D]- | [B,D] [B,D] [B,D]3 [CE]- | [CE]4 [B,D] [^A,^C]- | [^A,^C] [A,C] [A,C]3 [B,_E]- |
+[B,_E] [B,E] [B,E]2 B, =E- | E G, B,2 B,, E,- | E,4 z [^CE]- | [^CE] [CE] [CE]3 [_E_G]- |
+[_E_G] [EG] [EG]3 [^C=E]- | [^CE] [CE] [CE]3 [_E_G]- | [_E_G]4 ^D =E- | E E E z2 [A,C]- |
+[A,C] [A,C] [A,C]2 C B, | A, G, D2 D, G,- | G, [E,B,]3 z [B,D]- | [B,D] [B,D] [B,D]3 [CE]- |
+[CE] [CE] [CE]3 [B,D]- | [B,D] [B,D] [B,D]3 [CE]- | [CE]4 [B,D] [^A,^C]- | [^A,^C] [A,C] [A,C]3 [B,_E]- |
+[B,_E] [B,E] [B,E]2 B, =E- | E G, B,2 B,, E,- | E,4 z2 |]

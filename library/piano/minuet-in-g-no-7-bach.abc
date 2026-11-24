@@ -1,0 +1,38 @@
+X:1
+T:Minuet in G (No. 7)
+T:Notebook for Anna Magdalena Bach, BWV Anh. 116
+C:Johann Sebastian Bach (attrib.)
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, bach
+%%duets credit: Johann Sebastian Bach (attrib.). Source edition: Allen Garvin for the Mutopia Project (Public Domain).
+%%duets tempo-text: Tempo di menuetto
+%%duets slug: minuet-in-g-no-7-bach
+M:3/4
+L:1/8
+Q:1/4=116
+K:G
+V:S
+|: G B d g A f | g2 G2 G2 | G B d g A f |
+g2 G2 G2 | e2 e2 e g | d2 d2 d g | c2 d c B c |
+A6 | G B d g A f | g2 G2 G2 | G B d g A f |
+g2 G2 G2 | e2 d c B A | d2 c B A G | (3ABc D2 F2 |
+G6 :: G A B A G F | G2 E2 E2 | g f e g f e |
+f2 B2 B2 | g f e g f e | f2 B2 e2 | (3fga B2 ^d2 |
+e2 ^d e f2 | g2 g f e d | e2 e d c B | c2 c B A G |
+F2 E F D2 | A2 D2 D2 | B2 D2 D2 | c2 d c B c |
+A6 | G B d g A f | g2 G2 G2 | G B d g A f |
+g2 G2 G2 | e2 d c B A | d2 c B A G | A B D2 F2 |
+G6 :|
+V:lh
+|: G,4 D,2 | G,, B,, D, G, D, B,, | G,,4 D,2 |
+G,, B,, D, G, D, B,, | C,2 G,2 C,2 | B,,2 G,2 B,,2 | A,,2 F,2 G,2 |
+D, E, F, D, E, F, | G,4 D,2 | G,, B,, D, G, D, B,, | G,,4 D,2 |
+G,, B,, D, G, D, B,, | C,2 E,2 G,2 | B,,2 D,2 G,2 | C,2 C,2 D,2 |
+G,2 D,2 G,,2 :: E,2 _E,2 B,,2 | E,2 B,,2 E,,2 | E,2 G,2 B,2 |
+B,, ^D, F, B, F, D, | E,2 G,2 B,2 | B,,2 A,2 G,2 | A,2 B,2 B,,2 |
+E,6 | B,,2 D,2 G,2 | C,2 D,2 E,2 | A,,2 B,,2 C,2 |
+D,2 A,,2 D,,2 | F, D, F, D, F, D, | G, D, G, D, G, D, | F,2 D,2 G,2 |
+D, E, F, D, E, F, | G,4 D,2 | G,, B,, D, G, D, B,, | G,,4 D,2 |
+G,, B,, D, G, D, B,, | C,2 E,2 G,2 | B,,2 D,2 G,2 | C,4 D,2 |
+G,2 D,2 G,,2 :|

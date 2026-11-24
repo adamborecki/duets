@@ -1,0 +1,34 @@
+X:1
+T:Comfort, Comfort Ye My People
+T:Freu dich sehr, o meine Seele · BWV 32.6
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, advent
+%%duets tune: Freu dich sehr, o meine Seele
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 32.6), public domain; score from the music21 corpus.
+%%duets slug: bach-comfort-comfort-ye-my-people
+M:4/4
+L:1/8
+K:G
+V:S
+"G"G2 "D/F#"A2 "G"B2 "D"A2 | "Em7"G2 "D/F#"F2 "A7"E2 "D"!fermata!D2 | "Em"G2 "D/F#"A2 "G"B2 "Am"c2 | "G/B"B2 "D"A2 "G"!fermata!G4 :|
+"G"B2 "C/E"c2 "D"d2 "C/E"c2 | "G"B2 "D"A2 "G"!fermata!B4 | "G7"d2 "Em7"d2 "C"e2 "D"d2 | "C/E"c2 "G"B2 "D"!fermata!A4 |
+"G"B2 d2 "Am"c2 "Bm"B A | "C"G2 "F#dim/A"A2 "G"B4 | "C"!fermata!G4 "G"B c "D/F#"d2 | "C/E"c2 "G"B2 "D7/C"A2 "G/B"B2 |
+"Dsus4"A2- "D7"A2 "G"!fermata!G4 |]
+V:A
+D2 D2 D2 D2 | D ^C D2 C2 !fermata!A,2 | E2 D2 D2 A2 | D2 D2 !fermata!D4 :|
+G2 G2 F2 G2 | G3 F !fermata!G4 | G2 G2 G3 F | E2 D E !fermata!F4 |
+G3 F E F G F | E2 F2 G4 | !fermata!E4 G2 A2 | G2 D E F2 G2 |
+G2 F2 !fermata!D4 |]
+V:T
+B,2 A,2 G,3 F, | G,2 A,2 A, G, !fermata!F,2 | B,2 A,2 G, F, E, F, | G,3 F, !fermata!B,4 :|
+D2 E2 A,2 E2 | D2 D2 !fermata!D4 | B,2 B,2 C B, A,2 | G, A, B, ^C !fermata!D4 |
+D C B,2 C2 D2 | E D C2 D4 | !fermata!C4 D2 D2 | G, A, B, C D2 D2 |
+D3 C !fermata!B,4 |]
+V:B
+G,2 F,2 G,2 D,2 | E,2 F, G, A,2 !fermata!D,2 | E,2 F,2 G,2 A,,2 | B,, C, D,2 !fermata!G,,4 :|
+G, F, E,2 D,2 E, F, | G,2 D,2 !fermata!G,,4 | G, =F, E, D, C,2 D,2 | E, F, G,2 !fermata!D,4 |
+G,2 G,,2 A,,2 B,,2 | C, B,, A,,2 G,, A,, B,, G,, | !fermata!C,4 G,2 F,2 | E, F, G,2 C,2 B,, C, |
+D,4 !fermata!G,,4 |]

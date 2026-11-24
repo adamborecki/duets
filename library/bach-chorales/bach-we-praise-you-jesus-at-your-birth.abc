@@ -1,0 +1,30 @@
+X:1
+T:We Praise You, Jesus, at Your Birth
+T:Gelobet seist du, Jesu Christ · BWV 91.6
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, christmas
+%%duets tune: Gelobet seist du, Jesu Christ
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 91.6), public domain; score from the music21 corpus.
+%%duets slug: bach-we-praise-you-jesus-at-your-birth
+M:4/4
+L:1/8
+K:G
+V:S
+"G"G2 | "C/E"G2 "G"G2 "D"A2 "Em"G2 | "C"c2 "G7"d2 "C"!fermata!c4 | "Em"B c "Bdim/D"d2 "C"e2 "D7/F#"d c |
+"G"B2 "D7"A2 "G"!fermata!G2 G2 | "F#dim/A"c2 "G"B c "G/B"d2 "D7"A2 | "G/B"G F "A7"E2 "D"!fermata!D2 D2 | "D/F#"A2 "A"A2 "D7"A2 "G/B"B2 |
+"Am"c B "C6"A2 "Am7/E"G A "G"B2 | "D"!fermata!A4 "G/B"G2 "G7"G2 | "C"G4 "G"!fermata!G2 |]
+V:A
+D2 | E2 D E F2 E2 | G2 G =F !fermata!E4 | G A B2 c B A2 |
+G2 F2 !fermata!D2 D E | F2 G2 G2 F E | D B, ^C2 !fermata!A,2 A,2 | D2 ^C A, F2 G2 |
+A G2 F E A D E | !fermata!F4 D E =F2 | E2 E2 !fermata!D2 |]
+V:T
+B,2 | C2 B,2 A, D B,2 | E C B,2 !fermata!G,4 | E2 =F2 G2 D2 |
+D3 C !fermata!B,2 G,2 | A,2 D C B, G, D2 | D2 A, G, !fermata!F,2 F, G, | A, B, ^C E D2 D2 |
+E D E D2 C B, C | !fermata!D4 D2 B,2 | G,2 C2 !fermata!B,2 |]
+V:B
+G, F, | E, F, G,2 D,2 E, D, | C,2 G,,2 !fermata!C,4 | E,2 D,2 C,2 F,,2 |
+G,, B,, D,2 !fermata!G,,2 B,,2 | A,,2 G,, A,, B,, C, D, C, | B,, G,, A,,2 !fermata!D,2 D, E, | F, G, A, ^C, D, =C, B,,2 |
+A,, B,, C, D, E, F, G, G,, | !fermata!D,4 B,, A,, G,,2 | C,2 C,2 !fermata!G,,2 |]

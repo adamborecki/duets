@@ -1,0 +1,68 @@
+X:1
+T:Gymnopédie No. 2
+T:Lent et triste
+C:Erik Satie
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, satie
+%%duets credit: Erik Satie. Source edition: Evin Robertson for the Mutopia Project (Public Domain).
+%%duets tempo-text: Lent et triste
+%%duets slug: gymnopedie-no-2-satie
+M:3/4
+L:1/8
+Q:1/4=72
+K:Am
+V:S
+z2 [B,EG]4 | z2 [A,CFA]4 | z2 [B,EG]4 | z2 [A,CFA]4 |
+g6 | a2 g2 f2 | e2 f2 g2 | d6 |
+g6 | a2 g2 f2 | e2 f2 g2 | d2 [A,CFAc]4 |
+z2 [B,EG]4 | z2 [A,CFA]4 | c'6 | z2 [A,CFA]4 |
+z2 [^A,^DG]4 | c6 | f6- | f2 _e2 d2 |
+f6- | f2 g2 _b2 | a2 g2 f2 | g6 |
+f6 | z2 [^A,DG]4 | z2 [A,CFA]4 | c'6 |
+_a2 g2 f2 | g6 | f6- | f2 _e2 d2 |
+f6 | d6- | d2 ^d2 ^g2 | _b6 |
+f6 | z2 [B,EG]4 | z2 [A,CFA]4 | g6 |
+f2 g2 a2 | e2 f2 g2 | d6 | g6 |
+f2 g2 a2 | e2 f2 g2 | f2 [A,CFAc]4 | z2 [B,EG]4 |
+z2 [A,CFA]4 | c'6 | z2 [A,CFA]4 | z2 [^A,^DG]4 |
+c6 | f6 | g6 | d6- |
+d6- | d6- | d4 f2 | _b6 |
+a2 [A,CFAf]4 | z2 [^A,DG]4 | z2 [A,CFA]4 | z2 [_B,DG]4 |
+z2 [CEG]4 |]
+V:lh
+G,,6 | D,,6 | G,,6 | D,,6 |
+G,,6 | D,,6 | G,,6 | D,,6 |
+G,,6 | D,,6 | G,,6 | D,,6 |
+G,,6 | D,,6 | C,,6 | C,,6 |
+C,,6 | F,,6 | F,,6 | F,,6 |
+F,,6 | F,,6 | F,,6 | ^A,,,6 |
+D,,6 | G,,6 | D,,6 | C,,6 |
+C,,6 | C,,6 | F,,6 | F,,6 |
+F,,6 | F,,6 | F,,6 | ^A,,,6 |
+D,,6 | G,,6 | D,,6 | G,,6 |
+D,,6 | G,,6 | D,,6 | G,,6 |
+D,,6 | G,,6 | D,,6 | G,,6 |
+D,,6 | C,,6 | C,,6 | C,,6 |
+F,,6 | F,,6 | F,,6 | F,,6 |
+F,,6 | F,,6 | F,,6 | ^A,,,6 |
+D,,6 | G,,6 | D,,6 | G,,6 |
+C,,6 |]
+V:rh2
+z6 | z6 | z6 | z6 |
+z2 [B,EG]4 | z2 [A,CFA]4 | z2 [B,EG]4 | z2 [A,CFA]4 |
+z2 [B,EG]4 | z2 [A,CFA]4 | z2 [B,EG]4 | z6 |
+z6 | z6 | z2 [CEAc]4 | f2 g2 a2 |
+g6 | z2 [G,_B,_EG]4 | z2 [A,DF]4 | z2 [G,^A,^DF]4 |
+z2 [A,DF]4 | z2 [^A,DFG]4 | z2 [C_EA]4 | z2 [^A,DG]4 |
+z2 [A,CFA]4 | z6 | z6 | z2 [_EGc]4 |
+z2 [CF_Ac]4 | z2 [_B,DG_B]4 | z2 [A,DF]4 | z2 [G,^A,^DF]4 |
+z2 [A,DF]4 | z2 [^A,DFG]4 | z2 [C_E_A]4 | z2 [^A,DG]4 |
+z2 [A,CFA]4 | z6 | z6 | z2 [B,EG]4 |
+z2 [A,CFA]4 | z2 [B,EG]4 | z2 [A,CFA]4 | z2 [B,EG]4 |
+z2 [A,CFA]4 | z2 [B,EG]4 | z6 | z6 |
+z6 | z2 [CEAc]4 | f2 g2 a2 | g6 |
+z2 [G,_B,_EG]4 | z2 [A,DF]4 | z2 [G,_B,_EG]4 | z2 [A,DF]4 |
+z2 [G,^A,DF]4 | z2 [G,^A,^DF]4 | z2 [A,DF]4 | z2 [_B,DG]4 |
+z6 | z6 | z6 | z6 |
+z6 |]

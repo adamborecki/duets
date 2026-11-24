@@ -1,0 +1,26 @@
+X:1
+T:Give Thanks unto the Lord
+T:Danket dem Herren, denn er ist sehr freundlich · BWV 286
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, thanksgiving
+%%duets tune: Danket dem Herren, denn er ist sehr freundlich
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 286), public domain; score from the music21 corpus.
+%%duets slug: bach-give-thanks-unto-the-lord
+M:4/4
+L:1/8
+K:Am
+V:S
+"Am"A2 | "Am"c2 "E"B2 "Am"c2 "G/B"d2 | "C"e2 "C/E"e2 "G7"d2 "Am"c2 | "Esus4"B2- "E"B2 !fermata!B2 |
+"E7"B2 | "Am/C"e2 "D7/C"d2 "G#dim/B"d2 "Am"c2 | "E"B2 "Am"c2 "Dm/F"d2 "Am/E"c2 | "Dm6"B2 "E"B2 "A"!fermata!A2 |]
+V:A
+E2 | A2 B3 A2 G | G2 G2 G F E2 | E4 !fermata!E2 |
+E2 | E2 ^F2 ^G2 A2- | A ^G A2 A G A2 | A3 ^G !fermata!E2 |]
+V:T
+C2 | E2 E2 E2 D2- | D C/2 B,/2 C2 B,3 A,- | A,2 ^G, ^F, !fermata!G,2 |
+^G,2 | A,2 A,2 B,2 C D | E2 E2 D2 E2 | F2 E3/2 D/2 !fermata!^C2 |]
+V:B
+A,,2 | A,3 ^G, A, A,, B,,2 | C, D, E, F, G,2 A,2 | E,4 !fermata!E,,2 |
+E, D, | C,2 C,2 B,,2 A,,2 | E,2 A, G, F,2 E,2 | D,2 E,2 !fermata!A,,2 |]

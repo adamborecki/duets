@@ -10,7 +10,7 @@ import random
 from dataclasses import dataclass, field, replace
 from typing import Optional
 
-from .arrange import Options, arrange, arrange_satb, join_pieces
+from .arrange import Options, arrange, arrange_satb, arrange_split, join_pieces
 from .difficulty import check, rate
 from .engrave import plan_clefs
 from .model import Piece, Tune
@@ -48,6 +48,7 @@ FLAVORS = {
                      Options(primo=4, secondo=4)),
     "setting": ("Three stanzas: chorale · tune in the Secondo · full", Options(primo=3, secondo=3)),
     "setting-easy": ("Two stanzas: tune in octaves · tune in the Secondo", Options(primo=2, secondo=2)),
+    "original": ("Original duet, as the composer wrote it", Options()),
 }
 SATB_FLAVORS = ("chorale", "chorale-octaves", "chorale-easy", "chorale-full", "setting", "setting-easy")
 
@@ -89,6 +90,16 @@ def default_flavor(tune: Tune, index: int = 0) -> str:
 def make_piece(tune: Tune, flavor: str = "", style: str = "auto", key: str = "auto", seed: int = 0,
                primo: Optional[int] = None, secondo: Optional[int] = None, melody: Optional[str] = None) -> Piece:
     """Arrange ``tune`` with a named flavor (levels/melody can be overridden)."""
+    if tune.category == "duet":
+        piece = piece_from_duet(tune)
+        finish(piece)
+        return piece
+    if tune.category == "piano":
+        o = Options(primo=primo if primo is not None else 2, secondo=secondo if secondo is not None else 2)
+        piece = arrange_split(tune, o)
+        piece.arranger = "Duet version: each player takes one hand of the original"
+        finish(piece)
+        return piece
     flavor = flavor or default_flavor(tune)
     if flavor not in FLAVORS:
         raise KeyError(f"unknown flavor {flavor!r}; choose from {', '.join(FLAVORS)}")
@@ -121,6 +132,42 @@ def make_piece(tune: Tune, flavor: str = "", style: str = "auto", key: str = "au
     piece.flavor = desc
     piece.arranger = desc
     finish(piece)
+    return piece
+
+
+def piece_from_duet(tune: Tune) -> Piece:
+    """A tune stored with all four hands written out (voices prh/plh/srh/slh,
+    with optional second voices prh2 ...) becomes a piece as it stands."""
+    import copy
+    from . import harmony as H
+    from .model import PBar
+    t = copy.deepcopy(tune)
+    if not t.has_chords:
+        H.infer_chords(t, min_unit=t.meter.beat_len * (1 if t.meter.compound else 2) if t.meter.beats >= 4 else None)
+    bars = []
+    for b in t.bars:
+        pb = PBar(length=b.length)
+        pb.pickup, pb.start_repeat, pb.end_repeat, pb.volta = b.pickup, b.start_repeat, b.end_repeat, b.volta
+        pb.double_bar, pb.meter, pb.key = b.double_bar, b.meter, b.key
+        pb.mark = b.label
+        pb.chords = [(off, c.simplified(1)) for off, c in b.chords if c is not None]
+        pb.hands["prh"] = [b.melody] + ([b.voices["prh2"]] if "prh2" in b.voices else [])
+        for h in ("plh", "srh", "slh"):
+            pb.hands[h] = [b.voices.get(h, [])] + ([b.voices[h + "2"]] if h + "2" in b.voices else [])
+            pb.hands[h] = [v for v in pb.hands[h] if v]
+        bars.append(pb)
+    bars[0].dyn = {"p": "mf", "s": "mf"}
+    bars[-1].final = True
+    if "dacapo" in t.tags:
+        marks = [i for i, b in enumerate(bars) if b.mark]
+        if marks:
+            bars[marks[0] - 1].text = "Fine"
+            bars[-1].text = "D.C. al Fine"
+    piece = Piece(title=t.title, key=t.key, meter=t.meter, bars=bars, tempo=t.tempo or 100,
+                  tempo_text=t.tempo_text, subtitle=t.subtitle, composer=t.composer, credit=t.credit,
+                  category=t.category, tags=list(t.tags), slug=t.slug, free_meter=t.free_meter)
+    piece.flavor = FLAVORS["original"][0]
+    piece.arranger = ""
     return piece
 
 

@@ -1,0 +1,30 @@
+X:1
+T:Wir Christenleut (II)
+T:Wir Christenleut · BWV 40.3
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, christmas
+%%duets tune: Wir Christenleut
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 40.3), public domain; score from the music21 corpus.
+%%duets slug: bach-wir-christenleut-2
+M:4/4
+L:1/8
+K:Dm
+V:S
+"Gm/Bb"G A | "Gm"B2 "D7"A2 "Cm7/Eb"!fermata!G2 G2 | "C#dim7"B2 "D"A2 "Gm"!fermata!G2 "Bb"d2 | "F7"c2 "Gm"B2 "D"!fermata!A2 A2 |
+"Gm"B2 "Eb"B2 "Cm"c2 "F7"c2 | "Bb/D"d2 "Gm/Bb"d2 "Am7b5/G"c2 "Gm"B2 | "Cm6"A2- "D7"A2 "Gm7"!fermata!G2 d2 | "F"c2 "Gm"B2 "D"!fermata!A2 "Bb"d2 |
+"C7/E"c2 B2 "F"!fermata!A2 "A"A2 | "D+"B2 "Eb"B2 "C/E"c2 "F7"c2 | "D7/F#"d2 "Gm"d2 "Cm/Eb"c2 "Gm/D"B2 | "A7/C#"A2- "D7"A2 "G"!fermata!G2 |]
+V:A
+D ^F | G2 ^F2 !fermata!G2 _E2 | E2 ^F2 !fermata!D2 D E | F _E D =E !fermata!^F2 F2 |
+G2 G2 G2 A2 | B2 B2 A2 G2 | G2 ^F2 !fermata!G2 =F2 | F2 D2 !fermata!D2 F2 |
+G2 F E !fermata!F2 E2 | ^F2 G2 G2 A2 | A c B A G ^F G2 | G2 ^F2 !fermata!D2 |]
+V:T
+B, C | D2 D C !fermata!B,2 C2 | G,2 D2 !fermata!B,2 F, G, | A,2 B, C !fermata!D2 D2 |
+D2 _E2 E D C2 | F2 G2 _E2 D2 | _E2 D C !fermata!B,2 B,2 | A,2 G,2 !fermata!^F,2 B,2 |
+B, G, C2 !fermata!C2 ^C2 | D C B, A, G, G F _E | D2 D2 G, A, B, G, | E2 D C !fermata!=B,2 |]
+V:B
+B, A, | G,2 D,2 !fermata!_E,2 C,2 | ^C,2 D,2 !fermata!G,,2 B,,2 | F,2 G,2 !fermata!D,2 D,2 |
+G, F, _E, D, C,2 F, E, | D, C, B,, A,, G,, ^F,, G,,2 | C,2 D,2 !fermata!G,,2 B,,2 | F,2 G,2 !fermata!D,2 B,2 |
+E,2 C,2 !fermata!F,2 A,2 | D,2 _E,2 =E,2 F,2 | ^F,2 G,2 _E,2 D,2 | ^C,2 D,2 !fermata!G,,2 |]

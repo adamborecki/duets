@@ -1,0 +1,30 @@
+X:1
+T:In Thee, Lord, Have I Put My Trust (II)
+T:In dich hab ich gehoffet, Herr · BWV 244.32
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trust
+%%duets tune: In dich hab ich gehoffet, Herr
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 244.32), public domain; score from the music21 corpus.
+%%duets slug: bach-in-thee-lord-have-i-put-my-trust-2
+M:4/4
+L:1/8
+K:Bb
+V:S
+"Bb"B2 | "Gm"B2 "Dm"f2 "F/A"f2 "Eb/Bb"e d | "Cm7/Bb"c2 "Ddim/Ab"d2 "Eb/G"e d "F7"c2 | "Bb"!fermata!B2 "Eb"B2 "Adim7"c2 "Bdim"d2 |
+"Cm"e2 "Cm/Eb"c2 "Bb/D"f2 "Gm7/Bb"g2 | "F"!fermata!f2 "D7/F#"d2 "Gm"d e "Ddim/Ab"f2 | "F7/A"e2 "Bb"d c "Gm"B c "Em7b5"d c | "F"!fermata!c2 "Bb"d2 "Eb"B2 "Bdim/D"c d |
+"Cm"!fermata!e2 "Gm"d2 "Ab"c2 "Ddim/F"d2 | "Eb"!fermata!e2 "Bb"d2 "F7"c2 "Gm"B2 | "F/A"f2- "F7"f e "D7/F#"d2 "Gm"e d | "C7/E"c2- "F7"c2 "Bb"!fermata!B2 |]
+V:A
+F2 | G2 A B c2 B A | G2 F2 B2 A2 | !fermata!F2 G2 ^F2 =F2 |
+E F G2 F3 =E | !fermata!A2 A2 G2 F2 | c2 B2 D2 G2 | !fermata!F2 F2 G A =B2 |
+!fermata!c2 B2 B2 _A2 | !fermata!G2 F2 F E D E | F G A4 G2 | G2 F E !fermata!D2 |]
+V:T
+D2 | D E F2 F2 G F | E2 F2 B,2 F E | !fermata!D2 E2 E2 D2 |
+G,2 G, A, B, C D C | !fermata!C2 C2 B, C D E | F2 F2 G2 B,2 | !fermata!A,2 B, A, G,2 F,2 |
+!fermata!G,2 G F E2 F2 | !fermata!B,2 B,2 A,2 B,2 | C6 B,2 | B,2 A,2 !fermata!F,2 |]
+V:B
+B, A, | G,2 D,2 A,2 B,2- | B,2 _A,2 G, E, F,2 | !fermata!B,,2 E,2 A,,2 =B,,2 |
+C, D, E,2 D, C, B,, C, | !fermata!F,2 ^F,2 G,2 _A,2 | A,2 B, A, G, F, =E,2 | !fermata!F,2 B,,2 E,2 D,2 |
+!fermata!C,2 G,2 _A, G, F,2 | !fermata!E,2 B,,2 F,2 G,2 | A, G, F,2 ^F,2 G, =F, | =E,2 F,2 !fermata!B,,2 |]

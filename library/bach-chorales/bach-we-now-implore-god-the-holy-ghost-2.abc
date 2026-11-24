@@ -1,0 +1,34 @@
+X:1
+T:We Now Implore God the Holy Ghost (II)
+T:Nun bitten wir den heiligen Geist · BWV 197.5
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, pentecost
+%%duets tune: Nun bitten wir den heiligen Geist
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 197.5), public domain; score from the music21 corpus.
+%%duets slug: bach-we-now-implore-god-the-holy-ghost-2
+M:4/4
+L:1/8
+K:A
+V:S
+"A"A2 | "E/G#"B2 "E7"B2 "A/C#"A2 "D"G F | "E7/D"E2 "D"F G "A/C#"A2 "D6"B2 | "A"!fermata!A6 c d |
+"A"e2 "F#m"f2 "E/G#"e2- "E7/B"e d | "C#7/E#"c B "F#m"A G "D"F2 "G#dim/B"G2 | "A"!fermata!A4 c2 c2 | "C#m/E"c2 "E7"B2 "C#7"c2- "C#"c2 |
+"F#m"!fermata!A2 A2 "G#dim/D"B c "Bm7"d2 | "A"c2- "A7/C#"c B "D"!fermata!A4 | "Bm/D"B c "Bm7/F#"d2 "A"c B "F#m7/C#"A G | "B7"F2 "E/G#"G A "E"B2- "C#m7"B A |
+"E"G2 "B7"F2 "E"!fermata!E4 | "D"F2 "E7/D"G2 "A/C#"A2- "F#m7b5/E"A2- | "Esus4"A2 "E7"G2 "A"!fermata!A2 |]
+V:A
+E2 | E2 E2 E2 D C | B, C A, D C2 F E | !fermata!E6 A2 |
+B c d c B A G F | G ^E C2 D2 D2 | !fermata!C4 E2 E2 | E F G F ^E F2 E |
+!fermata!F2 F2 G A B2 | B2 A =G !fermata!F4 | F G A B A G F E | ^D2 E F G3 F- |
+F E2 ^D !fermata!B,4 | D2 E2 E C F2 | E4 !fermata!E2 |]
+V:T
+C2 | B, A, G,2 A,2 B, A, | G, B, F, B, E, A,2 G, | !fermata!C6 E2 |
+E2 A,2 B, C D2 | G,2 A,2 A,2 B,2 | !fermata!E,4 A,2 A,2 | G, A, B,2 B, A, G, C |
+!fermata!C2 C2 B, A,2 G,/2 F,/2 | E,2 A,2 !fermata!A,4 | D C2 B, C ^D E2 | B,2 B,2 B, C/2 ^D/2 E B, |
+B,3 A, !fermata!G,4 | A,2 B, D C2 =C2 | B, A, B, D !fermata!C2 |]
+V:B
+A,2 | G, F, E, D, C, A,, D,2 | D, C, D, B,, C, F, D, E, | !fermata!A,,6 A,2 |
+A, G, F,2 G, A, B,2 | ^E, C, F, =E, D, C, B,,2 | !fermata!A,,4 A,, B,, C, D, | E,3 D, C,4 |
+!fermata!F,2 F, E, D, C, B,, E, | A,, B,, C,2 !fermata!D,4 | D, E, F, G, A, B, C A, | B, A, G, F, E, ^D, C, D, |
+E, G, B, B,, !fermata!E,4 | D, C, D, B,, C, F, E, ^D, | E,2 E,,2 !fermata!A,,2 |]

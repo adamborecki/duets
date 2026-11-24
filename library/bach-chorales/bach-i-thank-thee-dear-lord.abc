@@ -1,0 +1,34 @@
+X:1
+T:I Thank Thee, Dear Lord
+T:Ich dank dir, lieber Herre · BWV 347
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, morning
+%%duets tune: Ich dank dir, lieber Herre
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 347), public domain; score from the music21 corpus.
+%%duets slug: bach-i-thank-thee-dear-lord
+M:4/4
+L:1/8
+K:A
+V:S
+"A"A2 | "F#m7"A2 A2 "D"A2 "B/D#"B2 | "Em"=G2 "B7"F2 "E"!fermata!E2 B2 | "A"c2 "B"B2 "A/C#"A2 "C#m7/B"G F |
+"E/B"G2 "B7"F2 "E"!fermata!E2 :| "C#m"e2 | "D/F#"d2 "A"c2 "E"B2 "A7/C#"A2 | "D"A B "A/C#"c2 "E"!fermata!B2 "A#dim/C#"c2 |
+"Bm"d2 "Gdim/C#"c2 "Bm/D"B2 "F#7"^A2 | "Bm"!fermata!B6 | "C#m"E2 | "F#m"A2 "E7"B2 "C#m"c2 "Bm"d2 |
+"A"e2 "Dmaj7/C#"d c "E"!fermata!B2 "Bm"d2 | "F#m"c2 "Bm7/A"B2 "E/G#"e2- "A"e d | "A"c B "D/F#"A B "A/E"c2 "E"B2 | "A"!fermata!A6 |]
+V:A
+E2 | F2 E2 F2 F2 | E2 ^D2 !fermata!B,2 G2 | A2 G F E4- |
+E2 ^D2 !fermata!B,2 :| c B | A2 A2 G2 A =G | F G A2 !fermata!G2 ^A2 |
+B A =G2 F E E2 | !fermata!F6 | E D | C2 D2 E2 F G |
+A4 !fermata!E2 B2 | A G F2 E2 F G | A4 A2 G2 | !fermata!E6 |]
+V:T
+C2 | C2 C B, A, G, F,2 | B,3 A, !fermata!G,2 E2 | E2 ^D2 C4 |
+B,3 A, !fermata!G,2 :| G,2 | A, B, C D E2 E2 | D2 E2 !fermata!E2 E2 |
+F B,2 ^A, B,2 C2 | !fermata!D6 | G,2 | A,2 G, F, E, E D2 |
+C D E F !fermata!G2 F2 | F E D C B,2 C D | E3 D C F B, E/2 D/2 | !fermata!C6 |]
+V:B
+A, G, | F,2 C,2 D,2 ^D,2 | E,2 B,,2 !fermata!E,,2 E,2 | A,2 B,2 C2 B, A, |
+B,2 B,,2 !fermata!E,2 :| C,2 | F, G, A,2 E,2 C, A,, | D,2 C, D, !fermata!E,2 C,2 |
+B,,2 C,2 D, =G, F,2 | !fermata!B,,6 | C,2 | F,2 E, D, C,2 B,,2 |
+A,, B,, C, D, !fermata!E,2 B,,2 | F, G, A,2 G, E, A,2- | A, G, F,2 E, D, E,2 | !fermata!A,,6 |]

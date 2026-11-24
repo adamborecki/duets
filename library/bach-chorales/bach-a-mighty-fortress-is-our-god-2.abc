@@ -1,0 +1,34 @@
+X:1
+T:A Mighty Fortress Is Our God (II)
+T:Ein feste Burg ist unser Gott · BWV 303
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, reformation
+%%duets tune: Ein feste Burg ist unser Gott
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 303), public domain; score from the music21 corpus.
+%%duets slug: bach-a-mighty-fortress-is-our-god-2
+M:4/4
+L:1/8
+K:D
+V:S
+"D"d2 | "G/B"d2 "D7/A"d2 "D/F#"A B "A7/E"c2 | "D"d c "E7"B2 "A"!fermata!A2 "Bm"d2 | "A/C#"c2 "Em"B2 "F#m"A2 "G"B A |
+"G/B"G F "A7"E2 "D"!fermata!D2 :| "D"D2 | "F#m"A2 "C#m7/G#"B2 "A"A2 "E7"^G2 | "A"!fermata!A2 "Bm"D2 "D/F#"A2 "Em"B c |
+"D"!fermata!d2 "F#m"c2 "Bm"d c "D6"B B | "A"!fermata!A2 | "Em"B2 "G/B"B2 "D7"A2 | "B7/D#"B A "Em"G2 "B"!fermata!F2 "Bm"d2 |
+"A/C#"c2 "Em"B2 "A7/C#"A2 "D"B A | "G/B"G F "A"E2 "D"!fermata!D2 |]
+V:A
+A2 | A G F G A F G A | F E D E !fermata!C2 F2 | E F G2 F E D2 |
+D2 C2 !fermata!A,2 :| D2 | C F E2 C D B,2 | !fermata!A,2 D2 D2 G G |
+!fermata!F2 F2 F/2 ^G/2 A A G | !fermata!A2 | G2 G2 F2 | F2 E2 !fermata!^D2 F ^G |
+A2 G2 G2 F E | D2 C2 !fermata!A,2 |]
+V:T
+F E | D2 =C B, D2 E2 | A,2 A, ^G, !fermata!A,2 F, G, | A,2 E D C2 B, C |
+D2 A, G, !fermata!F,2 :| F, ^G, | A, D C B, E F E D | !fermata!C2 F, G, A,2 E E |
+!fermata!D2 A,2 B, E F E | !fermata!C2 | B, C D2 D =C | B,2 B,2 !fermata!B,2 B,2 |
+E2 E2 E2 D A, | B,2 E, A, !fermata!F,2 |]
+V:B
+D C | B,2 A, G, F,2 E,2 | D,2 E,2 !fermata!A,,2 B,,2 | C, D, E,2 F,2 G, A, |
+B, G, A, A,, !fermata!D,2 :| D, E, | F,2 ^G,2 A, D, E,2 | !fermata!A,,2 B,,2 F,2 E, A,, |
+!fermata!D,2 F,2 B,, C, D, E, | !fermata!A,,2 | E,2 B, C D,2 | ^D,2 E,2 !fermata!B,,2 B,,2 |
+C, D, E, D, C, A,, D, C, | B,, G,, A,,2 !fermata!D,2 |]

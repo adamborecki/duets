@@ -1,0 +1,40 @@
+X:1
+T:March of the Wooden Soldiers
+T:Album for the Young, Op. 39 No. 5
+C:Pyotr Ilyich Tchaikovsky
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, tchaikovsky
+%%duets credit: Pyotr Ilyich Tchaikovsky. Source edition: Anonymous for the Mutopia Project (Public Domain).
+%%duets tempo-text: Tempo di marcia
+%%duets slug: march-of-the-wooden-soldiers-tchaikovsky
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+V:S
+[Ad] z d z | B3/2 ^A/2 B z/2 c/2 | [Ad] z d z | B3/2 ^A/2 B z/2 c/2 |
+[Ad] z [ce] z | f z [df] z | [eg] z/2 [df]/2 [ce] z/2 [Bd]/2 | [ce] z3 |
+[Ad] z d z | B3/2 ^A/2 B z/2 c/2 | [Ad] z d z | B3/2 ^A/2 B z/2 c/2 |
+[Ad] z [ce] z | f z [df] z | [ce] z/2 [Bd]/2 [Ac] z/2 [_AB]/2 | A z3 |
+[EA] z A z | _B3/2 A/2 B z/2 ^G/2 | A z A z | _B3/2 A/2 B z/2 ^G/2 |
+A z B z | [^Gc] z [Ac] z | [Bd] z/2 c/2 B z/2 A/2 | ^G z3 |
+[EA] z A z | _B3/2 A/2 B z/2 ^G/2 | A z A z | _B3/2 A/2 B z/2 ^G/2 |
+A z B z | [^Gc] z [Ac] z | [Bd] z/2 c/2 B z/2 c/2 | A z3 |
+[Ad] z d z | B3/2 ^A/2 B z/2 c/2 | [Ad] z d z | B3/2 ^A/2 B z/2 c/2 |
+[Ad] z [ce] z | f z [df] z | [eg] z/2 [df]/2 [ce] z/2 [Bd]/2 | [ce] z3 |
+[Ad] z d z | B3/2 ^A/2 B z/2 c/2 | d z d z | B3/2 ^A/2 B z/2 c/2 |
+[Ad] z [ce] z | f z [df] z | e z/2 ^d/2 e z/2 f/2 | d z3 |]
+V:lh
+[DF] z3 | [DG]3/2 F/2 G z/2 E/2 | [DF] z3 | [DG]3/2 F/2 G z/2 E/2 |
+[DF] z A z | d z3 | [DA] z3 | A/2 z/2 A/4 z/4 A/4 z/4 A/2 z/2 A/2 z/2 |
+[DF] z3 | [DG]3/2 F/2 G z/2 E/2 | [DF] z3 | [DG]3/2 F/2 G z/2 E/2 |
+[DF] z A z | d z D z | E4 | A,/2 z/2 A,/4 z/4 A,/4 z/4 A,/2 z/2 A,/2 z/2 |
+[A,C] z3 | [A,D=F]4 | [A,CE] z3 | [A,D=F]4 |
+[A,CE] z [E_A] z | [C^E] z F z | [B,F] z3 | E z/2 D/2 C z/2 B,/2 |
+[A,C] z3 | [A,D=F]4 | [A,CE] z3 | [A,D=F]4 |
+[A,CE] z [E_A] z | [C^E] z F z | [B,F] z [E_A] z | A, z/2 A,/2 B, z/2 C/2 |
+[DF] z3 | [DG]3/2 F/2 G z/2 E/2 | [DF] z3 | [DG]3/2 F/2 G z/2 E/2 |
+[DF] z A z | d z3 | [DA] z3 | A/2 z/2 A/4 z/4 A/4 z/4 A/2 z/2 A/2 z/2 |
+[DF] z3 | [DG]3/2 F/2 G z/2 E/2 | [DF] z3 | [DG]3/2 F/2 G z/2 E/2 |
+[DF] z A z | d z B z | [GB] z [Ac] z | D z3 |]

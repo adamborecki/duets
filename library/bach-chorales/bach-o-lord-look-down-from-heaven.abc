@@ -1,0 +1,30 @@
+X:1
+T:O Lord, Look Down from Heaven
+T:Ach Gott, vom Himmel sieh darein · BWV 153.1
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, reformation
+%%duets tune: Ach Gott, vom Himmel sieh darein
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 153.1), public domain; score from the music21 corpus.
+%%duets slug: bach-o-lord-look-down-from-heaven
+M:4/4
+L:1/8
+K:Em
+V:S
+"E"B2 | "Am"c2 "G#dim/B"B2 "Am/C"A2 "E7/B"e2 | "E7/G#"e d "Am"c2 "E"!fermata!B2 "Bdim7"d2 | "Am/C"c2 "E7"B2 "F"A2 "Bdim"B c/2 d/2 |
+"Am/E"c2 "E"B2 "Am"!fermata!A2 :| "D/F#"A2 | "G"B A "Em"G2 "B7"F2 "Em/G"E F | "Em"G2 "Am/C"A2 "B"!fermata!B2 "Em"G2 |
+"F"A B "Am/C"c2 "E"B2 "Am"c B | "Am/C"A2 "E"^G2 "Am"!fermata!A2 A2 | "E/G#"e2 "Am"c2 "Dm/F"d2 "Em7b5/D"e2 | "D"d2 "D#dim7"c2 "E"!fermata!B2 |]
+V:A
+^G2 | A2 ^G2 A2 G A | B2 E F !fermata!^G2 G2 | A2 ^G2 A =G =F2 |
+E4 !fermata!E2 :| D2 | D ^D E2 D2 E D | E G F E !fermata!^D2 E =D |
+C D E2 E2 A2 | E2 E2 !fermata!E2 E2 | E2 E2 =F2 G2 | F ^G A2 !fermata!E2 |]
+V:T
+E2 | E2 D2 E2 D C | B,2 C D !fermata!E2 =F2 | E2 E D C2 D2 |
+^G, A,2 G, !fermata!C2 :| A,2 | G, A, B,2 B,2 B, A, | B,2 C2 !fermata!F,2 B,2 |
+A,2 A2 ^G2 E D | C2 B,2 !fermata!C2 C2 | B,2 A,2 A,2 _B,2 | A, E, F,2 !fermata!^G,2 |]
+V:B
+E,2 | A,2 B,2 C2 B, A, | ^G,2 A,2 !fermata!E,2 B,,2 | C, D, E,2 =F,2 E, D, |
+E,4 !fermata!A,,2 :| F,2 | G, F, E,2 B, A, G, F, | E, D, C,2 !fermata!B,,2 E,2 |
+=F,2 C, D, E,2 A,, B,, | C, D, E,2 !fermata!A,,2 A,2 | ^G,2 A, =G, =F, E, D, ^C, | D,2 ^D,2 !fermata!E,2 |]

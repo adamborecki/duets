@@ -1,0 +1,30 @@
+X:1
+T:All Glory Be to God on High
+T:Allein Gott in der Höh sei Ehr · BWV 104.6
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trinity, praise
+%%duets tune: Allein Gott in der Höh sei Ehr
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 104.6), public domain; score from the music21 corpus.
+%%duets slug: bach-all-glory-be-to-god-on-high
+M:4/4
+L:1/8
+K:A
+V:S
+"A"A B | "A"c2 "D/F#"d2 "E"e2 "Bm"d2 | "A/C#"c2 "E"B2 "A"!fermata!c2 c2 | "F#m"c2 "Dmaj7"B c "Bm7"d c "E7/G#"B2 |
+"A/C#"A2 "E7"B2 "A"!fermata!A2 :| "A"A2 | "E"B2 "A#dim"c2 "Bm"d2 "F#7/E"c2 | "Em/G"B2 "F#7"c2 "Bm"!fermata!B2 "E/G#"B2 |
+"A"c2 "D/F#"d2 "E"e2 "D/F#"d2 | "A"c2 "Bm/F#"B2 "F#"!fermata!c2 "A"c2 | "F#m"c2 "Dmaj7"B c "Bm"d c "E7/D"B2 | "F#m7/C#"A F "E"G2 "A"!fermata!A2 |]
+V:A
+E2 | A2 A2 G2 F G | A2 G2 !fermata!A2 E2 | F2 F E D2 E2 |
+E A2 G !fermata!E2 :| E2 | E2 E2 D E F2 | F E E D/2 C/2 !fermata!D2 E2 |
+E2 F2 G2 F2 | E2 D F/2 ^E/2 !fermata!F2 =E2 | F2 F E D2 E2 | E F E2 !fermata!E2 |]
+V:T
+C D | E2 F2 B, C D2 | E2 E2 !fermata!E2 A,2 | A,6 D B, |
+E D/2 C/2 D2 !fermata!C2 :| C2 | G,2 ^A,2 B,2 A,2 | B,2 ^A,2 !fermata!F,2 B,2 |
+A,2 A,2 B,2 A, B, | C2 F, G, !fermata!^A,2 =A,2 | A,4 B,2 G,2 | A, D B,2 !fermata!C2 |]
+V:B
+A,,2 | A, G, F,2 E,2 B,,2 | C, D, E,2 !fermata!A,,2 A, G, | F, E, D, C, B,, A,, G,,2 |
+C, A,, E,2 !fermata!A,,2 :| A,,2 | E,2 D, C, B,,2 E, F, | =G,2 F,2 !fermata!B,,2 ^G,2 |
+A, G, F,2 E,2 F, G, | A, ^A, B,2 !fermata!F,2 =A, G, | F, E, D, C, B,, C, D,2 | C, D, E,2 !fermata!A,,2 |]

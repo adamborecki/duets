@@ -1,0 +1,30 @@
+X:1
+T:The Day Is Surely Drawing Near
+T:Es ist gewisslich an der Zeit · BWV 307
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, end-times
+%%duets tune: Es ist gewisslich an der Zeit
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 307), public domain; score from the music21 corpus.
+%%duets slug: bach-the-day-is-surely-drawing-near
+M:4/4
+L:1/8
+K:Bb
+V:S
+"Bb"B2 | "Bb/D"B c "Bb"d2 "F7"c2 "Gm"B2 | "Cm/Eb"c2 "F"c2 "Bb"!fermata!d2 B c | "Bb"d2 "Eb"e2 "F7/A"f e "Bb"d2 |
+"Cm7/Eb"c2- "F7"c2 "Bb"!fermata!B2 :| "Bb"d2 | "Bb/D"d2 "F7"c2 "Gm"B2 "Am7"A2 | "Gm"B c "Bb/D"d2 "F"!fermata!c2 "D7/F#"c2 |
+"Gm"B2 "D"A2 "Gm"B2 "Bb"F2 | "Gm"B2 "Cm/Eb"c2 "D"!fermata!d2 "Gm"B c | "Gm"d2 "Eb"e2 "Bb/D"f e "Bb"d2 | "Cm7/Eb"c2- "F7"c2 "Bb"!fermata!B2 |]
+V:A
+F E | F2 B2 A2 G2 | G2 F2 !fermata!F2 F2 | B2 B2 c2 B2 |
+B2 A2 !fermata!F2 :| F2 | F2 F E D G G ^F | G A B2 !fermata!A2 A2 |
+A G G ^F G2 D2 | D2 G2 !fermata!^F2 D2 | G2 G2 F2 F2 | G2 F E !fermata!D2 |]
+V:T
+D C | B,2 F2 F E D2 | C B, B, A, !fermata!B,2 D E | F2 G2 F2 F2 |
+G2 F E !fermata!D2 :| B,2 | B,2 A,2 B,2 C2 | D E F2 !fermata!F2 D2 |
+D2 D2 D2 D C | B, A, G,2 !fermata!A,2 G, A, | B,2 B,2 B,2 B,2 | B,2 A,2 !fermata!F,2 |]
+V:B
+B,, C, | D,2 C, B,, F,2 G, F, | E,2 F,2 !fermata!B,,2 B,,2 | B,2 A, G, A,2 B,2 |
+E,2 F,2 !fermata!B,,2 :| B,, C, | D, E, F,2 G,2 A,2 | G,2 D, E, !fermata!F,2 ^F,2 |
+G,2 D,2 G, A, B, A, | G, F, E,2 !fermata!D,2 G,,2 | G,2 F, E, D, C, B,,2 | E,2 F,2 !fermata!B,,2 |]

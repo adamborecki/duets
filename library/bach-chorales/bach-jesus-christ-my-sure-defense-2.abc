@@ -1,0 +1,30 @@
+X:1
+T:Jesus Christ, My Sure Defense (II)
+T:Jesus, meine Zuversicht · BWV 145-a
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, easter
+%%duets tune: Jesus, meine Zuversicht
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 145-a), public domain; score from the music21 corpus.
+%%duets slug: bach-jesus-christ-my-sure-defense-2
+M:4/4
+L:1/8
+K:D
+V:S
+"D"A2 G F "G"B2 "A7"c2 | "Bm"d2 "E7"d2 "A"!fermata!c4 | "Em/G"B c "D/F#"d2 "A7/C#"A G "D7"F2 | "G/B"G2 "D/A"F2 "A"E2 "D"!fermata!D2 |
+"D"A2 G F "G"B2 "A7"c2 | "Bm"d2 "E7"d2 "A"!fermata!c4 | "Em/G"B c "D/F#"d2 "A7/C#"A G "D7"F2 | "G/B"G2 "D/A"F2 "A"E2 "D"!fermata!D2 |
+"B/D#"F2 "E"^G2 "F#7/E"^A2 "Em/G"B c | "Bm/F#"d2 "F#7"c2 "Bm"!fermata!B4 | "C#dim/E"c2 "D"d2 "A"e2 "D"f2 | "Em7/G"e2 "A7"e2 "D"!fermata!d4 |]
+V:A
+F2 E D D E2 F | F3 E E4 | E2 D2 E2 D2 | D2 D3 C A,2 |
+F2 E D D E2 F | F3 E E4 | E2 D2 E2 D2 | D2 D3 C A,2 |
+B, F2 E F2 F E | F2 F2 F4 | G2 A2 A2 A2 | B2 A G F4 |]
+V:T
+A,2 A,3 G,2 A,/2 G,/2 | F, B, A, ^G, A,4 | B,2 A,2 A,2 A,2 | G,2 A, B,2 A,/2 G,/2 F,2 |
+A,2 A,3 G,2 A,/2 G,/2 | F, B, A, ^G, A,4 | B,2 A,2 A,2 A,2 | G,2 A, B,2 A,/2 G,/2 F,2 |
+B,2 B,2 C2 B,2 | B,2 ^A, E D4 | E2 F2 E2 D2 | D2 C2 A,4 |]
+V:B
+D,2 D,2 G,,2 A,,2 | B,,2 E,2 A,,4 | G,2 F,2 C,2 D, =C, | B,, _B,, A,, ^G,, A,,2 D,2 |
+D,2 D,2 G,,2 A,,2 | B,,2 E,2 A,,4 | G,2 F,2 C,2 D, =C, | B,, _B,, A,, ^G,, A,,2 D,2 |
+^D,2 E,2 E, =D, G,2 | F, E, F,2 B,,4 | E,2 D,2 D, C, D,2 | G,2 A,2 D,4 |]

@@ -1,0 +1,29 @@
+X:1
+T:Prelude in C minor
+T:Op. 28 No. 20
+C:Frédéric Chopin
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, chopin
+%%duets credit: Frédéric Chopin. Source edition: Magnus Lewis-Smith for the Mutopia Project (Public Domain).
+%%duets tempo-text: Largo
+%%duets slug: prelude-in-c-minor-chopin
+M:4/4
+L:1/8
+Q:1/4=44
+K:Cm
+V:S
+[G,CEG]2 [A,CEA]2 [EG]3/2 [DF]/2 [E,G,CE]2 | [E,A,CE]2 [F,A,_DF]2 [CE]3/2 [B,D]/2 [C,E,A,C]2 | [D,F,=B,D]2 [=E,G,_B,C=E]2 G3/2 F/2 [G,C_E]2 | [^F,CD]2 [G,=B,DG]2 _c3/2 =A/2 z2 |
+[EGe]2 [EAe]2 [Dd]2 [DGd]2 | [CGc]2 [CD_Gd]2 [D=G_c]3/2 [C=A]/2 [=B,DG]2 | [CGc]2 [A,CA]2 G3/2 F/2 z2 | z2 [F,A,_DF]2 [F,G,=B,]2 [E,G,C]2 |
+z4 A3/2 ^F/2 z2 | z6 [=B,DG]2 | z2 [A,CA]2 G3/2 F/2 z2 | z2 [F,A,_DF]2 [F,G,=B,]2 [E,G,C]2 |
+[CEGc]8 |]
+V:rh2
+z4 [G,_C]2 z2 | z4 [^C,E,G,]2 z2 | z4 [A,C]2 z2 | z4 [CD^F]2 [=B,DG]2 |
+z4 A3/2 _G/2 z2 | z8 | z4 [G,D]2 [G,CE]2 | [E,A,CE]2 z2 E3/2 D/2 z2 |
+[EGe]2 [EAe]2 [Dd]2 [DGd]2 | [CGc]2 [CD_Gd]2 [D=G_c]3/2 [C=A]/2 z2 | [CGc]2 z2 [G,D]2 [G,CE]2 | [E,A,CE]2 z2 E3/2 D/2 z2 |
+z8 |]
+V:lh
+[C,,C,]2 [F,,,F,,]2 [G,,,G,,]2 [C,,G,,C,]2 | [A,,,A,,]2 [^C,,,^C,,]2 [E,,,E,,]2 [A,,,A,,]2 | [G,,,G,,]2 [C,,,C,,]2 [F,,,F,,]2 [C,,C,]2 | [D,,=A,,D,]2 [G,,,G,,]2 [D,,,D,,]2 [G,,,G,,]2 |
+[C,,C,]2 [C,C]2 [_C,_C]2 [B,,B,]2 | [=A,,=A,]2 [_A,,_A,]2 [G,,G,]2 [F,,F,]2 | [E,,E,]2 [F,,F,]2 [=B,,,=B,,]2 [C,,C,]2 | [A,,,A,,]2 [^C,,,^C,,]2 [G,,,G,,]2 [=C,,,=C,,]2 |
+[C,,C,]2 [C,C]2 [_C,_C]2 [B,,B,]2 | [=A,,=A,]2 [_A,,_A,]2 [G,,G,]2 [F,,F,]2 | [E,,E,]2 [F,,F,]2 [=B,,,=B,,]2 [C,,C,]2 | [A,,,A,,]2 [^C,,,^C,,]2 [G,,,G,,]2 [=C,,,=C,,]2 |
+[C,G,]8 |]

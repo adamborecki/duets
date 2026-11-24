@@ -1,0 +1,50 @@
+X:1
+T:The Reaper's Song
+T:Album for the Young, Op. 68 No. 18
+C:Robert Schumann
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schumann
+%%duets credit: Robert Schumann. Source edition: Philippe Hézaine for the Mutopia Project (Creative Commons Attribution-ShareAlike 2.5).
+%%duets tempo-text: Not very fast
+%%duets slug: the-reapers-song-schumann
+M:6/8
+L:1/8
+Q:3/8=76
+K:C
+V:S
+G c B A d c | B A B c2 e | E3 F3- | F3 z3 |
+G c B A d c | B A B c2 e | E3 F3- | F3 z3 |
+D G _G E A =G | _G E z4 | D G _G E A =G | _G E z4 |
+D G _G E A =G | _G E z4 | D G _G E A =G | _G E z4 |
+E3 F3- | F3 E3 | G c B A d c | B A B [Ec]2 z |
+z A d c A z | z G z4 | z A d c A z | z G z4 |
+F A d c A F | E G D C D E | F A d c A F | E G D C3 |
+c f e d g f | e d e f2 a | A3 _B3- | _B3 z3 |
+G c B A d c | B A z4 | G c B A d c | B A z3 G/2 z/2 |
+[Gd]/2 z/2 [ce]/2 z/2 [df]/2 z/2 [ce]/2 z/2 [Gd]/2 z/2 [Ec]/2 z/2 | z5 G/2 z/2 | [Gd]/2 z/2 [ce]/2 z/2 [df]/2 z/2 [ce]/2 z/2 [Gd]/2 z/2 [Ec]/2 z/2 | [Bd]/2 z/2 [Ac]/2 z/2 [Bd]/2 z/2 c/2 z3/2 c/2 z/2 |
+B/2 z/2 c/2 z/2 d/2 z/2 c/2 z/2 d/2 z/2 ^d/2 z/2 | z5 [FB]/2 z/2 | [Ec]/2 z5/2 [Ec]/2 z5/2 | [ec']/2 z11/2 |]
+V:rh2
+E3 F3- | F3 E3 | G c B A d c | B A B [Ec]2 z |
+E3 F3- | F3 E3 | G c B A d c | B A B [Ec]2 z |
+B3 c3- | c2 [_GA] =G2 B | B3 c3- | c2 [_GA] =G2 z |
+B3 c3- | c2 [_GA] =G2 B | B3 c3- | c2 [_GA] =G2 z |
+G c B A d c | B A B c2 e | E3 F3- | F3 z2 C |
+F z4 F | E z D C D E | F z4 F | E z D C2 C |
+z6 | z6 | z6 | z6 |
+A3 _B3- | _B3 A3 | c f e d g f | e d e [Af]2 z |
+e3 f3- | f2 [Bd] c2 e | e3 f3- | f2 [Bd] c2 z |
+z6 | [Bd] [Ac]/2 z/2 [Bd]/2 z/2 c/2 z5/2 | z6 | z6 |
+z6 | e/2 z/2 f/2 z/2 ^f/2 z/2 g/2 z5/2 | z6 | z6 |]
+V:lh
+[C,G,]3 [C,G,]3- | [C,G,]3 [C,G,]3 | [C,G,]3 [C,G,]3- | [C,G,]3 [C,G,]2 z |
+[C,G,]3 [C,G,]3- | [C,G,]3 [C,G,]3 | [C,G,]3 [C,G,]3- | [C,G,]3 [C,G,]2 z |
+G,3 C,3 | D, D C B, A, G, | G,3 C,3 | D, D C B, A, G, |
+G,3 C,3 | D, D C B, A, G, | G,3 C,3 | D, D C B, A, G, |
+[C,G,]3 [C,G,]3- | [C,G,]3 [C,G,]3 | [C,G,]3 [C,G,]3- | [C,G,]3 [C,G,]2 C, |
+F, A, D C A, F, | E, G, D, C, D, E, | F, A, D C A, F, | E, G, D, C,2 C, |
+F, A, D C A, F, | E, G, D, C, D, E, | F, A, D C A, F, | E, G, D, C, D, E, |
+[F,C]3 [F,C]3- | [F,C]3 [F,C]3 | [F,C]3 [F,C]3- | [F,C]3 [F,C]2 z |
+C3 F,3 | G, G F E D C | C3 F,3 | G, G F E D C |
+[G,D]/2 z5/2 [CE]/2 z5/2 | z2 [G,D]/2 z/2 [CE]/2 z5/2 | [G,D]/2 z5/2 [CE]/2 z5/2 | z2 [G,D]/2 z/2 [CE]/2 z5/2 |
+z6 | z5 G,/2 z/2 | C/2 z5/2 C/2 z5/2 | C,/2 z11/2 |]

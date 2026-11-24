@@ -1,0 +1,34 @@
+X:1
+T:Now Rest Beneath Night's Shadow (II)
+T:Nun ruhen alle Wälder · BWV 13.6
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, evening
+%%duets tune: Nun ruhen alle Wälder
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 13.6), public domain; score from the music21 corpus.
+%%duets slug: bach-now-rest-beneath-nights-shadow-2
+M:4/4
+L:1/8
+K:Bb
+V:S
+"Bb"d2 | "Eb"B2 "Adim/C"c2 "Bb"d e "F/A"f2 | "Eb/G"e2- "F7/A"e2 "Bb"!fermata!d2 d e | "Bb/D"f2 f2 "Dm7/F"c2 d2 |
+"Gm7"B2- "Edim/G"B2 "F"!fermata!A2 | "Dm"F2 | "Gm"B2 "F7"c2 "Bb/D"d2 "Bb"d e | "F"!fermata!c6 "D/F#"d2 |
+"Gm"B2 "F/A"c2 "Bb"d e "G7/B"f2 | "Cm"e4 "G"!fermata!d2 | "Bb"d e | "F/A"f2 "F"f2 c2 "Dm/F"d2 |
+"Bb/D"B2- "C7/E"B2 "F7"!fermata!A2 F2 | "Bb/D"B2 "Cm"c2 "Bb"d2 "Cm6"e2 | "Bb/D"d2 "F7"c2 "Bb"!fermata!B2 |]
+V:A
+B2 | G2 A2 B2 F2 | G2 F2 !fermata!F2 F E | D E F G A2 A2 |
+G4 !fermata!C2 | D2 | D2 F2 F2 F2 | !fermata!F6 A2 |
+G2 F2 F2 G2 | G4 !fermata!G2 | F2 | F G A B c B A G |
+F2 G2 !fermata!F2 C2 | F2 G A B2 A G | F2 F E !fermata!D2 |]
+V:T
+F2 | E2 E2 F2 C2 | B,2 C2 !fermata!B,2 B,2 | B,2 B,2 F2 F2 |
+F2 =E2 !fermata!A,2 | A,2 | B,2 A,2 B,2 B,2 | !fermata!A,6 D2 |
+D2 C2 B, C D2 | D2 C2 !fermata!=B,2 | B,2 | C B, A, G, F, G, A,2 |
+D2 C2 !fermata!C2 A,2 | B,2 E,2 F, G, A,2 | B,2 A,2 !fermata!F,2 |]
+V:B
+B,,2 | E, D, C,2 B,,2 A,,2 | G,,2 A,,2 !fermata!B,,2 B,, C, | D, C, D, E, F,2 D,2 |
+G,4 !fermata!F,2 | D,2 | G,2 F, E, D, C, B,,2 | F,6 ^F,2 |
+G,2 A,2 B,2 =B,2 | C2 C,2 !fermata!G,2 | B,2 | A, G, F, G, A,2 F,2 |
+D,2 =E,2 !fermata!F,2 _E,2 | D,2 C,2 B,,2 C,2 | D, E, F,2 !fermata!B,,2 |]

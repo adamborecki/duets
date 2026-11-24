@@ -223,7 +223,61 @@ def _children(tunes):
     return rotate(sorted(s, key=sort_key), "", 0, flavors=["both-easy", "gentle", "easy-primo", "trade-easy", "easy-secondo", "tune-below"])
 
 
+BACH_SECTIONS = [("Advent", ("advent",)), ("Christmas & New Year", ("christmas", "newyear")), ("Epiphany", ("epiphany",)),
+                 ("Lent & Passion", ("lent", "good-friday", "confession")), ("Palm Sunday & Easter", ("palm-sunday", "easter")),
+                 ("Pentecost & Trinity", ("pentecost", "trinity")), ("Reformation", ("reformation",)),
+                 ("Praise & Thanksgiving", ("praise", "thanksgiving")), ("Trust & Prayer", ("trust", "prayer", "redeemer", "communion", "opening")),
+                 ("Morning & Evening", ("morning", "evening")), ("The Last Things", ("end-times", "funeral"))]
+
+
+def _bach(tunes):
+    ch = [t for t in tunes if t.collection == "bach-chorales"]
+    e = []
+    for k, (name, tags) in enumerate(BACH_SECTIONS):
+        e += rotate(with_tag(ch, *tags), name, k, flavors=["chorale", "chorale-octaves", "chorale-easy", "chorale", "chorale-full"])
+    return unique(e)
+
+
+def _diabelli(tunes):
+    d = sorted([t for t in tunes if t.collection == "diabelli"], key=lambda t: t.slug)
+    e = [Entry(slug=t.slug, flavor="original", section="Melodious Pieces, Op. 149" if "op149" in t.slug
+               else "Pleasures of Youth, Op. 163", cap=0) for t in d]
+    return e
+
+
+CLASSIC_SECTIONS = [("Bach & His Circle", ("bach", "petzold")), ("Mozart", ("mozart",)), ("Beethoven", ("beethoven",)),
+                    ("Clementi & Kuhlau", ("clementi", "kuhlau")), ("Schubert", ("schubert",)),
+                    ("Schumann: Album for the Young", ("schumann",)), ("Burgmüller: Easy Studies, Op. 100", ("burgmuller",)),
+                    ("Chopin", ("chopin",)), ("Brahms", ("brahms",)), ("Tchaikovsky", ("tchaikovsky",)),
+                    ("Grieg", ("grieg",)), ("Satie", ("satie",))]
+
+
+def _classics(tunes):
+    p = [t for t in tunes if t.collection == "piano"]
+    e = []
+    for name, tags in CLASSIC_SECTIONS:
+        sec = sorted([t for t in p if set(tags) & set(t.tags)], key=lambda t: t.slug if "burgmuller" in tags or "schumann" in tags else sort_key(t))
+        e += [Entry(slug=t.slug, flavor="original", section=name, cap=0) for t in sec]
+    return unique(e)
+
+
+def _joplin(tunes):
+    p = sorted([t for t in tunes if t.collection == "piano" and ({"joplin", "hayden"} & set(t.tags))], key=sort_key)
+    return [Entry(slug=t.slug, flavor="original", section="", cap=0) for t in p]
+
+
 BOOKS = [
+    BookDef("bach-chorales", "Bach Chorales", "Four-part chorales of J. S. Bach set for piano four hands",
+            "Bach's own harmonizations of the great Lutheran chorales, arranged by season, with chord symbols.", _bach, 3),
+    BookDef("diabelli", "Diabelli: Melodious Pieces", "Original duets by Anton Diabelli, Op. 149 and Op. 163",
+            "The classic teacher-and-pupil duets: the Primo stays within five notes, the Secondo supplies the harmony. "
+            "Newly engraved with chord symbols.", _diabelli, 12),
+    BookDef("classics", "Classics, One Hand Each", "Piano pieces by the masters shared between two players",
+            "Each player takes one hand of the original: not a note is changed. Bach minuets, Schumann's "
+            "Album for the Young, Burgmüller studies, Satie's Gymnopédies and more.", _classics, 12),
+    BookDef("joplin-rags", "Joplin Rags, One Hand Each", "Scott Joplin's rags shared between two players",
+            "The Entertainer and other rags, complete, with the right hand for the Primo and the left for the Secondo.",
+            _joplin, 13),
     BookDef("advent-christmas", "Advent & Christmas", "Hymns and carols for piano four hands",
             "Advent chorales, Christmas hymns from the Lutheran tradition and favourite carols.", _advent_christmas, 1),
     BookDef("thanksgiving", "Thanksgiving & Harvest", "Hymns and songs of gratitude for piano four hands",

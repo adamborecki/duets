@@ -1,0 +1,28 @@
+X:1
+T:La gracieuse (Gracefulness)
+T:Op. 100 No. 8
+C:Friedrich Burgmüller
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, burgmuller
+%%duets credit: Friedrich Burgmüller. Source edition: Bas Wassink for the Mutopia Project (Public Domain).
+%%duets tempo-text: Moderato
+%%duets slug: la-gracieuse-gracefulness-burgmuller
+M:3/4
+L:1/8
+Q:1/4=88
+K:F
+V:S
+c d/4 c/4 =B/4 c/4 f g/4 f/4 e/4 f/4 a z | c d/4 c/4 =B/4 c/4 g a/4 g/4 ^f/4 g/4 b z | e f/4 e/4 ^d/4 e/4 g a/4 g/4 ^f/4 g/4 c' z | c' d'/4 e'/4 f'/4 g'/4 a' g'/4 f'/4 e'/4 d'/4 c' z |
+c' d'/4 c'/4 =b/4 c'/4 a _b/4 a/4 ^g/4 a/4 d z | b c'/4 b/4 a/4 b/4 g a/4 g/4 ^f/4 g/4 d z | e f/4 e/4 ^d/4 e/4 g a/4 g/4 ^f/4 g/4 c' d'/4 c'/4 =b/4 c'/4 | f' g'/4 f'/4 e'/4 f'/4 c'' d''/4 c''/4 =b'/4 c''/4 f'' z |
+c d/4 c/4 =B/4 c/4 f g/4 f/4 e/4 f/4 a z | c d/4 c/4 =B/4 c/4 g a/4 g/4 ^f/4 g/4 b z | e f/4 e/4 ^d/4 e/4 g a/4 g/4 ^f/4 g/4 c' z | c' d'/4 e'/4 f'/4 g'/4 a' g'/4 f'/4 e'/4 d'/4 c' z |
+c' d'/4 c'/4 =b/4 c'/4 a _b/4 a/4 ^g/4 a/4 d z | b c'/4 b/4 a/4 b/4 g a/4 g/4 ^f/4 g/4 d z | e f/4 e/4 ^d/4 e/4 g a/4 g/4 ^f/4 g/4 c' d'/4 c'/4 =b/4 c'/4 | f' g'/4 f'/4 e'/4 f'/4 c'' d''/4 c''/4 =b'/4 c''/4 f'' z |
+[Gce]3 [Gce]/2 z/2 [G=Bd]/2 z/2 [Gce]/2 z/2 | [G_cf]3 [Gcf]/2 z/2 [Gcf]/2 z/2 [Gce]/2 z/2 | [G_ce]/2 z/2 [G=Bd]/2 z/2 [Gce]/2 z/2 [GBd]/2 z/2 [Gce]/2 z/2 [Gcd]/2 z/2 | [Gc] d/4 c/4 =B/4 c/4 e f/4 e/4 ^d/4 e/4 g z |
+[Gce]3 [Gce]/2 z/2 [G=Bd]/2 z/2 [Gce]/2 z/2 | [G_cf]3 [Gcf]/2 z/2 [Gcf]/2 z/2 [Gce]/2 z/2 | [G_ce]/2 z/2 [G=Bd]/2 z/2 [Gce]/2 z/2 [GBd]/2 z/2 [Gce]/2 z/2 [Gcd]/2 z/2 | [Gc]/2 z/2 c2 c2 c |]
+V:lh
+[F,A,C]4 [F,A,C]/2 z/2 [F,A,C]/2 z/2 | [E,B,C]4 [E,B,C]/2 z/2 [E,B,C]/2 z/2 | [G,B,C]4 [G,B,C]/2 z/2 [G,B,C]/2 z/2 | [F,A,C]4 [F,A,C]/2 z/2 [F,A,C]/2 z/2 |
+[D,_G,C]4 [D,G,C]/2 z/2 [D,G,C]/2 z/2 | [G,B,]4 [G,B,]/2 z/2 [G,B,]/2 z/2 | [C,G,B,] z [C,G,B,] z [C,G,B,] z | [F,A,]4 F,, z |
+C D/4 C/4 =B,/4 C/4 G,4 | D E/4 D/4 ^C/4 D/4 G,4 | [G,F] [G,F] [G,F] [G,F] [G,F] [G,F] | [CE]5 G,/2 z/2 |
+C D/4 C/4 =B,/4 C/4 G,4 | D E/4 D/4 ^C/4 D/4 G,4 | [G,F] [G,F] [G,F] [G,F] [G,F] [G,F] | [CE] C/2 z/2 [=B,C]/2 z/2 [_B,C]/2 z/2 [A,C]/2 z/2 [G,C]/2 z/2 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |]

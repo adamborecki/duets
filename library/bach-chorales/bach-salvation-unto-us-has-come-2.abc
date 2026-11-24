@@ -1,0 +1,30 @@
+X:1
+T:Salvation unto Us Has Come (II)
+T:Es ist das Heil uns kommen her · BWV 9.7
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, reformation
+%%duets tune: Es ist das Heil uns kommen her
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 9.7), public domain; score from the music21 corpus.
+%%duets slug: bach-salvation-unto-us-has-come-2
+M:4/4
+L:1/8
+K:E
+V:S
+"E"B2 | "E"B2 "B7/D#"B2 "E"B c "E7/G#"=d2 | "A"c2 "G/B"B2 "D"!fermata!A2 "B7/D#"B A | "E"G F E F "C#m"G2 "F#7/E"^A2 |
+"B/D#"B2 "F#7"c2 "B"!fermata!B2 :| "E"B2 | "C#m"e2 "B"d2 "F#"c2 "B7/A"d2 | "E/G#"e d "F#7"c2 "B"!fermata!B2 "E"B2 |
+"E/G#"e2 "Bm"B2 "C#7/B"c2 "C#/G#"G A | "C#7/E#"B2 "F#m"A2 "C#"!fermata!G2 "C#m"G2 | "F#m/A"F G "F#m"A2 "E/G#"G2 "B7"F2 | "Gdim7"C2 "B7/F#"D2 "E"!fermata!E2 |]
+V:A
+G2 | F G A2 G A B2 | B A =D E !fermata!F2 F2 | E2 B,2 E2 C2 |
+F3 E !fermata!D2 :| E F | G ^A B2 A G F2 | B G ^A2 !fermata!F2 G =A |
+B A G F ^E F G C | C G G F F !fermata!^E =E2 | F E D C B, C D2 | E2 B,2 !fermata!B,2 |]
+V:T
+E2 | B,2 F2 E2 E2 | E F =G2 !fermata!=D2 B,2 | B, A, G,2 C2 F,2 |
+F, B, ^A,2 !fermata!F,2 :| G,2 | C2 D E F2 B,2 | B,2 F E !fermata!D2 E2 |
+B, C =D2 C ^D ^E F | G C C2 !fermata!C2 C2 | C B, A,2 E2 B, A, | =G,2 F, A, !fermata!^G,2 |]
+V:B
+E,2 | E,2 D,2 E,2 G,,2 | A,,2 B,, C, !fermata!=D,2 ^D,2 | E,3 D, C, D, E, F, |
+D, B,, F,2 !fermata!B,,2 :| E, D, | C,2 B,,2 F, G, A, F, | G, E, F,2 !fermata!B,,2 E, F, |
+G, A, B,2 B, A, G, F, | ^E,2 F,2 !fermata!C,2 C B, | A, G, F,2 G, A, B,2 | B, ^A, B,2 !fermata!E,2 |]

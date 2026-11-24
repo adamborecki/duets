@@ -1,0 +1,74 @@
+X:1
+T:Sonatina No. 2: II
+T:Jugendfreuden (Pleasures of Youth), Op. 163 No. 2
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Allegro moderato
+%%duets slug: diabelli-op163-2-2
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+V:S
+|: g2 d'3/2 b/2 g z3 | z2 d'3/2 b/2 g z b g | d'4 a2 c' b |
+g2 z6 | z2 d'3/2 b/2 g z3 | z2 d'3/2 b/2 g z b z | b2 a2 z2 a z |
+b2 a2 z2 a z | a3 a b a b ^c' | d'2 z3 a/2 z/2 _d'/2 z/2 a/2 z/2 | d'2 z3 a/2 z/2 _d'/2 z/2 a/2 z/2 |
+d'2 d'2 d'2 z2 :| d'3 c' a2 z2 | d'3 b g2 z2 | c'2 c'2 b2 c' d' |
+a3 b a2 z2 | d'3 c' a2 z2 | d'3 _b g2 z2 | ^a3 c' a2 z2 |
+^a3 c' _b2 z2 | ^a2 a a c' a c' _b | _b4 g2 z2 | g3 _a g2 z2 |
+g3 _a g2 z2 | g3 a _b2 a g | d'2 z2 _b2 a g | d'2 z2 _b2 a g |
+d'2 z6 | z2 d'3/2 b/2 g z3 | z2 d'3/2 b/2 g z3 | d'4 a2 c' b |
+g2 z6 | z2 d'3/2 b/2 g z3 | z2 d'3/2 b/2 g z g z | a2 a2 c'2 b a |
+g2 z4 g z | a2 g2 z2 g z | a2 g2 z2 g z | c'3 c' d' c' b a |
+g2 z3 d'/2 z/2 a/2 z/2 b/2 z/2 | g2 z3 d'/2 z/2 a/2 z/2 b/2 z/2 | g2 b z g2 z2 |]
+V:plh
+|: [GB] d [GB] d [GB] d [GB] d | [GB] d [GB] d [GB] d [GB] d | [Ac] d [Ac] d [Ac] d [Ac] d |
+[GB] d [GB] d [GB] d [GB] d | [GB] d [GB] d [GB] d [GB] d | [GB] d [GB] d [GB] z B z | B2 A2 z2 A z |
+B2 A2 z2 A z | A3 A B A B ^c | d2 A3/2 A/2 A2 _d/2 z/2 A/2 z/2 | d2 A3/2 A/2 A2 _d/2 z/2 A/2 z/2 |
+d2 d2 d2 z2 :| d3 c A2 z2 | d3 B G2 z2 | c2 c2 B2 c d |
+A3 B A2 z2 | d3 c A2 z2 | d3 _B G2 z2 | ^A3 c A2 z2 |
+^A3 c _B2 z2 | ^A2 A A c A c _B | _B4 G2 z2 | G3 _A G2 z2 |
+G3 _A G2 z2 | G3 A _B2 A G | d2 z2 _B2 A G | d2 z2 _B2 A G |
+d2 d3/2 d/2 d2 d2 | [GB] d [GB] d [GB] e [GB] e | [GB] d [GB] d [GB] e [GB] e | [Ac] d [Ac] d [Ac] d [Ac] d |
+[GB] d [GB] d [GB] e [GB] e | [GB] d [GB] d [GB] e [GB] e | [GB] d [GB] d [GB] z G z | A2 A2 c2 B A |
+G2 z4 G z | A2 G2 z2 G z | A2 G2 z2 G z | c3 c d c B A |
+G2 d3/2 d/2 d2 A/2 z/2 B/2 z/2 | G2 d3/2 d/2 d2 A/2 z/2 B/2 z/2 | G2 [GBd]2 [GBd] z3 |]
+V:srh
+|: G,4 B, D, G, B, | G,4 B, D, G, B, | F, A, C A, F, D, F, D, |
+G, B, D B, G, z3 | G,4 B, D, G, B, | G,4 B, E, G, B, | E, G, _D G, E, G, D G, |
+F, A, D A, F, A, D A, | G, A, ^C E G E =C E | F A, D F G ^C E G | F A, D F G ^C E G |
+F2 [A,DF]2 [A,DF]2 z2 :| C D F D C D F D | B, D G D B, D B, G, | F, A, D A, G, B, D B, |
+F, A, D A, F, A, F, D, | C D F D C D F D | ^A, D G D A, D _B, G, | ^G, ^A, =F _B, G, A, F B, |
+G, ^A, _E _B, G, A, E B, | ^G, ^A, D _B, G, A, D B, | G, ^A, _E A, E _B, G, B, | G, B, =F B, G, B, F B, |
+G, C _E C G, C E C | G, ^A, E _B, G, A, E B, | F, A, D A, G, ^A, D _B, | F, A, D A, G, ^A, D _B, |
+F, D [A,C] D [G,B,] D [F,A,] D | G,4 B, D, G, B, | G,4 B, D, G, B, | F, A, C A, F, D, F, D, |
+G, B, D B, G, z3 | G,4 B, D, G, B, | G,4 B, E, G, B, | E, G, A, E F, A, C D |
+G, B, D B, G, B, D B, | G, B, =F B, G, B, F B, | G, C E C G, C E C | A, C ^D F A, C D F |
+B, D B, G, C F, C D | B, G, B, D C F, C D | B,2 [G,B,D] z [G,B,D] z3 |]
+V:slh
+|: G,,6 D,, z | G,,6 D,, z | D,,8 |
+G,,5 D,, G,, B,, | G,,6 D,, z | G,,6 E,, z | A,,4 A,,, z3 |
+A,,4 A,,, z3 | A,,4 A,,, z A,,2 | D,,2 z2 A,,,2 A,,2 | D,,2 z2 A,,,2 A,,2 |
+D,,2 [D,,D,]2 [D,,D,]2 z2 :| D,,6 D,2 | D,,6 D,2 | D,,2 D,2 D,,2 D,2 |
+D,,2 D,2 D,,2 z2 | D,,6 D,2 | D,,6 D,2 | [D,,D,] z ^A,, z [D,,D,] z A,, z |
+[_E,,_E,] z ^A,, z [E,,E,] z _B,,2 | ^A,,,8 | _E,,8 | D,,8 |
+C,,8 | ^C,,8 | D,,2 z2 D,,2 z2 | D,,2 z2 D,,2 z2 |
+D,,8 | G,,6 D,, z | G,,6 D,, z | D,,8 |
+G,,5 D,, G,, B,, | G,,6 D,, z | G,,6 E,, z | C,,4 D,,4 |
+G,,2 G,,2 G,,2 G,,2 | G,,,8 | G,,,8 | G,,,8 |
+[G,,,G,,]2 z2 D,,2 D,2 | G,,2 z2 D,,2 D,2 | G,,2 [G,,,G,,]2 [G,,,G,,]2 z2 |]
+V:slh2
+|: z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 :| z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z2 ^A,,2 A,,2 A,,2 | z2 _E,2 E,2 E,2 | z2 D,2 D,2 D,2 |
+z2 C,2 C,2 C,2 | z2 ^C,2 C,2 C,2 | z2 D,2 z2 D,2 | z2 D,2 z2 D,2 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z2 G,,2 G,,2 G,,2 | z2 G,,2 G,,2 G,,2 | z2 G,,2 G,,2 G,,2 |
+z8 | z8 | z8 |]

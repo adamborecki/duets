@@ -1,0 +1,47 @@
+X:1
+T:Pastorale
+T:Op. 100 No. 3
+C:Friedrich Burgmüller
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, burgmuller
+%%duets credit: Friedrich Burgmüller. Source edition: Bas Wassink for the Mutopia Project (Public Domain).
+%%duets tempo-text: Andantino
+%%duets slug: pastorale-burgmuller
+M:6/8
+L:1/8
+Q:3/8=60
+K:G
+V:S
+G B c d B e | d g e d B c | d3 B d e | d3 g d B |
+A3 c A B | G3 G B c | d3 B d e | d3 d B g |
+f3 e f e | d3 d'2 z | d3 B d e | d3 g d B |
+A3 c A B | G3 G B c | d3 B d e | d3 d B g |
+f3 e f e | d3 d'2 z | a3 c e d | B3 d ^c d |
+a3 c e d | B3 d e d | ^c6 | d _e e e d c |
+B c d f e c | B3 A d d | d3 B d e | d3 g d B |
+A3 c A B | G3 G B c | d3 B d e | d3 c e g/2 z/2 |
+g d B B2 A | G3 A E F | G3 A E F | G/2 z/2 B/2 z/2 d/2 z/2 g/2 z/2 b/2 z/2 d'/2 z/2 |
+g'2 z4 |]
+V:lh
+z6 | z6 | [G,B,D] [G,B,D] [G,B,D] [G,B,D]3 | [G,B,D] [G,B,D] [G,B,D] [G,B,D]3 |
+[G,CD] [G,CD] [G,CD] [G,CD]3 | [G,B,D] [G,B,D] [G,B,D] [G,B,D]3 | [G,B,D] [G,B,D] [G,B,D] [G,B,D]3 | [G,B,D] [G,B,D] [G,B,D] [G,B,D]3 |
+A, A A G A G | F A F D2 z | [F,C]6 | [G,B,]6 |
+[F,C]6 | [G,B,]6 | z _B B B A G | F6 |
+G3 [CE]3 | z G G F2 z | [G,B,D] [G,B,D] [G,B,D] [G,B,D]3 | [G,B,D] [G,B,D] [G,B,D] [G,B,D]3 |
+[G,CD] [G,CD] [G,CD] [G,CD]3 | [G,B,D] [G,B,D] [G,B,D] [G,B,D]3 | [=F,G,B,D] [F,G,B,D] [F,G,B,D] [F,G,B,D]3 | [E,G,C] [E,G,C] [E,G,C] [E,G,C]3 |
+z4 D C | [G,B,] [G,B,D] [G,B,D] [G,CD]3 | [G,B,D] [G,B,D] [G,B,D] [G,CD]3 | [G,B,D]2 z [G,B,D]2 z |
+G,,2 z4 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 |]
+V:lh2
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z D D D3 | z D D D3 |
+z D D D3 | z D D D3 | z6 | z6 |
+z6 | D5 z | z6 | z6 |
+z6 | z6 | z6 | z6 |
+[D,G,B,]3 D, z2 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 |]

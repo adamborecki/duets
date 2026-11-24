@@ -1,0 +1,46 @@
+X:1
+T:Melodious Piece No. 19
+T:Melodische Übungsstücke, Op. 149 No. 19
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Allegretto
+%%duets slug: diabelli-op149-19
+M:2/4
+L:1/8
+Q:1/4=70
+K:F
+V:S
+|: a'/2 z/2 g'/2 z/2 f'/2 z/2 e'/2 z/2 | d'/2 z/2 e'3/2 f'/2 d'/2 z/2 | f'/2 z/2 e'3/2 f'/2 d'/2 e'/2 |
+f'/2 g'/2 a'2 z | a'/2 z/2 g'/2 z/2 f'/2 z/2 e'/2 z/2 | e'/2 z/2 e'3/2 f'/2 d'/2 z/2 | f'/2 z/2 e' g'/2 f'/2 e' |
+f'/2 e'/2 d'2 z :: d'/2 z/2 e'/2 z/2 e'/2 z/2 d'/2 z/2 | e'/2 z/2 f'3/2 g'/2 f' | f'/2 z/2 g'/2 z/2 g'/2 z/2 f'/2 z/2 |
+g'/2 z/2 a'2 z | a'/2 z/2 g'/2 z/2 g'/2 z/2 a'/2 z/2 | e'/2 z/2 f'3/2 e'/2 d' | d'/2 z/2 e'/2 z/2 g'/2 z/2 f'/2 z/2 |
+[1 e'/2 z/2 d'2 z :| [2 e'/2 z/2 d'2 z | d'/2 z/2 f'3/2 e'/2 d' | d'/2 z/2 a'2 d' |
+d'/2 z/2 f'3/2 e'/2 d' | d'/2 z/2 a'3 | d'/2 z/2 f'3/2 e'/2 d' | d'/2 z/2 d'/2 z/2 d'/2 e'/2 f'/2 z/2 |
+f'/2 g'/2 a'3/2 a'/4 z/4 a'/2 z/2 | a'/2 z/2 d'2 z |]
+V:plh
+|: z2 a/2 z/2 g/2 z/2 | f/2 z/2 g/2 z/2 a/2 z/2 f/2 z/2 | a/2 z/2 g/2 z/2 a/2 z/2 f/2 z/2 |
+d/2 z/2 e/2 f/2 g/2 f/2 e | z2 a/2 z/2 g/2 z/2 | f/2 z/2 g/2 z/2 a/2 z/2 f/2 z/2 | a/2 z/2 g3/2 f/2 e |
+f/2 e/2 d2 z :: d/2 z/2 e/2 z/2 e/2 z/2 d/2 z/2 | e/2 z/2 f3/2 g/2 f | f/2 z/2 g/2 z/2 g/2 z/2 f/2 z/2 |
+g/2 z/2 a2 z | a/2 z/2 g/2 z/2 g/2 z/2 a/2 z/2 | e/2 z/2 f3/2 e/2 d | d/2 z/2 e/2 z/2 g/2 z/2 f/2 z/2 |
+[1 e/2 z/2 d2 z :| [2 e/2 z/2 d2 z | d/2 z/2 f3/2 e/2 d | d/2 z/2 a2 d |
+d/2 z/2 f3/2 e/2 d | d/2 z/2 a3 | d/2 z/2 f3/2 e/2 d | d/2 z/2 d/2 z/2 d/2 e/2 f/2 z/2 |
+f/2 g/2 a3/2 a/4 z/4 a/2 z/2 | a/2 z/2 d2 z |]
+V:srh
+|: A/2 z/2 A/2 z/2 A/2 z/2 A/2 z/2 | A/2 z/2 [^CGA] [CGA] [DFA] | z [^CGA] [CGA] [DFA] |
+z [^CEA] [CEA] [CEA] | A/2 z/2 A/2 z/2 A/2 z/2 A/2 z/2 | A/2 z/2 [^CGA] [CGA] [DFA] | z2 [DEB] z |
+[_DEGA] [=DF]/2 z/2 [FA]/2 z/2 [DF]/2 z/2 :: z2 [CGB] z | [CGB] z [CFA] z | [CFA] z [CEB] z |
+[CEB] z [CFA] z | [CFA] z [EGA] z | [EGA] z [DFA] z | [DFA] z [DEB] z |
+[1 [_DGA] [=DF]/2 z/2 [FA]/2 z/2 [DF]/2 z/2 :| [2 [_DGA] =D/2 F/2 A/2 F/2 D/2 F/2 | A/2 F/2 D/2 F/2 _A/2 F/2 D/2 F/2 | _A/2 F/2 D/2 F/2 =A/2 F/2 D/2 F/2 |
+A/2 F/2 D/2 F/2 _A/2 F/2 D/2 F/2 | _A/2 F/2 D/2 F/2 =A/2 F/2 D/2 F/2 | A/2 F/2 D/2 F/2 _A/2 F/2 D/2 F/2 | _A/2 F/2 D/2 F/2 =A/2 F/2 D/2 F/2 |
+A/2 F/2 [DEA]/2 z/2 [DEA]/4 z/4 [DEA]/4 z/4 [^CEA]/2 z/2 | [^CEA]/2 z/2 [DFA]2 z |]
+V:slh
+|: z4 | z [A,,E,] [A,,E,] D, | z [A,,E,] [A,,E,] D, |
+z [A,,E,] [A,,E,] [A,,E,] | z4 | z [A,,E,] [A,,E,] D, | z G,, z A,, |
+z D, D, D, :: z C, z C, | z C, z C, | z C, z C, |
+z F, z F, | z ^C, z C, | z D, z D, | z G,, z A,, |
+[1 z D, D, D, :| [2 z D,3- | D, [D,F,_A,_C]3- | [D,F,_A,_C] [D,F,=A,]3- |
+[D,F,A,] [D,F,_A,_C]3- | [D,F,_A,_C] [D,F,=A,]3- | [D,F,A,] [_C,D,F,]3- | [_C,D,F,] [A,,D,F,]3- |
+[A,,D,F,] [A,,,A,,]/2 z/2 [A,,,A,,]/2 z/2 [A,,,A,,]/2 z/2 | [A,,,A,,]/2 z/2 [D,,A,,D,]2 z |]

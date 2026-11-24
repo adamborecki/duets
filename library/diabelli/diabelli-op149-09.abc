@@ -1,0 +1,74 @@
+X:1
+T:Melodious Piece No. 9
+T:Melodische Übungsstücke, Op. 149 No. 9
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Allegretto
+%%duets slug: diabelli-op149-09
+M:6/8
+L:1/8
+Q:3/8=80
+K:G
+V:S
+g2 a b2 c' | d'3 b3 | c'2 d' b2 d' | a3 d'2 z |
+g2 a b2 c' | d'3 b3 | a2 a a b ^c'/2 z/2 | d'2 d' d'2 z |
+g2 a b2 c' | d'3 b3 | c'2 d' b2 d' | a3 d'2 z |
+g2 a b2 c' | d'3 b3 | a2 a a b ^c'/2 z/2 | d'2 d' d'2 z |
+c'2 b c'2 a | d'3 b3 | a2 b c'2 a | g3 b3 |
+c'2 b c'2 a | d'3 b3 | a b a d' c' a | g2 b g2 z |
+c'2 b c'2 a | d'3 b3 | a2 b c'2 a | g3 b3 |
+c'2 b c'2 a | d'3 b3 | a b a d' c' a | g2 b g2 z |
+g2 g g a b/2 z/2 | c'3 c' d' c' | b3 b c' b | a3 a b c'/2 z/2 |
+d'2 d' d' c' a | b2 b d' b g | a2 a d' c' a | g2 d' a b a |
+g2 d' a b a | g3 b3 | g3 b3 | g6 |]
+V:plh
+G2 A B2 c | d3 B3 | [cd]3 [Bd]3 | [Ad]5 z |
+G2 A B2 c | d3 B3 | A2 A A B ^c | d2 d d2 z |
+G2 A B2 c | d3 B3 | [cd]3 [Bd]3 | [Ad]5 z |
+G2 A B2 c | d3 B3 | A2 A A B ^c | d2 d d2 z |
+c2 B c2 A | d3 B3 | [cd]3 [cd]3 | [Bd]3 [Bd]3 |
+c2 B c2 A | d3 B3 | [cd]3 [cd]3 | [Bd]2 [Bd] [Bd]2 z |
+c2 B c2 A | d3 B3 | [cd]3 [cd]3 | [Bd]3 [Bd]3 |
+c2 B c2 A | d3 B3 | [cd]3 [cd]3 | [Bd]2 [Bd] [Bd]2 z |
+G2 G G A B/2 z/2 | c3 c d c | B3 B c B | A3 A B c/2 z/2 |
+d2 d d c A | B2 B d B G | A2 A d c A | G2 d A B A |
+G2 d A B A | G3 B3 | G3 B3 | G6 |]
+V:srh
+B, D F, G, D A, | B, D B, G, D G, | A, D A, G, D G, | F, D A, F, A, D |
+B, D F, G, D A, | B, D B, G, D G, | F, D F, G, _D G, | F, A, F, [F,A,D]2 z |
+B, D F, G, D A, | B, D B, G, D G, | A, D A, G, D G, | F, D A, F, A, D |
+B, D F, G, D A, | B, D B, G, D G, | F, D F, G, _D G, | F, A, F, [F,A,D]2 z |
+A, D ^G, A, D F, | B, D B, G, D G, | z [F,CD] [F,CD] z [F,CD] [F,CD] | z [G,B,D] [G,B,D] z [G,B,D] [G,B,D] |
+A, D ^G, A, D F, | B, D B, G, D G, | z [F,CD] [F,CD] z [F,CD] [F,CD] | z [G,B,D] [G,B,D] z [G,B,D] [G,B,D] |
+A, D ^G, A, D F, | B, D B, G, D G, | z [F,CD] [F,CD] z [F,CD] [F,CD] | z [G,B,D] [G,B,D] z [G,B,D] [G,B,D] |
+A, D ^G, A, D F, | B, D B, G, D G, | z [F,CD] [F,CD] z [F,CD] [F,CD] | z [G,B,D] [G,B,D] z [G,B,D] [G,B,D] |
+G, D =F G, D F | G, C E G, C E | ^G, D E G, D E | A, C E A, C E |
+A, C D A, C D | G, B, D G, B, D | F, C D F, C D | [G,B,] D B, C D C |
+[G,B,] D B, C D C | [G,B,] D B, z B, D | B, D B, G, B, D | [G,B,D]6 |]
+V:slh
+G,,2 z4 | G,,,3 G,,3 | F,,3 G,,2 B,, | D,3 D,,2 z |
+G,,2 z4 | G,,,3 G,,3 | A,,3 [A,,,A,,]3 | D,,2 [D,,D,] [D,,D,]2 z |
+D,,3 D,3 | G,,,3 G,,3 | [D,,D,]2 z [D,,D,]2 z | G,,2 z G,,2 z |
+D,,3 D,3 | G,,,3 G,,3 | [D,,D,]2 z [D,,D,]2 z | G,,2 [G,,,G,,] [G,,,G,,]2 z |
+G,,2 z4 | G,,,3 G,,3 | F,,3 G,,2 B,, | D,3 D,,2 z |
+G,,2 z4 | G,,,3 G,,3 | A,,3 [A,,,A,,]3 | D,,2 [D,,D,] [D,,D,]2 z |
+D,,3 D,3 | G,,,3 G,,3 | [D,,D,]2 z [D,,D,]2 z | G,,2 z G,,2 z |
+D,,3 D,3 | G,,,3 G,,3 | [D,,D,]2 z [D,,D,]2 z | G,,2 [G,,,G,,] [G,,,G,,]2 z |
+G,,,2 z G,,2 z | C,,2 z C,2 z | E,,2 z E,2 z | A,,,2 z A,,2 z |
+F,,,2 z [F,,,F,,]2 z | [G,,,G,,]2 z [B,,,B,,]2 z | [D,,D,]2 z D,,2 z | G,,2 z [D,,D,]3 |
+G,,2 z [D,,D,]3 | [G,,,G,,]6 | [G,,,G,,]6 | [G,,,G,,]6 |]
+V:srh2
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z3 F,3 |
+z3 F,3 | z3 G, z2 | z6 | z6 |]

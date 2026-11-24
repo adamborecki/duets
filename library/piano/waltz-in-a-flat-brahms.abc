@@ -1,0 +1,47 @@
+X:1
+T:Waltz in A-flat
+T:Op. 39 No. 15
+C:Johannes Brahms
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, brahms
+%%duets credit: Johannes Brahms. Source edition: Brian D. Rude for the Mutopia Project (Public Domain).
+%%duets tempo-text: Tempo di valse
+%%duets slug: waltz-in-a-flat-brahms
+M:3/4
+L:1/8
+Q:1/4=108
+K:Ab
+V:S
+|: [Ec]3 [CA] [CA] [Ec] | [Ec]3 [CA] [CA] [Ec] | d e/2 d/2 [EAc]2 [DAB]2 |
+[EAc]3 A A [ce] | [Acf]3 [Ac] [Ac] e | [Acf]3 [Ac] [Ac] e | g f [Gce]2 [F=B=d]2 |
+[1 [Gce]3 [EG] [EG] c :| [2 [Gce]3 [EGc] [EGc] e | [EGBde]3 [EGB] [EGB] [de] | [EAce]3 [Ac] [Ac] e |
+[Ace_ga]3 [Ace] [Ace] [ga] | [Adfa]3 [Adf] [Adf] a | [AB=dfb]3 [Bdf] [Bdf] a | a g [Adf]2 [Gde]2 |
+z5 [Ec] | [Ec]3 z2 [Ec] | d e/2 d/2 [EAc]2 [DAB]2 | [EAc]3 A A [ce] |
+[Acf]3 [Ac] [Ac] e | [Acf]3 [Ac] [Ac] e | a e [Gd]2 z2 | z3 [EAc] [EAc] e |
+[EGBde]3 [EGB] [EGB] [de] | [EAce]3 [Ac] [Ac] e | [Ace_ga]3 [Ace] [Ace] [ga] | [Adfa]3 [Adf] [Adf] a |
+[AB=dfb]3 [Bdf] [Bdf] a | a g [Adf]2 [Gde]2 | [ec']2 (3z[CA][Ec] (3[ca][ec'][ca] | [ec']2 (3z[CA][Ec] (3[ca][ec'][ca] |
+d' e'/2 d'/2 [eac']2 [dab]2 | [eac']2 (3z[CA][Ec] (3[ca][ec'][fc']- | [fc']2 (3z[CA][Ec] (3[ca][ec'][fc']- | [fc']2 (3z[CA][Ec] (3[ca][ec'][ac']- |
+[ac']2 [dgd']2 [Bdb]2 | [Aca]2 z4 |]
+V:lh
+|: A,,2 [E,A,C]2 [C,E,A,]2 | A,,,2 [E,A,C]2 [C,E,A,]2 | A,,2 [D,F,D]2 [F,A,]2 |
+A,,,2 [E,A,C]2 [C,E,A,]2 | F,,2 [F,A,CF]2 [A,,E,C]2 | F,,2 [F,A,CF]2 [A,,E,C]2 | E,,2 [E,G,C]2 [G,,F,_C]2 |
+[1 C,,2 [E,G,C]2 [C,E,]2 :| [2 C,,2 [E,G,C]2 [C,E,G,]2 | E,,2 [E,G,D]2 [E,G,]2 | A,,2 [E,A,C]2 [E,A,]2 |
+A,,,2 [A,C_G]2 [A,C]2 | D,,2 [A,DF]2 [A,D]2 | [B,,,B,,]2 [A,B,=DF]2 [F,B,D]2 | E,,2 [E,B,D]2 [E,B,E]2 |
+A,,2 [E,A,C]2 [C,E,A,]2 | A,,,2 [E,A,C]2 [C,E,A,]2 | A,,2 [D,F,D]2 [F,A,]2 | A,,,2 [E,A,C]2 [C,E,A,]2 |
+F,,2 [F,A,CF]2 [A,,E,C]2 | F,,2 [F,A,CF]2 [A,,E,C]2 | C,,2 E,,2 [E,G,]2 | A,,2 [E,A,]2 [E,A,C]2 |
+E,,2 [E,G,D]2 [E,G,]2 | A,,2 [E,A,C]2 [E,A,]2 | A,,,2 [A,C_G]2 [A,C]2 | D,,2 [A,DF]2 [A,D]2 |
+[B,,,B,,]2 [A,B,=DF]2 [F,B,D]2 | E,,2 [E,B,D]2 [E,B,E]2 | A,,,2 [E,A,C]2 [C,E,A,]2 | A,,,2 [E,A,C]2 [C,E,A,]2 |
+D,,2 [D,A,]2 [F,A,]2 | A,,,2 [E,A,C]2 [C,E,A,]2 | F,,2 [F,A,C]2 [A,,E,A,]2 | F,,2 [F,A,C]2 [A,,E,A,]2 |
+C,,2 E,,2 [E,G,D]2 | A,,,2 [E,A,C]2 z2 |]
+V:rh2
+|: z6 | z6 | [FA]2 z4 |
+z6 | z6 | z6 | [Gc]2 z4 |
+[1 z6 :| [2 z6 | z6 | z6 |
+z6 | z6 | z6 | [Bd]2 z4 |
+[Ec]3 [CA] [CA] z | z3 [CA] [CA] z | [FA]2 z4 | z6 |
+z6 | z6 | A2 z2 [DEB]2 | [CEA]2 z4 |
+z6 | z6 | z6 | z6 |
+z6 | [Bd]2 z4 | z6 | z6 |
+[fa]2 z4 | z6 | [af']2 z4 | [af']2 z4 |
+a' e' z4 | z6 |]

@@ -1,0 +1,56 @@
+X:1
+T:Sonatina No. 2: I
+T:Jugendfreuden (Pleasures of Youth), Op. 163 No. 2
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Andante maestoso
+%%duets slug: diabelli-op163-2-1
+M:2/2
+L:1/8
+Q:1/2=100
+K:G
+V:S
+g4 b3 c' | d'4 z2 b2 | c'2 b3/2 b/2 a z d' z | b z g z5 |
+z8 | z g b c' d'2 g2 | g4 g2 g2- | g g b c' d'2 d'2 |
+d'3 c' a2 d'3/2 d'/2 | d'3 b g2 d'3/2 d'/2 | d'3 c' a2 d'3/2 d'/2 | d'3 b g g b d' |
+c'/2 z/2 g b d' c'/2 z/2 g b d' | c'3/2 d'/2 b3/2 c'/2 a3/2 b/2 g3/2 b/2 | a2 a3/2 a/2 d' c' a b | g2 b3/2 b/2 b2 b2 |
+b3 c' b2 b2 | b3 c' b2 b2 | c'3 b a2 g/2 z/2 a/2 z/2 | b2 z b/2 z/2 c'2 b ^a |
+b2 z b/2 z/2 d' c' b ^a | b2 g3/2 a/2 b2 g3/2 a/2 | b2 b3/2 b/2 b2 b2 | d'3 c' a2 c' b |]
+V:plh
+G4 B3 c | d4 z2 B2 | c2 B3/2 B/2 A z d z | B z G z5 |
+z8 | z G B c d2 G2 | G4 G2 G2- | G G B c d2 d2 |
+d3 c A2 d3/2 d/2 | d3 B G2 d3/2 d/2 | d3 c A2 d3/2 d/2 | d3 B G G B d |
+c/2 z/2 G B d c/2 z/2 G B d | c2 B2 A2 G2 | A2 A3/2 A/2 d c A B | G2 B3/2 B/2 B2 B2 |
+B3 c B2 B2 | B3 c B2 B2 | c3 B A2 G/2 z/2 A/2 z/2 | B2 z B/2 z/2 c2 B ^A |
+B2 z B/2 z/2 d c B ^A | B2 G3/2 A/2 B2 G3/2 A/2 | B2 B3/2 B/2 B2 B2 | d3 c A2 c B |]
+V:srh
+G,4 B,3 C | D4 z2 B,2 | C2 B,3/2 B,/2 A, z D z | B, z G, z2 G, F, G, |
+[G,C]4 [G,B,]2 [G,^A,]2 | [G,B,]5 G,3 | G,4 G,2 G,2 | z5 D, z2 |
+C B, C A, D C B, A, | B, ^A, B, G, E D B, G, | C B, C A, D C B, A, | B, ^A, B, D B, B, D =F |
+E2 [D=F]2 [CE]2 [DF]2 | [CE]2 D2 C2 B,2 | [G,A,_D]4 [F,A,C]4 | [G,B,]2 B,3/2 B,/2 [A,B,^D]2 [G,B,E]2 |
+A,/2 B,/2 z/2 B,/2 A,/2 B,/2 z/2 B,/2 A,/2 B,/2 z/2 B,/2 A,/2 B,/2 z/2 B,/2 | G,/2 B,/2 z/2 B,/2 G,/2 B,/2 z/2 B,/2 G,/2 B,/2 z/2 B,/2 E,/2 z3/2 | F,/2 z3/2 F,/2 z3/2 F,/2 A,/2 z/2 A,/2 F,/2 A,/2 z/2 A,/2 | F,/2 B,/2 z7 |
+^D/2 z/2 D/2 z/2 D/2 z/2 D/2 z/2 E/2 z/2 E/2 z/2 E/2 z/2 E/2 z/2 | z/2 _E/2 B,/2 z B,/2 G,/2 B,/2 z/2 B,/2 F,/2 z B,/2 G,/2 B,/2 | [F,B,^D]2 [F,B,D]3/2 [F,B,_E]/2 [F,B,E]2 [F,B,E]2 | z4 [D,F,C]4 |]
+V:slh
+[G,,,G,,]4 [B,,,B,,]3 [C,,C,] | [D,,D,]4 z2 [B,,,B,,]2 | [C,,C,]2 [B,,,B,,]3/2 [B,,,B,,]/2 [A,,,A,,] z [D,,D,] z | [B,,,B,,] z [G,,,G,,] z5 |
+[G,,E,]4 [G,,E,]2 [G,,^C,]2 | [G,,D,]6 [G,,=F,]2 | [G,,E,]4 [G,,D,]2 [G,,^C,]2 | [G,,D,]5 z3 |
+D,8 | D,8 | D,8 | D,6 z2 |
+z G,, z G,, z G,, z G,, | z G,, z G,, z G,, z G,, | z G,, z G,, z G,, z G,, | z2 [G,,G,]2 [F,,F,]2 [E,,E,]2 |
+[_E,,_E,] z [B,,,B,,] z [E,,E,] z [B,,,B,,] z | [E,,E,] z [B,,,B,,] z [E,,E,] z [G,,,G,,] z | [A,,,A,,] z [A,,,A,,] z [C,,C,] z [C,,C,] z | [B,,,B,,] z B,, z B,, z B,, z |
+[B,,,B,,] z B,, z B,, z B,, z | [B,,,B,,] z [E,,B,,] z [B,,,B,,] z [E,,B,,] z | [B,,,B,,]2 F,,2 _E,,2 B,,,2 | A,,,4 D,,4 |]
+V:srh2
+z8 | z8 | z8 | z8 |
+z8 | z6 B, D | D2 C2 C B, B, ^A, | [G,B,]5 z G, B, |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z F/2 z3/2 F/2 z3/2 F/2 z3/2 F/2 z/2 | z E/2 z3/2 E/2 z3/2 E/2 z B,/2 E/2 B,/2 | z/2 C/2 E/2 C/2 z/2 C/2 E/2 C/2 z E/2 z3/2 E/2 z/2 | z ^D/2 F/2 D/2 F/2 D/2 F/2 E/2 G/2 E/2 G/2 E/2 G/2 E/2 G/2 |
+z/2 F/2 z/2 F/2 z/2 F/2 z/2 F/2 z/2 G/2 z/2 G/2 z/2 G/2 z/2 G/2 | F/2 z ^D/2 E/2 z3/2 _E/2 z B,/2 =E/2 z3/2 | z8 | [F,CD]4 z4 |]
+V:slh2
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+F,,2 D,,2 F,,2 D,,2 | G,,2 D,,2 G,,2 D,,2 | F,,2 D,,2 F,,2 D,,2 | G,,2 D,,2 G,,2 [G,,,G,,]2 |
+G,,, z G,,, z G,,, z G,,, z | G,,, z G,,, z G,,, z G,,, z | G,,, z G,,, z G,,, z G,,, z | G,,,2 z6 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |]

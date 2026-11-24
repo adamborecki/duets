@@ -1,0 +1,50 @@
+X:1
+T:The Hunt
+T:Op. 100 No. 9
+C:Friedrich Burgmüller
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, burgmuller
+%%duets credit: Friedrich Burgmüller. Source edition: Bas Wassink for the Mutopia Project (Public Domain).
+%%duets tempo-text: Allegro vivace
+%%duets slug: the-hunt-burgmuller
+M:6/8
+L:1/8
+Q:3/8=100
+K:C
+V:S
+z | z6 | z6 | z6 |
+z6 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 |
+(3:2:2g5/4z/4 f/2 z/2 d/2 z/2 B/2 z/2 A/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 |
+g e c c'2 z | [Bd]3 [Bd]3 | [df]3 [c^d]3 | [_eg]3 [ce]3 |
+[Bd]6 | [Bd]3 [Bd]3 | [df]3 [c^d]3 | [_eg]3 [ce]3 |
+[Bd]4 z2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 |
+(3:2:2g5/4z/4 f/2 z/2 d/2 z/2 B/2 z/2 A/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 |
+g e c c'2 z | e3 A3 | c3 B3 | A3 ^G3 |
+B3 A3 | e3 a3 | g f e d c B | A f e B d c |
+A c e a2 z | e3 A3 | c3 B3 | A3 ^G3 |
+B3 A3 | e3 a3 | g f e d c B | A f e B d c |
+A c e a2 z | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 |
+(3:2:2g5/4z/4 f/2 z/2 d/2 z/2 B/2 z/2 A/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 | g/2 z/2 G/2 z/2 G/2 z/2 g/2 z/2 G/2 z/2 G/2 z/2 |
+g e c c' z2 | z6 | z6 | z6 |
+g/2 z/2 G/2 z/2 G/2 z/2 (3:2:2g5/4z13/4 | z6 | z6 | z6 |
+g/2 z/2 G/2 z/2 G/2 z/2 (3:2:2g5/4z13/4 | g/2 z/2 G/2 z/2 G/2 z/2 (3:2:2g5/4z13/4 | g/2 z/2 G/2 z/2 G/2 z/2 (3:2:2g5/4z7/4 [CE]/2 z/2 | [CE] z [CE]/2 z/2 [CE] z [CE]/2 z/2 |
+[CE]6 |]
+V:lh
+[C,E,G,]/2 z/2 | [C,E,G,] z [C,E,G,]/2 z/2 [C,E,G,] z [C,E,G,]/2 z/2 | [C,E,G,] z [E,G,C]/2 z/2 [E,G,C] z [G,CE]/2 z/2 | [G,CE] z [E,G,C]/2 z/2 [E,G,C] z [G,B,D]/2 z/2 |
+[G,B,D]6 | [E,C]3 [G,D]3 | [DF]3 [CE]3 | [E,C]3 [CE]3 |
+[G,D]6 | [E,C]3 [G,D]3 | [DF]3 [CE]3 | [E,C]3 [G,D]3 |
+[E,C]3 C,2 z | z ^F G z F G | z ^F G z F G | z ^F G z F G |
+z G, B, D B, G, | z ^F, G, z F, G, | z ^F, G, z F, G, | z ^F, G, z F, G, |
+z ^F, G, G,,/2 z5/2 | [E,C]3 [G,D]3 | [DF]3 [CE]3 | [E,C]3 [CE]3 |
+[G,D]6 | [E,C]3 [G,D]3 | [DF]3 [CE]3 | [E,C]3 [G,D]3 |
+[E,C]3 C,2 z | A, C E A, C E | A, D F A, D F | A, D F A, D F |
+A, C E A, C E | A, ^C G A, C G | [DF]2 z4 | [E,A,C]2 z [E,_A,D]2 z |
+[A,C]2 z A,,2 z | [E,C]3 [G,D]3 | [DF]3 [CE]3 | [E,C]3 [CE]3 |
+[G,D]6 | [E,C]3 [G,D]3 | [DF]3 [CE]3 | [E,C]3 [G,D]3 |
+[E,C]4 z [C,E,G,]/2 z/2 | [C,E,G,] z [C,E,G,]/2 z/2 [C,E,G,] z [C,E,G,]/2 z/2 | [C,E,G,] z [E,G,C]/2 z/2 [E,G,C] z [G,CE]/2 z/2 | [G,CE] z [E,G,C]/2 z/2 [E,G,C] z [G,B,D]/2 z/2 |
+[G,B,D]4 z [C,E,G,]/2 z/2 | [C,E,G,] z [C,E,G,]/2 z/2 [C,E,G,] z [C,E,G,]/2 z/2 | [C,E,G,] z [E,G,C]/2 z/2 [E,G,C] z [G,CE]/2 z/2 | [G,CE] z [E,G,C]/2 z/2 [E,G,C] z [G,B,D]/2 z/2 |
+[G,B,D]5 [G,D] | [E,C]5 [G,D] | [E,C]4 z [C,G,] | [C,G,]2 [C,G,] [C,G,]2 [C,G,] |
+[C,G,]6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 |]

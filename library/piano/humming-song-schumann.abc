@@ -1,0 +1,35 @@
+X:1
+T:Humming Song
+T:Album for the Young, Op. 68 No. 3
+C:Robert Schumann
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schumann
+%%duets credit: Robert Schumann. Source edition: Philippe Hézaine for the Mutopia Project (Creative Commons Attribution-ShareAlike 3.0).
+%%duets tempo-text: Not fast
+%%duets slug: humming-song-schumann
+M:4/4
+L:1/8
+Q:1/4=96
+K:C
+V:S
+e2 d2 c2 d2 | e2 f2 g4 | f2 g2 e2 f2 | d2 f2 c2 d2 |
+e2 d2 c2 d2 | e2 f2 g4 | f2 g2 e2 f2 | d4 c2 z2 |
+B2 A2 G2 A2 | B2 c2 d4 | c2 d2 z G z G | A2 c2 G2 A2 |
+B2 A2 G2 A2 | B2 c2 d2 e2 | c2 d2 B2 c2 | z5 B c d |
+e2 d2 c2 d2 | e2 f2 g4 | f2 g2 e2 f2 | d2 f2 c2 d2 |
+e2 d2 c2 d2 | e2 f2 g2 a2 | f2 g2 e2 f2 | d4 c2 z2 |]
+V:lh
+C G B, G A, G B, G | C G D G E G E G | D G B, G C G A, G | B, G D G A, G B, G |
+C G B, G A, G B, G | C G D G E G E G | D G B, G C G A, G | B, G B, F [CE]2 z2 |
+G,2 _G,2 E,2 ^F,2 | G,2 A,2 B,4 | E,2 ^F,2 G,2 E,2 | ^F,2 A,2 E,2 F,2 |
+G,2 _G,2 E,2 ^F,2 | G,2 A,2 B,2 C2 | A,2 B,2 G,2 E,2 | [D,C]4 [G,B,] G, A, B, |
+C G B, G A, G B, G | C G D G E G E G | D G B, G C G A, G | B, G D G A, G B, G |
+C G B, G A, G B, G | C G D G E G F G | D G B, G C G A, G | B, G G, F [CE]2 z2 |]
+V:rh2
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z D z D z D z D | z G z G z G ^F G | z G z A B2 c2 | z D z D z D z D |
+z D z D z D z D | z G z G z G z G | z G z ^F z G z G | [_GA]4 =G z3 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |]

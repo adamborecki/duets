@@ -1,0 +1,30 @@
+X:1
+T:Invention No. 13 in A minor
+T:Two-Part Inventions, BWV 784
+C:Johann Sebastian Bach
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, bach
+%%duets credit: Johann Sebastian Bach. Source edition: Allen Garvin for the Mutopia Project (Public Domain).
+%%duets tempo-text: Allegro moderato
+%%duets slug: invention-no-13-in-a-minor-bach
+M:4/4
+L:1/8
+Q:1/4=72
+K:C
+V:S
+z/2 E/2 A/2 c/2 B/2 E/2 B/2 d/2 c e ^G e | A/2 E/2 A/2 c/2 B/2 E/2 B/2 d/2 c A z2 | z/2 e/2 c/2 e/2 A/2 c/2 E/2 G/2 F A d f- | f/2 d/2 B/2 d/2 G/2 B/2 D/2 F/2 E G c e- |
+e/2 c/2 A/2 c/2 F d3/2 B/2 G/2 B/2 E c- | c/2 A/2 F/2 A/2 D B c z3 | z/2 G/2 c/2 e/2 d/2 G/2 d/2 f/2 e g B g | c/2 G/2 c/2 e/2 d/2 G/2 d/2 f/2 e c g e |
+c'/2 a/2 e/2 a/2 c/2 e/2 A/2 c/2 d ^f a c' | b/2 g/2 d/2 g/2 B/2 d/2 G/2 B/2 c e g b | a/2 _g/2 ^d/2 g/2 B/2 _e/2 ^F/2 A/2 G =g3/2 =e/2 c/2 e/2 | A _g3/2 d/2 B/2 d/2 G e3/2 c/2 A/2 c/2 |
+^F/2 g/2 _g/2 e/2 ^d/2 g/2 B/2 d/2 e z3 | z/2 g/2 _b/2 g/2 e/2 g/2 ^c/2 e/2 g/2 e/2 c/2 e/2 A/2 z3/2 | z/2 f/2 a/2 f/2 d/2 f/2 B/2 d/2 f/2 d/2 B/2 d/2 G/2 z3/2 | z/2 e/2 g/2 e/2 c/2 e/2 A/2 c/2 _e/2 c/2 A/2 c/2 ^F/2 z3/2 |
+z/2 d/2 f/2 d/2 B/2 d/2 ^G/2 B/2 d/2 B/2 G/2 B/2 E/2 z3/2 | z/2 E/2 A/2 c/2 B/2 E/2 B/2 d/2 c A _A E | A/2 c/2 e/2 c/2 A/2 c/2 ^F/2 A/2 c/2 A/2 F/2 A/2 ^D/2 c/2 B/2 A/2 | ^G/2 B/2 d/2 B/2 G/2 B/2 D/2 F/2 _A/2 F/2 D/2 F/2 B,/2 F/2 E/2 D/2 |
+C/2 E/2 A/2 E/2 C/2 E/2 A,/2 C/2 _E/2 C/2 A,/2 C/2 ^F,/2 C/2 B,/2 A,/2 | ^G, B _A E z/2 E/2 =A/2 c/2 B/2 E/2 B/2 d/2 | c/2 A/2 c/2 e/2 d/2 B/2 d/2 f/2 e/2 c/2 e/2 g/2 f/2 e/2 d/2 c/2 | B/2 c/2 d/2 e/2 f/2 d/2 _a/2 d/2 b/2 d/2 c/2 =a/2 f/2 d/2 B/2 d/2 |
+^G/2 B/2 c/2 A/2 E/2 A/2 B/2 G/2 A/2 E/2 C/2 E/2 A,2 |]
+V:lh
+A,, A,2 ^G, A,/2 E,/2 A,/2 C/2 B,/2 E,/2 B,/2 D/2 | C A, _A, E, =A,/2 E,/2 A,/2 C/2 B,/2 E,/2 B,/2 D/2 | C A, C A, D/2 A,/2 F,/2 A,/2 D,/2 F,/2 A,,/2 C,/2 | B,, D, G, B,3/2 G,/2 E,/2 G,/2 C,/2 E,/2 G,,/2 B,,/2 |
+A,, C, D,/2 F,/2 B,,/2 D,/2 G,, B,, C,/2 E,/2 A,,/2 C,/2 | F,, D,, G,,/2 G,/2 F,/2 G,/2 C,/2 G,/2 C/2 E/2 D/2 G,/2 D/2 F/2 | E C B, G, C/2 G,/2 C/2 E/2 D/2 G,/2 D/2 F/2 | E C z5/2 G/2 E/2 G/2 C/2 E/2 G,/2 B,/2 |
+A, C E G ^F/2 A/2 D/2 _G/2 A,/2 D/2 ^F,/2 A,/2 | G, B, D _G E/2 =G/2 C/2 E/2 G,/2 C/2 E,/2 G,/2 | ^F, A, B, ^D z/2 E/2 C/2 E/2 A,/2 C/2 E/2 G/2 | _G/2 D/2 B,/2 D/2 G,/2 B,/2 D/2 G/2 E/2 C/2 A,/2 C/2 ^F,/2 A,/2 C- |
+C/2 B,/2 C/2 A,/2 B, B,, E,/2 E/2 B,/2 G,/2 E,/2 B,,/2 G,,/2 B,,/2 | E,, E, G, _B, ^C, z3/2 G/2 F/2 E/2 | D D, F, _A, B,, z3/2 F/2 E/2 D/2 | C C, E, _G, A,, z3/2 E/2 _E/2 _D/2 |
+B, B,, D, F, ^G,, z3/2 D/2 C/2 B,/2 | C A, _A, E, =A,/2 E,/2 A,/2 C/2 B,/2 E,/2 B,/2 D/2 | C/2 E/2 A/2 E/2 C/2 E/2 A,/2 C/2 ^F,/2 A,/2 C/2 A,/2 F,/2 A,/2 ^D,/2 _G,/2 | E, ^G, B, _A, E, B,, _A,, E,, |
+A,, C, E, C, A,, C, ^D,, z | z/2 B,/2 _A,/2 E,/2 D,/2 B,/2 A,/2 D,/2 C, E, ^G,, E, | A,, _G, B,, _A, C, =A, D, _B, | _A, F, D, B,, ^G,, A,, D,, E,, |
+F,, ^D,, E,, E, A,,4 |]

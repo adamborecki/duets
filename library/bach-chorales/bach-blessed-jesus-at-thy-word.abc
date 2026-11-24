@@ -1,0 +1,30 @@
+X:1
+T:Blessed Jesus, at Thy Word
+T:Liebster Jesu, wir sind hier · BWV 373
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, opening
+%%duets tune: Liebster Jesu, wir sind hier
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 373), public domain; score from the music21 corpus.
+%%duets slug: bach-blessed-jesus-at-thy-word
+M:4/4
+L:1/8
+K:G
+V:S
+"G"B2 A G "D"A2 d2 | "G"B2 "G/B"G2 "D"!fermata!A4 | "Em"G2 G2 "C"G2 "G"G2 | "Am"A2 "G"B2 "C6"A2- "D"A2 |
+"G"!fermata!G8 :| "G"D2 "D"D2 "Em"E2 "D"F2 | "Em7/D"G2 "A/C#"A2 "D"F2 !fermata!D2 | "G/B"G2 "Am7"G2 "C"G2 G2 |
+"Am"A2 "G"B2 "Dsus4"A2- "D7"A2 | "G"!fermata!G8 |]
+V:A
+D2 D2 D2 F2 | D2 D E !fermata!F4 | E2 =F2 E2 D2 | E F G2 G2 F2 |
+!fermata!D8 :| B,2 A,2 B, ^C D2 | E2 E2 D2 !fermata!A,2 | D B, C D E2 E2 |
+E F G2 G2 F2 | !fermata!D8 |]
+V:T
+G, A, B,2 A,2 A,2 | B, C D2 !fermata!D4 | B,2 B,2 C2 G,2 | C2 D2 E C A, D/2 C/2 |
+!fermata!B,8 :| G,2 A,2 G,2 A,2 | B,2 A,2 A,2 !fermata!F,2 | G,3 =F, E, ^F, G, A,/2 B,/2 |
+C2 D2 D3 C | !fermata!B,8 |]
+V:B
+G,,2 G,3 F, E, D, | G, A, B, G, !fermata!D,4 | E,, E,2 D, C,, C,2 B,, | A,,2 G,, B,, C, A,, D,2 |
+!fermata!G,,8 :| G,, G,2 F, E,2 D,2 | D,2 ^C,2 D,2 !fermata!D,2 | B,, G,, A,, B,, C, D, C, B,, |
+A,,2 G,, B,, D,4 | !fermata!G,,8 |]

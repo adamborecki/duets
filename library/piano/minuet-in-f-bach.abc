@@ -1,0 +1,34 @@
+X:1
+T:Minuet in F
+T:Notebook for Anna Magdalena Bach, BWV Anh. 113
+C:Johann Sebastian Bach (attrib.)
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, bach
+%%duets credit: Johann Sebastian Bach (attrib.). Source edition: Allen Garvin for the Mutopia Project (Public Domain).
+%%duets tempo-text: Tempo di menuetto
+%%duets slug: minuet-in-f-bach
+M:3/4
+L:1/8
+Q:1/4=112
+K:F
+V:S
+|: c2 d/2 e/2 f e2 | (3fed c4 | (3d_ed (3cdc (3BcB |
+A4 G2 | A c F c G c | A c B c G c | A c F c G c |
+A c B c G c | A c d e f d | c _c A G =c/2 d/2 c/2 =B/2 | c f e2 d/2 c/2 d |
+c6 :: g2 f e f d | e g b2 z2 | a2 g f e d |
+^c6 | ^c d e c d e | A2 A2 A2 | ^c d e c d e |
+G2 G2 G2 | ^c d e c d e | A d c B A G | F2 G2 E2 |
+D6 | c f e f ^d f | a f d f c f | d g ^f g =f g |
+b g e g c B | A f g a g f | B g a b a g | c c' b a g a |
+f6 :|
+V:lh
+|: F,2 A,2 G,2 | A,2 F, G, A, F, | B,2 C2 C,2 |
+F,2 C, D, E, C, | F,2 A,,2 G,,2 | F,,2 G,,2 E,,2 | F,,2 A,,2 G,,2 |
+F,,2 G,,2 E,,2 | F,,2 F,2 D,2 | G,2 E,2 A,2 | F,2 G,2 G,,2 |
+C,6 :: C,2 G,2 G,,2 | C,2 E, D, E, C, | F,2 B,2 G,2 |
+A,2 E,2 _D,2 | A,,2 A,2 E,2 | ^C, D, E, C, D, E, | A,,2 A,,2 A,,2 |
+^C, D, E, C, D, E, | G,,2 G,,2 G,,2 | F,,2 F,2 G,2 | A,4 A,,2 |
+D, D C B, A, G, | A,4 G,2 | F,2 B,2 A,2 | B,4 A,2 |
+G,2 C2 E,2 | F,2 z4 | G,2 z4 | A,2 B,2 C2 |
+F,6 :|

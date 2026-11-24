@@ -1167,3 +1167,124 @@ def join_pieces(parts: list, labels: Optional[list] = None, title: Optional[str]
     if title:
         out.title = title
     return out
+
+
+# ---------------------------------------------------------------------------
+# "one hand each": a solo piano piece shared between two players
+# ---------------------------------------------------------------------------
+def _two_hands(voices: list, length: Fraction) -> Optional[tuple]:
+    """If a part is too much for one hand in this bar (two voices, or chords
+    wider than an octave) share it between two hands: returns (upper, lower)."""
+    voices = [v for v in voices if any(e.pitches for e in v)]
+    if len(voices) >= 2:
+        hi, lo = sorted(voices[:2], key=_mean_pitch, reverse=True)
+        return hi, lo
+    if not voices:
+        return None
+    v = voices[0]
+    if not any(e.pitches and e.top.midi - e.bottom.midi > 12 for e in v):
+        return None
+    up, down = [], []
+    for e in v:
+        if not e.pitches:
+            up.append(e)
+            down.append(e)
+            continue
+        hi = tuple(p for p in e.pitches if e.top.midi - p.midi <= 9)
+        lo = tuple(p for p in e.pitches if p not in hi)
+        if lo and lo[-1].midi - lo[0].midi > 12:
+            lo = lo[-2:] if len(lo) > 1 and lo[-1].midi - lo[-2].midi <= 12 else lo[:1]
+        up.append(Ev(e.dur, hi, e.tie, e.marks))
+        down.append(Ev(e.dur, lo, e.tie, ()) if lo else Ev(e.dur))
+    return up, _fix_ties(down)
+
+
+def _fix_ties(events: list) -> list:
+    out = []
+    for k, e in enumerate(events):
+        nxt = events[k + 1] if k + 1 < len(events) else None
+        if e.tie and (nxt is None or nxt.pitches != e.pitches):
+            e = Ev(e.dur, e.pitches, False, e.marks)
+        out.append(e)
+    return merge_ties(out)
+
+
+def arrange_split(tune: Tune, opts: Optional[Options] = None) -> Piece:
+    """Turn a two-hand piano piece into a duet without changing a note of it:
+    the Primo plays the right-hand part (an octave up), the Secondo plays the
+    left-hand part.  Where a part is a single line, the player's free hand
+    doubles it at the octave (melody below for the Primo, bass below for the
+    Secondo); where it has two voices or wide chords, the two hands share it.
+    The tune must carry its left hand in the voice ``lh`` (and optionally
+    ``rh2`` / ``lh2`` for second voices)."""
+    o = opts or Options()
+    t = copy.deepcopy(tune)
+    if not t.has_chords:
+        H.infer_chords(t, min_unit=t.meter.beat_len)
+    H.fill_chords(t)
+    highs = [p.midi for b in t.bars for e in b.melody for p in e.pitches]
+    up = 1 if (not highs or max(highs) + 12 <= 98) else 0
+    pulse = t.meter.beat_len / 3 if t.meter.compound else t.meter.beat_len
+    bars = []
+    for i, b in enumerate(t.bars):
+        pb = PBar(length=b.length)
+        pb.pickup = b.pickup
+        pb.start_repeat, pb.end_repeat, pb.volta = b.start_repeat, b.end_repeat, b.volta
+        pb.double_bar, pb.meter, pb.key = b.double_bar, b.meter, b.key
+        pb.mark = b.label
+        pb.chords = _dedupe([(off, c.simplified(1)) for off, c in b.chords if c is not None])
+        rh = [b.melody] + ([b.voices["rh2"]] if "rh2" in b.voices else [])
+        rh = [v for v in rh if any(e.pitches for e in v)] or [[Ev(b.length)]]
+        lh = [b.voices.get("lh", [Ev(b.length)])] + ([b.voices["lh2"]] if "lh2" in b.voices else [])
+        lh = [v for v in lh if any(e.pitches for e in v)] or [[Ev(b.length)]]
+        # ---- Secondo: the left-hand part ----
+        shared = _two_hands(lh, b.length)
+        if shared is not None:
+            pb.hands["srh"], pb.hands["slh"] = [shared[0]], [shared[1]]
+        else:
+            pb.hands["srh"] = lh
+            mp = (t.meter.bar_len - b.length) if (b.pickup and b.length < t.meter.bar_len) else F(0)
+            line = []
+            tt = F(0)
+            for e in lh[0]:
+                strong = (mp + tt) % pulse == 0
+                if e.pitches and (strong or e.dur >= pulse) and e.bottom.midi - 12 >= 36 and o.secondo >= 2 \
+                        and e.dur >= pulse / 2:
+                    line.append(Ev(e.dur, (e.bottom.octave_shift(-1),), e.tie, ()))
+                else:
+                    line.append(Ev(e.dur))
+                tt += e.dur
+            pb.hands["slh"] = [_fix_ties(line)]
+        sec_top = max((e.top.midi for v in pb.hands["srh"] for e in v if e.pitches), default=0)
+        # ---- Primo: the right-hand part, an octave up ----
+        shared = _two_hands(rh, b.length)
+        if shared is not None:
+            hi, lo = _shift(shared[0], up), _shift(shared[1], up)
+            if min((e.bottom.midi for e in lo if e.pitches), default=127) <= sec_top + 1:
+                lo = [Ev(b.length)]
+                hi_all = [_shift(v, up) for v in rh]
+                pb.hands["prh"] = hi_all
+            else:
+                pb.hands["prh"] = [hi]
+            pb.hands["plh"] = [lo]
+        else:
+            pb.hands["prh"] = [_shift(v, up) for v in rh]
+            top = [Ev(e.dur, (e.top,), e.tie, ()) if e.pitches else Ev(e.dur) for e in rh[0]]
+            dbl = _shift(top, up - 1)
+            low = min((e.bottom.midi for e in dbl if e.pitches), default=127)
+            if o.primo <= 1 or low <= sec_top + 1 or low < 55:
+                dbl = [Ev(b.length)]
+            pb.hands["plh"] = [dbl]
+        bars.append(pb)
+    bars[0].dyn = {"p": "mf", "s": "mp"}
+    bars[-1].final = True
+    piece = Piece(title=t.title, key=t.key, meter=t.meter, bars=bars, tempo=o.tempo or t.tempo or 100,
+                  tempo_text=t.tempo_text, subtitle=t.subtitle, composer=t.composer, credit=t.credit,
+                  category=t.category, tags=list(t.tags), slug=t.slug, free_meter=t.free_meter)
+    piece.flavor = "one hand each: Primo plays the right-hand part, Secondo the left"
+    return piece
+
+
+def _mean_pitch(events: list) -> float:
+    ms = [p.midi for e in events for p in e.pitches]
+    return sum(ms) / len(ms) if ms else 999.0

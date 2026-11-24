@@ -1,0 +1,80 @@
+X:1
+T:Melodious Piece No. 17
+T:Melodische Übungsstücke, Op. 149 No. 17
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Rondino. Allegro
+%%duets slug: diabelli-op149-17
+M:2/4
+L:1/8
+Q:1/4=70
+K:D
+V:S
+|: d'/2 z/2 d'/2 e'/2 f'/2 z/2 f'/2 g'/2 | a'/2 z/2 a' f'2 | a'/2 z/2 g'/2 z/2 e'2 |
+a'/2 z/2 f'/2 z/2 d'2 | d'/2 z/2 d'/2 e'/2 f'/2 z/2 f'/2 g'/2 | a'/2 z/2 a' f'2 | a'/2 z/2 g'/2 z/2 e' g'/2 f'/2 |
+d'/2 z/2 f'/2 z/2 d'/2 z3/2 :: a' g'/2 f'/2 e'2 | g' f'/2 e'/2 d'2 | f'/2 z/2 f'/2 g'/2 f'/2 z/2 f'/2 g'/2 |
+f'/2 z/2 f'/2 g'/2 f'2 | a' g'/2 f'/2 e'2 | g' f'/2 e'/2 d'2 | e'/2 z/2 e'/2 f'/2 e'/2 z/2 e'/2 z/2 |
+e'/2 z/2 a'2 g'/2 e'/2 | d'/2 z/2 d'/2 e'/2 f'/2 z/2 f'/2 g'/2 | a'/2 z/2 a'/2 z/2 f'2 | a'/2 z/2 g'/2 z/2 e'2 |
+a'/2 z/2 f'/2 z/2 d'2 | d'/2 z/2 d'/2 e'/2 f'/2 z/2 e'/2 f'/2 | a'/2 z/2 g'/2 z/2 g'3/2 f'/2 | e' f'/2 g'/2 a'/2 g'/2 e'/2 f'/2 |
+[1 d'/2 z/2 f'/2 z/2 d'/2 z3/2 :| [2 d'2 z2 | g'/2 z/2 g'/2 f'/2 e'2 | f'/2 z/2 f'/2 e'/2 d'2 |
+[e'g'a']/2 z/2 [e'g'a']/2 z/2 [e'g'a']/2 z/2 [e'g'a']/2 z/2 | a'/2 g'/2 f'/2 e'/2 d'2 | g'/2 z/2 g'/2 f'/2 e'2 | f'/2 z/2 f'/2 e'/2 d'2 |
+[e'g'a']/2 z/2 [e'g'a']/2 z/2 [e'g'a']/2 z/2 [e'g'a']/2 z/2 | [d'f'a'] z [e'g'a'] z | [d'f'a'] z [e'g'a'] z | [d'f']2 z2 |
+d'2 d'2 | d'4 |]
+V:plh
+|: d4 | d4 | e4 |
+d4 | d4 | d4 | e4 |
+[dfa]/2 z/2 [dfa] [dfa] z :: z2 e2 | z3/2 e/2 d2 | f/2 z/2 f/2 g/2 f/2 z/2 f/2 g/2 |
+f/2 z/2 f/2 g/2 f2 | z2 e2 | z3/2 e/2 d2 | e/2 z/2 e/2 z/2 e/2 z/2 e/2 z/2 |
+e/2 z3 e/2 | d4 | d4 | e4 |
+d4 | d/2 z/2 d/2 e/2 f/2 z/2 e/2 f/2 | a/2 z/2 g/2 z/2 g3/2 f/2 | e f/2 g/2 a/2 g/2 e/2 f/2 |
+[1 d/2 z/2 f/2 z/2 d/2 z3/2 :| [2 d2 z2 | g/2 z/2 g/2 f/2 e2 | f/2 z/2 f/2 e/2 d2 |
+[ega]/2 z/2 [ega]/2 z/2 [ega]/2 z/2 [ega]/2 z/2 | a/2 g/2 f/2 e/2 d2 | g/2 z/2 g/2 f/2 e2 | f/2 z/2 f/2 e/2 d2 |
+[ega]/2 z/2 [ega]/2 z/2 [ega]/2 z/2 [ega]/2 z/2 | [dfa] z [ega] z | [dfa] z [ega] z | [df]2 z2 |
+[df]2 [df]2 | [df]4 |]
+V:plh2
+|: z [fa]/2 z/2 [fa]/2 z/2 [fa]/2 z/2 | z [fa]/2 z/2 [fa]/2 z/2 [fa]/2 z/2 | z [ga]/2 z/2 [ga]/2 z/2 [ga]/2 z/2 |
+z [fa]/2 z/2 [fa]/2 z/2 [fa]/2 z/2 | z [fa]/2 z/2 [fa]/2 z/2 [fa]/2 z/2 | z [fa]/2 z/2 [fa]/2 z/2 [fa]/2 z/2 | z [ga]/2 z/2 [ga]/2 z/2 [ga]/2 z/2 |
+z4 :: a g/2 f/2 z2 | g f/2 z5/2 | z4 |
+z4 | a g/2 f/2 z2 | g f/2 z5/2 | z3/2 f/2 z2 |
+z a2 g/2 z/2 | z [fa]/2 z/2 [fa]/2 z/2 [fa]/2 z/2 | z [fa]/2 z/2 [fa]/2 z/2 [fa]/2 z/2 | z [ga]/2 z/2 [ga]/2 z/2 [ga]/2 z/2 |
+z [fa]/2 z/2 [fa]/2 z/2 [fa]/2 z/2 | z4 | z4 | z4 |
+[1 z4 :| [2 z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 |]
+V:srh
+|: [DF]/2 z/2 A/2 z/2 [DF]/2 z/2 A/2 z/2 | [DF]/2 z/2 A [DF]/2 z/2 A/2 z/2 | [CG]/2 z/2 A/2 z/2 [CG]/2 z/2 A/2 z/2 |
+[DF]/2 z/2 A/2 z/2 [DF]/2 z/2 A/2 z/2 | [DF]/2 z/2 A [DF]/2 z/2 A/2 z/2 | [DF]/2 z/2 A [DF]/2 z/2 A/2 z/2 | [CG]/2 z/2 A/2 z/2 [CG]/2 z/2 A/2 z/2 |
+[DF]/2 z/2 [DA]/2 z/2 [DF]/2 z3/2 :: z [A,EG] [A,EG] [A,EG] | z [A,DF] [A,DF] [A,DF] | z [^A,EF] z [B,DF] |
+[^A,CF] [A,CF] [A,CF] z | z [A,EG] [A,EG] [A,EG] | z [A,DF] [A,DF] [A,DF] | z [DE^G] z [DEG] |
+[CEA]2 z2 | [DF]/2 z/2 A/2 z/2 [DF]/2 z/2 A/2 z/2 | [DF]/2 z/2 A/2 z/2 [DF]/2 z/2 A/2 z/2 | [CG]/2 z/2 A/2 z/2 [CG]/2 z/2 A/2 z/2 |
+[DF]/2 z/2 A/2 z/2 [DF]/2 z/2 A/2 z/2 | [^B,DF]/2 z/2 A/2 z/2 [B,DF]/2 z/2 A/2 z/2 | [B,D]/2 z/2 G/2 z/2 [B,E]/2 z/2 G/2 z/2 | [DE] z [A,CEG] z |
+[1 [A,DF]/2 z/2 [A,DF]/2 z/2 [A,DF]/2 z3/2 :| [2 [DF]/2 z/2 A/2 F/2 D/2 F/2 D/2 A,/2 | z [A,CG] z [A,CG] | z [A,DF] z [A,DF] |
+A,/2 B,/2 C/2 D/2 E/2 F/2 G/2 A/2 | [DF] A [DF] A | z [A,CG] z [A,CG] | z [A,DF] z [A,DF] |
+A,/2 B,/2 C/2 D/2 E/2 F/2 G/2 A/2 | D/2 A/2 F/2 D/2 C/2 A/2 G/2 E/2 | D/2 A/2 F/2 D/2 C/2 A/2 _A/2 E/2 | D2 z2 |
+[A,DF]2 [A,DF]2 | [A,DF]4 |]
+V:slh
+|: D,2 z2 | D,2 z2 | A,, z A, z |
+D,, z D, z | [D,,D,]2 z2 | [D,,D,]2 z2 | A,,, z A,, z |
+[D,,D,]/2 z/2 [D,,D,] [D,,D,] z :: [C,,C,]4 | [D,,D,]4 | [C,,C,] z [B,,,B,,] z |
+[F,,F,] [F,,F,] [F,,F,] z | [C,,C,]4 | [D,,D,]4 | [B,,,B,,] z [B,,,B,,] z |
+[A,,,A,,]2 z2 | D,2 z2 | D,2 z2 | A,, z A, z |
+D,, z D, z | [D,,D,]4 | [G,,G,] z [E,,E,] z | [A,,A,] z [A,,,A,,] z |
+[1 [D,,D,]/2 z/2 [D,,D,]/2 z/2 [D,,D,]/2 z3/2 :| [2 [D,,D,] z3 | A,, z A,, z | A,, z A,, z |
+A,,4 | [D,F,] z D, z | A,, z A,, z | A,, z A,, z |
+A,,4 | [D,F,] z [A,,E,] z | [D,F,] z [A,,E,] z | [D,F,]2 z2 |
+[D,,A,,D,]2 [D,,A,,D,]2 | [D,,A,,D,]4 |]
+V:slh2
+|: z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 :: z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+[1 z4 :| [2 z4 | z4 | z4 |
+z [E,G,] [E,G,] [E,G,] | z4 | z4 | z4 |
+z [E,G,] [E,G,] [E,G,] | z4 | z4 | z4 |
+z4 | z4 |]

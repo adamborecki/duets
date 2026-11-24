@@ -1,0 +1,122 @@
+X:1
+T:The Strenuous Life
+T:A ragtime two-step
+C:Scott Joplin, 1902
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, joplin
+%%duets credit: Scott Joplin. Source edition: Benjamin Bloomfield for the Mutopia Project (Public Domain).
+%%duets tempo-text: Not fast
+%%duets slug: the-strenuous-life-joplin
+M:2/4
+L:1/8
+Q:1/4=80
+K:C
+V:S
+[Gg] [Gg]2 [Ff]/2 [Ee]/2 | [Dd]/2 [Cc]/2 [B,B]/2 [Cc]/2 [Dd] G | [DFc] [DFc]2 [DFc] | [DFB] z [GBfg] z |
+G G3/2 z G/2 | e/2 c/2 A/2 G G/2 c/2 e/2 | [Bd]/2 [Bd] [^A^c]/2 [Bd] [B^d] | [ce]4 |
+G G3/2 z G/2 | e/2 c/2 A/2 G3/2 [G_Be] | [GBd]/2 [GBd] [GBd]/2 [G^ce] [^F=c^f] | [GBg]4 |
+G G3/2 z G/2 | e/2 c/2 A/2 G G/2 c/2 e/2 | [Bd]/2 [Bd] [^A^c]/2 [Bd] [B^d] | [ce]3 [ce] |
+f/2 e/2 f/2 [cfc'] c' b/2 | [cec']/2 z7/2 | z2 F z | [Ec]3 z |
+G G3/2 z G/2 | e/2 c/2 A/2 G G/2 c/2 e/2 | [Bd]/2 [Bd] [^A^c]/2 [Bd] [B^d] | [ce]4 |
+G G3/2 z G/2 | e/2 c/2 A/2 G3/2 [G_Be] | [GBd]/2 [GBd] [GBd]/2 [G^ce] [^F=c^f] | [GBg]4 |
+G G3/2 z G/2 | e/2 c/2 A/2 G G/2 c/2 e/2 | [Bd]/2 [Bd] [^A^c]/2 [Bd] [B^d] | [ce]3 [ce] |
+f/2 e/2 ^e/2 [cfc'] c' b/2 | [cec']/2 z7/2 | z2 ^E z | [Ec]3 B/2 d/2 |
+z2 ^F2 | G/2 z7/2 | z2 ^F2 | G D3/2 z3/2 |
+A/2 A ^G/2 A/2 A/2 B/2 A/2 | G/2 A/2 B/2 d d e/2 | _g/2 d/2 A/2 e a/2 =g/2 ^c/2 | z3 B/2 d/2 |
+[_Gc]/2 [Gc] [^FB]/2 c/2 c/2 B/2 A/2 | z/2 A/2 B/2 d e d/2 | [_Gc]/2 [Gc] [^FB]/2 c/2 c/2 B/2 A/2 | G D2 D |
+z/2 G/2 c/2 e g/2 _g/2 e/2 | d/2 e/2 d/2 B/2 G G/2 A/2 | B/2 d/2 e/2 d/2 [CA]/2 [CA] [CD]/2 | [B,G] D/2 E/2 ^F/2 G/2 A/2 B/2 |
+[_Gc]/2 [Gc] [^FB]/2 c/2 c/2 B/2 A/2 | z/2 A/2 B/2 d e d/2 | [_Gc]/2 [Gc] [^FB]/2 c/2 c/2 _c/2 A/2 | z5/2 G _c/2 |
+A/2 A ^G/2 A/2 A/2 _c/2 A/2 | G/2 A/2 B/2 d d e/2 | _g/2 d/2 A/2 e a/2 =g/2 ^c/2 | d [^cga] [d_gd'] B/2 d/2 |
+[_Gc]/2 [Gc] [^FB]/2 c/2 c/2 _c/2 A/2 | z/2 A/2 B/2 d e d/2 | [_Gc]/2 [Gc] [^FB]/2 c/2 c/2 _c/2 A/2 | G D2 D |
+z/2 G/2 c/2 e g/2 _g/2 e/2 | d/2 e/2 d/2 _c/2 G G/2 A/2 | B/2 d/2 e/2 d/2 [CA]/2 [CA] [CD]/2 | [B,G] z [G_cg] z |
+G G3/2 z G/2 | e/2 c/2 A/2 G G/2 c/2 e/2 | [Bd]/2 [Bd] [^A^c]/2 [Bd] [B^d] | [ce]4 |
+G G3/2 z G/2 | e/2 c/2 A/2 G3/2 [G_Be] | [GBd]/2 [GBd] [GBd]/2 [G^ce] [^F=c^f] | [GBg]4 |
+G G3/2 z G/2 | e/2 c/2 A/2 G G/2 c/2 e/2 | [Bd]/2 [Bd] [^A^c]/2 [Bd] [B^d] | [ce]3 [ce] |
+f/2 e/2 f/2 [cfc'] c' b/2 | [cec']/2 z7/2 | z2 F z | [Ec] z [cec'] z |
+F F2 A | c/2 A/2 F/2 A/2 c C | [G_B] [GB]/2 [GB] [GB]/2 [GB] | [G_B] [FBf] [EBe] [EB] |
+[FA]/2 ^G/2 A/2 d c/2 F/2 =G/2 | [CA] [B,DF^G] [CFA]/2 C/2 F/2 =G/2 | A/2 ^G/2 A/2 d c/2 =G/2 A/2 | [CE_B] [C^DA] [CEB]/2 C/2 E/2 G/2 |
+_B/2 A/2 B/2 e d/2 G/2 A/2 | [CE_B] [C^DA] [CEB]/2 C/2 E/2 G/2 | _B/2 A/2 B/2 e d/2 c/2 B/2 | A5/2 C/2 F/2 G/2 |
+A/2 ^G/2 A/2 d c/2 F/2 =G/2 | [CA] [B,DF^G] [CFA]/2 f/2 e/2 d/2 | _d/2 A/2 ^c/2 e/2 [Aa] [Adg] | [Adf]3 _e |
+d/2 e/2 f/2 d e/2 f/2 g/2 | [ca] [B^g] [ca]/2 f/2 e/2 d/2 | c/2 c'/2 _b/2 e/2 [ca] [_Bg] | [Af] c/2 c/2 c c |
+[FA]/2 ^G/2 A/2 d c/2 F/2 =G/2 | [CA] [B,DF^G] [CFA]/2 C/2 F/2 =G/2 | A/2 ^G/2 A/2 d c/2 =G/2 A/2 | [CE_B] [C^DA] [CEB]/2 C/2 E/2 G/2 |
+_B/2 A/2 B/2 e d/2 G/2 A/2 | [CE_B] [C^DA] [CEB]/2 C/2 E/2 G/2 | _B/2 A/2 B/2 e d/2 c/2 B/2 | A5/2 C/2 F/2 G/2 |
+A/2 ^G/2 A/2 d c/2 F/2 =G/2 | [CA] [B,DF^G] [CFA]/2 f/2 e/2 d/2 | _d/2 A/2 ^c/2 e/2 [Aa] [Adg] | [Adf]3 _e |
+d/2 e/2 f/2 d e/2 f/2 g/2 | [ca] [B^g] [ca]/2 f/2 e/2 d/2 | c/2 c'/2 _b/2 e/2 [ca] [_Bg] | [Af]5/2 [fd'f'] [ec'e']/2 |:
+[d_bd']/2 [^cb^c']/2 [dbd']/2 [ebe'] [dbd'] [cbc']/2 | [d_bd']5/2 [ebe'] [dbd']/2 | [cac']/2 [Bb]/2 [cc']/2 [dd'] [cc'] [Bb]/2 | [cac']5/2 [dd'] [cc']/2 |
+[_Be_b]/2 [Aa]/2 [Bb]/2 [cec'] [Bb] [Aa]/2 | [_Be_b]5/2 [Aa] [Gg]/2 | [Ff]/2 [Gg]/2 [Aa]/2 [cc'] [e_ae'] [dad']/2 | [cac']5/2 [fd'f'] [ec'e']/2 |
+[d_bd']/2 [^cb^c']/2 [dbd']/2 [ebe'] [dbd'] [cbc']/2 | [d_bd']5/2 [ebe'] [dbd']/2 | [cac']/2 [Bb]/2 [cc']/2 [dd'] [cc'] [Bb]/2 | [cac']5/2 [cc']/2 [Aa]/2 [Gg]/2 |
+[^F^f]/2 [Aa]/2 [cc']/2 [_e_e'] [dd'] [cc']/2 | [_B_b]/2 [Aa]/2 [Bb]/2 [dd'] [ff']/2 [ee']/2 [dd']/2 | [cc']/2 [Aa] [cc']/2 [_Bd_b]/2 [Aca]/2 [GBg] | [1 [FAf]5/2 [ff'] [ee']/2 :|
+[2 [FAf] z [fac'f'] z |]
+V:lh
+z4 | z3 G, | [_A,,_A,] [A,,A,]2 [A,,A,] | [G,,G,] z [G,,,G,,] z |
+[C,,C,] [G,CE] G,, [G,CE] | C, [G,CE] E, [G,CE] | G, [B,DF] G,, [G,B,F] | C, [G,,G,]/2 [A,,A,] [G,,G,]/2 [A,,A,]/2 [B,,B,]/2 |
+[C,C] [G,CE] G,, [G,CE] | C, [G,CE] [G,CE] [^C,^C] | [D,D]2 [A,,A,] [D,,D,] | [G,,,G,,] [A,,A,]/2 [G,,G,] [F,,F,]/2 [E,,E,]/2 [D,,D,]/2 |
+[C,,C,] [G,CE] G,, [G,CE] | C, [G,CE] E, [G,CE] | G, [B,DF] G,, [G,B,F] | [C,,C,] [G,,G,] [C,C] [_B,,_B,] |
+[A,,A,] [A,CF] [^G,,^G,] [_A,CF] | [G,,G,] [G,CE] [A,,A,] [A,_D] | [D,A,C] [D,A,C] [G,B,] [G,B,] | [C,C] [B,,B,]/2 [A,,A,]/2 [G,,G,]/2 [F,,F,]/2 [E,,E,]/2 [D,,D,]/2 |
+[C,C] [G,,G,] [C,,C,] z | A,, [^F,CD] D,, [F,CD] | G,, [G,B,D] B,, [G,B,D] | A,, [^F,CD] D,, [F,CD] |
+G,, [G,B,] D, [G,B,] | C, [D,^F,A,] C, [D,F,A,] | B,, [D,G,] ^A,, [D,G,] | A,, [^F,A,D] A,, [E,G,A,^C] |
+[D,^F,A,D] [A,,A,] [D,,D,] z | A,, [^F,CD] D,, [F,CD] | G,, [G,B,D] B,, [G,B,D] | A,, [^F,CD] D,, [F,CD] |
+G,, [G,B,] B,, [^E,G,B,] | [C,E,G,C] [C,E,G,C] [^C,E,G,^A,] [C,E,G,A,] | [D,G,B,] [D,G,B,] [_E,G,_B,]2 | D, [G,B,] D, [^F,A,] |
+[G,,G,] z3 | [G,,G,] z [G,,,G,,] z | [C,,C,] [G,CE] G,, [G,CE] | C, [G,CE] E, [G,CE] |
+G, [B,DF] G,, [G,B,F] | C, [G,,G,]/2 [A,,A,] [G,,G,]/2 [A,,A,]/2 [B,,B,]/2 | [C,C] [G,CE] G,, [G,CE] | C, [G,CE] [G,CE] [^C,^C] |
+[D,D]2 [A,,A,] [D,,D,] | [G,,,G,,] [A,,A,]/2 [G,,G,] [F,,F,]/2 [E,,E,]/2 [D,,D,]/2 | [C,,C,] [G,CE] G,, [G,CE] | C, [G,CE] E, [G,CE] |
+G, [G,B,F] G,, [G,B,F] | [C,,C,] [G,,G,] [C,C] [_B,,_B,] | [A,,A,] [A,CF] [^G,,^G,] [_A,CF] | [G,,G,] [G,CE] [A,,A,] [A,_D] |
+[D,A,C] [D,A,C] [G,B,] [G,B,] | [C,C] z [C,,C,] z | F, F,2 A, | C/2 A,/2 F,/2 A,/2 C C, |
+E _E D _D | C [_D,,_D,] [C,,C,] C,, | F,, [A,CF] [A,CF] C,, | F,, F, F, C,, |
+F,, [A,CF] [A,CF] C,, | G,, ^F,, G,, C,, | G,, [G,_B,CE] [G,B,CE] C,, | G,, ^F,, G,, C,, |
+G,, [G,_B,CE] [G,B,CE] E,, | F,, [A,CF] [A,CF] C,, | F,, [A,CF] [A,CF] C,, | F,, F, F, C,, |
+E,, [A,_DG] [A,DG] A,,, | D,, [A,DF] [A,DF] C, | ^A,, [_B,DF] [B,DF] B,, | C, [DF] [CF] z |
+C, [_B,CE] C, [CE] | [F,CF] z2 C,, | [F,F] [C,C] [F,,F,] z | ^A,, [G,_B,D] G,, [G,B,D] |
+^A,, [G,_B,D] G,, ^G,, | A,, [A,CF] C,, [A,CF] | F,, [A,CF] C,, ^F,, | G,, [G,_B,CE] C,, [G,B,CE] |
+G,, [G,_B,CE] C,, E,, | F,, [A,CF] F,, [_A,B,F] | F,, [A,CF] [A,CF] z | ^A,, [G,_B,D] G,, [G,B,D] |
+_B,, [G,_B,D] G,, ^G,, | A,, [A,CF] C,, [A,CF] | F,, [A,CF] C,, [A,CF] | D,, [_G,CD] ^F,, [G,CD] |
+G,, [G,_B,D] B,, [_A,_CF] | C, [A,CF] C, [_B,CE] | [F,A,C] E, D, C, | [F,A,C] z [F,,,F,,] z |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |:
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | [1 z4 :|
+[2 z4 |]
+V:rh2
+z4 | z4 | z4 | z4 |
+E2 z/2 E/2 F/2 z/2 | z4 | z4 | z4 |
+E2 z/2 E/2 F/2 z/2 | z4 | z4 | z4 |
+E2 z/2 E/2 F/2 z/2 | z4 | z4 | z4 |
+c3/2 z [cf]3/2 | z/2 g/2 e/2 c/2 [G_df]/2 [Gde] [GA]/2 | [^Fc]/2 [Fc] [_Ge]/2 d/2 c/2 [=Fd] | z4 |
+E2 z/2 E/2 F/2 z/2 | z4 | z4 | z4 |
+E2 z/2 E/2 F/2 z/2 | z4 | z4 | z4 |
+E2 z/2 E/2 ^E/2 z/2 | z4 | z4 | z4 |
+c3/2 z [c^e]3/2 | z/2 g/2 e/2 c/2 [G_df]/2 [Gde] [GA]/2 | [^Fc]/2 [Fc] [Fe]/2 d/2 c/2 [=Fd] | z4 |
+[^Fc]/2 [Fc] [FB]/2 c/2 c/2 B/2 A/2 | z/2 A/2 B/2 d e d/2 | [_Gc]/2 [Gc] [^FB]/2 c/2 c/2 B/2 A/2 | z5/2 G B/2 |
+z4 | z4 | z4 | d [^cga] [d_gd'] z |
+z2 ^F2 | G/2 z7/2 | z2 ^F2 | z4 |
+E/2 z7/2 | z4 | z4 | z4 |
+z2 ^F2 | G/2 z7/2 | z2 ^F2 | G D3/2 z3/2 |
+z4 | z4 | z4 | z4 |
+z2 ^F2 | G/2 z7/2 | z2 ^F2 | z4 |
+E/2 z7/2 | z4 | z4 | z4 |
+E2 z/2 E/2 F/2 z/2 | z4 | z4 | z4 |
+E2 z/2 E/2 F/2 z/2 | z4 | z4 | z4 |
+E2 z/2 E/2 F/2 z/2 | z4 | z4 | z4 |
+c3/2 z [cf]3/2 | z/2 g/2 e/2 c/2 [G_df]/2 [Gde] [GA]/2 | [^Fc]/2 [Fc] [_Ge]/2 d/2 c/2 [=Fd] | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |:
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | [1 z4 :|
+[2 z4 |]

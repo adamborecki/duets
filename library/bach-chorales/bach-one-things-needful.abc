@@ -1,0 +1,47 @@
+X:1
+T:One Thing's Needful
+T:Eins ist not · BWV 304
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trust
+%%duets tune: Eins ist not
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 304), public domain; score from the music21 corpus.
+%%duets slug: bach-one-things-needful
+%%duets free-meter: yes
+M:4/4
+L:1/8
+K:D
+V:S
+"D"A2 G F "G"B2 "Em"B2 | "A7"c2 "F#m"c2 "D"d2 !fermata!d2 | "G"B2- "Em"B A G2 "A/C#"A2 | "D"G F "A7"E F "D"!fermata!D4 |
+"A/C#"A2 "D"G F "B7/D#"B2 "Em"B2 | "C#7/E#"c2 "F#"c2 "Bm"d2 !fermata!d2 | "G"B2- "A"B A "G/B"G2 "A/C#"A2 | "D"G F "A"E F "D"!fermata!D4 |
+[M:3/4]"D"D E | "D"F2 F2 "Bm7/F#"F2 | "A"E2 E2 E F | "Em"G2 G2 "A7/G"G F |
+"Bm"F2 F2 "Bm7"F2 | "G"B2- "Em"B A "Em7"G2 | "A/C#"A2- "Dmaj7/A"A G F2 | "G/B"G2 "Gmaj7"F2 "A"E2 |
+"D"D2 !fermata!D2 D E | "Bm7"F2 F2 F2 | "E7/G#"E2 "E"E2 "A"E F | "A7/C#"G2 "Em7/D"G2 "A7"G2 |
+"D"F4 F2 | "Bm"B2- "Em"B A "Em7"G2 | "A7/C#"A2- "D"A G F2 | "G/B"G2 "D/A"F2 "A7"E2 |
+"D"!fermata!D6 |]
+V:A
+F2 D2 D2 G F | E2 A G F2 !fermata!F2 | D2 G F E2 E2 | D2 C2 !fermata!A,4 |
+E2 D2 F2 E D | C2 F2 F2 !fermata!F2 | G F E2 D2 E2 | E D D C !fermata!A,4 |
+[M:3/4]A,2 | D2 D2 D2 | C B, C D E2 | E2 E2 E2 |
+D C D E F2 | G3 F E2 | E D C2 D2 | D2 D2 C2 |
+A,2 !fermata!A,2 A,2 | D2 D2 D2 | D2 C B, C D | E2 E2 E2 |
+E2 D2 z2 | D2 G F E2- | E G F E D A, | D3 E C2 |
+!fermata!A,6 |]
+V:T
+D2 A,2 B,2 E D | C B, A,2 A,2 !fermata!A,2 | G, A, B,2 B,2 A,2 | A,2 A, G, !fermata!F,4 |
+A,2 A,2 A, F, G, B,- | B, ^G, ^A,2 B,2 !fermata!B,2 | D2 C2 B, G, E, A, | A,2 A,2 !fermata!F,4 |
+[M:3/4]F, G, | A,2 A,2 A, B, | C D E D C2 | B,2 B,2 B, C |
+D E F E D C | B, A, G, A, B,2 | A,2 A,2 A,2 | G, A, B,2 E,2 |
+F,2 !fermata!F,2 F,2 | B,2 B,2 A,2 | B,2 A, ^G, A,2 | A,2 B,2 C2 |
+A,4 A,2 | D C B,3 B, | A,3 C D2 | D,2 A,2 A, G, |
+!fermata!F,6 |]
+V:B
+D,2 D,2 G, F, E,2 | A, G, F, E, D,2 !fermata!D,2 | G, F, E,2 E, D, C,2 | D,2 A,,2 !fermata!D,4 |
+C,2 D,2 ^D,2 E,2 | ^E,2 F,2 B,,2 !fermata!B,,2 | G,,2 A,,2 B,,2 C,2 | D,2 A,,2 !fermata!D,4 |
+[M:3/4]D,2 | D, C, D, E, F, G, | A,2 A,,2 A,2 | E, ^D, E, F, G, A, |
+B,2 B,,2 B, A, | G, F, E,2 E, D, | C, B,, A,,2 D, C, | B,, A,, G,,2 A,,2 |
+D,2 !fermata!D,2 D, C, | B,,2 B, A, G, F, | ^G,2 E,2 A,2 | C,2 D, C, B,, A,, |
+D,4 z2 | B,,2 E,2 E, D, | C, A,, D,3 C, | B,,2 A,, G,, A,,2 |
+!fermata!D,6 |]

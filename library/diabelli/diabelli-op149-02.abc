@@ -1,0 +1,54 @@
+X:1
+T:Melodious Piece No. 2
+T:Melodische Übungsstücke, Op. 149 No. 2
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Andante Cantabile
+%%duets slug: diabelli-op149-02
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:S
+|: e'4 d'4 | c'4 d'2 e'2 | f'4 e'2 c'2 |
+e'4 d'4 | e'4 f'2 g'2 | g'4 d'4 | c'4 d'2 e'2 |
+e'4 d'4 :: f'4 e'2 f'2 | d'4 e'2 f'2 | g'4 f'2 g'2 |
+e'4 f'2 g'2 | f'4 e'2 d'2 | e'4 d'2 c'2 | d'2 g'2 e'2 c'2 |
+d'8 | e'4 d'4 | c'4 d'2 e'2 | f'4 e'2 c'2 |
+e'4 d'4 | e'4 f'2 g'2 | g'4 f'2 d'2 | c'4 e'2 d'2 |
+[1 c'8 :| [2 c'8 |]
+V:plh
+|: e4 d4 | c4 d2 e2 | f4 e2 c2 |
+e4 d4 | e4 f2 g2 | g4 d4 | c4 d2 e2 |
+e4 d4 :: f4 e2 f2 | d4 e2 f2 | g4 f2 g2 |
+e4 f2 g2 | f4 e2 d2 | e4 d2 c2 | d2 g2 e2 c2 |
+d8 | e4 d4 | c4 d2 e2 | f4 e2 c2 |
+e4 d4 | e4 f2 g2 | g4 f2 d2 | c4 e2 d2 |
+[1 c8 :| [2 c8 |]
+V:srh
+|: G2 G,2 G2 G,2 | G2 G,2 B,2 C2 | D2 G,2 C2 G,2 |
+C2 G,2 B,2 G,2 | C2 G,2 G, z G, z | B,2 G,2 B,2 G,2 | C2 G,2 B,2 C2 |
+C2 G,2 B,2 G,2 :: D2 G,2 C2 D2 | B,2 G,2 C2 D2 | E2 G,2 D2 E2 |
+C2 G,2 D,2 E,2 | D,2 G,2 C2 B,2 | C2 G,2 F,2 E,2 | G,2 D2 C2 G,2 |
+B,8 | G2 G,2 G2 G,2 | G2 G,2 [G,G]2 [G,G]2 | [DG]2 G,2 [CG]2 G,2 |
+C2 G,2 B,2 G,2 | C2 G,2 B,2 _B,2 | A,2 ^C2 D2 F2 | E2 G,2 [B,F]2 G,2 |
+[1 [G,CE]8 :| [2 [G,CE]8 |]
+V:slh
+|: C,,4 F,,4 | E,,4 D,,2 C,,2 | B,,,4 C,,2 E,,2 |
+G,,8 | C,,4 D,,2 E,,2 | F,,8 | E,,4 D,,2 C,,2 |
+G,,,4 G,,4 :: G,,,4 G,,4 | G,,,4 G,,4 | G,,,4 G,,4 |
+G,,,4 G,,4 | [G,,,G,,]8 | [G,,,G,,]8 | [B,,,B,,]4 [C,,C,]2 [E,,E,]2 |
+G,2 F,2 E,2 D,2 | [C,,C,]4 [F,,F,]4 | [E,,E,]4 [D,,D,]2 [C,,C,]2 | [B,,,B,,]4 [C,,C,]2 E,,2 |
+G,,8 | C,,8 | [F,,,F,,]8 | [G,,,G,,]4 [G,,,G,,]4 |
+[1 [C,,C,]2 G,,2 E,,2 C,,2 :| [2 [C,,C,]8 |]
+V:slh2
+|: z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 :: z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+G,, z F,, z E,, z D,, z | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+[1 z8 :| [2 z8 |]

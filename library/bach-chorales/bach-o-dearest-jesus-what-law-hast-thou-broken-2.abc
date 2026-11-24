@@ -1,0 +1,30 @@
+X:1
+T:O Dearest Jesus, What Law Hast Thou Broken (II)
+T:Herzliebster Jesu, was hast du verbrochen · BWV 244.3
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, lent, good-friday
+%%duets tune: Herzliebster Jesu, was hast du verbrochen
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 244.3), public domain; score from the music21 corpus.
+%%duets slug: bach-o-dearest-jesus-what-law-hast-thou-broken-2
+M:4/4
+L:1/8
+K:Bm
+V:S
+"Bm"B2 | "Em"B2 "G"B2 "F#"^A ^G "F#7"F2 | "Bm/D"B2 "F#"c2 "Bm"d2 d2 | "F#7/A#"e2 "Bm"d2 "F#"!fermata!c2 c2 |
+"Bm"d2 "A"e2 "D"f e "G"d2 | "G/B"g2 "A7/C#"g2 "F#m7"f e "Bm"f2 | "Em7/G"e2- "A7"e2 "D6"!fermata!d2 d2 | "C#dim/E"c2 "G"B2 "A/C#"A2 "D"F G |
+"D7"A2 "Bm7"A2 "G"B2 "F#m7b5/E"A2 | "Em"G4 "F#7/A#"!fermata!F2 "Bm"f2 | "C#m7b5"e2 "Bm/D"d c "F#sus4"c2- "F#7"c2 | "B"!fermata!B6 |]
+V:A
+F2 | G2 D E F2 C2 | F2 F2 F2 F2 | F4 !fermata!F2 F2 |
+F2 A2 A2 B A | G2 A2 A2 d c | B2 A G !fermata!F2 F2 | E2 D2 E2 D E |
+F2 F2 G2 F2 | F ^D E2 !fermata!E2 =D2 | G2 F2 F3 E | !fermata!^D6 |]
+V:T
+D2 | E2 B,2 C B, ^A,2 | B,2 ^A,2 B, C D2 | C2 B,2 !fermata!^A,2 A,2 |
+B,2 C2 D C B, C | D2 E2 E2 D2 | D2 C2 !fermata!A,2 B, A, | G,2 G, F, E, A, A,2 |
+D2 D2 D2 =C2 | B,3 ^A,/2 B,/2 !fermata!C2 B,2 | B, ^A, B,2 B,2 A,2 | !fermata!F,6 |]
+V:B
+B,2 | E, F, G,2 F,2 F, E, | D,2 F,2 B,,2 B,2 | ^A,2 B,2 !fermata!F,2 F,2 |
+B,2 A,2 D,2 G, A, | B,2 C2 D C B, A, | G,2 A,2 !fermata!D,2 B,,2 | E, F, G,2 C,2 D,2 |
+D =C B, A, G, F, E, ^D, | E,4 !fermata!^A,,2 B,,2 | C,2 D, E, F,2 F,,2 | !fermata!B,,6 |]

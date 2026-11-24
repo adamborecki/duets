@@ -1,0 +1,43 @@
+X:1
+T:Praise the Lord, for He Is Kind
+T:Lobet den Herren, denn er ist sehr freundlich · BWV 374
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, praise, thanksgiving
+%%duets tune: Lobet den Herren, denn er ist sehr freundlich
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 374), public domain; score from the music21 corpus.
+%%duets slug: bach-praise-the-lord-for-he-is-kind
+%%duets free-meter: yes
+M:4/4
+L:1/8
+K:Dm
+V:S
+"Gm"G2 | "Gm/Bb"D2 "Gm"G2 "Ebmaj7"G2- "Cm/Eb"G2 | "D"!fermata!A4 z2 A2 | "Gm"B c "Dm/F"d2 "A"^c2- "A7"c2 |
+"D"!fermata!d4 "Gm"B2 "Bb"B2 | "Cm7/Eb"c2 "F"c2 "Bb"d2- "Bb7/D"d2 | "Eb"!fermata!B4 z2 | "Bb"d2 |
+"F"c2 "Am"c2 "F/A"c2 "F"A2 | "D7/F#"d2 "C7/E"c2 "Gm"B2 "D"A2 | "Eb"G2- "Cm/Eb"G2 "D"!fermata!A4 | "Gm"B2 "F/A"A2 "Gm/Bb"G2 "D7"^F2 |
+"Gm/Bb"G4 "Dsus4"!fermata!A2- "D"A2 | "D"z2 d2 "Gm"B2 "Eb"B2 | "Bb/D"B2 "Bb"d2 "C7/Bb"c2 "Gm"B2 | "Cm6"A2 "Eb"G2 "Cm6"A2- "D"A2 |
+"Gm"!fermata!G4 z2 | "Gm"G2 | "Gm/Bb"D2 "Gm"G2 "Eb"G2- "Cm/Eb"G2 | "D"!fermata!A4 z2 A2 |
+"Gm"B c "Dm/F"d2 "A7"^c4 | "D"!fermata!d6- | "D"d2 z6 |]
+V:A
+D C | B, C D3 C/2 B,/2 A, G, | !fermata!D4 z2 ^F2 | G2 A2 A4 |
+A4 G A B2 | B2 A2 B3 _A | !fermata!G4 z2 | B2 |
+A G F E F G A G | A ^F G A2 G2 F | G3/2 ^F/2 G G, !fermata!D4 | D E F ^F G _E D2- |
+D C D B, !fermata!D4 | z2 ^F2 D2 G2 | F3 G/2 F/2 E ^F G2- | G ^F G2 G2 F2 |
+!fermata!D4 z2 | D2 | D2 D3 C/2 B,/2 A, G, | !fermata!D4 z2 ^F2 |
+G2 A E E ^F G2 | !fermata!^F6- | ^F2 z6 |]
+V:T
+B, A, | G, A, B,3 A,/2 G,/2 C2 | !fermata!^F,4 z2 D2 | D E F2 E D E/2 ^F/2 G |
+^F4 D2 =F2 | G2 F2 F2 F2 | !fermata!_E4 z2 | F2 |
+F B, A, G, A, B, C2- | C B,2 A, B,/2 C/2 D D3/2 C/2 | B, D2 C !fermata!^F,4 | G,2 C2 D C/2 B,/2 A,2 |
+G, D, G,4 !fermata!^F,2 | z2 A,2 G, A, B, C | D _E D B, G, A, B,/2 C/2 D | _E D/2 C/2 B, C/2 D/2 E2 D3/2 C/2 |
+!fermata!B,4 z2 | B, A, | G, A, B, A, G,3 C | !fermata!^F,4 z2 D2 |
+D2 A, B, A,4 | !fermata!A,6- | A,2 z6 |]
+V:B
+G,, A,, | B,, A,, G,,2 _E,4 | !fermata!D,4 z2 D,2 | G,2 F, G, A,4 |
+!fermata!D,4 G, F, _E, D, | _E, C, F, F,, B,, C, D, B,, | !fermata!_E,4 z2 | B,,2 |
+F, G, A, B, A, G, F, E, | ^F, D, E, F, G,2 D,2 | _E,4 !fermata!D,4 | G,,2 A,,2 B,, C, D, C, |
+B,, A,, B,, G,, !fermata!D,4 | z2 D,2 G, F, _E,2 | D, C, B,,3 A,, G,, B,, | C, D, _E, D, C, A,, D,2 |
+!fermata!G,,4 z2 | G,, A,, | B,, A,, G,, F,, _E,,4 | !fermata!D,,4 z2 D,2 |
+G,2 F, G, A,2 A,,2 | !fermata!D,6- | D,2 z6 |]

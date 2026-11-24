@@ -1,0 +1,42 @@
+X:1
+T:O Man, Bewail Thy Grievous Sin (II)
+T:O Mensch, bewein dein Sünde groß · BWV 402
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, lent
+%%duets tune: O Mensch, bewein dein Sünde groß
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 402), public domain; score from the music21 corpus.
+%%duets slug: bach-o-man-bewail-thy-grievous-sin-2
+M:4/4
+L:1/8
+K:Eb
+V:S
+"Eb"G2 | "Fm7/Ab"E2 F2 "G7/B"G F "Cm"E2 | "Cm"G2 "D/F#"=A2 "Gm"!fermata!B2 B2 | "Abmaj7/C"A2 "Eb"G2 "F7/A"F2 "Cm"E F |
+"Cm"G2 "F7"=A2 "Bb"!fermata!B2 | "Fm"c2 | "Bb7/D"B2 "Abmaj7/C"A2 "Eb"G2 "Ab/C"A2 | "Fm7/Ab"F2- "Bb"F2 "Eb"!fermata!E2 :|
+"Eb"e2 | "Eb/G"e2 "F7/A"e2 "Bb"d2 "Eb7/Db"B2 | "Ab/C"c2 "Ab"c2 "Eb"!fermata!G2 | "Cm"e2 |
+"F7/A"e2 "F7"e2 "Bb"d2 "Bb/D"B2 | "Cm7/Eb"c2 "F7"c2 "Bb"!fermata!B2 "Eb"G A | "Eb7"B2 "Ab/C"c2 "Eb7"B2 "C/E"G2 | "Fm"A2- "Bdim7"A2 "Cm"!fermata!G2 "Db"F2 |
+"Eb7/Db"G2 "Ab/C"A2 "Bb7"B2 "Gm"B2 | "Fm"A2 "Eb/G"G2 "Bb"!fermata!F2 B2 | "F/A"c2 "Bb7/Ab"d2 "Eb/G"e2 "Gm"d2 | "C7/E"c2 "D7/F#"c2 "Gm"!fermata!B2 "Ab"E2 |
+"Bb7/Ab"F2 "Eb"G2 "Bb7/D"A2 "Eb"G2 | "Fm7/Ab"F2- "Bb"F2 "Eb"!fermata!E2 |]
+V:A
+B,2 | C3 =B,/2 C/2 D3 C/2 D/2 | E3 D !fermata!D2 G2- | G F2 E2 D C D |
+E D E2 !fermata!D2 | F2 | F E/2 D/2 E B,2 E/2 D/2 E2- | E D/2 C/2 D2 !fermata!B,2 :|
+B A | G2 F2 F2 E2 | E _D E2 !fermata!E2 | G2 |
+F2 F2 F2 F2 | G2 F E !fermata!D2 E F | G2 A2 G2 G2- | G F/2 E/2 F D !fermata!E2 F2 |
+E2 E2 F2 G2 | C D E3 !fermata!D F2 | F2 F2 G =A B2- | B2 =A2 !fermata!G2 E2 |
+D2 E2 F D B, E- | E D/2 C/2 D2 !fermata!B,2 |]
+V:T
+G,2 | A,2 A,2 G,2 G,2 | C B, =A,2 !fermata!G,2 D2 | E B, B,2 C G, G,2 |
+C B, C2 !fermata!B,2 | A,2 | A, G,2 F, E,3 B, | C A, F, B, !fermata!G,2 :|
+G, A, | B,2 C3 B,/2 A,/2 G,2 | A,2 A,2 !fermata!B,2 | C2 |
+C B, =A,2 B, A, B,2- | B, =A,/2 G,/2 A,2 !fermata!B,2 B,2 | E2 E2 E _D2 C | C2 D F !fermata!C2 A,2 |
+B,2 C2 D2 D, =E, | F,2 B,2 !fermata!B,2 D2 | C2 B,3 C D2 | G,2 D2 !fermata!D2 C2 |
+B,2 B,3 F, G, B, | C A, F, B,/2 A,/2 !fermata!G,2 |]
+V:B
+E,2 | A, G, F,2 =B,,2 C,2- | C,2 ^F,,2 !fermata!G,,2 G,2 | C, D, E,2 =A,, =B,, C,2- |
+C,2 F,,2 !fermata!B,,2 | F, E, | D, B,, C, D, E, D, C, B,, | A,, F,, B,,2 !fermata!E,,2 :|
+E,, F,, | G,,2 =A,,2 B,, C, _D,2 | C, B,, A,,2 !fermata!E,2 | C, B,, |
+=A,, G,, F,,2 B,, C, D,2 | E,2 F,2 !fermata!B,,2 E,2- | E, _D, C, =D, E,2 =E,2 | F,2 =B,,2 !fermata!C,2 _D,2- |
+_D,2 C,2 B,, A,, G,,2 | F,,2 G,, A,, !fermata!B,,2 B,2 | =A,2 _A,2 G,3 F, | =E,2 ^F,2 !fermata!G,2 A,2 |
+A, G, F, E, D, B,, E, G,, | A,,2 B,,2 !fermata!E,,2 |]

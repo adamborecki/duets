@@ -1,0 +1,62 @@
+X:1
+T:Consolation
+T:Op. 100 No. 13
+C:Friedrich Burgmüller
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, burgmuller
+%%duets credit: Friedrich Burgmüller. Source edition: Bas Wassink for the Mutopia Project (Public Domain).
+%%duets tempo-text: Allegro moderato
+%%duets slug: consolation-burgmuller
+M:4/4
+L:1/8
+Q:1/4=132
+K:C
+V:S
+G8 | G8 | z f g f g f g f | z e f e f e f e |
+z e f e ^d e f e | e d ^c d b a f d | c G B c e2 d2 | z2 c2 d2 e2 |
+e2 d2 ^c2 d2 | c2 B2 A2 B2 | d2 c2 z4 | z2 c2 d2 e2 |
+e2 z G z G z G | B ^A B c B a g _g | z B z B z4 | z2 c2 d2 e2 |
+e2 d2 ^c2 d2 | c2 B2 A2 B2 | d2 c2 z4 | [Ad] [Gg] ^c g z g B g |
+c g z g z g A g | z8 | z8 | d2 ^c2 d2 B2 |
+c2 B2 c2 A2 | B2 c2 ^c2 d2 | c2 d2 ^d2 e2 | d2 ^c2 d2 B2 |
+c2 B2 c2 A2 | B c d e f d A B | c G e G c2 z2 | d2 ^c2 d2 B2 |
+c2 B2 c2 A2 | B2 c2 ^c2 d2 | c2 d2 ^d2 e2 | d2 ^c2 d2 B2 |
+c2 B2 c2 A2 | B c d e f d A B | c G e G d A B G | c G e G d A B G |
+c B c e g ^d e g | c'2 z6 |]
+V:rh2
+z d e d e d e d | z c d c d c d c | B8 | c8 |
+A8 | z8 | z5 G z G | z G z G z G z G |
+z G z G z G z G | z G z G z G z G | z G z G A G ^F G | A G z G z G z G |
+z G B2 c2 B2 | z8 | e z g z e2 z2 | z8 |
+z8 | z8 | z8 | z2 c2 d2 e2 |
+e2 B2 c2 B2 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 |]
+V:lh
+[G,F]8 | [G,E]8 | [G,D]8 | [G,C]8 |
+[G,A,^C]8 | [F,A,D]8 | [G,CE]4 [G,B,F]4 | [CE]8 |
+[B,F]8 | [G,F]8 | [CE]8 | [CE]8 |
+[B,E]8 | [B,^D]5 ^F B A | [EG]6 z2 | F2 E2 F2 D2 |
+E2 D2 E2 C2 | D2 E2 E2 F2 | E2 B,2 B,2 C2 | z6 D2 |
+z2 D2 z2 C2 | D4 G,4 | [CE]6 z2 | [CE]4 [G,F]4 |
+[CE]4 [G,F]4 | [CE]4 z4 | C,2 z6 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 |]
+V:lh2
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z G z G z G z G |
+z G z G z G z G | z G z G z G z G | z G z G z G z G | F2 E2 F2 z2 |
+E2 z2 E2 z2 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 |]

@@ -1,0 +1,34 @@
+X:1
+T:In Peace and Joy I Now Depart (II)
+T:Mit Fried und Freud ich fahr dahin · BWV 83.5
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, funeral
+%%duets tune: Mit Fried und Freud ich fahr dahin
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 83.5), public domain; score from the music21 corpus.
+%%duets slug: bach-in-peace-and-joy-i-now-depart-2
+M:4/4
+L:1/8
+K:Am
+V:S
+"Dm"D2 | "A/C#"A2 "Dm"A2 "Em"G2 "D/F#"d2 | "Am"c2 "E7"B2 "Am7"!fermata!A2 c2 | "F"A2 "Fmaj7/E"c2 "E"B A "E7"B2 |
+"A"!fermata!A6 | "Bdim/D"B2 | "C"c2 "Bdim/D"B2 "C/E"c2 "F"A2 | "Edim/G"G2 "F/A"F2 "G"G2 "C/G"E2 |
+"G"!fermata!D4 "A/C#"A3 G | "Dm"F E "Bb/D"D2 "F"!fermata!C4 | "A/C#"A2 "Dm"F2 "C/E"c2 "F"A2 | "Gm"G F G2 "A7/E"!fermata!A2 G2 |
+"Dm"F2 "Gm"E D "A7/E"^C2 "Dm"F2 | "A/C#"E D "A7"E2 "D"!fermata!D2 |]
+V:A
+A,2 | E2 F2 E2 D E | E ^F ^G2 !fermata!E2 =G2 | F2 F2 B, C D2 |
+!fermata!^C6 | D2 | E2 F2 G2 F2 | E2 F E D2 C2 |
+!fermata!B,4 E3 ^C | D C _B,2 !fermata!A,4 | E2 F2 G2 F2 | E D ^C D !fermata!C2 C2 |
+D C _B,2 A,2 D2 | E F ^C2 !fermata!A,2 |]
+V:T
+F,2 | A,2 D2 B,2 A, B, | C D E D !fermata!C2 C2 | C B, A,2 ^G, A,2 G, |
+!fermata!A,6 | F,2 | G,2 D2 C2 C2 | _B,2 C2 G,2 G,2 |
+!fermata!G,4 A,2 A,2 | A, G, F,2 !fermata!F,4 | A,2 A,2 G,2 C2 | _B, A, G,2 !fermata!E,2 A,2 |
+A,2 G, F, E,2 A,2 | A,3 G, !fermata!^F,2 |]
+V:B
+D,2 | ^C,2 D,2 E,2 ^F, ^G, | A,2 E,2 !fermata!A,,2 E,2 | F,2 E, D, E,4 |
+!fermata!A,,6 | D,2 | C,2 D,2 E,2 F,2 | G,2 A,2 B,2 C2 |
+!fermata!G,4 ^C,3 A,, | D,3 E, !fermata!F,4 | ^C,2 D,2 E,2 F,2 | G, A, _B,2 !fermata!A,2 A,,2 |
+D,2 G,,2 G, F, E, D, | ^C, D, A,,2 !fermata!D,2 |]

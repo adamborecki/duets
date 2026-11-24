@@ -1,0 +1,49 @@
+X:1
+T:Melodious Piece No. 4
+T:Melodische Übungsstücke, Op. 149 No. 4
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Allegro
+%%duets slug: diabelli-op149-04
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:S
+c' d' e' d' c' d' e' f' | g' z e' z c' z e' z | f' e' d' f' e' d' c' e' | d' z g' z d' z g' z |
+c' d' e' d' c' d' e' f' | g' z e' z c' z e' z | d' z g' z f' e' f' d' | c' z e' z c' z3 |:
+d' e' ^f' g' z4 | d' e' ^f' g' z4 | _g' z d' z e' z ^f' z | g'4 d'4 |
+d' e' ^f' g' z4 | d' e' ^f' g' z4 | _g' z d' z e' z ^f' z | g'6 f' d' |
+c' d' e' d' c' d' e' f' | g' z e' z c' z e' z | f' e' d' f' e' d' c' e' | d' z g' z d' z g' z |
+c' d' e' d' c' d' e' f' | g' z e' z c' z e' z | d' z g' z f' e' f' d' | c' z e' z c' z3 :|
+V:plh
+[ce]8 | [ce]4 [ce]4 | [df]4 [ce]4 | d z g z d z g z |
+[ce]8 | [ce]4 [ce]4 | [df]4 [df]4 | [ce] z [ce] z [ce] z3 |:
+z4 d e ^f g | z4 d e ^f g | _g z d z e z ^f z | g4 d4 |
+z4 d e ^f g | z4 d e ^f g | _g z d z e z ^f z | g6 f d |
+[ce]8 | [ce]4 [ce]4 | [df]4 [ce]4 | d z g z d z g z |
+[ce]8 | [ce]4 [ce]4 | [df]4 [df]4 | [ce] z [ce] z [ce] z3 :|
+V:srh
+[CE]2 G,2 [CE]2 G,2 | [CE]2 G,2 [CE]2 G,2 | [DF]2 G,2 [CE]2 G,2 | [B,D]2 G,2 [B,D]2 G,2 |
+[CE]2 G,2 [CE]2 G,2 | [CE]2 G,2 [CE]2 G,2 | [B,G]2 G,2 [B,G]2 G,2 | [G,CE]2 [G,CE]2 [G,CE]2 z2 |:
+[G,B,D] z [G,B,D] z [G,B,D] z [G,B,D] z | [G,B,D] z [G,B,D] z [G,B,D] z [G,B,D] z | [A,CD] z [A,CD] z [A,CD] z [A,CD] z | [G,B,D] z [G,B,D] z [G,B,D] z [G,B,D] z |
+[G,B,D] z [G,B,D] z [G,B,D] z [G,B,D] z | [G,B,D] z [G,B,D] z [G,B,D] z [G,B,D] z | [A,CD] z [D^F]2 [^CG]2 [=CA]2 | G8 |
+[CE]2 z2 [CE]2 z2 | [CE]2 z2 [CE]2 z2 | [DF]2 z2 [CE]2 z2 | [B,D]2 z2 [B,D]2 z2 |
+[CE]2 z2 [CE]2 z2 | [CE]2 z2 [CE]2 z2 | [B,G]2 z2 [B,G]2 z2 | [G,CE]2 [G,CE] z [G,CE] z3 :|
+V:slh
+C,2 z6 | C,,2 z2 C,2 z2 | B,,2 z2 C,2 z2 | G,,2 z2 G,,2 z2 |
+C,2 z6 | C,,2 z2 C,2 z2 | G,,2 z2 G,,,2 z2 | C,,2 [C,,C,]2 [C,,C,]2 z2 |:
+G,,2 z2 B,,2 z2 | G,,2 z2 B,,2 z2 | B,,,2 z2 D,2 z2 | G,,2 z6 |
+G,,2 z2 B,,2 z2 | G,,2 z2 B,,2 z2 | D,2 z2 D,,2 z2 | G,,2 A,,2 B,,2 G,,2 |
+C,2 z6 | C,,2 z2 C,2 z2 | B,,2 z2 C,2 z2 | G,,2 z2 G,,2 z2 |
+C,2 z6 | C,,2 z2 C,2 z2 | G,,2 z2 G,,,2 z2 | C,,2 [C,,C,]2 [C,,C,]2 z2 :|
+V:srh2
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |:
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | B,2 C2 D2 B,2 |
+z2 G,2 z2 G,2 | z2 G,2 z2 G,2 | z2 G,2 z2 G,2 | z2 G,2 z2 G,2 |
+z2 G,2 z2 G,2 | z2 G,2 z2 G,2 | z2 G,2 z2 G,2 | z8 :|

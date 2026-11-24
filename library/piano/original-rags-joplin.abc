@@ -1,0 +1,71 @@
+X:1
+T:Original Rags
+C:Scott Joplin, 1899
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, joplin
+%%duets credit: Scott Joplin. Source edition: Tom Harke for the Mutopia Project (Public Domain).
+%%duets tempo-text: Not fast
+%%duets slug: original-rags-joplin
+M:2/4
+L:1/8
+Q:1/4=80
+K:G
+V:S
+[^a^a']/2 [bb'] [aa']/2 [bb'] [aa']/2 [bb']/2 | [ff']/2 [gg'] [ee']5/2 | [ff']/2 [gg'] [ff']/2 [gg'] [ff']/2 [gg']/2 | [^c^c']/2 [dd'] [Bb]5/2 |
+[Acec']/2 [Acec'] [Acec']/2 [Gc_ec'] [Gcec'] | [Fcdc'] A D2 | [CEc]/2 [CEc] [CEc]/2 [C^Dc] [CDc] | [CDc] z3/2 d/2 g/2 b/2 |:
+[dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [ee']/2 [ee'] [eg]/2 [ea]/2 [eg]/2 [^da] | [db]2 z/2 d/2 g/2 b/2 |
+[dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [_db] [da]2 [^c^g]/2 [ca]/2 | [cb]/2 [ca] [cf]/2 [ce] [cd] |
+[dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [ee']/2 [ee'] [eg]/2 [ea]/2 [eg]/2 [ea] | [^db]2 z [Bb] |
+[ee']/2 [dd'] [Bb]/2 [cc'] [Bb] | [Bb]/2 [Aa] [Ee]/2 [Bb] [Aa] | [Bdb]/2 [Aca] [Bdb]/2 [cec']/2 [Bdb]/2 [Aca] | [1 [GBg] z3/2 d/2 g/2 b/2 :|
+[2 [GBg] z [gbd'g']2 |: [f^a]/2 [gb] [fa]/2 [gb] [fa]/2 [gb]/2 | [^df]/2 [eg] [ce]5/2 | [^df]/2 [eg] [df]/2 [eg] [df]/2 [eg]/2 |
+[^A^c]/2 [Bd] [GB]5/2 | [^A^c]/2 [Bd] [Ac]/2 [Bd] [Ac]/2 [Bd]/2 | [GB] B/2 G B/2 G | [^A^c]/2 [Bd] [Ac]/2 [Bd] [Ac]/2 [Bd]/2 |
+[GB] B/2 G B/2 G | [f^a]/2 [gb] [fa]/2 [gb] [fa]/2 [gb]/2 | [^df]/2 [eg] [ce]5/2 | [^df]/2 [eg] [df]/2 [eg] [df]/2 [eg]/2 |
+[^A^c]/2 [Bd] [GB]5/2 | [EGA]/2 [EGA] [EGA]/2 [G_Be] [GBe] | [GBd]/2 g e/2 d/2 B/2 G | [CA]/2 [DB]/2 [Ec]/2 [DB] [CA] [DB]/2 |
+[B,G] z [GBdg]2 :: g/2 a/2 g/2 e/2 =f/2 d e/2 | =f/2 g/2 a/2 e/2 f/2 d e/2 | c/2 e/2 g/2 [cea]5/2 |
+z/2 c/2 e/2 g/2 a/2 g/2 e/2 c/2 | B/2 d/2 =f/2 [Bda]5/2 | z/2 B/2 d/2 =f/2 a/2 f/2 d/2 B/2 | c/2 e/2 g/2 [cc']/2 [B_eb] [Aea] |
+[Geg] G/2 A/2 B/2 c/2 d/2 e/2 | g/2 a/2 g/2 e/2 =f/2 d e/2 | =f/2 g/2 a/2 e/2 f/2 d e/2 | c/2 e/2 g/2 [cea]5/2 |
+z [cc'] [Bb] [_B_b] | A/2 ^c/2 e/2 [Aa]/2 [_B_b] [Aa] | d/2 =f/2 a/2 [dd']/2 [ee'] [dd'] | [cc']/2 e/2 ^d/2 e/2 [B=fa] [Bfg] |
+[EGc] [GBdg] [cegc']2 :| [Acec']/2 [Acec'] [Acec']/2 [Gc_ec'] [Gcec'] | [Fcdc'] A D2 | [CEc]/2 [CEc] [CEc]/2 [C^Dc] [CDc] |
+[CDc] z3/2 d/2 g/2 b/2 | [dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [ee']/2 [ee'] [eg]/2 [ea]/2 [eg]/2 [^da] |
+[db]2 z/2 d/2 g/2 b/2 | [dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [_db] [da]2 [^c^g]/2 [ca]/2 |
+[cb]/2 [ca] [cf]/2 [ce] [cd] | [dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [dd']/2 g/2 b/2 [dd'] b/2 [dd']/2 b/2 | [ee']/2 [ee'] [eg]/2 [ea]/2 [eg]/2 [ea] |
+[^db]2 z [Bb] | [ee']/2 [dd'] [Bb]/2 [cc'] [Bb] | [Bb]/2 [Aa] [Ee]/2 [Bb] [Aa] | [Bdb]/2 [Aca] [Bdb]/2 [cec']/2 [Bdb]/2 [Aca] |
+[GBg] z [gbd'g']2 |: [A^ca]3/2 B/2 c/2 a/2 [Acg] | [A^ca]3/2 B/2 c/2 a/2 [Acg] | z [da]/2 A/2 z [da]/2 A/2 |
+z/2 [da]/2 z/2 A/2 [da] A | [B_eb]3/2 ^c/2 ^d/2 b/2 [Bda] | [B_eb]3/2 ^c/2 ^d/2 b/2 [Bda] | z [eb]/2 B/2 z [eb]/2 B/2 |
+z/2 [eb]/2 z/2 B/2 [eb] B | [^cg^c']/2 [^B^b]/2 [cc']/2 [ee'] [cc'] [Aa]/2 | z/2 [Bgb] [^A^a]/2 [Bgb]2 | [Bfb]/2 [^A^a]/2 [Bb]/2 [dd'] [Bb] [Ff]/2 |
+z/2 [Afa] [^G^g]/2 [Afa] [Af] | [Be] [Bf] [Bg]/2 [Bb] [Bg]/2 | [Af] [^G^e]/2 [Af]/2 [Bg]/2 [Af]/2 [=G=e] | [Fd] A B/2 A F/2 |
+D z d2 :: ^A/2 [Bd] F/2 [=Ac] ^A/2 [Bd]/2- | [Bd]/2 F/2 [Ac]/2 ^A/2 [Bd] [=Ac] | ^A/2 [Bd] D/2 [GB] A/2 [Bd]/2- |
+[Bd]/2 D/2 G/2 A/2 B/2 A/2 G/2 D/2 | z [Ff]3/2 c/2 d/2 [Ff]/2 | z/2 F/2 c/2 d/2 f/2 d/2 c/2 A/2 | z [GBe]3/2 B/2 d/2 e/2 |
+z/2 G/2 B/2 d/2 e/2 d/2 B/2 G/2 | ^A/2 [Bd] F/2 [=Ac] ^A/2 [Bd]/2- | [Bd]/2 F/2 [Ac]/2 ^A/2 [Bd] [=Ac] | ^A/2 [Bd] D/2 [GB] A/2 [Bd]/2- |
+[Bd]/2 D/2 G/2 A/2 B/2 A/2 G/2 D/2 | e/2 _e/2 d/2 _d/2 c/2 B/2 _B/2 A/2 | d/2 _d/2 c/2 B/2 _B/2 A/2 _A/2 G/2 | E/2 G E/2 D/2 G/2 B/2 d/2 |
+[_DB]/2 E/2 [CA]/2 =D/2 [B,DG] z :|
+V:lh
+[^A,^A]/2 [B,B] [A,A]/2 [B,B] [A,A]/2 [B,B]/2 | [F,F]/2 [G,G] [E,E]5/2 | [F,F]/2 [G,G] [F,F]/2 [G,G] [F,F]/2 [G,G]/2 | [^C,^C]/2 [D,D] [B,,B,]5/2 |
+z4 | z A, D,2 | A,/2 A, A,/2 G, G, | F, [A,,A,] [D,,D,]2 |:
+G, [B,D] D, [B,D] | G, [B,D] D, [B,D] | C, [G,CE] C, [G,C_E] | [G,,G,] [G,B,D] D, z |
+G, [B,D] D, [B,D] | G, [B,D] D, [B,D] | E, [G,A,_D] A,, [G,A,D] | D,/2 F, A,/2 G, F, |
+G, [B,D] D, [B,D] | G, [B,D] D, [B,D] | C, [G,CE] C, [G,CE] | B,, [F,A,B,] [F,A,B,] z |
+^G,, [E,B,D] E,, [E,_A,D] | A,, [A,CE] A,, [A,C_E] | D, [G,B,D] [D,,D,]/2 [E,,E,]/2 [F,,F,] | [1 [G,,G,] z [D,,D,] z :|
+[2 [G,,G,] z [G,,,G,,] z |: z4 | C, [G,CE] C, [G,CE] | C, [G,CE] C, [G,CE] |
+G, [B,D] D, [B,D] | G, [B,D] D, [B,D] | G, F, E, D, | G, [B,D] D, [B,D] |
+G, F, E, D, | G, [B,D] D, [B,D] | C, [G,CE] C, [G,CE] | C, [G,CE] C, [G,CE] |
+G, [B,D] D, [B,D] | [C,C]2 [_D,_D]2 | D, [G,B,D] [G,B,D]2 | [A,,A,]2 [D,,D,]2 |
+[G,,G,] z [G,,,G,,]2 :: C, [G,CE] D, [G,B,=F] | G,, [G,B,=F] D, [G,B,F] | C, [G,CE] G,, [G,CE] |
+C, [G,CE] E, [G,CE] | D, [G,B,=F] G,, [G,B,F] | D, [G,B,=F] G,, [G,B,F] | C, [G,CE] [F,C^D] [F,CD] |
+[G,CE] z3 | C, [G,CE] D, [G,B,=F] | G,, [G,B,=F] D, [G,B,F] | C, [G,CE] G,, [G,CE] |
+C, [G,CE] [G,CE] [G,CE] | A,, [A,_DG] A,, [A,DG] | D, [A,D=F] =F, [_A,CD] | G, [CE] G,, [G,B,=F] |
+C, G,, [C,,C,]2 :| z4 | z A, D,2 | A,/2 A, A,/2 G, G, |
+F, [A,,A,] [D,,D,]2 | G, [B,D] D, [B,D] | G, [B,D] D, [B,D] | C, [G,CE] C, [G,C_E] |
+[G,,G,] [G,B,D] D, z | G, [B,D] D, [B,D] | G, [B,D] D, [B,D] | E, [G,A,_D] A,, [G,A,D] |
+D,/2 F, A,/2 G, F, | G, [B,D] D, [B,D] | G, [B,D] D, [B,D] | C, [G,CE] C, [G,CE] |
+B,, [F,A,B,] [F,A,B,] z | ^G,, [E,B,D] E,, [E,_A,D] | A,, [A,CE] A,, [A,C_E] | D, [G,B,D] [D,,D,]/2 [E,,E,]/2 [F,,F,] |
+[G,,G,] z [G,,G,] z |: E, [G,A,^C] A,, [G,A,C] | E, [G,A,^C] A,, [G,A,C] | [D,D] [E,E] [F,F] [E,E] |
+[D,D] [^C,^C] [B,,B,] [A,,A,] | B,, [F,A,B,_E] ^D, [A,B,E] | B,, [A,B,_E] ^D, [A,B,^D] | [E,E] [F,F] [G,G] [F,F] |
+[E,E] [D,D] [^C,^C] [B,,B,] | E, [A,^CG] A,, [A,CG] | E, [A,^CG] A,, [A,CG] | D, [A,DF] A,, [A,DF] |
+D, [A,DF] A,, [A,DF] | [G,G] [F,F] [E,E] [G,B,E] | A,, [A,DF] A,, [A,^CG] | [D,D] [A,,A,] [B,,B,]/2 [A,,A,] [F,,F,]/2 |
+[D,,D,] z D2 :: A,, [D,F,C] D,, [D,F,C] | A,, [D,F,C] D,, [D,F,C] | G,, [D,G,B,] D,, [D,G,B,] |
+G,, [D,G,B,] D,, [D,G,B,] | A,, [D,F,C] D,, [D,F,C] | A,, [D,F,C] D,, [D,F,C] | G,, [D,G,B,] D,, [D,G,B,] |
+G,, [D,G,B,] D,, [D,G,B,] | A,, [D,F,C] D,, [D,F,C] | A,, [D,F,C] D,, [D,F,C] | G,, [D,G,B,] D,, [D,G,B,] |
+G,, [D,G,B,] D,, [D,G,B,] | ^G,, [E,B,D] A,, [E,A,C] | F,, [D,A,C] G,, [D,G,B,] | C, [E,A,C] D, [G,B,D] |
+[A,,A,] [D,,D,] [G,,G,] z :|

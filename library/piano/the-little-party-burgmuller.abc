@@ -1,0 +1,44 @@
+X:1
+T:The Little Party
+T:Op. 100 No. 4
+C:Friedrich Burgmüller
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, burgmuller
+%%duets credit: Friedrich Burgmüller. Source edition: Bas Wassink for the Mutopia Project (Public Domain).
+%%duets tempo-text: Allegro non troppo
+%%duets slug: the-little-party-burgmuller
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:S
+z8 | [df]/2 z/2 [ce]/2 z/2 [Bd]/2 z/2 [Ac]/2 z/2 [GB]/2 z/2 [FA]/2 z/2 [EG]/2 z/2 [DF]/2 z/2 | [CE]2 z6 | [df]/2 z/2 [ce]/2 z/2 [Bd]/2 z/2 [Ac]/2 z/2 [GB]/2 z/2 [FA]/2 z/2 [EG]/2 z/2 [DF]/2 z/2 |
+[CE]2 z2 [Ec] z3 | [CD] z3 [B,G] z3 | [c'e']2 [bd'] [ac'] [ac']2 [gb] [fa] | [eg]2 [ce] [df] [eg]2 [df] [ce] |
+[ce]2 [Bd] [ce] [df]2 [df] [ce] | [Bd]/2 z/2 [ce]/2 z/2 [df]/2 z/2 [eg]/2 z/2 [fa]/2 z/2 [gb]/2 z/2 [ac']/2 z/2 [bd']/2 z/2 | [c'e']2 [bd'] [ac'] [ac']2 [gb] [fa] | [eg]2 [ce] [df] [eg]2 [df] [ce] |
+[Af]2 [Ge] [Fd] [Fd]2 [Ec] [DB] | [Ec]2 E D C2 z2 | [c'e']2 [bd'] [ac'] [ac']2 [gb] [fa] | [eg]2 [ce] [df] [eg]2 [df] [ce] |
+[ce]2 [Bd] [ce] [df]2 [df] [ce] | [Bd]/2 z/2 [ce]/2 z/2 [df]/2 z/2 [eg]/2 z/2 [fa]/2 z/2 [gb]/2 z/2 [ac']/2 z/2 [bd']/2 z/2 | [c'e']2 [bd'] [ac'] [ac']2 [gb] [fa] | [eg]2 [ce] [df] [eg]2 [df] [ce] |
+[Af]2 [Ge] [Fd] [Fd]2 [Ec] [DB] | [Ec]2 E D C2 z2 | z8 | [GB]2 [Ac] [Bd] [Bd]2 [ce] [df] |
+[df]4 z4 | [GB]2 [Ac] [Bd] [Bd]2 [ce] [df] | [df]2 [Bd] [ce] [df]4- | [df]2 [Bd] [ce] [df]4- |
+[df]2 [Bd] [ce] [df]2 [Bd] [ce] | [df] z [df]/2 z/2 [eg]/2 z/2 [fa]/2 z/2 [gb]/2 z/2 [ac']/2 z/2 [bd']/2 z/2 | [c'e']2 [bd'] [ac'] [ac']2 [gb] [fa] | [eg]2 [ce] [df] [eg]2 [df] [ce] |
+[ce]2 [Bd] [ce] [df]2 [df] [ce] | [Bd]/2 z/2 [ce]/2 z/2 [df]/2 z/2 [eg]/2 z/2 [fa]/2 z/2 [gb]/2 z/2 [ac']/2 z/2 [bd']/2 z/2 | [c'e']2 [bd'] [ac'] [ac']2 [gb] [fa] | [eg]2 [ce] [df] [eg]2 [df] [ce] |
+[Af]2 [Ge] [Fd] [Fd]2 [Ec] [DB] | [Ec]2 E D C2 z2 | z8 | [GB]2 [Ac] [Bd] [Bd]2 [ce] [df] |
+[df]4 z4 | [GB]2 [Ac] [Bd] [Bd]2 [ce] [df] | [df]2 [Bd] [ce] [df]4- | [df]2 [Bd] [ce] [df]4- |
+[df]2 [Bd] [ce] [df]2 [Bd] [ce] | [df] z [df]/2 z/2 [eg]/2 z/2 [fa]/2 z/2 [gb]/2 z/2 [ac']/2 z/2 [bd']/2 z/2 | [c'e']2 [bd'] [ac'] [ac']2 [gb] [fa] | [eg]2 [ce] [df] [eg]2 [df] [ce] |
+[ce]2 [Bd] [ce] [df]2 [df] [ce] | [Bd]/2 z/2 [ce]/2 z/2 [df]/2 z/2 [eg]/2 z/2 [fa]/2 z/2 [gb]/2 z/2 [ac']/2 z/2 [bd']/2 z/2 | [c'e']2 [bd'] [ac'] [ac']2 [gb] [fa] | [eg]2 [ce] [df] [eg]2 [df] [ce] |
+[Af]2 [Ge] [Fd] [Fd]2 [Ec] [DB] | [Ec]2 E D C2 z2 |]
+V:lh
+G,2 A, B, C2 E, F, | G,8 | G,2 A, B, C E, B, A, | G,8 |
+C,2 z2 A, z3 | F, z3 G, z3 | C,4 F,2 A,2 | C4 C,4 |
+A,4 D,4 | G,8 | C,4 F,2 A,2 | C4 C,4 |
+F,4 G,4 | C,2 G, F, [C,E,]2 z2 | [G,B,]2 [A,C] [B,D] [B,D]2 [CE] [DF] | [DF]4 z4 |
+[G,B,]2 [A,C] [B,D] [B,D]2 [CE] [DF] | [DF]2 [CE] [B,D] [B,D]2 [A,C] [G,B,] | [G,B,]2 z4 _A2 | G2 z4 _A,2 |
+G,2 z6 | z8 | C,4 F,2 A,2 | C4 C,4 |
+A,4 D,4 | G,8 | C,4 F,2 A,2 | C4 C,4 |
+F,4 G,4 | C,2 G, F, [C,E,]2 z2 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 |]

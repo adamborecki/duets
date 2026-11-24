@@ -1,0 +1,59 @@
+X:1
+T:Moment musical No. 3
+T:D. 780 No. 3
+C:Franz Schubert
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schubert
+%%duets credit: Franz Schubert. Source edition: Claude Chaudron for the Mutopia Project (Public Domain).
+%%duets tempo-text: Allegro moderato
+%%duets slug: moment-musical-no-3-schubert
+M:2/4
+L:1/8
+Q:1/4=92
+K:Fm
+V:S
+z4 | z4 |: A/2 z/2 A/2 B/2 A/2 z/2 G/2 z/2 | [Ac]2 [Ac]2 |
+A/2 z/2 A/2 B/2 A/2 z/2 [Gc]/2 z/2 | [Af]2 [Af]2 | [Af] f/2 _g/2 [=Af] [Af] | f b/2 z/2 [Af]2 |
+z2 A [GB] | [Acf]2 [Acf]2 :: c2 c2 | c/2 d/2 e/2 d/2 d3/2 c/2 |
+B B c/2 B/2 A/2 B/2 | B2 c2 | [ca]2 [ca]2 | [eg]/2 [df]/2 [c=e]/2 [df]/2 [df]2 |
+f/2 e/2 [de]2 [de] | [Ace]2 [Ace]2 :: [GBc=e]2 [GBce]2 | [Aca] a/2 g/2 f e/2 d/2 |
+z2 [GBc=e]2 | [Aca] a/2 g/2 f e/2 d/2 | [Ac]2 [^Fc]2 | z/2 d/2 e/2 z5/2 |
+[CA] [CA] [CA]/2 [DB]/2 [Ec]/2 [DB]/2 | [CA]2 [CA]2 :| A A/2 B/2 A/2 z/2 G/2 z/2 | [Ac]2 [Ac]2 |
+A A/2 B/2 A/2 z/2 [Gc]/2 z/2 | [Af]2 [Af]2 | [Af] f/2 _g/2 [=Af] [Af] | f b/2 z/2 [Af]2 |
+z2 A [GB] | [Acf]2 [Acf]2 | z =e2 z | f3 z/2 f/2 |
+[Ac] c/2 d/2 c [GBc=e] | [Acf]2 [Acf]2 | [=eg] g/2 a/2 g [eg] | b a2 g/2 z/2 |
+z =A2 z | z =A2 z | z =A2 z | [=Af]2 [Af]2 |
+[=Ac] c/2 =d/2 c z | [=EB]2 [EB]2 | z =E2 [B,E] | [=A,F]2 [A,F]2 |
+[=Ac] c/2 =d/2 c z | [=EB]2 [EB]2 | z =E2 [B,E] | [=A,F]2 [A,F]2 |
+[=A,F]2 [A,F]2 | [=A,F]4 |]
+V:lh
+F,/2 z/2 [CF]/2 z/2 F,/2 z/2 [CF]/2 z/2 | F,/2 z/2 [CF]/2 z/2 F,/2 z/2 [CF]/2 z/2 |: F, [CF] F, [C_F] | F, [CF] F, [CF] |
+F, [CF] F, [C_F] | F, [CF] F, [CF] | D, [DF] C, [CEF] | B,, [B,DF] F,, [C,F,] |
+C,, [C,F,] C,, [C,_F,] | F,, [C,F,] F,, [C,F,] :: A, [CEA] A, [CEA] | A, [B,EG] A, [B,EG] |
+A, [DEG] A, [DEG] | A, [CEA] A, [CEA] | A, [CEA] A, [CEA] | D, [DF] D, [DF] |
+E, [B,DE] E, [B,DE] | A, [CE] A, [CE] :: C, [C_F] C, [CF] | C, [CF] C, [CF] |
+C, [C_F] C, [CF] | C, [CF] F, [CF] | A,, [A,C] =A,, [_G,C] | B,, [F,B,] D,, [D,F,] |
+E,, [E,A,] E,, [E,G,] | A,, [E,A,] A,, [E,A,] :| F, [CF] F, [C_F] | F, [CF] F, [CF] |
+F, [CF] F, [C_F] | F, [CF] F, [CF] | D, [DF] C, [CEF] | B,, [B,DF] F, [A,CF] |
+C, [CF] C, [C_F] | F, [CF] F, [CF] | B,, [B,D] B,, [B,D] | =B,, [_C=D] B,, [CD] |
+C, [CF] C, [C_F] | F, [CF] F, [CF] | B,, [B,D] B,, [B,D] | =B,, [_C=D] B,, [CD] |
+C, [CF] C, [C_F] | C, [CF] C, [C_F] | C, [CF] C, [CG] | F,, [C,F,] F,, [C,F,] |
+F,, [C,F,] F,, [C,F,] | F,, [C,G,] F,, [C,G,] | F,, [C,G,] F,, [C,G,] | F,, [C,F,] F,, [C,F,] |
+F,, [C,F,] F,, [C,_G,] | F,, [C,G,] F,, [C,G,] | F,, [C,G,] F,, [D,G,] | F,, [C,F,] F,, [C,F,] |
+F,, [C,F,] F,, [C,F,] | [F,,C,F,]4 |]
+V:rh2
+z4 | z4 |: z4 | z4 |
+z4 | z4 | z A z2 | B3/2 z5/2 |
+[Ac]/2 [GB]/2 [FA]/2 [GB]/2 c/2 d/2 c/2 =e/2 | z4 :: z4 | z4 |
+z4 | z4 | z4 | z4 |
+[Gd] G/2 A/2 B A/2 G/2 | z4 :: z4 | z [Ac]3 |
+[GBc]2 z2 | z [Ac]3 | z4 | [Fc]/2 z d/2 [Fd] [Ec]/2 [DB]/2 |
+z4 | z4 :| z4 | z4 |
+z4 | z4 | z A z2 | B3/2 z5/2 |
+[Ac]/2 [GB]/2 [FA]/2 [GB]/2 c/2 d/2 c/2 =e/2 | z4 | [=eg] g/2 a/2 g [eg] | b a2 g/2 z/2 |
+z A2 z | z4 | z =e2 z | f3 z/2 f/2 |
+[=Ac] c/2 =d/2 c [Bd] | [=Ac] c/2 =d/2 c [Bd] | [=Ac] c/2 =d/2 c [B=e] | z4 |
+z =A2 [FA] | z4 | [=EB] B/2 c/2 B z | z4 |
+z =A2 [EA] | z4 | [=EB] B/2 c/2 B z | z4 |
+z4 | z4 |]

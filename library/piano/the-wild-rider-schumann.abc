@@ -1,0 +1,30 @@
+X:1
+T:The Wild Rider
+T:Album for the Young, Op. 68 No. 8
+C:Robert Schumann
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schumann
+%%duets credit: Robert Schumann. Source edition: Philippe Hézaine for the Mutopia Project (Creative Commons Attribution-ShareAlike 2.5).
+%%duets tempo-text: Lively
+%%duets slug: the-wild-rider-schumann
+M:6/8
+L:1/8
+Q:3/8=104
+K:C
+V:S
+E/2 z/2 |: A/2 z/2 E/2 z/2 A/2 z/2 c/2 z/2 A/2 z/2 c/2 z/2 | e c f/2 z/2 e/2 z/2 c/2 z/2 A/2 z/2 | B ^G c/2 z/2 B/2 z/2 _A/2 z/2 E/2 z/2 |
+A/2 z/2 E/2 z/2 c/2 z/2 B/2 z3/2 E/2 z/2 | A/2 z/2 E/2 z/2 A/2 z/2 c/2 z/2 A/2 z/2 c/2 z/2 | e c f/2 z/2 e/2 z/2 c/2 z/2 A/2 z/2 | B ^G c/2 z/2 B/2 z/2 _A/2 z/2 E/2 z/2 |
+[1 A/2 z/2 E/2 z/2 ^G/2 z/2 A/2 z3/2 E/2 z/2 :| [2 A/2 z/2 E/2 z/2 ^G/2 z/2 A/2 z5/2 | [CFA]/2 z5/2 [CFA]/2 z5/2 | [FA]2 [FA] [FA] z2 |
+[EGc]2 [EGc] [EGc] z2 | [FAc]/2 z/2 A/2 z/2 F/2 z/2 [EG]/2 z5/2 | [CFA]/2 z5/2 [CFA]/2 z5/2 | [FA]2 [FA] [FA] z2 |
+[EGc]2 [EGc] [EGc] z2 | [CFA]/2 z3/2 [CG]/2 z/2 F/2 z3/2 E/2 z/2 | A/2 z/2 E/2 z/2 A/2 z/2 c/2 z/2 A/2 z/2 c/2 z/2 | e c f/2 z/2 e/2 z/2 c/2 z/2 A/2 z/2 |
+B ^G c/2 z/2 B/2 z/2 _A/2 z/2 E/2 z/2 | A/2 z/2 E/2 z/2 c/2 z/2 B/2 z3/2 E/2 z/2 | A/2 z/2 E/2 z/2 A/2 z/2 c/2 z/2 A/2 z/2 c/2 z/2 | e c f/2 z/2 e/2 z/2 c/2 z/2 A/2 z/2 |
+B ^G c/2 z/2 B/2 z/2 _A/2 z/2 E/2 z/2 | A/2 z/2 E/2 z/2 ^G/2 z/2 A/2 z5/2 |]
+V:lh
+z |: [A,C]/2 z5/2 [A,CE]/2 z5/2 | [A,CE]2 [A,DF] [A,CE] z2 | [E,^G,B,]2 [E,A,C] [E,G,B,] z2 |
+[A,C]/2 z3/2 [A,C]/2 z/2 [E,^G,B,]/2 z5/2 | [A,C]/2 z5/2 [A,CE]/2 z5/2 | [A,CE]2 [A,DF] [A,CE] z2 | [E,^G,B,]2 [E,A,C] [E,G,B,] z2 |
+[1 [A,C]/2 z3/2 [E,B,]/2 z/2 [A,C]/2 z5/2 :| [2 [A,C]/2 z3/2 [E,B,]/2 z/2 [A,C]/2 z3/2 C,/2 z/2 | F,/2 z/2 C,/2 z/2 F,/2 z/2 A,/2 z/2 F,/2 z/2 A,/2 z/2 | C A, D/2 z/2 C/2 z/2 A,/2 z/2 F,/2 z/2 |
+G, E, A,/2 z/2 G,/2 z/2 E,/2 z/2 C,/2 z/2 | F,/2 z/2 C,/2 z/2 A,/2 z/2 [C,G,]/2 z3/2 C,/2 z/2 | F,/2 z/2 C,/2 z/2 F,/2 z/2 A,/2 z/2 F,/2 z/2 A,/2 z/2 | C A, D/2 z/2 C/2 z/2 A,/2 z/2 F,/2 z/2 |
+G, E, A,/2 z/2 G,/2 z/2 E,/2 z/2 C,/2 z/2 | F,/2 z/2 C,/2 z/2 E,/2 z/2 F,/2 z5/2 | [A,C]/2 z5/2 [A,CE]/2 z5/2 | [A,CE]2 [A,DF] [A,CE] z2 |
+[E,^G,B,]2 [E,A,C] [E,G,B,] z2 | [A,C]/2 z3/2 [A,C]/2 z/2 [E,^G,B,]/2 z5/2 | [A,C]/2 z5/2 [A,CE]/2 z5/2 | [A,CE]2 [A,DF] [A,CE] z2 |
+[E,^G,B,]2 [E,A,C] [E,G,B,] z2 | [A,C]/2 z3/2 [E,B,]/2 z/2 [A,C]/2 z5/2 |]

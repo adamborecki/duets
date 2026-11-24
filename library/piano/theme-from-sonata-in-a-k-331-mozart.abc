@@ -1,0 +1,38 @@
+X:1
+T:Theme from Sonata in A, K. 331
+T:Andante grazioso
+C:Wolfgang Amadeus Mozart
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, mozart
+%%duets credit: Wolfgang Amadeus Mozart. Source edition: Stelios Samelis for the Mutopia Project (Public Domain).
+%%duets tempo-text: Andante grazioso
+%%duets slug: theme-from-sonata-in-a-k-331-mozart
+M:6/8
+L:1/8
+Q:3/8=50
+K:A
+V:S
+|: c3/2 d/2 c e2 e | B3/2 c/2 B d2 d | A2 A B2 B |
+c2 e/2 d/2 [Ac]2 z | c3/2 d/2 c e2 e | B3/2 c/2 B d2 d | A2 B c2 [FBd] |
+[EAc]2 [DEGB] [CEA]2 z :: e3/2 f/2 e f2 f | a3/2 g/2 f f e e/2 z/2 | e c A/2 z/2 e d B/2 z/2 |
+e c A/2 z/2 [Ac]2 [GB] | c3/2 d/2 c e2 e | B3/2 c/2 B d2 d | A2 B c2 [FBd] |
+[EAc]2 [EGB] [GB]2 [Ac] | [EAc]2 [EGd] [EAe]2 f/2 g/4 a/4 | A2 c/2 B/2 z3 :|
+V:lh
+|: E2 [A,E] [CE]2 [CE] | E2 [G,E] [B,E]2 [B,E] | [F,E]2 [F,E] [G,E]2 [G,E] |
+[A,E]2 D, E,3 | E2 [A,E] [CE]2 [CE] | E2 [G,E] [B,E]2 [B,E] | [F,E]2 [G,E] [A,E]2 D, |
+E,2 E,, A,,2 z :: A, C E A, D F | A, D F A, C E | [A,C]2 z [G,D]2 z |
+[A,C]2 [F,^D] [E,E]3 | E2 [A,E] [CE]2 [CE] | E2 [G,E] [B,E]2 [B,E] | [F,E]2 [G,E] [A,E]2 D, |
+E,2 E,, A,,3 | [A,,A,]2 [B,,B,] [C,C]2 [D,D] | [E,C]2 [E,D] [A,C]2 z :|
+V:lh2
+|: A,3/2 B,/2 z4 | G,3/2 A,/2 z4 | z6 |
+z6 | A,3/2 B,/2 z4 | G,3/2 A,/2 z4 | z6 |
+z6 :: z6 | z6 | z6 |
+z6 | A,3/2 B,/2 z4 | G,3/2 A,/2 z4 | z6 |
+z6 | z6 | z6 :|
+V:rh2
+|: z6 | z6 | z6 |
+z2 B z2 [GB] | z6 | z6 | z6 |
+z6 :: z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z3 E3 | z6 | z2 G A2 z :|

@@ -1,0 +1,46 @@
+X:1
+T:Melodious Piece No. 22
+T:Melodische Übungsstücke, Op. 149 No. 22
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Allegretto
+%%duets slug: diabelli-op149-22
+M:2/4
+L:1/8
+Q:1/4=80
+K:A
+V:S
+|: a c' e' d' | c'2 b2 | a c' e' d' |
+c'2 b2 | a b c' e' | b e' c' e' | b e' c' e' |
+b e' d' b :: c' a b c' | e'2 d'2- | d' a/2 z/2 a/2 z/2 b/2 z/2 |
+d'2 c'2- | c' b c' b | e'2 e'2 | e' c' d' b |
+[1 a4 :| [2 a2 z2 | b e' d' b | a4 |
+b e' d' b | a/2 z/2 c'/2 z/2 e'/2 z/2 c'/2 z/2 | a/2 z/2 c'/2 z/2 e'/2 z/2 c'/2 z/2 | a2 z2 |
+c'2 z2 | a4 |]
+V:plh
+|: z4 | A c e d | c2 B2 |
+A c e d | c B A c | e2 [ce]2 | [Be]2 [ce]2 |
+[Be]2 z2 :: c A B c | e2 d2- | d A/2 z/2 A/2 z/2 B/2 z/2 |
+d2 c2- | c B c B | e2 e2 | e c d B |
+[1 A4 :| [2 A e c e | [Bde]2 z2 | A e c e |
+[Bde]2 z2 | A/2 z/2 c/2 z/2 e/2 z/2 c/2 z/2 | A/2 z/2 c/2 z/2 e/2 z/2 c/2 z/2 | A2 z2 |
+[ce]2 z2 | [Ac]4 |]
+V:srh
+|: [A,C] E [G,B,] E | [A,C] E [G,D] E | [A,C] E [G,D] E |
+[A,C] E [G,D] E | [A,C] E C A, | z [G,B,E] z [A,CE] | z [G,B,E] z [A,CE] |
+[G,B,E]2 z2 :: =G A, G A, | F A, F A, | =F A, F A, |
+E A, E A, | [_EF] A, [EF] A, | [B,DE] G, [B,DE] G, | [A,CE] z [G,B,DE] z |
+[1 [CE] A, [CE] A, :| [2 z [A,C]/2 z/2 [CE]/2 z/2 [A,C]/2 z/2 | z [G,DE] [G,DE] [G,DE] | z [A,C]/2 z/2 [CE]/2 z/2 [A,C]/2 z/2 |
+z [G,DE] [G,DE] [G,DE] | [A,C]/2 z/2 E/2 z/2 [A,C]/2 z/2 E/2 z/2 | [A,C]/2 z/2 E/2 z/2 [A,C]/2 z/2 E/2 z/2 | [A,C]2 z2 |
+[A,CE]2 z2 | [E,A,C]4 |]
+V:slh
+|: [A,,E,]4 | [A,,E,]4 | [A,,E,]4 |
+[A,,E,]4 | [A,,E,]4 | [E,,E,] z [A,,E,] z | [E,,E,] z [A,,E,] z |
+[E,,E,]2 z2 :: A,,2 z2 | A,,2 z2 | A,,2 z2 |
+A,,2 z2 | [A,,,A,,]4 | [A,,,A,,]4 | [A,,,A,,] z [E,,E,] z |
+[1 [A,,E,]4 :| [2 A,, z3 | [E,,E,]4 | A,, z3 |
+[E,,E,]4 | A,,2 z (3E,,/2F,,/2G,,/2 | A,,2 z (3E,,/2F,,/2G,,/2 | A,,2 z2 |
+[A,,,A,,]2 z2 | [A,,,A,,]4 |]

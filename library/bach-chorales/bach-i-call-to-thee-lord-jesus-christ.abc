@@ -1,0 +1,34 @@
+X:1
+T:I Call to Thee, Lord Jesus Christ
+T:Ich ruf zu dir, Herr Jesu Christ · BWV 177.5
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, prayer
+%%duets tune: Ich ruf zu dir, Herr Jesu Christ
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 177.5), public domain; score from the music21 corpus.
+%%duets slug: bach-i-call-to-thee-lord-jesus-christ
+M:4/4
+L:1/8
+K:Gm
+V:S
+"D/F#"d2 | "Gm"B2 "Cm/G"A B/2 c/2 "Gm"B A "Gm/Bb"G A | "Gm"B3/2 c/2 "Cm/Eb"c2 "D"!fermata!d2 "Gm"d e | "F7/A"f e "Bb7"d c "Eb"B2 "F7/Eb"c d |
+"Cm"e2- "Cm6"e2 "Gm"!fermata!d2 :| "Bb/D"f2 | "Eb"g2 "F7"f e "D7/F#"d c "Gm"B c | "Bb/F"d e "F7"c2 "Bb"!fermata!B2 d2 |
+"D7/F#"d2 "Gm"d2 "Cm/Eb"c2 "Ebmaj7/D"B A | "Dsus4"A2- "D7"A2 "Eb"!fermata!G4 | "C7/E"B2 "F"A2 "Gm7/Bb"G2- "C7"G2 | "F"!fermata!F2 F2 "Bb7/D"B2 "Eb"B2 |
+"Cm"c2 "Fm/Ab"c2 "G"!fermata!d2 "Cm"e2 | "D"d2 "C/E"c2 "Gm"B A "Gm/Bb"G A | "Gm/D"B2 "D7"A2 "G"!fermata!G2 |]
+V:A
+A2 | G2 ^F2 G F G F | G3 A !fermata!^F2 G2 | F2 F2 G2 F2 |
+E G2 ^F !fermata!G2 :| F B/2 _A/2 | G2 A2 A2 B2 | B c A2 !fermata!F2 F G |
+A c B A G ^F G2 | G2 ^F2 !fermata!G4 | G3 F2 =E/2 D/2 E2 | !fermata!C2 C2 F2 E F |
+G E G F !fermata!G2 G2 | G ^F G A G F G2 | G2 ^F2 !fermata!D2 |]
+V:T
+D2 | D E2 D/2 C/2 D4- | D D C/2 B,/2 A,/2 G,/2 !fermata!A,2 B,2 | C2 B, _A, G,2 =A, =B, |
+C B, A,2 !fermata!B,2 :| B,2 | B, E D C D3 E | F G F E !fermata!D2 B,2 |
+A,2 G,2 C D E2 | D C2 B, !fermata!B,4 | C2 C2 D2 C B, | !fermata!A,2 A,2 B, _A, G, B, |
+E G C2 !fermata!=B,2 C _B, | A,2 G, D D3 E | D3 C !fermata!=B,2 |]
+V:B
+^F,2 | G,5 A, B, A, | G, F, E,2 !fermata!D,2 G,,2 | A,,2 B,,2 E, F, E, D, |
+C,4 !fermata!G,,2 :| D,2 | E,2 F,2 ^F,2 G,2 | F, E, F,2 !fermata!B,,2 B,2 |
+^F,2 G, =F, E,2 D, C, | D,4 !fermata!E,4 | =E,2 F,2 B,,2 C,2 | !fermata!F,,2 F, E, D,2 E, D, |
+C, B,, _A,,2 !fermata!G,,2 C,2 | D,2 =E, ^F, G, A, B, C | D2 D,2 !fermata!G,,2 |]

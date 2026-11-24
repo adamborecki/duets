@@ -1,0 +1,26 @@
+X:1
+T:God of Heaven and of Earth
+T:Gott des Himmels und der Erden · BWV 248.53-5
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, morning
+%%duets tune: Gott des Himmels und der Erden
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 248.53-5), public domain; score from the music21 corpus.
+%%duets slug: bach-god-of-heaven-and-of-earth
+M:4/4
+L:1/8
+K:A
+V:S
+"A"A2 "E/G#"B2 "F#m"c d "C#m"e2 | "Amaj7/C#"A2 "E"G2 "B"F2 "E"!fermata!E2 | "Bm"F2 "E7/B"G2 "A/C#"A2 "E"B2 | "A"c d "E"B2 "A"!fermata!A4 :|
+"A"c2 "F#m7"c2 "E7/G#"B2 "C#m/E"c2 | "D/F#"d2 "A"c B "E"B A !fermata!B2 | "F#7/E"F2 "C#m7"G2 "A/C#"A2 "Bm7"B2 | "A/E"c d "E7"B2 "A"A G !fermata!A2 |]
+V:A
+E2 E2 A3 G- | G F2 E2 ^D !fermata!B,2 | D C B,2 E2 E2 | E F E2 !fermata!E4 :|
+A2 A2 E F G2 | F2 E F G F !fermata!G2 | C D E3 D/2 C/2 F2 | E2 E2 E D !fermata!E2 |]
+V:T
+C2 B,2 A, B, C D | E B, B,2 B,3/2 A,/2 !fermata!G,2 | D C D E A,2 E,2 | A,3 G, !fermata!C4 :|
+E3 ^D E =D C B, | A, B, C ^D E2 !fermata!E2 | ^A, B, B,2 =A,2 A,2- | A, B, G, D C B, !fermata!C2 |]
+V:B
+A,2 G,2 F,2 C, B,, | C, ^D, E,2 B,,2 !fermata!E,2 | B,,3 D, C, B,, A,, G,, | A,, D, E, E,, !fermata!A,,4 :|
+A, G, F,2 G, F, E,2 | F, G, A,2 E,2 !fermata!E,2 | E, D, C, B,, C, F, E, D, | E,2 E,,2 A,,2 !fermata!A,,2 |]

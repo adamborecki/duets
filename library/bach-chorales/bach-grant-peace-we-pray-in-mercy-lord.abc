@@ -1,0 +1,50 @@
+X:1
+T:Grant Peace, We Pray, in Mercy, Lord
+T:Verleih uns Frieden gnädiglich · BWV 42.7
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, reformation
+%%duets tune: Verleih uns Frieden gnädiglich
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 42.7), public domain; score from the music21 corpus.
+%%duets slug: bach-grant-peace-we-pray-in-mercy-lord
+M:4/4
+L:1/8
+K:F#m
+V:S
+"F#m"F2 | "D"F2 "Dmaj7/C#"F2 "C#7"^E2 "D#m7b5"F G | "F#m"A2 "C#7"G2 "F#m"!fermata!F2 A2 | "E/G#"B2 "E"B2 "A"c B "F#m7"A2 |
+"D6"B2- "E"B2 "A"!fermata!c2 | "A"c2 | "F#m7"c2 "G#m7b5"B2 "C#7/E#"c B "F#m"A2 | "B7/D#"B A "E"G2 "B"!fermata!F2 F G |
+"F#m"A2 "D"A2 "Bm"B2 "C#7"A G | "D"F2- "Bm"F2 "F#m"!fermata!F2 | "E"B2 | "A"c2 "E/G#"B2 "Bm"F G "F#m/A"A2 |
+"C#sus4"G F "C#7"G2 "F#m"!fermata!F2 F2 | "F#m/A"F2 "C#m"E2 "Dmaj7/C#"A2 "G#dim"B2 | "A"c B "F#m"A2 "D6"B2 "E"B2 | "A"!fermata!c4 |
+"G#dim/B"d4 | "A/C#"c2 "D"B c/2 d/2 "Esus4"B2- "E7"B A | "A"!fermata!A6 "C#/E#"c2 | "F#m"c B A2 "G#m7b5"B c "Bm"d2 |
+"F#m"!fermata!c4 "E"e2 "A/E"c2 | "E7"d2 "A/E"c B c2 c2 | "E7"d2 "F#m"c d "E7/G#"e d "A"c2 | "D6"B2- "E7"B2 "A"!fermata!A4 |
+"A"c2 c2 "D"A2 "Bm/D"B2 | "F#m"A2 "E/G#"G2 "Bsus4"!fermata!F2- "Bm"F2 | "C#m"E2 "Dmaj7/C#"F G "A"A2 "Bm"F2 | "D"!fermata!F6 "A"E2 |
+"F#m/A"F2 "C#7"G2 "F#m"A2 "E7/B"G2 | "D"F2- "G#m7/B"F2- "Bm"F2 "C#7"^E2 | "F#"!fermata!F6 |]
+V:A
+C2 | D2 D2 C4 | C F F ^E !fermata!C2 F2 | E F G2 A4 |
+A G/2 F/2 G2 !fermata!A2 | A2 | A2 ^E F G2 F2 | F2 E2 !fermata!^D2 D ^E |
+F2 F2 G F ^E2 | F E D2 !fermata!C2 | E2 | E2 E2 D E F2 |
+F2 ^E2 !fermata!C2 C2 | C2 E2 D2 D2 | C2 C2 F2 E2 | !fermata!E4 |
+B4 | E2 F2 E2 E2 | !fermata!E6 G2 | A G F2 F2 F ^E |
+!fermata!F4 G B B A | A G A G A B c2 | c B A2 E2 E2 | F2 E D !fermata!C4 |
+E2 E2 F2 F2 | F2 E2 E2 !fermata!D2 | C2 D2 E2 D2 | !fermata!D6 C2 |
+C6 D E | F2 G A D2 C2 | !fermata!C6 |]
+V:T
+A,2 | A,2 A,2 G, B, A, G, | F,2 C B, !fermata!A,2 C2 | B,2 E2 E3 D/2 C/2 |
+B,2 E2 !fermata!E2 | E2 | E D D2 C2 C2 | B,2 B,2 !fermata!B,2 B,2 |
+C2 D2 D2 C B, | A, ^A, B,2 !fermata!=A,2 | G,2 | A,2 B, C D2 C2 |
+C3 B, !fermata!A,2 A,2 | A,2 G,2 F,2 G,2 | A, G, A,2 A,2 G,2 | !fermata!A,4 |
+G,4 | A,2 A,2 A, F, G, D | !fermata!C6 C2 | F3 E D C B, G, |
+!fermata!A,4 B,2 E2 | E2 E D C B, A, G, | F, G, A,2 B,2 A,2 | A,2 G,2 !fermata!E,4 |
+A,2 A,2 A,2 D2 | C2 B,2 !fermata!B,4 | G,2 A, B, C2 B,2 | !fermata!A,6 A, G, |
+F,2 B,2 A,2 B,2 | A,2 G, F, G, A, B,2 | !fermata!^A,6 |]
+V:B
+F, E, | D,2 C, B,, C,2 ^D, ^E, | F, B,, C,2 !fermata!F,,2 F,2 | G,2 F, E, A, G, F, E, |
+D,2 E,2 !fermata!A,,2 | A, G, | F,2 G, F, ^E,2 F, =E, | ^D,2 E,2 !fermata!B,,2 B,2 |
+F, E, D, C, B,,2 C,2 | D,2 C, B,, !fermata!F,2 | E,2 | A,2 G, A, B,2 A, B, |
+C2 C,2 !fermata!F,2 F,, G,, | A,, B,, C,3 D, C, B,, | A,, ^E, F, C, D, B,, =E,2 | !fermata!A,,4 |
+B,,4 | C,2 D,2 E,2 E,,2 | !fermata!A,,6 ^E,2 | F,3 F, G, ^A, B,2 |
+!fermata!F,4 E,2 E,2 | E,8- | E,2 F,2 G,2 A,2 | D,2 E,2 !fermata!A,,4 |
+A,, B,, C, A,, D, C, D, E, | F,2 G, A, !fermata!B,4 | C,3 B,, A,,2 B,, C, | !fermata!D,6 A,,2 |
+A,, G,, F,, ^E,, F,, F, B,, C, | D, C, B,, A,, B,,2 C,2 | !fermata!F,,6 |]

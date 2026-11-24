@@ -1,0 +1,42 @@
+X:1
+T:The Poor Orphan
+T:Album for the Young, Op. 68 No. 6
+C:Robert Schumann
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schumann
+%%duets credit: Robert Schumann. Source edition: Philippe Hézaine for the Mutopia Project (Creative Commons Attribution-ShareAlike 2.5).
+%%duets tempo-text: Slowly
+%%duets slug: the-poor-orphan-schumann
+M:2/4
+L:1/8
+Q:1/4=76
+K:Am
+V:S
+A/2 B/2 | [Ac]/2 z/2 [_AB]/2 z/2 =A/2 z/2 A/2 B/2 | [Ac]/2 z/2 [Bd]/2 z/2 [ce]/2 z/2 e3/4 f/4 | [eg]2 [df]2 |
+B3 A/2 B/2 | [Ac]/2 z/2 [_AB]/2 z/2 =A/2 z/2 A/2 B/2 | [Ac]/2 z/2 [Bd]/2 z/2 [ce]/2 z/2 e3/4 f/4 |: [eg]2 [df]2 |
+B3/2 c/2 z2 | [EB]/2 z/2 [Ec]/2 z/2 [Ed]/2 z/2 f/2 z/2 | e/2 z/2 [Ec]/2 z/2 [EB] [E^G]/2 [EA]/2 | [EB]/2 z/2 [Ec]/2 z/2 [Ed]/2 z/2 [Af]/2 z/2 |
+[_AB]3 [E=A]/2 [^GB]/2 | [Ac]/2 z/2 [_AB]/2 z/2 =A/2 z/2 A/2 B/2 | [Ac]/2 z/2 [Bd]/2 z/2 [ce]/2 z/2 e/2 f/2 | [eg]2 [df]2 |
+B3 A/2 B/2 | [Ac]/2 z/2 [_AB]/2 z/2 =A/2 z/2 A/2 B/2 | [Ac]/2 z/2 [Bd]/2 z/2 [ce]/2 z/2 e/2 f/2 :| [eg]2 [df]2 |
+B3/2 c/2 z2 |]
+V:lh
+z | [A,E]/2 z/2 [E,D]/2 z/2 [A,C]/2 z3/2 | [A,E]/2 z/2 [G,G]/2 z/2 [CG]/2 z3/2 | [Cc]2 B3/2 A/2 |
+[E_A]3 z | [A,E]/2 z/2 [E,D]/2 z/2 [A,C]/2 z3/2 | [A,E]/2 z/2 [G,G]/2 z/2 [CG]/2 z3/2 |: [Cc]2 B3/2 A/2 |
+z3/2 D/2 [A,C] E,/2 ^F,/2 | ^G,/2 z/2 A,/2 z/2 B,/2 z/2 [DE]/2 z/2 | [CE]/2 z/2 [A,C]/2 z/2 [_A,B,] E,/2 ^F,/2 | ^G,/2 z/2 A,/2 z/2 B,/2 z/2 E |
+E5/2 z3/2 | z [E,D]/2 z/2 [A,C]/2 z3/2 | [A,E]/2 z/2 [G,G]/2 z/2 [CG]/2 z3/2 | [Cc]2 B3/2 A/2 |
+[E_A]3 z | [A,E]/2 z/2 [E,D]/2 z/2 [A,C]/2 z3/2 | [A,E]/2 z/2 [G,G]/2 z/2 [CG]/2 z3/2 :| [Cc]2 B3/2 A/2 |
+z3/2 D/2 [A,C] z |]
+V:lh2
+z | z4 | z4 | z2 D2 |
+z4 | z4 | z4 |: z2 D2 |
+E2 z2 | z4 | z4 | z3 C/2 D/2 |
+z5/2 D/2 C/2 B,/2 | A,/2 z7/2 | z4 | z2 D2 |
+z4 | z4 | z4 :| z2 D2 |
+E2 z2 |]
+V:rh2
+z | z4 | z4 | z4 |
+z4 | z4 | z4 |: z4 |
+^G2 A [EG]/2 [EA]/2 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 :| z4 |
+^G2 A z |]

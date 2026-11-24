@@ -1,0 +1,42 @@
+X:1
+T:Melodious Piece No. 18
+T:Melodische Übungsstücke, Op. 149 No. 18
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Andante cantabile
+%%duets slug: diabelli-op149-18
+M:4/4
+L:1/8
+Q:1/4=70
+K:F
+V:S
+|: d'4 f'3 e' | d'3 f'/2 e'/2 d'2 z2 | e'3 e' g' f' e' d' |
+e'3 g'/2 f'/2 e'2 z2 | f'4 f'2 f'2 | f'3 g' f'2 z2 | f' g'/2 f'/2 e' f' a'3 g' |
+[1 f'2 z2 a'3 g'/2 e'/2 :| [2 f'2 z6 |: e'4 g'3 f' | e'3 f' e'2 z2 |
+a'3 g' g' f' e' d' | e'4 z4 | d'4 f'3 e' | d'3 e' d'2 z2 |
+a'5 g'/2 z/2 f'/2 z/2 e'/2 z/2 | [1 d'4 z4 :| [2 d'2 z2 e' g' f' e' | d'3 f' e' g' f' e' |
+d'2 e'3/2 f'/2 d'2 e'3/2 f'/2 | d'2 z2 d'2 d'2 | d'8 |]
+V:plh
+|: d4 f3 e | d3 f/2 e/2 d2 z2 | e3 e g f e d |
+e3 g/2 f/2 e2 z2 | f4 f2 f2 | f3 g f2 z2 | f g/2 f/2 e f a3 g |
+[1 f2 z2 a3 g/2 e/2 :| [2 f2 z6 |: e4 g3 f | e3 f e2 z2 |
+a3 g g f e d | e4 z4 | d4 f3 e | d3 e d2 z2 |
+a5 g/2 z/2 f/2 z/2 e/2 z/2 | [1 d4 z4 :| [2 d2 z2 e g f e | d3 f e g f e |
+d2 e3/2 f/2 d2 e3/2 f/2 | d2 z2 [df]2 [df]2 | [df]8 |]
+V:srh
+|: F, A, D A, G, A, _D A, | F, A, D A, F, A, D A, | G, A, E A, F, A, D A, |
+E, A, _D A, E, A, D A, | F, A, D A, F, A, _E A, | F, B, D B, F, ^G, D _A, | F, A, C A, E, B, C B, |
+[1 F, A, C A, G, A, _D A, :| [2 F, A, C A, [G,_D] A, [F,=D] A, |: G, A, E A, F, A, D A, | E, A, _D A, E, A, D A, |
+G, A, E A, F, A, D A, | E, A, _D A, E D A, G, | F, A, D A, G, A, _D A, | F, ^G, D G, [F,D] A, [F,D] _C |
+F, A, D A, G, A, _D A, | [1 [F,A,D]8 :| [2 F, A, D A, G, B, _D B, | F, A, D A, G, B, _D B, |
+[F,D] A, [G,_D] B, [F,=D] A, [G,_D] B, | F, A, D A, F, A, D A, | [F,A,D]8 |]
+V:slh
+|: D,2 z2 A,,2 z2 | D, z A,, z F,, z D,, z | _D,,2 A,,,2 =D,,2 F,,2 |
+A,,2 E,,2 _D,,2 A,,,2 | D,,2 D,2 C,,2 C,2 | B,,,2 B,,2 =B,,,2 _C,2 | C,,2 C,2 C,,2 C,2 |
+[1 F,,2 z2 E,, z A,, z :| [2 F,,2 z2 E,,2 D,,2 |: _D,, z A,,, z =D,, z F,, z | A,,2 E,,2 _D,,2 A,,,2 |
+_D,,2 A,,,2 =D,,2 F,,2 | A,,4 z4 | D,2 z2 A,,2 z2 | B,,4 A,,2 ^G,,2 |
+A,,4 A,,,4 | [1 D,, A,, ^G,, A,, F,, A,, D,, A,, :| [2 [D,,A,,]4 [D,,B,,]4 | [D,,A,,]4 [D,,B,,]4 |
+[D,,A,,]2 [D,,B,,]2 [D,,A,,]2 [D,,B,,]2 | [D,,A,,]4 A,,2 F,,2 | D,,8 |]

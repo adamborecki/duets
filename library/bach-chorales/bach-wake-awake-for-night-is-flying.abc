@@ -1,0 +1,38 @@
+X:1
+T:Wake, Awake, for Night Is Flying
+T:Wachet auf, ruft uns die Stimme · BWV 140.7
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, advent, end-times
+%%duets tune: Wachet auf, ruft uns die Stimme
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 140.7), public domain; score from the music21 corpus.
+%%duets slug: bach-wake-awake-for-night-is-flying
+M:4/4
+L:1/8
+K:Eb
+V:S
+"Eb"E2 G2 B2- "Bb7"B B | "Eb/G"B2 "Bb"B2 "Cm7/Eb"c2- "F"c2 | "Bb"!fermata!B4 z2 B2 | "Eb/G"e2 B2 "Eb"e f g2 |
+"Bb/D"f2 "F7"e2 "Bb"d2 "F"c2 | "Bb"!fermata!B4 "Eb7/Db"z2 B2 | "Ab/C"e2 "Eb7"B2 "Ab"c2 "Cm"G2 | "Fm7"A G "Bb7"F2 "Eb"!fermata!E2 :|
+"Bb/D"B2 | "Eb"B2- "Fm"B A "Eb/G"G2 "Bb7"F2 | "Cm7"!fermata!E4 z2 B2 | "Bb/D"B2- "Bb7"B A "Eb"G2 "Fm7/Ab"F2 |
+"Eb"!fermata!E4 "Bb7/Ab"z2 F2 | "Eb/G"G2 "Fm7"A2 "Eb"!fermata!G2 B2 | "Am7b5"c2 "G7/B"d2 "Cm"!fermata!e2 e f | "Eb/G"g2 "Bb7"f2 "Cm"!fermata!e2 "Eb"B2 |
+"Eb/G"e2 B2 "Ab"c2 "Cm"G2 | "Fm7"A G "Bb7"F2 "Eb"!fermata!E4 |]
+V:A
+B,2 E2 G2 F2 | G2 F2 G2 F2 | !fermata!F4 z2 F2 | B3 A G A B2 |
+B2 c3 B2 =A | !fermata!F4 z2 G2 | A2 G2 E2 E2 | E2 D2 !fermata!B,2 :|
+F2 | G3 F B, C D2 | !fermata!C4 z2 D E | F2 F3 E2 D |
+!fermata!B,4 z2 D2 | E3 D !fermata!E2 G2- | G F2 G !fermata!G2 G A | B3 A !fermata!G2 G A |
+B A B G A2 E2 | E2 D2 !fermata!B,4 |]
+V:T
+G,2 B,2 E2 D2 | E2 B,2 B,2 =A,2 | !fermata!D4 z2 D2 | E2 E2 B,2 E2 |
+F2 F2 F3 C | !fermata!D4 z2 E2 | E3 _D C2 C2 | C B, A,2 !fermata!G,2 :|
+B,2 | E D C D E2 B, A, | !fermata!G,4 z2 B,2 | B, C D2 B, C2 B, |
+!fermata!G,4 z2 B,2 | B,2 C A, !fermata!B,2 E2 | E2 D2 !fermata!C2 E2 | E2 D2 !fermata!E2 E2 |
+B,2 E2 E3 C | C B, A,2 !fermata!G,4 |]
+V:B
+E,5 G, B, A, | G, F, E, D, E, C, F,2 | !fermata!B,,4 z2 B, A, | G, A, G, F, E,2 E2 |
+D C B, =A, B,2 F,2 | !fermata!B,,4 z2 E, _D, | C, D, E,2 A,, B,, C,2 | F,,2 B,,2 !fermata!E,,2 :|
+D,2 | E,2 F,2 G, A, B, B,, | !fermata!C,4 z2 G,2 | D, C, B,,2 E, C, A,, B,, |
+!fermata!E,4 z2 B, A, | G,2 F,2 !fermata!E,2 E2 | =A,2 =B,2 !fermata!C2 C2 | G, A, B,2 !fermata!C,2 E, F, |
+G, F, G, E, A,, B,, C,2 | F,,2 B,,2 !fermata!E,,4 |]

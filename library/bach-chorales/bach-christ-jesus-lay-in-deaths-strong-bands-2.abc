@@ -1,0 +1,34 @@
+X:1
+T:Christ Jesus Lay in Death's Strong Bands (II)
+T:Christ lag in Todesbanden · BWV 4.8
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, easter
+%%duets tune: Christ lag in Todesbanden
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 4.8), public domain; score from the music21 corpus.
+%%duets slug: bach-christ-jesus-lay-in-deaths-strong-bands-2
+M:4/4
+L:1/8
+K:Em
+V:S
+"Dm"A2 | "E7"^G2 "Am/C"A B "Am"c2 "E7/G#"d2 | "Am"c2 "E7"B2 "A"!fermata!A2 A2 | "Dm"=F2 "Am7/E"G2 "F"A2 "Dm"G F |
+"Gm"E D "A7"E2 "Dm"!fermata!D2 :| "Dm"D E =F2 "Gm/Bb"G2 "Gm"D E | "Dm"=F2 "C/E"G2 "F"!fermata!A2 A2 | "Dm"d2 "C#dim/E"^c2 "D7/F#"d2 "E7/G#"e d |
+"Am"c2 "E7"B2 "Am"!fermata!A2 | "Bdim/D"B2 | "C"c2 "F"A _B "F/A"c2 "C7"G2 | "Dm"=F2 "A7"E2 "Bb"!fermata!D4 |
+"F"A2 "A7/C#"G2 "Dm"=F2- "Bb"F2 | "Gm6"E2- "A7"E2 "D"!fermata!D4 |]
+V:A
+=F2 | E2 E2 E2 E2 | E2 E D !fermata!^C2 E2 | D2 C2 C ^C D2 |
+D2 ^C2 !fermata!A,2 :| A,2 D2 D3 ^C | D2 C2 !fermata!C2 =F G | A2 G2 A2 E2 |
+E2 E D !fermata!C2 | D2 | E2 C2 =F2 E2- | E D2 ^C !fermata!D4 |
+C D E3 ^C D2- | D2 ^C2 !fermata!A,4 |]
+V:T
+D C | B,2 C ^G, A,2 B,2 | A,2 ^G,2 !fermata!E,2 A,2 | A, _B, A, G, =F, G, A,2 |
+_B,2 E, G, !fermata!=F,2 :| =F, G, A,2 G, A, _B,2 | A,2 G,2 !fermata!=F,2 C2 | =F2 E2 D C B,2 |
+A,2 ^G,2 !fermata!E,2 | =F,2 | G,2 =F,2 F,2 C _B, | A,2 G,2 !fermata!=F,4 |
+=F,2 E, A, A,2 _B,2- | _B,2 A, G, !fermata!F,4 |]
+V:B
+D,2 | E, D, C, B,, A,,2 ^G,,2 | A,,2 E,,2 !fermata!A,,2 ^C,2 | D,2 E,2 =F, E, D,2 |
+G,, A,,/2 _B,,/2 A,,2 !fermata!D,,2 :| D,3 C, _B,, A,, G,,2 | D,2 E,2 !fermata!=F,2 F, E, | D,2 E,2 F,2 ^G,2 |
+A,2 E,2 !fermata!A,,2 | D,2 | C,2 =F,2 A,, _B,, C,2 | D,2 A,,2 !fermata!_B,,4 |
+=F,2 ^C,2 D,2 _B,,2 | G,,2 A,,2 !fermata!D,,4 |]

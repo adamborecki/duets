@@ -1,0 +1,35 @@
+X:1
+T:The Happy Farmer
+T:Album for the Young, Op. 68 No. 10
+C:Robert Schumann
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schumann
+%%duets credit: Robert Schumann. Source edition: Philippe Hézaine for the Mutopia Project (Creative Commons Attribution-ShareAlike 2.5).
+%%duets tempo-text: Fresh and cheerful
+%%duets slug: the-happy-farmer-schumann
+M:4/4
+L:1/8
+Q:1/4=108
+K:F
+V:S
+z | z [CFA] [CFA] z2 [FAc] [FAc] z | z [FBd] [Bd] z2 [FAc] [FAc] z | z [B,CE] [B,CE]2 z [CFA] [CFA]2 |
+z [CG] z [FG=B] z [EGc] [EGc]2 | z [CFA] [CFA] z2 [FAc] [FAc] z | z [FBd] [Bd] z2 [FAc] [FAc] z | z [EBc] [EBc]2 z [CFA] [CFA]2 |
+z [CG] z [FG=B] z [EGc] [EGc] C | B3 A G3 z | B A/2 z/2 G/2 z/2 F/2 z/2 G3 z | F3 A c3 z |
+B [FBd] f [FBd] c3 z | z [EBc] [EBc]2 z [CFA] [CFA] [CFA] | z [DG] z [B,C] z [A,CF] [A,CF] C | B3 A G3 z |
+B A/2 z/2 G/2 z/2 F/2 z/2 G3 z | F3 A c3 z | B [FBd] f [FBd] c3 z | z [EBc] [EBc]2 z [CFA] [CFA] [CFA] |
+z [DG] z [B,C] z [A,CF] [A,CF] z |]
+V:lh
+C, | F,3 A, C3 F, | B, D F D C3 A, | B, G, C, B, A, F, C, A, |
+E,2 D,2 C,2 z C, | F,3 A, C3 F, | B, D F D C3 A, | B, G, C, B, A, F, C, A, |
+E,2 D,2 C,2 z C, | G,3 F, E,3 C, | G, F,/2 z/2 E,/2 z/2 D,/2 z/2 E,3 C, | F,3 A, C3 F, |
+B, D F D C3 A, | B, G, C, B, A, F, C, A, | [B,,G,]2 [C,E,]2 F,2 z C, | G,3 F, E,3 C, |
+G, F,/2 z/2 E,/2 z/2 D,/2 z/2 E,3 C, | F,3 A, C3 F, | B, D F D C3 A, | B, G, C, B, A, F, C, A, |
+[B,,G,]2 [C,E,]2 F,2 z2 |]
+V:rh2
+z | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z [CE] [CE] z2 [B,C] [B,C] C | z C C =B, z C C C | z [A,C] [A,C] z2 [FA] [FA] F |
+z5 [FA] [FA] z | z8 | z8 | z [CE] [CE] z2 [B,C] [B,C] C |
+z C C =B, z C C C | z [A,C] [A,C] z2 [FA] [FA] F | z5 [FA] [FA] z | z8 |
+z8 |]

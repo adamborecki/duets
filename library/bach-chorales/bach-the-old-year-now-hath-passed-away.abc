@@ -1,0 +1,34 @@
+X:1
+T:The Old Year Now Hath Passed Away
+T:Das alte Jahr vergangen ist · BWV 288
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, newyear
+%%duets tune: Das alte Jahr vergangen ist
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 288), public domain; score from the music21 corpus.
+%%duets slug: bach-the-old-year-now-hath-passed-away
+M:4/4
+L:1/8
+K:Am
+V:S
+"A7"A2 | "Dm/F"A2 "Gm"G F "A7/G"E2 "Dm/F"A2 | "Gm/Bb"G2 "A"E2 "Dm"!fermata!F2 A2 | "Bbmaj7"A2 "G7/B"G F "C"E2 "F/C"A2 |
+"C7"G2 "A/C#"E2 "Dm"!fermata!F2 A2 | "G#dim7"B2 "A7/G"^c2 "D/F#"d2 "F"A B | "Am/E"c2 "E7"B2 "A"!fermata!A2 "Bdim/D"B2 | "C"c2 "G7/D"B2 "F"A2 "F#dim7"A2 |
+"Gm"G F "A/C#"E2 "Dm"!fermata!F2 "G/B"G2 | "C"G2 "D7/C"A2 "G7/B"G F "A/C#"E2 | "Dm"F2 "Dm/F"F2 "A"!fermata!E2 "B7/D#"B2 | "Am/E"c2 "E7"B2 "Am/C"A2 "Am"E2 |
+"F#m7b5"A2 "B7"A2 "E"!fermata!^G2 |]
+V:A
+E2 | F2 E D ^C2 D2 | D E D ^C !fermata!D2 D2 | D5 C C F- |
+F E/2 D/2 E ^C !fermata!D2 F2 | F E E D D2 C D | E3 D !fermata!^C2 D2 | E2 D2 C D _E2 |
+D2 E2 !fermata!D2 D E/2 F/2 | E2 D C D2 E2- | E ^C D2 !fermata!C2 ^F2 | E ^F ^G A/2 B/2 E3 E |
+E2 ^D2 !fermata!E2 |]
+V:T
+^C2 | D C _B, G, A,2 A, F, | D, _B, A,2 !fermata!A,2 F,2 | F, D, G,3 E, F, A, |
+C _B, B, A, !fermata!A,2 D2 | D2 A,2 A, ^G, A,2 | A,2 ^G,2 !fermata!E,2 F,2 | G, E, F, G, A, _B, C2 |
+_B, A, B, A, !fermata!A,2 G,2 | C E, ^F, G,/2 A,/2 D,2 A,2 | A,2 A,2 !fermata!A,2 A,2 | ^G, A, B,2 C D C B, |
+C A, ^F, B, !fermata!B,2 |]
+V:B
+A, G, | F, D, G,3 E, F, D, | _B,, G,, A,,2 !fermata!D,2 D, C, | _B,,2 =B,,2 C,4- |
+C, E, ^C, A,, !fermata!D,2 D2 | ^G,2 =G,2 ^F,2 =F,2 | E, D, E,2 !fermata!A,,2 D,2 | C,2 D, E, F,2 ^F,2 |
+G,2 ^C,2 !fermata!D,2 B,,2 | C,3 A,, B,,2 ^C,2 | D, E, F, G, !fermata!A,2 ^D,2 | E,3 D, C, B,, A,, G,, |
+^F,,2 B,,2 !fermata!E,2 |]

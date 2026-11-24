@@ -1,0 +1,38 @@
+X:1
+T:Christ, Who Makes Us Blessed
+T:Christus, der uns selig macht · BWV 245.15
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, lent, good-friday
+%%duets tune: Christus, der uns selig macht
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 245.15), public domain; score from the music21 corpus.
+%%duets slug: bach-christ-who-makes-us-blessed
+M:4/4
+L:1/8
+K:Am
+V:S
+"E"e2 e2 "Am"e2 "Em/G"e2 | "Dm/F"d2 "Fmaj7/E"c2 "E"!fermata!B4 | "Am"c2 "Gm"d2 "C#dim7"e2 "A/C#"e2 | "Dm"d2 "Am"c2 "E"!fermata!B4 |
+"Am"A2 "E/G#"B2 "Am"c2 "F"A2 | "A7/C#"A G "Dm"F2 "A"!fermata!E4 | "Dm"F2 "C"G2 "F7"A2 "D7/F#"A2 | "Gm"G2 "Ddim/G#"F2 "A"!fermata!E4 |
+"Dm/F"A2 "E7"^G2 "Am/C"A2 "Bm"B2 | "Am"c2 "G/B"B2 "D"!fermata!A4 | "Cm/Eb"c2 "Gm/D"d2 "A7/C#"e2 "Dm"e2 | "Dm/F"d2 "Am"c2 "G"!fermata!B4 |
+"D7/F#"A2 "E/G#"B2 "Am"c2 A2 | "A7/C#"A G "Dm"F2 "A"!fermata!E4 | "Dm"F2 "C"G2 "F"A2 "F/A"A2 | "C"G2 "Dm"F2 "E7"E2- "Am/E"E2- |
+"E"!fermata!E8 |]
+V:A
+^G2 G2 A2 B2 | A2 A2 !fermata!^G4 | E ^F G2 G2 =F E | F2 E2 !fermata!E4 |
+E2 E2 E2 F2 | E2 D2 !fermata!^C4 | D2 E2 _E2 D2 | D4 !fermata!^C4 |
+D2 E2 E2 ^F ^G | A2 G2 !fermata!^F4 | G2 G2 G2 F2 | F2 E ^F !fermata!G4 |
+A2 E2 E2 E2 | A,2 D2 !fermata!^C4 | D2 E2 F2 F2 | E2 D4 C2 |
+!fermata!B,8 |]
+V:T
+B,2 B,2 C2 B, C | D E F2 !fermata!B,4 | A,2 _B,2 B,2 A,2 | A,4 !fermata!^G,4 |
+C2 B,2 A, B, C D | E2 A,2 !fermata!A,4 | A,2 C2 C2 C2 | _B, C D2 !fermata!A,4 |
+A,2 B,2 C2 D2 | E2 D2 !fermata!D4 | C2 _B,2 A,2 A,2 | A, B, C2 !fermata!D4 |
+D C B,2 A, B, C D | E2 A,2 !fermata!A,4 | A,2 C2 C2 C2 | C B, A,2 ^G,2 A,2 |
+!fermata!^G,8 |]
+V:B
+E,2 E,2 A,2 G,2 | F,2 E, D, !fermata!E,4 | A,2 G,2 ^C,2 C,2 | D,2 A,,2 !fermata!E,4 |
+A,2 ^G,2 A,2 F,2 | ^C,2 D,2 !fermata!A,,4 | D,2 C,2 F,,2 ^F,,2 | G,,2 ^G,,2 !fermata!A,,4 |
+F,2 E, D, C,2 B,,2 | A,,2 B,, C, !fermata!D,4 | _E,2 D,2 ^C,2 D, =E, | F, G, A,2 !fermata!G,4 |
+^F,2 ^G,2 A,2 A,, B,, | ^C,2 D,2 !fermata!A,,4 | D,2 C,2 F,, G,, A,, B,, | C,2 D,2 E,4- |
+!fermata!E,8 |]

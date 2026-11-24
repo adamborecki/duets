@@ -1,0 +1,56 @@
+X:1
+T:Little Study
+T:Album for the Young, Op. 68 No. 14
+C:Robert Schumann
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schumann
+%%duets credit: Robert Schumann. Source edition: Philippe Hézaine for the Mutopia Project (Creative Commons Attribution-ShareAlike 2.5).
+%%duets tempo-text: Softly and evenly
+%%duets slug: little-study-schumann
+M:6/8
+L:1/8
+Q:3/8=72
+K:G
+V:S
+|: z3 B G D | z3 c G E | z3 e c A |
+z3 d B G | z3 g d B | B, ^D G _e B G | C E G e c G |
+B, C E c G E | z3 A E C | z3 A E C | z3 c A D |
+z3 B =F D | z3 A E C | z3 E A, G, | [1 z3 A D C |
+z3 D F ^A :| [2 z3 A D C | z3 A D C |: z3 A D C |
+z3 G D C | z3 F D C | z3 E C G, | z3 c D C |
+z3 _A D B, | z3 A D C | z3 B G =F | C E G e c G |
+C ^D F A F _E | B, D G d B G | ^A, ^C E G E C | z3 F D C |
+z3 G D C | z3 A D C | G3 A3 | z3 B G D |
+z3 c G E | z3 e c A | z3 d B G | z3 g d B |
+B, ^D G _e B G | C E G e c G | z3 B _A D | z3 c A E |
+z3 _A E D | z3 A E C | z3 E A, G, | z3 A D C |
+z3 B D C | z3 G D B, | z6 :|
+V:lh
+|: G, B, D z3 | G, C E z3 | G, C F z3 |
+G, B, G z3 | G, B, G z3 | z6 | z6 |
+z6 | A, C E z3 | G, C E z3 | F, A, D z3 |
+^G, B, D z3 | A, C E z3 | C, G, A, z3 | [1 D, F, A, z3 |
+D, F, _B, z3 :| [2 D, G, A, z3 | D, F, A, z3 |: D, F, C z3 |
+D, E, C z3 | D, A, C z3 | D, G, C z3 | D, F, C z3 |
+D, ^E, B, z3 | D, F, C z3 | D, ^E, B, z3 | z6 |
+z6 | z6 | z6 | A, C D z3 |
+G, C D z3 | F, C D z3 | E,3 F,3 | G, B, D z3 |
+G, C E z3 | G, C F z3 | G, B, G z3 | G, B, G z3 |
+z6 | z6 | B, D E z3 | A, C E z3 |
+B, D E z3 | C, E, A, z3 | ^C, G, A, z3 | D, G, C z3 |
+D, F, C z3 | G, B, D z3 | G,, z5 :|
+V:rh2
+|: z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | [1 z6 |
+z6 :| [2 z6 | z6 |: z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z D C z D C | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 :|

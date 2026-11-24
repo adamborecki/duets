@@ -95,13 +95,18 @@ def _harmony(el) -> Optional[Chord]:
 
 def read_musicxml(path: Path) -> Tune:
     root = _read_xml(path)
+    title = (root.findtext("movement-title") or root.findtext("work/work-title") or Path(path).stem).strip()
+    tune = _tune_from_root(root, title)
+    composers = [c.text.strip() for c in root.findall("identification/creator") if c.text]
+    tune.composer = ", ".join(composers)
+    return tune
+
+
+def _tune_from_root(root: ET.Element, title: str) -> Tune:
     part = root.find("part")
     if part is None:
         raise ValueError("no part")
-    title = (root.findtext("movement-title") or root.findtext("work/work-title") or Path(path).stem).strip()
     tune = Tune(title=title)
-    composers = [c.text.strip() for c in root.findall("identification/creator") if c.text]
-    tune.composer = ", ".join(composers)
     divisions = 1
     key_set = False
     meter = Meter(4, 4)
@@ -347,3 +352,26 @@ def infer_minor(tune: Tune) -> None:
     if votes >= 3:
         tonic = tune.key.scale()[5]
         tune.key = Key(tonic.in_octave(4), "minor")
+
+
+def read_musicxml_parts(path: Path) -> tuple:
+    """Read every part of a score.  Returns (title, composer, [Tune per part],
+    [part names]); each Tune holds that part's top line as its melody."""
+    root = _read_xml(path)
+    names = {}
+    for sp in root.findall("part-list/score-part"):
+        names[sp.get("id")] = (sp.findtext("part-name") or "").strip()
+    title = (root.findtext("movement-title") or root.findtext("work/work-title") or Path(path).stem).strip()
+    composers = [c.text.strip() for c in root.findall("identification/creator") if c.text]
+    tunes = []
+    part_names = []
+    for part in root.findall("part"):
+        solo = ET.Element("score-partwise")
+        solo.append(part)
+        try:
+            t = _tune_from_root(solo, title)
+        except ValueError:
+            continue
+        tunes.append(t)
+        part_names.append(names.get(part.get("id"), ""))
+    return title, ", ".join(composers), tunes, part_names
