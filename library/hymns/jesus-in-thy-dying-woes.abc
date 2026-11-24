@@ -1,0 +1,30 @@
+X:1
+T:Jesus, In Thy Dying Woes
+T:WORDS ON THE CROSS - THE LITANY
+C:William H. Monk, 1889
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: good-friday, easter
+%%duets tune: WORDS ON THE CROSS - THE LITANY
+%%duets year: 1889
+%%duets credit: Tune and setting: public domain ("A Hymnal" (Episcopal), 1916), via the Open Hymnal Project.
+%%duets lyricist: Thomas B. Pollock, 1870
+%%duets notes: intro 7-8
+%%duets slug: jesus-in-thy-dying-woes
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"Dm"F2 F2 "Gm"G2 "Dm"F2 | "A7"E3 D "Dm"D4 | "Dm/F"D2 F2 "A7/G"E2 "Dm/F"D2 | "A7/C#"G2 "Dm"F2 "A"E4 |
+"Am"E2 A2 "C/E"c2 "F"A2 | "C7"c2 B2 "F"A4 | "F"A2 "A7/E"A2 "Dm"A2 F2 | "Gm6"E2- "A"E2 "Dm"D4 |]
+V:A
+D2 D2 D2 D2 | ^C3 D D4 | D2 D2 ^C2 D2 | E2 D2 ^C4 |
+C2 E2 C2 F2 | E2 G2 F4 | C2 ^C2 D2 D2 | D2 ^C2 D4 |]
+V:T
+A,2 A,2 B,2 A,2 | G,3 F, F,4 | A,2 A,2 A,2 A,2 | A,2 A,2 A,4 |
+A,2 C2 G,2 A,2 | G,2 C2 C4 | A,2 G,2 F,2 A,2 | B,2 A,2 F,4 |]
+V:B
+D,2 D,2 G,,2 D,2 | A,,3 D, D,4 | F,2 D,2 G,2 F,2 | ^C,2 D,2 A,,4 |
+A,2 A,2 E,2 F,2 | C,2 E,2 F,4 | F,2 E,2 D,2 D,2 | G,,2 A,,2 D,4 |]

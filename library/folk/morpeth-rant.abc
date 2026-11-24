@@ -1,0 +1,17 @@
+X:1
+T:Morpeth Rant
+C:Northumbrian traditional
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: english
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: morpeth-rant
+M:4/4
+L:1/8
+K:D
+[P:A]A2 | "D"d2 A G F D F A | "G"B G B d "A7"c A c e | "D"f2 f d "G"g f e d |
+"Em"c2 e2 "A7"e2 A2 | "D"d2 A G F D F A | "G"B G B d "A"c A c e | "Bm"f2 f d "A7"g f e d |
+"D"A2 d2 d2 :| [P:B]f e | "D"d f a f d f a f | "Em"g f e f g2 e f |
+"A7"g f e d c d e g | "D"f e f g "A"f3 f | "D"d f a f "Bm"d f a f | "Em"g f e f g2 e f |
+"A7"g f e d c e a g | "D"f2 d2 d2 :|

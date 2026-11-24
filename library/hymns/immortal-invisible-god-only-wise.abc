@@ -1,0 +1,42 @@
+X:1
+T:Immortal, Invisible, God Only Wise
+T:ST. DENIO
+C:or 'Joanna' or 'Palestrina' traditional Welsh found in "Caniadau y Cyssegr" by John Roberts, 1839
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: praise
+%%duets tune: ST. DENIO
+%%duets year: 1839
+%%duets credit: Tune and setting: public domain ("Caniadau y Cyssegr a'r Teulu", 1878, alt), via the Open Hymnal Project.
+%%duets lyricist: Walter Chalmers Smith, 1876
+%%duets notes: intro 14-17
+%%duets slug: immortal-invisible-god-only-wise
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+V:S
+"G"G2 | "C"E2 "Am/C"C2 A2 | "D"F2 D2 "Em"G2 | "G/D"B2 "G/B"B2 "D7"A2 |
+"G"G4 G2 | "C"E2 "Am/C"C2 A2 | "D"F2 D2 "Em"G2 | "G/D"B2 "G/B"B2 "D7"A2 |
+"G"G4 G2 | "Em"B2 B2 "D/F#"d2 | "G"B2 "Em7/B"G2 G2 | "Bm"B2 "G"B2 d2 |
+"Dsus4"A2- "D"A2 "G"B2 | "C"G2 "C6"E2 A2 | "D"F2 D2 "Em"G2 | "G/D"B2 "G/B"B2 "D7"A2 |
+"G"G4 |]
+V:A
+B,2 | C2 C2 E2 | D2 D2 B,2 | D2 D2 D C |
+B,4 D2 | C2 C2 E2 | D2 D2 B,2 | D2 D2 D C |
+B,4 D2 | G2 G2 A2 | G2 D2 B,2 | D2 D2 D2 |
+D4 D2 | C2 C2 E2 | D2 D2 B,2 | D2 D2 D C |
+B,4 |]
+V:T
+G,2 | G,2 E,2 C2 | A,2 F,2 G,2 | G,2 G,2 F,2 |
+G,4 G,2 | G,2 E,2 C2 | A,2 F,2 G,2 | G,2 G,2 F,2 |
+G,4 B,2 | E2 E2 D2 | D2 G,2 G,2 | F,2 B,2 B,2 |
+G,2 F,2 G,2 | E,2 G,2 C2 | A,2 F,2 G,2 | G,2 G,2 F,2 |
+G,4 |]
+V:B
+G,,2 | C,2 C,2 A,,2 | D,2 D,2 E,2 | D,2 B,,2 D,2 |
+G,,4 B,,2 | C,2 C,2 A,,2 | D,2 D,2 E,2 | D,2 B,,2 D,2 |
+G,,4 G,2 | E,2 E,2 F,2 | G,2 B,,2 E,2 | B,,2 G,,2 B,,2 |
+D,4 G,,2 | C,2 C,2 A,,2 | D,2 D,2 E,2 | D,2 B,,2 D,2 |
+G,,4 |]

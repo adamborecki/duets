@@ -1,0 +1,34 @@
+X:1
+T:Silent Night
+T:STILLE NACHT
+C:Franz Xaver Gruber, 1818
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: STILLE NACHT
+%%duets year: 1818
+%%duets credit: Tune and setting: public domain ("Concordia Kinderchöre", 1908), via the Open Hymnal Project.
+%%duets lyricist: Josef Mohr, 1818. stanzas 1,3 Translated by John Freeman Young, 1863. stanzas 2,4 translator anonymous
+%%duets notes: intro 11-12
+%%duets slug: silent-night
+M:3/4
+L:1/8
+Q:1/4=60
+K:Bb
+V:S
+"Bb"F3/2 G/2 F D3 | "Bb"F3/2 G/2 F D3 | "F7"c2 c A3 | "Bb"B2 B F3 |
+"Eb"G2 G B3/2 A/2 G | "Bb"F3/2 G/2 F D3 | "Eb"G2 G B3/2 A/2 G | "Bb"F3/2 G/2 F D3 |
+"F7"c2 c e3/2 c/2 A | "Bb"B3 d3 | "Bb/D"B F "Bb"D F- "F7"F/2 E/2 C | "Bb"B,6 |]
+V:A
+D3/2 E/2 D B,3 | D3/2 E/2 D B,3 | E2 E E3 | D2 D D3 |
+E2 E G3/2 F/2 E | D3/2 E/2 D B,3 | E2 E G3/2 F/2 E | D3/2 E/2 D B,3 |
+F2 F F3/2 F/2 F | F6 | B,2 B, A,3/2 A,/2 A, | B,6 |]
+V:T
+F,2 F, F,3 | F,2 F, F,3 | A,2 A, C3 | B,2 B, B,3 |
+B,2 B, B,2 B, | B,3/2 B,/2 B, B,3 | B,2 B, B,3/2 B,/2 B, | B,3/2 B,/2 B, B,3 |
+A,2 A, A,3/2 A,/2 E | D3 B,3 | F,2 F, F,3/2 F,/2 E, | D,6 |]
+V:B
+B,,2 B,, B,,3 | B,,2 B,, B,,3 | F,2 F, F,3 | B,,2 B,, B,,3 |
+E,2 E, E,2 E, | B,,3/2 B,,/2 B,, B,,3 | E,2 E, E,3/2 E,/2 E, | B,,3/2 B,,/2 B,, B,,3 |
+F,2 F, F,3/2 F,/2 F, | B,6 | D,2 B,, F,,3/2 F,,/2 F,, | B,,6 |]

@@ -1,0 +1,22 @@
+X:1
+T:Do It Again
+C:George Gershwin, 1922
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: gershwin
+%%duets year: 1922
+%%duets credit: Melody and chords: public domain in the United States (published 1922); lead sheet from OpenEWLD.
+%%duets slug: do-it-again
+M:2/2
+L:1/8
+K:F
+|: "F"A8- | A4 G F E D- | "F6"D8- |
+D2 "Fmaj7"E2 "F"F2 G2 | "F6"A2 A2 "F+"A2 A2 | "F"A2 A2 "Dm"G F E D- | "G7"D8- |
+D2 "Edim"E2 "G7"F2 "Cdim"^F2 | "C7"G2 G2 "D7"A2 A2 | "Gm7"B2 B2 "C7"c2 c2 | "Bb"d c B A- "F"A4- |
+"D7"A2 d2 d c B A- | "G7"A8 | F8 | "C"G2 c2 G2 c2 |
+"C"e2 "Gm"d2 "Cdim"c2 "C7"B2 | "F"A8- | A4 G F E D- | "F6"D8- |
+D2 "Fmaj7"E2 "F"F2 G2 | "F6"A2 A2 "F+"A2 A2 | "F"A2 A2 "Dm"G F E D- | "G7"D8- |
+D2 "Edim"E2 "G7"F2 "Cdim"^F2 | "C7"G2 G2 "D7"A2 A2 | "Gm7"B2 B2 "Cm6"c2 c2 | "D7"d c B A5- |
+A2 d2 d c B A- | "G7"A8 | [1 "Bbm"z2 B2 "C7"B A G F- | "F"F3/2 f/2 g3/2 f/2 g2 f2 |
+"D9"e2 "C9"d4 "C7#5"^G2 :| [2 "F"z2 B2 B A G F- | F8- | F2 z6 |]

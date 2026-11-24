@@ -1,0 +1,19 @@
+X:1
+T:Camptown Races
+C:Stephen Foster, 1850
+S:OpenEWLD
+R:march
+%%duets category: folk
+%%duets tags: american, foster
+%%duets year: 1850
+%%duets credit: Melody and chords: public domain in the United States (published 1850); lead sheet from OpenEWLD.
+%%duets slug: camptown-races
+M:4/4
+L:1/8
+K:C
+"C"G2 G2 E2 G2 | A2 G2 E4 | "G7"E2 D6 | E2 D6 |
+"C"G2 G2 E2 G2 | A2 G2 E4 | "G7"D4 E2 D2 | "C"C8 |
+G2 G2 E2 G2 | A2 G2 E4 | "G7"E2 D6 | E2 D6 |
+"C"G2 G2 E2 G2 | A2 G2 E4 | "G7"D4 E2 D2 | "C"C8 |
+C2 C2 E2 G2 | c8 | "F"A2 A2 c2 A2 | "C"G8 |
+G2 G2 E2 G2 | A2 G2 E4 | "G7"D2 F2 E2 D2 | "C"C8 :|

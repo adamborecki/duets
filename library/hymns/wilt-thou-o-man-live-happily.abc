@@ -1,0 +1,38 @@
+X:1
+T:Wilt Thou, O Man, Live Happily
+T:MENSCH, WILLT DU LEBEN SELIGICH
+C:attr. Martin Luther. Found in Walter's Geistliche Gesangbüchlein, 1524
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: word
+%%duets tune: MENSCH, WILLT DU LEBEN SELIGICH
+%%duets year: 1524
+%%duets credit: Tune and setting: public domain (Johann Hermann Schein, 1627), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1524. Translated by Richard Massie, 1854, alt
+%%duets notes: intro 10-13
+%%duets slug: wilt-thou-o-man-live-happily
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:S
+"Em"E4 "C"G2 "G/B"G2 | "Am"A2 "Em"B2 "Am"c2 "E7"B2 | "Am"A4 "E"B4 | "Am/C"c2 "G/B"G2 "Am"A2 E2 |
+"G"G4 "C"E2 C2 | "G"G2 "Dm"F2 "A"E4 | "G"B4 "C"c2 "G/B"d2 | "C"c2 "Dm"A2 "E"^G2 "Am"A2 |
+"E"B4 "Em"E4 | "Bdim/D"B2 "C"c2 "Em7/G"B2 G2 | "Am/C"A2 "Dm"F2 "Am"E2 C2 | "G"G2- "G7"G F "Am"E4 |
+"E"E8 |]
+V:A
+B,4 E2 D2 | E2 G2 E3 D | C4 E4 | E2 D2 C2 C2 |
+D4 C2 C2 | D2 D2 ^C4 | D4 E2 G2 | E2 D2 B,2 C2 |
+E4 B,4 | D2 E2 D2 E2 | E2 D2 C2 A,2 | D3 D C4 |
+B,8 |]
+V:T
+G,4 C2 D2 | C2 B,2 A,2 ^G,2 | A,4 ^G,4 | A,2 B,2 E,2 A,2 |
+B,2 G,4 E,2 | B,2 A,2 A,4 | B,4 G,2 G,2 | G,2 F,2 E,3 ^F, |
+^G,4 =G,4 | F,2 G,2 G,2 B,2 | A,2 A,2 A,2 E,2 | B,3 A, A,4 |
+^G,8 |]
+V:B
+E,4 C,2 B,,2 | A,,2 E,2 A,2 E,2 | A,,4 E,4 | C,2 B,,2 A,,2 A,,2 |
+G,,2 B,,2 C,4 | G,,2 D,2 A,,4 | G,,4 C,2 B,,2 | C,2 D,2 E,2 A,,2 |
+E,4 E,4 | D,2 C,2 G,2 E,2 | C,2 D,2 A,,4 | G,,3 D, A,,4 |
+E,8 |]

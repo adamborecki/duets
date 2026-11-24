@@ -1,0 +1,17 @@
+X:1
+T:Petronella
+C:Scottish traditional country dance
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: scottish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: petronella
+M:4/4
+L:1/8
+K:D
+[P:A]d A | "D"F2 A F "A7"E2 A F | "D"D2 D2 D2 F A | "G"d2 c d "E7"e2 d2 |
+"A7"c d B c A2 d A | "D"F2 A F "A7"E2 A F | "D"D2 D2 D2 F A | "G"d2 c d "A7"e2 c2 |
+"D"d6 :| [P:B]d A | "D"F2 f d A2 a f | "Em"g2 g f e d c B |
+"A7"A2 e c A2 g e | "D"f2 f d "A7"A d A F | "D"D2 f d A2 a f | "Em"g2 g f e d c B |
+"A7"A2 e c A g e c | "D"d6 :|

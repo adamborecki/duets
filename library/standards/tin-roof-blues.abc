@@ -1,0 +1,23 @@
+X:1
+T:Tin Roof Blues
+C:New Orleans Rhythm Kings, 1923
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: blues
+%%duets year: 1923
+%%duets credit: Melody and chords: public domain in the United States (published 1923); lead sheet from OpenEWLD.
+%%duets slug: tin-roof-blues
+M:4/4
+L:1/8
+K:Eb
+z6 B c | "Eb"e8- | "Eb7"e3/2 B/2 c3/2 _d/2 c3/2 B/2 ^F3/2 G/2 | "Eb"B6 F3/2 G/2 |
+"Eb7"_d8 | "Ab"(3c=Bc B3/2 c/2 _B A3 | "Ab7"(3c=Bc B3/2 c/2 _B ^F G B- | "Eb"B8- |
+B2 ^F G d2 c2 | "Bb7"c4 B4- | B3/2 ^F/2 G3/2 c/2 B G2 E- | "Eb"E4- "Ab7"E4- |
+"Eb"E2 z2 "Bb7"z2 =A2 || "Eb"B3/2 =A/2 _A3/2 G/2 B c3 | e2 G B5 | B3/2 =A/2 _A3/2 G/2 B c3 |
+"Eb7"e2 d _d5 | "Ab"e3/2 d/2 _d3/2 c/2 E F3 | "Ab7"_G A2 E5 | "Eb"B3/2 =A/2 _A3/2 G/2 B c3 |
+"C7"=e2 G c5 | "F7"e8- | "Bb7"e ^F F G B2 G2 | "Eb"E4- "Ab7"E4- |
+"Eb"E2 z2 "Bb7"z2 =A2 | "Eb"B3/2 =A/2 _A3/2 G/2 B =A _A G | B2 E G5 | B3/2 =A/2 _A3/2 G/2 B =A _A G |
+"Eb7"B2 E G5 | "Ab"e3/2 d/2 _d3/2 c/2 e3/2 =d/2 _d3/2 c/2 | "Ab7"e2 A c5 | "Eb"B3/2 =A/2 _A3/2 G/2 B =A _A G |
+"C7"=e2 G B5 | "F7"e8- | "Bb7"e ^F F G B2 G2 | "Eb"E4- "Ab7"E4- |
+"Eb"E2 z6 |]

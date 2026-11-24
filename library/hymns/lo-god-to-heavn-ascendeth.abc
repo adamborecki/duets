@@ -1,0 +1,42 @@
+X:1
+T:Lo, God To Heav'n Ascendeth
+T:VON GOTT WILL ICH NICHT LAZEN
+C:Johann Crüger, 1640
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: ascension
+%%duets tune: VON GOTT WILL ICH NICHT LAZEN
+%%duets year: 1640
+%%duets credit: Tune and setting: public domain ("Kern des Deutschen Kirchengesangs Zum Gebrauch" Fridrich Layriz, 1854), via the Open Hymnal Project.
+%%duets lyricist: Gottfried Wilhelm Sacer, 1661. verses 1-5,7 Translated by Frances Elizabeth Cox, 1841. verse 6 translator unknown
+%%duets notes: intro 14-17
+%%duets slug: lo-god-to-heavn-ascendeth
+M:4/4
+L:1/8
+Q:1/4=140
+K:F
+V:S
+"F"c2 | "Bb"d3 c B2 "F"A2 | "Csus4"G2- "C"G2 G2 "F"z A | "Bb"B2 "F"A2 "Csus4"G2- "C"G A |
+"F"F4 z2 c2 | "Bb"d3 c B2 "F"A2 | "Csus4"G2- "C"G2 G2 "F"z A | "Bb"B2 "F"A2 "Csus4"G2- "C"G A |
+"F"F4 z2 A2 | "F"A2 A2 "C"G2 "Dm"F2 | "A"E6 "F"A2 | "F"A3 G A2 "Bb/D"B2 |
+"C"c4 "F"A2 z F | "F"A3 G "Fmaj7"A2 "Bb/D"B2 | "C"c4 "F"A2 z A | "Gm"G2 "F/A"F2 "Gm7/Bb"F2 "C"E2 |
+"F"F6 |]
+V:A
+F2 | F3 F F2 F2 | F2 E D E2 z F | F2 F2 F2 E2 |
+F4 z2 F2 | F3 F F2 F2 | F2 E D E2 z F | F2 F2 F2 E2 |
+F4 z2 F2 | F2 F2 E2 D2 | ^C6 F2 | F3 E F2 F2 |
+E4 F2 z C | F3 E E2 E2 | E4 F2 z F | D2 C2 D2 C2 |
+C6 |]
+V:T
+A,2 | B,3 C D2 C2 | C4 C2 z C | D2 C2 C2 G,2 |
+A,4 z2 A,2 | B,3 C D2 C2 | C4 C2 z C | D2 C2 C2 G,2 |
+A,4 z2 C2 | C2 C2 C2 A,2 | A,6 C2 | C3 B, C2 F,2 |
+G,4 F,2 z A, | C3 B, C2 F,2 | G,4 F,2 z C | B,2 A,2 G,2 G,2 |
+A,6 |]
+V:B
+F,2 | B,,3 A,, B,,2 F,,2 | C,4 C,2 z F, | B,,2 F,,2 C,2 C,2 |
+F,,4 z2 F,2 | B,,3 A,, B,,2 F,,2 | C,4 C,2 z F, | B,,2 F,,2 C,2 C,2 |
+F,,4 z2 F,2 | F,2 F,2 C,2 D,2 | A,,6 F,2 | F,3 G, F,2 D,2 |
+C,4 F,,2 z F, | F,3 G, F,2 D,2 | C,4 F,2 z F,, | G,,2 A,,2 B,,2 C,2 |
+F,,6 |]

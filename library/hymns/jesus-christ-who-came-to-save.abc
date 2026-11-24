@@ -1,0 +1,34 @@
+X:1
+T:Jesus Christ Who Came to Save
+T:JESUS CHRISTUS UNSER HEILAND, DER DEN TOD (KLUG)
+C:Klug's Geistliche Lieder, Wittenberg, 1533
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: easter
+%%duets tune: JESUS CHRISTUS UNSER HEILAND, DER DEN TOD (KLUG)
+%%duets year: 1533
+%%duets credit: Tune and setting: public domain (Johann Sebastian Bach), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1524. Translated by Leonard Woolsey Bacon, 1883
+%%duets notes: intro 9-9
+%%duets slug: jesus-christ-who-came-to-save
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:S
+"Am"A2 A2 "Em"G2 "D/F#"A2 | "G"B2 "F#dim/A"A2 "Em/B"G2 "B7"^F2 | "C/E"!fermata!E2 G2 "Dm/F"A2 "G7"B2 | "Am"A2 "E"^G2 "Am"!fermata!A2 "Bm7b5"d2 |
+"Am/C"A B c2 "Dm6"B2 A2 | "E"!fermata!B2 "A7"A2 "Dm"A2 "D"A2 | "G"B2 "Am"A2 "Em/B"G2 "B7"^F2 | "C/E"!fermata!E2 G2 "F#dim/A"A2 "G"B2 |
+"Am"A2 "E7"^G2 "A"!fermata!A4 |]
+V:A
+C2 E2 E2 D2 | D2 ^F2 E2 ^D2 | E2 E2 D2 F2 | E2 E2 E2 F2 |
+E2 E2 F2 D2 | B,2 ^C2 D2 D2 | D2 E2 E2 ^D2 | E2 E2 C2 D2 |
+E2 E D ^C4 |]
+V:T
+E,2 A,2 B,2 A,2 | G,2 C2 B,2 B, A, | G,2 C2 A,2 D2 | C2 B,2 C2 A,2 |
+A,2 A,2 A,2 B,2 | ^G,2 =G,2 F,2 ^F,2 | G,2 C2 B,2 B, A, | G,2 G,2 ^F,2 G,2 |
+C2 B,2 A,4 |]
+V:B
+A,,2 C,2 E,2 ^F,2 | G,2 A,2 B,2 B,,2 | E,2 C,2 F,2 G,2 | A,2 E,2 A,,2 B,,2 |
+C,2 A,2 D,2 F,2 | E,2 A,,2 D,2 D,2 | G,,2 A,,2 B,,4 | E,2 C,2 A,,2 G,,2 |
+A,,2 E,2 A,,4 |]

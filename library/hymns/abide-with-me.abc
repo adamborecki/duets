@@ -1,0 +1,38 @@
+X:1
+T:Abide With Me
+T:EVENTIDE
+C:William H. Monk, 1861
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: comfort
+%%duets tune: EVENTIDE
+%%duets year: 1861
+%%duets credit: Tune and setting: public domain (William H. Monk, 1861), via the Open Hymnal Project.
+%%duets lyricist: Henry F. Lyte, 1847
+%%duets notes: intro 13-16
+%%duets slug: abide-with-me
+M:4/4
+L:1/8
+Q:1/4=100
+K:Eb
+V:S
+"Eb"G4 "Gm/Bb"G2 "Bb7"F2 | "Cm7"E4 B4 | "Ab"c2 "Bb"B2 "Cm7"B2 "Bb7/D"A2 | "Eb"G8 |
+"Eb"G2- "Ebmaj7/D"G2 "Ab/C"A2 "Eb/Bb"B2 | "Ab"c4 "Eb"B4 | "Fm7"A2 "Bb/D"F2 "Eb"G2 "Adim/C"=A2 | "Bb"B8 |
+"Eb"G4 "Gm/Bb"G2 "Bb7"F2 | "Cm7"E4 B4 | "Ab"B2 A2 "C+"A2 "C7"G2 | "Fm"F8 |
+"Bb7/Ab"F4 "Eb/G"G2 "Bb7/F"A2 | "Eb"G2 "Bb7"F2 "Cm"E2 "Fm/Ab"A2 | "Eb/Bb"G4 "Bb7"F4 | "Eb"E8 |]
+V:A
+E4 D2 D2 | E4 E4 | E2 D2 E2 F2 | E8 |
+E4 E2 E2 | E4 E4 | E2 F2 E2 E2 | D8 |
+E4 D2 D2 | E4 E4 | E2 E2 =E2 E2 | F8 |
+D4 E2 D2 | E2 D2 E2 F2 | E4 D4 | E8 |]
+V:T
+B,4 B,2 A,2 | G,4 E,4 | E,2 B,2 B,2 B,2 | B,8 |
+B,4 A,2 G,2 | A,4 G,4 | C2 B,2 B,2 E,2 | F,8 |
+G,2 A,2 B,2 A,2 | G,4 E2 D2 | C2 C2 C2 B,2 | A,8 |
+B,4 B,2 B,2 | B,2 A,2 G,2 C2 | B,6 A,2 | G,8 |]
+V:B
+E,4 B,,2 B,,2 | C,4 G,,4 | A,,2 B,,2 C,2 D,2 | E,8 |
+E,2 D,2 C,2 B,,2 | A,,4 E,4 | F,2 D,2 E,2 C,2 | B,,8 |
+E,4 B,,2 B,,2 | C,4 G,,4 | A,,3 B,, C,2 C,2 | F,8 |
+A,4 G,2 F,2 | E,2 B,,2 C,2 A,,2 | B,,4 B,,4 | E,8 |]

@@ -1,0 +1,22 @@
+X:1
+T:They Didn't Believe Me
+C:Jerome Kern, 1914
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: kern
+%%duets year: 1914
+%%duets credit: Melody and chords: public domain in the United States (published 1914); lead sheet from OpenEWLD.
+%%duets slug: they-didnt-believe-me
+M:4/4
+L:1/8
+K:G
+z2 D2 E2 G2 | "Am7"A4 A4- | "D7"A2 B2 A3/2 B/2 G3/2 A/2 | "G"B8- |
+"Bm7b5"B2 B2 "E7b9"(3B2c2d2 | "Am7"A4 A4- | "D7"A2 A2 (3A2B2c2 | "G"D4 D4- |
+"Em7"D2 D2 E2 G2 | "Am7"c2 E2 F2 G2 | "D7"A3 F G2 "D7/C"A2 | "Bm7"d2 F2 G2 A2 |
+"Em"B4 B2 ^c2 | "Bm"d2 B3/2 ^c/2 d4- | "F#7"d2 ^c2 B2 ^A2 | "Bm7"B4- "F9"B4- |
+"E7"B2 d2 "E7b9"c2 B2 | "Am7"A4 A4- | "D7"A2 A3/2 B/2 (3ABA G3/2 A/2 | "G6"B4 B4- |
+"Em7"B2 G2 A2 B2 | "Am"c4 c4 | "D7"c2 c2 B2 ^A2 | "G6"B4- "F9"B4- |
+"E7"B2 B2 B c d2 | "Am"A4 A4- | "D7"A2 A2 A B c2 | "G"D4 "Am7"D4- |
+"Bm7"D2 D2 "E7"^D2 E2 | "Am7"c2 E2 F2 G2 | "D7"A4 "D7b9"B4 | "G"G8- |
+G2 z6 |]

@@ -1,0 +1,23 @@
+X:1
+T:Without a Song
+C:Vincent Youmans, 1929
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: sinatra
+%%duets year: 1929
+%%duets credit: Melody and chords: public domain in the United States (published 1929); lead sheet from OpenEWLD.
+%%duets slug: without-a-song
+M:4/4
+L:1/8
+K:Eb
+z4 "Bb7"z B "Bb7#5"c d | "Ebmaj7"d5 B B G | "Ab/Eb"G E E2 z G G B | "Ebmaj7"B5 G G E |
+"Ab6"E C C2 "Ab"z E E G | "Eb/Bb"G5 E E C | "Bb7"C B, B,2 "Bb11"z C C E | "Eb"E8- |
+"Fm7"E2 "Bb7"z3 B "Bb7#5"B d | "Ebmaj7"d5 B B G | "Ab/Eb"G E E2 z G G B | "Ebmaj7"B5 G G E |
+"Ab6"E C C2 "Ab"z E E G | G5 "Eb/Bb"E E C | "Bb7"C B, B,2 z C C E | "Eb"E4- "Eb6"E4- |
+E z E2 "Bbm7"F2 "Eb7"G2 | "Ab"A2 G F "Eb7"G2 "Ab"A2 | "Eb7"B2 A G "Ab"A2 "Eb7"B2 | "Ab"c2 "Bb7"B A "Eb"B4- |
+"Bb7"B2- "Eb"B4 "F9"z2 | "Gm"B2 =A G "D7/F#"A2 "Gm7/F"B2 | "C7/E"c2 "Eb"B =A "Gm/D"B2 "F9"c2 | "Bb7"d2 "Eb"e c "Bb9"f4- |
+"Ebmaj7"f4 "Fm7"z B "Bb7#5"B d | "Ebmaj7"d5 B B G | "Ab/Eb"G E E2 "Fm7"z G G B | "Ebmaj7"B5 G G E |
+"Ab6"E C C2 "Ab"z E E G | "Ebmaj7"G5 E E C | "Bb7"C B, B,2 "Bb11"z C C E | "Eb"E4- "Ebmaj7"E G G B |
+"Eb9"B5 G "Eb+"G E | "Ab6"E C "F9"C3 E E G | "Eb/Bb"G5 E G c | "Bb7"c B B3 "Adim"c "Bb9"c "B7"e |
+"Eb6"!fermata!e8 |]

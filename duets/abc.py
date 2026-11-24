@@ -51,6 +51,7 @@ class AbcBar:
 class AbcTune:
     headers: dict = field(default_factory=dict)      # field letter -> list of values
     comments: dict = field(default_factory=dict)     # %KEY value pseudo-fields
+    meta: dict = field(default_factory=dict)         # %%duets key: value
     key: Key = field(default_factory=lambda: Key.parse("C"))
     meter: Meter = field(default_factory=lambda: Meter(4, 4))
     free_meter: bool = False
@@ -628,6 +629,11 @@ def parse_abc(text: str) -> list:
         if stripped.lower().startswith("%%begintext"):
             in_text = True
             continue
+        if stripped.startswith("%%duets"):
+            m = re.match(r"%%duets\s+([A-Za-z-]+)\s*:\s*(.*)$", stripped)
+            if m and p is not None:
+                p.tune.meta[m.group(1).lower()] = m.group(2).strip()
+            continue
         if stripped.startswith("%%"):
             d = stripped[2:].strip()
             if d.lower().startswith(("staves", "score")):
@@ -715,7 +721,9 @@ def _to_tune(abc: AbcTune, bars: list) -> Tune:
     for i, b in enumerate(bars):
         if b.meter is not None:
             cur_nominal = b.meter.bar_len
-        tb = TBar(length=b.length, melody=list(b.events), chords=list(b.chords))
+        from .mxl import spread_stacked
+        tb = TBar(length=b.length, melody=list(b.events),
+                  chords=spread_stacked(list(b.chords), b.length, b.meter or meter))
         tb.start_repeat = b.start_repeat
         tb.end_repeat = b.end_repeat
         tb.double_bar = b.double_bar

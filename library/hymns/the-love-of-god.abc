@@ -1,0 +1,50 @@
+X:1
+T:The Love of God
+T:THE LOVE OF GOD
+C:Frederick Martin Lehman, 1917
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: praise
+%%duets tune: THE LOVE OF GOD
+%%duets year: 1917
+%%duets credit: Tune and setting: public domain (Claudia Lehman Mays, 1917), via the Open Hymnal Project.
+%%duets lyricist: Frederick Martin Lehman, 1917
+%%duets notes: intro 22-25
+%%duets slug: the-love-of-god
+M:3/4
+L:1/8
+Q:1/4=90
+K:Db
+V:S
+"Db"D D3/2 E/2 | "Db"F3 A "Gb/Db"B3/2 A/2 | "Db"A2 F A A3/2 F/2 | "Ab"E2- "Ab7"E G "Db/Ab"F3/2 E/2 |
+"Db"F3 D D3/2 E/2 | "Db"F3 A "Gb/Db"B3/2 A/2 | "Db"A2 F A A3/2 F/2 | "Ab7"E3 G "Db/Ab"F3/2 E/2 |
+"Db"D3 d "Ebm7"d3/2 d/2 | "Gb"B3 d d3/2 d/2 | "Db"A2 F A A3/2 B/2 | "Ab7/Eb"A2 E2 G2 |
+"Db"F3 d "Ebm7"d3/2 d/2 | "Gb"B3 d d3/2 d/2 | "Db"A2 F A A3/2 B/2 | "Ab"A2 "Ab7"E2 "Fm/Ab"F2 |
+"Db"D3 d "Ebm7"d3/2 d/2 | "Gb"d3 d c3/2 B/2 | "Db"A2 F A A3/2 B/2 | "Ab/Eb"A2 "Ab"E2 "Ab7"B2 |
+"Db"A3 d "Ebm7"d3/2 d/2 | "Gb"d3 d c3/2 B/2 | "Db"A2 F A A3/2 B/2 | "Ab"A2 "Ab7"E2 "Fm/Ab"F2 |
+"Db"D3 |]
+V:A
+A, A,3/2 A,/2 | D3 F G3/2 F/2 | F2 D D D3/2 D/2 | A,3 E D3/2 C/2 |
+D3 A, A,3/2 A,/2 | D3 F G3/2 F/2 | F2 D D D3/2 D/2 | C3 D D3/2 C/2 |
+D3 D D3/2 D/2 | D3 D D3/2 D/2 | D3 D D3/2 D/2 | C4 E2 |
+D3 D D3/2 D/2 | D3 D D3/2 D/2 | D3 D D3/2 D/2 | C4 C2 |
+D3 D D3/2 D/2 | D3 D D3/2 D/2 | D3 D D3/2 D/2 | C4 C2 |
+D3 D D3/2 D/2 | D3 D D3/2 D/2 | D3 D D3/2 D/2 | C4 C2 |
+D3 |]
+V:T
+F, F,3/2 G,/2 | A,3 D D3/2 D/2 | D2 A, F, F,3/2 A,/2 | A,3 A, A,3/2 A,/2 |
+A,3 F, F,3/2 G,/2 | A,3 D D3/2 D/2 | D2 A, F, F,3/2 A,/2 | G,3 B, A,3/2 G,/2 |
+F,3 F, G,3/2 A,/2 | B,3 B, B,3/2 G,/2 | F,2 A, F, F,3/2 F,/2 | A,4 A,2 |
+A,3 F, G,3/2 A,/2 | B,3 B, B,3/2 G,/2 | F,2 A, F, F,3/2 F,/2 | E,2 G,2 A,2 |
+F,3 F, G,3/2 A,/2 | B,3 B, A,3/2 G,/2 | F,2 A, F, F,3/2 G,/2 | A,4 G,2 |
+F,3 F, G,3/2 A,/2 | B,3 B, A,3/2 G,/2 | F,2 A, F, F,3/2 F,/2 | E,2 G,2 A,2 |
+F,3 |]
+V:B
+D, D,3/2 D,/2 | D,3 D, D,3/2 D,/2 | D,3 D, D,3/2 D,/2 | A,,3 A,, A,,3/2 A,,/2 |
+D,3 D, D,3/2 D,/2 | D,3 D, D,3/2 D,/2 | D,3 D, D,3/2 D,/2 | A,,3 A,, A,,3/2 A,,/2 |
+D,3 D, E,3/2 F,/2 | G,3 G, G,,3/2 B,,/2 | D,3 D, D,3/2 D,/2 | E,4 C,2 |
+D,3 D, E,3/2 F,/2 | G,3 G, G,,3/2 B,,/2 | D,3 D, D,3/2 D,/2 | A,,4 A,,2 |
+D,3 D, E,3/2 F,/2 | G,3 G, G,3/2 G,/2 | D,3 D, D,3/2 D,/2 | E,2 A,2 A,,2 |
+D,3 D, E,3/2 F,/2 | G,3 G, G,3/2 G,/2 | D,3 D, D,3/2 D,/2 | A,,4 A,,2 |
+D,3 |]

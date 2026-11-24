@@ -1,0 +1,22 @@
+X:1
+T:Soon
+C:George Gershwin, 1930
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: gershwin, ella
+%%duets year: 1930
+%%duets credit: Melody and chords: public domain in the United States (published 1930); lead sheet from OpenEWLD.
+%%duets slug: soon
+M:2/2
+L:1/8
+K:Eb
+|: "Eb"B8- | B2 G2 B2 "Cm7b5"c2 | "Gm7b5"_d4 B2 d2 |
+"C7#5"A4 "C7"G4 | "Fm"A8- | A2 F2 A2 "C7"B2 | "Fm7b5"_c4 A2 c2 |
+"Bb7#5"_G4 "Bb7"F4 | "Eb"z2 G2 "Bb7"A2 "Eb"B2 | e2 "Eb7"e2 "Cm"e2 "Eb7b5"e2 | "Ab6"e2 z F F4- |
+F8 | "Fm"z2 F2 "C7"G2 "Fm"A2 | "Dm7b5"d2 d2 "G7"d2 d2 | "Cm7"d2 z E E4- |
+"Fm7"E4 "Bb7"F4 | "Eb"B8- | B2 G2 B2 "Cm7b5"c2 | "Gm7b5"_d4 B2 d2 |
+"C7#5"A4 "C7"G4 | "Fm"A8- | A2 F2 A2 "C7#5"B2 | "Fm7b5"_c4 A2 c2 |
+"Bb7b5"_G4 "Bb7"F4 | "Eb"z2 G2 "Bb7"A2 "Eb"B2 | "Eb7"f2 f2 f2 "Eb7#5"f2 | "Ab"f2 z A A4- |
+"Fm7b5"A8 | "Eb"z2 G2 B2 e2 | "Ab6"F4 "Bb7"G4 | [1 "Eb"E8- |
+"B7"E6 "Bb7"z2 :| [2 "Eb"E8- | E6 z2 |]

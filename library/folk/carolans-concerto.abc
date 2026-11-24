@@ -1,0 +1,21 @@
+X:1
+T:Carolan's Concerto
+C:Turlough O'Carolan (1670-1738)
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: irish, baroque
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: carolans-concerto
+M:4/4
+L:1/8
+K:D
+(3ABc | "D"d2 d d "G"d2 c B | "D"A B G A F2 A2 | "A7"E2 A2 "D"D2 A2 |
+"G"B c d e "A7"d c B A | "D"d2 a2 f g a f | "A"e f g e "D"f g a f | "G"g a b g "D"f d f a |
+"Em"g f e d "A"d c B A | "G"B d B d g B g B | "D"A d A d f A f A | "G"G B G B "E7"e f e d |
+"A7"c2 B c A2 G2 | "D"F G A F "A7/E"E F G E | "D"F G A F "G"G A B G | "D/A"A2 d2 "A7"f e d c |
+"D"d6 :| (3ABc | "D"d2 b2 a g f e | "D"d2 a2 "A"c2 a2 |
+"G"B2 g B "A7"A B c d | "A7"e c B A "D"d2 d f | "A"e d c B c a a a | "G"B g g g "D"A f f f |
+"D"e d c B "A7"c a a a | "G"B g g g b g b g | "D"a f a f "Em"e d c B | c A B G A F G E |
+"D"D A F A D A F A | "Em"G E B E "A7"G E B E | "D"F A d c B A G F | "Em"E F G A "A7"B c d e |
+"D"A2 d2 "A7"f e d c | "D"d6 :|

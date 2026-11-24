@@ -1,0 +1,21 @@
+X:1
+T:My Ideal
+C:Richard A. Whiting & Newell Chase, 1930
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: sinatra
+%%duets year: 1930
+%%duets credit: Melody and chords: public domain in the United States (published 1930); lead sheet from OpenEWLD.
+%%duets slug: my-ideal
+M:4/4
+L:1/8
+K:Eb
+"Eb/Bb"B c d e "Bb7"d c B2 | "Eb/G"G A B c "Eb7/F"B A "C7"G C | "Fm"F G F G3 "Bb7"G2 | "Eb"E8 |
+"Fm7"A B A B- "Bb7"B2 "Bb+"B2 | "Eb"c4- "Bb+"c4 | "Eb/Bb"B c d e "Bb7"d c B2 | "Cm"=A B "D7"c d "Gm"c B A A |
+G =A G B- "Gm7"B2 B2 | "C7"G8 | "Bb"F G F "Cm7"G3 "F7"G2 | "Fm7"B4- "Bb+"B4 |:
+"Ebmaj7"c3/2 B/2 G3/2 E/2 "C7"d3 c | "Fm7"B A B A4 C | "Db7"A G A G- "C7"G2 C2 | "F7"G8 |
+"Fm7"G3/2 F/2 D3/2 B,/2 "Bb7"A3 G | "Bb7"B G B G- "G7"G4 | "Cm7"E3/2 F/2 G3/2 B/2 "F7"c c3 | "B7"_c _G "Bb7"A B5 |
+"Ebmaj7"c3/2 B/2 G3/2 E/2 "C7"d3 c | "Fm7"B A B A4 C | "Db7"A G A G- "C7"G2 C2 | "F7"c6 C2 |
+"Fm7"G3/2 F/2 E3/2 C/2 "Fm7b5"B3 A | "Eb/Bb"G3/2 B/2 "D7"d3/2 c/2 "Db7"B3/2 e/2 "C7"E3/2 C/2 | "Fm7"F4 "Bb7"G4 | [1 "Eb"E2- "Fm7"E4 "Bb7"z2 :|
+[2 "Ebmaj7"B8 | "Fm"F4 "Bb7"G4 | "Eb"E8 |]

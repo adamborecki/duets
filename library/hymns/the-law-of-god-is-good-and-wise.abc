@@ -1,0 +1,34 @@
+X:1
+T:The Law Of God Is Good And Wise
+T:ERHALT UNS, HERR, BEI DEINEM WORT
+C:Klug's Geistliche Lieder, 1543
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: word
+%%duets tune: ERHALT UNS, HERR, BEI DEINEM WORT
+%%duets year: 1543
+%%duets credit: Tune and setting: public domain ("Concordia Kinderchöre", 1908), via the Open Hymnal Project.
+%%duets lyricist: Matthias Loy, 1863
+%%duets notes: intro 9-10
+%%duets slug: the-law-of-god-is-good-and-wise
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+V:S
+"Em"E4 G2 "Am/C"E2 | "Bm"D2 "Am"E2 "Em/G"G2 "B"F2 | "Em"E4 "C"G4 | "Am"A2 "D"A2 "G"B2 "C"G2 |
+"Am"A2 "D"A2 "G"B4 | "G"B4 "C"c2 "G"B2 | "D"d2 "Em"B2 "Am/C"A2 "D"A2 | "G"G4 B4 |
+"C6"G2 A2 "G/B"G2 "D"F2 | "Em"E2 "B"^D2 "Em"E4 |]
+V:A
+B,4 B,2 A,2 | B,2 C2 E2 ^D2 | B,4 E4 | E2 F2 G2 E2 |
+E2 F2 G4 | D4 E2 D2 | F2 G2 E2 F2 | D4 D4 |
+E2 E2 D2 D2 | B,2 B,2 B,4 |]
+V:T
+G,4 E,2 E,2 | F,2 A,2 B,2 B,2 | G,4 C4 | C2 D2 D2 C2 |
+C2 D2 D4 | G,4 G,2 G,2 | A,2 G,2 C2 A,2 | B,4 G,4 |
+G,2 C2 B,2 A,2 | G,2 F,2 G,4 |]
+V:B
+E,4 E,2 C,2 | B,,2 A,,2 G,, A,, B,,2 | E,,4 C,4 | A,,2 D,2 G,,2 C,2 |
+A,,2 D,2 G,,4 | G,,4 C,2 G,,2 | D,2 E,2 C,2 D,2 | G,,4 G,,4 |
+C,2 A,,2 B,,2 D,2 | E,2 B,,2 E,,4 |]

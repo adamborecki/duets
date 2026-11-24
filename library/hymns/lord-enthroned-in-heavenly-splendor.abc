@@ -1,0 +1,38 @@
+X:1
+T:Lord, Enthroned in Heavenly Splendor
+T:BRYN CALFARIA
+C:William Owen, 1852
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: redeemer
+%%duets tune: BRYN CALFARIA
+%%duets year: 1852
+%%duets credit: Tune and setting: public domain ("The English Hymnal", 1906), via the Open Hymnal Project.
+%%duets lyricist: George H. Bourne, 1874, alt
+%%duets notes: intro 14-15
+%%duets slug: lord-enthroned-in-heavenly-splendor
+M:6/4
+L:1/8
+Q:3/4=50
+K:Bb
+V:S
+"Gm"D2 D2 G2- "D"G2 A4 | "Gm"B2 B2 B4 A4 | "Gm"B2 B2 d2- "Cm7/Bb"d2 c2 B2 | "Dsus4"A2 A2 G2- "Gm"G6 |
+"Gm"D2 D2 G2- "D"G2 A4 | "Gm"B2 B2 B4 A4 | "Gm"B2 B2 d2- "Cm7/Bb"d2 c2 B2 | "Dsus4"A2 A2 G2- "Gm"G6 |
+"Gm"G2 A2 B4 G4 | "D7/F#"A2 B2 c2- "D7/C"c2 A4 | "Gm7"B2 c2 d2- "Bb"d2 B2 d2 | "F7/C"e d c2 d c "Cm7/Eb"B2 c B A G |
+"D"d6- "Gm/D"d2 B2 B2 | "Gm/Bb"d4 c2 "D7/C"B2 A2 A2 | "Gm"G12 |]
+V:A
+B,2 B,2 D4 D4 | D2 D2 G4 ^F4 | G2 G2 G4 G4 | G2 ^F2 G8 |
+B,2 B,2 D4 D4 | D2 D2 G4 ^F4 | G2 G2 G4 G4 | G2 ^F2 G8 |
+G2 G2 G4 D4 | A2 G2 G4 ^F4 | D2 F2 F4 D2 F2 | E2 F2 D2 E2 E2 E G |
+^F8 G2 G2 | G4 G4 G2 ^F2 | G12 |]
+V:T
+G,2 G,2 G,4 ^F,4 | G,2 G,2 D4 D4 | D2 D2 D4 E4 | A,2 D2 B,8 |
+G,2 G,2 G,4 ^F,4 | G,2 G,2 D4 D4 | D2 D2 D4 E4 | A,2 D2 B,8 |
+B,2 C2 D4 B,4 | D2 D2 E4 D4 | B,2 A,2 B,4 B,4 | B,2 A,2 B,2 G,2 C2 C B, |
+A,8 G,2 G,2 | D4 E4 A,2 D2 | B,12 |]
+V:B
+G,,2 G,,2 B,,4 D,4 | G,2 G,2 G,4 D,4 | G,2 G,2 B,,4 C,4 | D,2 D,2 G,,8 |
+G,,2 G,,2 B,,4 D,4 | G,2 G,2 G,4 D,4 | G,2 G,2 B,,4 C,4 | D,2 D,2 G,,8 |
+G,2 G,2 G,4 G,4 | ^F,2 G,2 C,4 D,4 | G,2 F,2 B,4 B,,4 | C,2 F,2 B,,2 E,2 A,,2 C,2 |
+D,8 G,2 G,2 | B,,4 C,4 D,2 D,2 | G,,12 |]

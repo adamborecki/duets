@@ -1,0 +1,17 @@
+X:1
+T:The Tenpenny Bit
+C:Irish traditional jig
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-tenpenny-bit
+M:6/8
+L:1/8
+K:Am
+[P:A]c/2 d/2 | "Am"e A A e A A | "G"B A B G B d | "Am"e A A e A A |
+"G"d e ^f g f g | "Am"e A A e A A | "G"B A B G B d | "C"d e ^f "G/B"g B B |
+"Am"B A A A2 :| [P:B]B | "Am"A2 a a g a | "G"b g e d B G |
+"Am"A2 a "F"a g a | "G"b g e g3 | "Am"A2 a a g a | "G"b g e d B d |
+"C"e d B "G/B"g B B | "Am"B A A A2 :|

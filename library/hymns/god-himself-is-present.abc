@@ -1,0 +1,46 @@
+X:1
+T:God Himself is Present
+T:WUNDERBARER KÖNIG
+C:or 'Arnsberg' or 'Groeningen' Joachim Neander, 1680
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: opening
+%%duets tune: WUNDERBARER KÖNIG
+%%duets year: 1680
+%%duets credit: Tune and setting: public domain ("Common Service Book", 1918), via the Open Hymnal Project.
+%%duets lyricist: Gerhard Tersteegen, 1729. Translated by Frederick W. Foster and John Miller, 1789, alt
+%%duets notes: intro 19-22
+%%duets slug: god-himself-is-present
+M:4/4
+L:1/8
+Q:1/4=130
+K:G
+V:S
+"G"B2 B2 B2 B2 | "Dsus4"A2- "D"A2 A4 | "Em"G2 G2 G2 G2 | "Bsus4"F2- "B"F2 F4 |
+"C"E2 E2 "Em7/G"D2 G2 | "D"A2 "G"B2 "Dsus4"A2- "D"A2 | "G"G8 | "G"B2 B2 B2 B2 |
+"Dsus4"A2- "D"A2 A4 | "Em"G2 G2 G2 G2 | "Bsus4"F2- "B"F2 F4 | "C"E2 E2 "Em7/G"D2 G2 |
+"D"A2 "G"B2 "Dsus4"A2- "D"A2 | "G"G8 | "G"B4 B4 | "C"c8 |
+"D"A4 A4 | "G"B8 | "D"d2 "G/B"d2 "C"c2 "G"B2 | "Dsus4"A2- "D"A2 "G"B4 |
+"G/B"d2 d2 "Am"c2 "G/B"B2 | "C6"A2- "D7"A2 "G"G4 |]
+V:A
+G2 G2 G2 G2 | G2 F E F4 | E2 E2 E2 E2 | E2 ^D ^C D4 |
+E2 C2 B,2 E2 | F2 G2 G2 F2 | G8 | G2 G2 G2 G2 |
+G2 F E F4 | E2 E2 E2 E2 | E2 ^D ^C D4 | E2 C2 B,2 E2 |
+F2 G2 G2 F2 | G8 | D4 D4 | E8 |
+F4 F4 | G8 | F2 G2 G2 G2 | G2 F2 G4 |
+G3 F E2 G2 | G2 F2 G4 |]
+V:T
+D2 D2 D2 D2 | D4 D4 | B,2 B,2 B,2 B,2 | B,4 B,4 |
+G,2 G,2 G,2 B,2 | D2 D2 D4 | B,8 | D2 D2 D2 D2 |
+D4 D4 | B,2 B,2 B,2 B,2 | B,4 B,4 | G,2 G,2 G,2 B,2 |
+D2 D2 D4 | B,8 | G,4 G,4 | G,8 |
+D4 D4 | D8 | D2 D2 E2 D2 | D4 D4 |
+G,2 B,2 C2 D2 | E2 D C B,4 |]
+V:B
+G,2 G,2 B,2 G,2 | D,4 D,4 | E,2 E,2 G,2 E,2 | B,,4 B,,4 |
+C,2 E,2 G,2 E,2 | D,2 G,2 D,4 | G,,8 | G,2 G,2 B,2 G,2 |
+D,4 D,4 | E,2 E,2 G,2 E,2 | B,,4 B,,4 | C,2 E,2 G,2 E,2 |
+D,2 G,2 D,4 | G,,8 | G,4 G,4 | C,8 |
+D,4 D,4 | G,8 | D,2 B,,2 C,2 G,2 | D,4 G,4 |
+B,,2 G,,2 A,,2 B,,2 | C,2 D,2 G,4 |]

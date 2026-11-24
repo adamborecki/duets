@@ -1,0 +1,38 @@
+X:1
+T:Pass Me Not, O Gentle Savior
+T:PASS ME NOT O GENTLE SAVIOR
+C:William Howard Doane, 1870
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: consecration
+%%duets tune: PASS ME NOT O GENTLE SAVIOR
+%%duets year: 1870
+%%duets credit: Tune and setting: public domain ("The Coronation", 1872), via the Open Hymnal Project.
+%%duets lyricist: Fanny J. Crosby, 1868
+%%duets notes: intro 13-16
+%%duets slug: pass-me-not-o-gentle-savior
+M:4/4
+L:1/8
+Q:1/4=100
+K:Ab
+V:S
+"Ab"c3 B "Db"A3/2 G/2 A3/2 F/2 | "Ab"E4 A4 | "Eb7"B3 B "Ab/Eb"A2 "Eb"B2 | "Ab"c6 z2 |
+"Ab"c3 B "Db"A3/2 G/2 A3/2 F/2 | "Ab"E4 A4 | "Eb7"B3 A "Ab/Eb"c2 "Eb7"B2 | "Ab"A6 z2 |
+"Ab"e4 c4 | "Bbm/Db"B3 A "Db"F4 | "Ab"E2 A2 c2 A2 | "Eb"B6 z2 |
+"Ab"c3 B "Db"A3/2 G/2 A3/2 F/2 | "Ab"E4 A4 | "Eb7"B3 A "Ab/Eb"c2 "Eb7"B2 | "Ab"A6 z2 |]
+V:A
+E3 E F3/2 =E/2 F3/2 D/2 | C4 E4 | E3 E E2 E2 | E6 z2 |
+E3 E F3/2 =E/2 F3/2 D/2 | C4 E4 | E3 E E2 D2 | C6 z2 |
+A4 A4 | F4 D4 | C2 C2 E2 E2 | E6 z2 |
+E3 E F3/2 =E/2 F3/2 D/2 | C4 E4 | E3 E E2 D2 | C6 z2 |]
+V:T
+A,3 A, A,3/2 A,/2 D3/2 A,/2 | A,4 C4 | D3 D C2 G,2 | A,6 z2 |
+A,3 A, A,3/2 A,/2 D3/2 A,/2 | A,4 C4 | D3 C A,2 G,2 | A,6 z2 |
+C4 E4 | D4 A,4 | A,2 A,2 A,2 A,2 | G,6 z2 |
+A,3 A, A,3/2 A,/2 D3/2 A,/2 | A,4 C4 | D3 C A,2 G,2 | A,6 z2 |]
+V:B
+A,,3 C, D,3/2 D,/2 D,3/2 D,/2 | A,,4 A,,4 | E,3 E, E,2 E,2 | A,,6 z2 |
+A,,3 C, D,3/2 D,/2 D,3/2 D,/2 | A,,4 A,,4 | E,3 E, E,2 E,2 | A,,6 z2 |
+A,4 A,4 | D,4 D,4 | A,,2 A,,2 A,,2 C,2 | E,6 z2 |
+A,,3 C, D,3/2 D,/2 D,3/2 D,/2 | A,,4 A,,4 | E,3 E, E,2 E,2 | A,,6 z2 |]

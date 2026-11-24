@@ -1,0 +1,46 @@
+X:1
+T:Holy God, We Praise Thy Name
+T:TE DEUM
+C:or 'Hursley' or 'Grosser Gott, wir Loben Dich' from Katholisches Gesangbuch, Maria Theresa, 1774
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trinity
+%%duets tune: TE DEUM
+%%duets year: 1774
+%%duets credit: Tune and setting: public domain ("Hymns Ancient and Modern", 1869, alt), via the Open Hymnal Project.
+%%duets lyricist: attr. Ignaz Franz, 1774. Translated by Clarence A. Walworth, 1858
+%%duets notes: intro 21-24
+%%duets slug: holy-god-we-praise-thy-name
+M:3/4
+L:1/8
+Q:1/4=120
+K:F
+V:S
+"F"F4 F2 | "F"F2 "C"E2 "F"F2 | "C7"G2 "Am/C"A2 "C7"G2 | "F"F6 |
+"F"A4 A2 | "F"A2 "C"G2 "F"A2 | "Fmaj7/E"c2 "C7/E"B2 "F"A2 | "F/C"A2 "C"G4 |
+"F"F4 F2 | "F"F2 "C"E2 "F"F2 | "C7"G2 "Am/C"A2 "C7"G2 | "F"F6 |
+"F"A4 A2 | "F"A2 "C"G2 "F"A2 | "Fmaj7/E"c2 "C7/E"B2 "F"A2 | "F/C"A2 "C"G4 |
+"C"G2- "Gm/Bb"G2 "F#dim/A"A c | "Gm"B2 A2 "C"G2 | "F"A4 "Bb/D"B d | "C"c6 |
+"Bb"d4 d2 | "Csus4"c2 "C7"B2 "Dm"A2 | "Bb"B2 "F/C"A2 "C7"G2 | "F"F6 |]
+V:A
+C4 C2 | C4 C2 | E4 E2 | F6 |
+F4 F2 | F2 E2 F2 | F2 E2 F2 | F2 E4 |
+C4 C2 | C4 C2 | E4 E2 | F6 |
+F4 F2 | F2 E2 F2 | F2 E2 F2 | F2 E4 |
+E2 G2 ^F2 | G2 D2 E2 | F4 F2 | E6 |
+F4 F2 | F2 E2 F2 | F4 E2 | F6 |]
+V:T
+A,4 A,2 | A,2 G,2 A,2 | B,2 C2 B,2 | A,6 |
+C4 C2 | C4 C2 | C4 C2 | C2 C4 |
+A,4 A,2 | A,2 G,2 A,2 | B,2 C2 B,2 | A,6 |
+C4 C2 | C4 C2 | C4 C2 | C2 C4 |
+C2 D2 C2 | B,4 C2 | C4 F,2 | G,6 |
+B,4 B,2 | G,4 F,2 | D2 C2 B,2 | A,6 |]
+V:B
+F,4 F,2 | F,4 F,2 | C,4 C,2 | F,,6 |
+F,4 F,2 | F,4 F,2 | E,4 F,2 | C2 C,4 |
+F,4 F,2 | F,4 F,2 | C,4 C,2 | F,,6 |
+F,4 F,2 | F,4 F,2 | E,4 F,2 | C2 C,4 |
+C2 B,2 A,2 | G,4 C,2 | F,4 D,2 | C,6 |
+B,,4 B,,2 | C,4 D,2 | B,,2 C,2 C,2 | F,6 |]

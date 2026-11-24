@@ -1,0 +1,37 @@
+X:1
+T:Be Thou My Vision
+T:SLANE
+C:Traditional Irish
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: consecration
+%%duets tune: SLANE
+%%duets credit: Tune and setting: public domain (Mark Hamilton Dewey, 2007), via the Open Hymnal Project.
+%%duets lyricist: Attr. Dallan Forgaill, 8th Century. Translated by Mary Byrne, 1905 and Eleanor Hull, 1912
+%%duets notes: intro 13-16
+%%duets slug: be-thou-my-vision
+M:3/4
+L:1/8
+Q:1/4=100
+K:Eb
+V:S
+"Eb/G"E2 E2 "Gm7/F"F E | "Ab/Eb"C2 "Bb/D"B,2 "Bb7/D"B, C | "Eb/G"E2 E2 "Bb/F"F2 | "Eb"G6 |
+"Bb"F2 F2 F2 | "Bb"F2 "Gm"G2 "Eb"B2 | "Ab"c2 "Bb"B2 "Cm"G2 | "Eb/G"B6 |
+"Ab/C"c2 "Ab"c d e d | "Ab"c2 "Bb"B2 "Eb/G"G2 | "Eb/G"B2 "Eb"E2 "Bb"D2 | "Ab"C4 "Gm"B,2 |
+"Eb/Bb"E2 G2 B2 | "Abmaj7"c B "Eb/Bb"G2 E G | "Bb/F"F2 "Eb"E2 E2 | "Eb/G"E6 |]
+V:A
+E2 E2 D E | C2 B,2 B, C | E2 E2 D2 | E6 |
+D2 D2 D2 | D2 D2 G2 | E2 F2 G2 | E4 G2 |
+A2 E A c B | A2 F2 E2 | E2 B,2 B,2 | A,4 B,2 |
+B,2 E2 G2 | A G G2 E E | D2 E2 E2 | E6 |]
+V:T
+B,2 B,2 B, B, | A,2 F,2 F, A, | B,2 B,2 B,2 | B,6 |
+B,2 B,2 B,2 | B,2 B,2 B,2 | C2 D2 E2 | B,2 E4 |
+E2 C D E D | E2 D2 B,2 | B,2 G,2 F,2 | E,4 G,2 |
+G,2 B,2 B,2 | C B, E2 B,2 | B,2 B,2 B,2 | B,6 |]
+V:B
+G,2 G,2 F, G, | E,2 D,2 D, E, | G,2 G,2 F,2 | E,6 |
+B,,2 B,,2 B,,2 | B,,2 G,,2 E,2 | A,2 B,2 C2 | G,6 |
+C2 A, F, A, B, | A,2 B,2 G,2 | G,2 E,2 B,,2 | A,,4 G,,2 |
+B,,2 B,,2 G,2 | A, G, B,2 G,2 | F,2 E,2 B,,2 | G,6 |]

@@ -1,0 +1,42 @@
+X:1
+T:The Apostle Looked and Heard a Voice
+T:ADDISON`S
+C:or 'London (Addisons)' John Sheeles, 1720
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: end-times
+%%duets tune: ADDISON`S
+%%duets year: 1720
+%%duets credit: Tune and setting: public domain (composite from "A Hymnal" (Episcopal), 1916 and "Hymns Ancient and Modern", 1922), via the Open Hymnal Project.
+%%duets lyricist: Anthony Robertson, 2005
+%%duets notes: intro 18-19
+%%duets slug: the-apostle-looked-and-heard-a-voice
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+V:S
+"G"G2 | "G"B2 B2 "D/F#"A2 d2 | "G"c B A G "D7"A2 D2 | "G/B"G A B2 "D/F#"A2 G F |
+"Em"G2 "A"F E "D"F2 A2 | "Em7/G"B2 e2 "D/F#"A2 d2 | "Em"G2 "A7"A G "D"F2 A2 | "G"B2 "C#dim/E"^c2 "D/F#"d2 "Em/G"G2 |
+"D/A"F2 "A7"E2 "D"D2 "G"D2 | "D/F#"A2 "A7/E"A2 "D7"F2 E D | "G/B"G2 "D"A2 "G"B2 B2 | "D/F#"d2 d2 "C/G"c B "G7/F"A G |
+"C/E"c2 "G"d2 "C"e2 "G"d2 | "C"e2 "D7/A"d c "Bm"d2 "Em"G2 | "Am"c2 "D"B A "G"B2 G2 | "Am/C"A2 "G/B"G2 "D7/A"F2 "G"G2 |
+"D7/F#"c2 "G"B2 "D6"!fermata!A2 d2 | "C"e2 "G/B"d2 "D7"F2 "Em"G A | "G/D"B2 "D7"A G "G"!fermata!G2 |]
+V:A
+D2 | G2 G2 A2 F2 | D2 D2 D2 D2 | D2 G2 A2 D2 |
+B,2 ^C2 D2 D2 | D2 G2 A2 F2 | E D ^C2 D2 D2 | D2 G2 A2 E2 |
+D2 ^C2 D2 D2 | D2 ^C2 D2 A,2 | D2 D2 D2 G2 | A2 F2 G2 D2 |
+G2 G2 G2 G2 | G2 F2 F2 G2 | E2 F2 G2 D2 | E2 D2 D2 G2 |
+A2 G2 F2 G F | E F G2 D C B, C | D2 C2 B,2 |]
+V:T
+B,2 | D2 D2 D2 A,2 | G,2 B,2 F,2 F,2 | G,2 D2 D2 A,2 |
+G,2 A,2 A,2 D2 | D2 C B, A,2 B, A, | G, B, A,2 A,2 A,2 | G,2 E2 D2 B,2 |
+A,2 A, G, F,2 B,2 | A,2 G,2 A,2 F,2 | G,2 F,2 G,2 D2 | D2 D2 E D B,2 |
+C2 B,2 C2 B,2 | C2 C2 B,2 B,2 | A,2 D2 D2 D2 | C2 D2 C2 B,2 |
+D2 D2 D2 B, A, | G, A, B,2 A,2 G,2 | G,2 F,2 G,2 |]
+V:B
+G,2 | G,2 G,2 F,2 D,2 | G,2 G,,2 D,2 C,2 | B,,2 G,2 F,2 D,2 |
+E,2 A,,2 D,2 F,2 | G,2 E,2 F,2 D,2 | E,2 A,,2 D,2 F,2 | G,2 E,2 F,2 G,2 |
+A,2 A,,2 D,2 G,2 | F,2 E,2 D,2 C,2 | B,,2 D,2 G,2 G,2 | F,2 D,2 G,2 =F,2 |
+E,2 G,2 C,2 G,2 | C2 A,2 B,2 E,2 | A,2 D,2 G,2 B,2 | C2 B,2 A,2 G,2 |
+F,2 G,2 D,2 B,,2 | C,2 B,, C, D,2 E,2 | D,2 D,2 G,,2 |]

@@ -1,0 +1,42 @@
+X:1
+T:Thou, Who at Thy First Eucharist
+T:UNDE ET MEMORES
+C:William Henry Monk, 1875
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: communion
+%%duets tune: UNDE ET MEMORES
+%%duets year: 1875
+%%duets credit: Tune and setting: public domain ("The Church Hymnal, Revised and Enlarged" (Episcopal), 1896), via the Open Hymnal Project.
+%%duets lyricist: William H. Turton, 1881
+%%duets notes: intro 17-19
+%%duets slug: thou-who-at-thy-first-eucharist
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+V:S
+"D"F2 | "D"F3 D D2 "Em7/D"E2 | "D"F3 F F2 "A7/E"G2 | "D/F#"A6 F2 |
+"A7/G"E2 "D/F#"F2 "Em"G3 G | "A7/C#"G2 "D"F2 "D/F#"A2 F2 | "A"E6 "D"F2 | "D"F3 D D2 "Em7/D"E2 |
+"D"F3 F "Bm"F2 "Em7/B"G2 | "D/F#"A6 F2 | "G"B2 "D/F#"A2 "E7"^G3 G | "F#m"A2 "D6"B2 "A/E"c2 "E7"B2 |
+"A7"A6 A2 | "D/F#"d2 A2 "A7/E"G2 "D"F2 | "G"B2 B2 d2 B2 | "D"A6 A2 |
+"A7/E"G2 "D"F2 "A7"E2 "Bm"D2 | "G"B3 G "D/A"F2 "A7"E2 | "D"D6 |]
+V:A
+D2 | D3 D D2 D2 | D3 D D2 C2 | D6 D2 |
+C2 D2 E3 E | E2 D2 D2 D2 | C6 D2 | D3 D D2 D2 |
+D3 D D2 D2 | D6 D2 | D2 D2 D3 D | C2 F2 E2 D2 |
+C6 C2 | D2 D2 C2 D2 | D2 D2 D2 G2 | F6 D2 |
+C2 D2 C2 D2 | D3 E D2 C2 | D6 |]
+V:T
+A,2 | A,3 F, F,2 G,2 | A,3 A, A,2 A,2 | A,6 A,2 |
+A,2 A,2 B,3 B, | A,2 A,2 A,2 A,2 | A,6 A,2 | A,3 F, F,2 G,2 |
+A,3 D, D,2 E,2 | F,6 A,2 | G,2 A,2 B,3 B, | A,2 A,2 A,2 ^G,2 |
+A,6 A,2 | A,2 A,2 A,2 A,2 | G,2 G,2 G,2 D2 | D6 A,2 |
+A,2 A,2 G,2 F,2 | G,3 B, A,2 G,2 | F,6 |]
+V:B
+D,2 | D,3 D, D,2 D,2 | D,3 D, D,2 E,2 | F,6 D,2 |
+G,2 F,2 E,3 D, | C,2 D,2 F,,3 G,, | A,,6 D,2 | D,3 D, D,2 D,2 |
+D,3 B,, B,,2 B,,2 | F,,6 D,2 | G,2 F,2 E,3 E, | F,2 D,2 E,2 E,2 |
+A,,6 G,2 | F,2 F,2 E,2 D,2 | G,,2 G,,2 B,,2 G,,2 | D,6 F,2 |
+E,2 D,2 A,,2 B,,2 | G,,3 G,, A,,2 A,,2 | D,6 |]

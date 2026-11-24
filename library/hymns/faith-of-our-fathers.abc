@@ -1,0 +1,46 @@
+X:1
+T:Faith of Our Fathers
+T:ST. CATHERINE
+C:Henri F. Hemy (1818-1888)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: church
+%%duets tune: ST. CATHERINE
+%%duets year: 1818
+%%duets credit: Tune and setting: public domain (James G. Walton, 1874), via the Open Hymnal Project.
+%%duets lyricist: Frederick W. Faber, 1849. Refrain by James G. Walton, 1874
+%%duets notes: intro 21-24
+%%duets slug: faith-of-our-fathers
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+V:S
+"G"B2 "Gsus4"A2 "G"G2 | "G"G2 "D7/A"F2 "G"G2 | "Am/C"A2 E2 "D7"F2 | "G"G6 |
+"C"G2 "D7/C"F2 "C/E"E2 | "G"D4 G2 | "A7"G2 "F#m7/A"F2 "A7"G2 | "D"A6 |
+"G"B2 "Gsus4"A2 "G"G2 | "G/D"G2 "D7"F2 "Em"G2 | "Am/C"A2 "C"E2 "D7"F2 | "Em"G6 |
+"C"G2 "D7/C"F2 "C"E2 | "G/D"D4 B2 | "A"A2 "E7/D"B2 "D7"A2 | "G"G6 |
+"C"c2 c2 c2 | "G"B4 B2 | "D"A4 A2 | "G"B6 |
+"G"B2 "Am7"A2 "G/B"G2 | "C"E4 "Em"G2 | "Dsus4"A4 "D7"A2 | "G"G6 |]
+V:A
+D2 D2 D2 | D4 D2 | E4 D2 | D6 |
+E2 D2 C2 | B,4 D2 | ^C4 C2 | D6 |
+D2 D2 D2 | D2 C2 B,2 | E4 C2 | B,6 |
+E2 D2 C2 | B,2 D2 D2 | E4 F2 | G6 |
+G2 G2 G2 | G4 G2 | F4 F2 | G6 |
+B,2 C2 D2 | C4 B,2 | D4 C2 | B,6 |]
+V:T
+D2 C2 B,2 | B,2 C2 B,2 | A,4 C2 | B,6 |
+G,2 G,2 G,2 | G,4 B,2 | E,4 G,2 | F,6 |
+D2 C2 B,2 | B,2 A,2 G,2 | C4 A,2 | G,6 |
+G,2 G,2 G,2 | G,2 B,2 D2 | ^C4 =C2 | B,6 |
+E2 E2 E2 | D4 D2 | D4 D2 | D6 |
+G,2 G,2 G,2 | G,4 G,2 | G,4 F,2 | G,6 |]
+V:B
+G,2 G,2 G,2 | G,2 A,2 G,2 | C,4 D,2 | G,,6 |
+C,2 C,2 E,2 | G,4 G,,2 | A,,4 A,,2 | D,6 |
+G,2 G,2 G,2 | D,4 E,2 | C,4 D,2 | E,6 |
+C,2 C,2 C,2 | D,4 D,2 | D,4 D,2 | G,6 |
+C,2 C,2 C,2 | G,4 G,2 | D,4 D,2 | G,6 |
+G,,2 A,,2 B,,2 | C,4 E,2 | D,4 D,2 | G,,6 |]

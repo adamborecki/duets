@@ -1,0 +1,22 @@
+X:1
+T:Mary's a Grand Old Name
+C:George M. Cohan, 1905
+S:OpenEWLD
+R:ballad
+%%duets category: oldies
+%%duets tags: cohan
+%%duets year: 1905
+%%duets credit: Melody and chords: public domain in the United States (published 1905); lead sheet from OpenEWLD.
+%%duets slug: marys-a-grand-old-name
+M:4/4
+L:1/8
+K:F
+"Dm7"z C D F D2 "Ddim"F2 | "Gm7"G4 "C7"c4 | "Dm7"z C D F D2 "Ddim"F2 | "Gm7"G4- "C7"G4 |
+"F"z F G A c2 d2 | "A7"A4 "Dm7"F4 | "G7"z D E F G2 D2 | "C7"G8 |
+"Dm7"z C D F D2 "Ddim"F2 | "Gm7"G4 "C7"c4 | "Dm7"z C D F D2 "Ddim"F2 | "Gm7"G4- "C7"G4 |
+"F"z A ^G A d2 A2 | "A7"G4 "Dm7"F4 | "G7"z D E F G2 A2 | "C"c2- "Cdim"c2- |
+"C7"c3/2 C/2 "F"F3/2 A/2 |: c4 "D7"A4 | "G7"G4 D4 | "C7"E3/2 F/2 G3/2 E/2 C2 E2 |
+"Dm7"D11/2 C/2 D3/2 E/2 | "F"G2 F2 "E7"E2 D2 | "C"E2 "G7"F2 "C7"G2 C2 | G4 "C+"^G4 |
+"F"A11/2 C/2 F3/2 A/2 | c4 "D7"A4 | "G7"G4 D4 | "C7"E3/2 F/2 G3/2 E/2 C2 E2 |
+"Dm7"D11/2 "F"C/2 F3/2 A/2 | c2 "A7"^c2 "D7"d3 A | "D"d2 "D7"c2 "Gm"B2 A3/2 G/2 | "G7"D4 "C7"E4 |
+[2 "F"F11/2 C/2 F3/2 A/2 :| "F"F7 z |]

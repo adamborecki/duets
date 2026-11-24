@@ -1,0 +1,41 @@
+X:1
+T:O Come O Come Emmanuel
+T:VENI EMMANUEL
+C:15th Century French processional
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: advent
+%%duets tune: VENI EMMANUEL
+%%duets credit: Tune and setting: public domain ("Common Service Book" (ULCA), 1917), via the Open Hymnal Project.
+%%duets lyricist: various, combined by unknown author approx 12th Century, Translated by John Mason Neale, 1851
+%%duets notes: intro 18-20
+%%duets slug: o-come-o-come-emmanuel
+M:4/4
+L:1/8
+Q:1/4=130
+K:G
+V:S
+"Em"E2 | "Em7"G2 B2 B2 B2 | "C6"A2 c2 "G/B"B2 "D7"A2 | "G"G6 "D"A2 |
+"G"B2 G2 "C"E2 "G/B"G2 | "Am/C"A2 "F#dim/A"F2 "Em/B"E2 "Bm"D2 | "Em"E6 "Am/C"A2 | "Am"A2 E2 "Em/G"E2 "D#dim/F#"F2 |
+"Em7"G4 "D/A"F2 "A7"E2 | "D"D6 "Em"G2 | "D6"A2 B2 "G"B2 B2 | "C6"A2 c2 "G/B"B2 "D7"A2 |
+"G"G6 d2 | "D"d6 "Em"B2 | "Bm"B6 "G"B2 | "C6"A2 c2 "G/B"B2 "D7"A2 |
+"Em"G6 "D"A2 | "G"B2 G2 "C"E2 "G/B"G2 | "Am/C"A2 "F#dim/A"F2 "Em/B"E2 "Bm"D2 | "Em"E6 |]
+V:A
+E2 | E2 B,2 D2 G2 | G6 F2 | D6 D2 |
+D2 D2 C2 D2 | E2 C2 B,2 B,2 | B,6 E D | C2 A,2 E2 ^D2 |
+E2 D2 D2 ^C2 | D6 B,2 | D2 D2 D2 G2 | G6 F2 |
+G6 G2 | F6 G2 | F6 G2 | G6 F2 |
+G6 F2 | G2 D2 C2 D2 | E2 C2 B,2 B,2 | B,6 |]
+V:T
+G,2 | B,2 F,2 G,2 D2 | E4 D2 C2 | B,6 F,2 |
+G,2 G,2 G,2 B,2 | A,4 G,2 F,2 | G,6 A,2 | A,2 C2 B,2 A,2 |
+G,4 A,2 G,2 | F,6 G,2 | F,2 F,2 G,2 D2 | E4 D2 C2 |
+B,6 B,2 | A,6 E2 | D6 D2 | E4 D2 C2 |
+B,6 D2 | D2 G,2 G,2 B,2 | A,4 G,2 F,2 | G,6 |]
+V:B
+E,2 | E,2 D,2 B,,2 G,,2 | C,2 A,,2 B,,2 D,2 | G,6 D,2 |
+G,,2 B,,2 C,2 B,,2 | C,2 A,,2 B,,2 B,,2 | E,6 C, B,, | A,,2 A,2 G,2 F,2 |
+E,2 B,,2 A,,2 A,,2 | D,6 E,2 | D,2 B,,2 G,,2 B,,2 | C,2 A,,2 B,,2 D,2 |
+G,,6 G,2 | D,6 E,2 | B,,6 G,,2 | C,2 A,,2 B,,2 D,2 |
+E,6 D,2 | G,,2 B,,2 C,2 B,,2 | C,2 A,,2 B,,2 B,,2 | E,6 |]

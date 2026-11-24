@@ -1,0 +1,38 @@
+X:1
+T:Savior When In Dust To Thee
+T:ABERYSTWYTH (PARRY)
+C:Joseph Parry, 1879
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: lent, easter
+%%duets tune: ABERYSTWYTH (PARRY)
+%%duets year: 1879
+%%duets credit: Tune and setting: public domain ("The English Hymnal", 1906), via the Open Hymnal Project.
+%%duets lyricist: Robert Grant, 1815, alt
+%%duets notes: intro 15-16
+%%duets slug: savior-when-in-dust-to-thee
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"Dm"D2 "Dm/F"D E "Dm"F G "F"A2 | "Dm/A"F2 "A7"E2 "Dm"D4 | "Dm"F2 "A/E"E2 "Dm/F"D2 "A7/G"^C2 | "Dm/F"D E "Dm"F2 "A"E4 |
+"Dm"D2 "Dm/F"D E "Dm"F G "F"A2 | "Dm/A"F2 "A7"E2 "Dm"D4 | "A"E2 "Dm7"F G "F"A2 "Edim/G"G2 | "Dm/A"F2 "A7"E2 "Dm"D4 |
+"Bb"D2 "F"C2 "Bb"D2 "Edim/G"E2 | "F"F2 "C7"A G "F"F4 | "Dm"F2 "A"E2 "Dm"F2 "C"G2 | "F"A2 "Am/E"c =B "Am"A4 |
+"Bb"d2 d2 "F/A"c2 A2 | "Dm"F2 "Gm/Bb"G2 "A"A4 | "Dm/F"D2 D E "Dm"F G "F"A2 | "Dm/A"F2 "A7"E2 "Dm"D4 |]
+V:A
+A,2 D ^C D E F2 | D2 ^C2 A,4 | D2 ^C2 D2 A,2 | A,2 D2 ^C4 |
+A,2 A, ^C D E F2 | D2 ^C2 A,4 | ^C2 D E F2 E2 | D2 ^C2 A,4 |
+B,2 A,2 B,2 B,2 | C2 E2 C4 | D2 ^C2 D2 E =C | C2 E D C4 |
+D2 F E F2 C2 | D2 D2 E4 | D2 D ^C D E F2 | D2 ^C2 A,4 |]
+V:T
+F,2 A,2 A,2 A,2 | A,2 A, G, F,4 | A,2 A,2 A,2 A,2 | A,2 A,2 A,4 |
+F, G, A,2 A,2 A,2 | A,2 E, G, F,4 | A,2 A, C C2 B,2 | A,2 A, G, F,4 |
+F,2 F,2 F,2 G,2 | A,2 C B, A,4 | A,2 A,2 A,2 C2 | F, A,2 ^G, A,4 |
+F,2 B,2 C2 F,2 | A,2 D2 ^C4 | A, B, A, G, A,2 A,2 | A,2 E,/2 F,/2 G, F,4 |]
+V:B
+D,2 F,, A,, D,2 F,, G,, | A,,2 A,,2 D,4 | D,2 E,2 F,2 G,2 | F, E, D,2 A,,4 |
+D, E, F, E, D,2 F,, G,, | A,,2 A,,2 D,4 | A,,2 D, C, F,2 G,2 | A,2 A,,2 D,4 |
+B,,2 F,,2 B,, A,, G,,2 | F,,2 C,2 F,,4 | D,2 A,,2 D,2 C, E, | F,2 E,2 A,,4 |
+B,,2 B,2 A,2 F,2 | D,2 B,,2 A,,4 | F, G, F, E, D,2 F,, G,, | A,,2 A,,2 D,4 |]

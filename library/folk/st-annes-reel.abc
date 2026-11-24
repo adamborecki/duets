@@ -1,0 +1,17 @@
+X:1
+T:St. Anne's Reel
+C:French-Canadian traditional reel
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: canadian
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: st-annes-reel
+M:4/4
+L:1/8
+K:D
+[P:A]d e | "D"f3 g "G"f e d B | "D"A A A F A2 A d | "G"B G G G G2 G B |
+"D"A F F F F2 d e | "D"f3 g "G"f e d B | "D"A A A F A2 A d | "G"B G B d "A7"c A B c |
+"D"d2 d2 d2 :: [P:B]a g | "D"f d f a f d f a | "Em"a g2 f g3 f |
+"A7"e c e g e c e g | "D"b a2 ^g "A"a3 g | "D"f d f a f d f a | "Em"a g2 f g3 f |
+"A7"e c e g e c e g | "A7"f d e c "D"d2 :|

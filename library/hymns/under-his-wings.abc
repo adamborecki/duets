@@ -1,0 +1,37 @@
+X:1
+T:Under His Wings
+T:UNDER HIS WINGS
+C:Sankey, Ira David (1840-1908)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trust
+%%duets tune: UNDER HIS WINGS
+%%duets credit: Tune and setting: public domain ('Under His Wings' Ira David Sankey, 1898), via the Open Hymnal Project.
+%%duets lyricist: William Orcutt Cushing, 1896. Music and
+%%duets notes: intro 15-16
+%%duets slug: under-his-wings
+M:6/4
+L:1/8
+Q:3/4=37
+K:Db
+V:S
+"Db"F2 G2 =G2 A4 A A | "Db"A2 B2 F2 "Ab7/Eb"A2 G4 | "Ab7"E2 F2 G2 "Fm/Ab"B2 A2 A2 | "Ab"A2 E2 =E2 "Db"F6 |
+"Db"F2 G2 =G2 A2 A2 d2 | "Gb"e2 d2 B2 "Db"B2 A4 | "Gb"B2 c2 d2 "Db"d2 A2 F2 | "Ab7"A2 G2 E2 "Db"D6 |
+"Db"A2 F2 A2 d6 | "Ab7"c2 B2 c2 "Db"d6 | "Db"d2 A2 F2 B2 A2 F2 | "Ab"F2 E8 z2 |
+"Db"D2 F2 A2 d4 c2 | "Gb"e2 d2 B2 "Db"A6 | "Gb"B2 c2 d2 "Db"A2 F2 D2 | "Ab7"E6 "Db"D4 z2 |]
+V:A
+D2 E2 =E2 F4 F F | F2 G2 D2 C2 C4 | C2 D2 E2 G2 F2 F2 | F2 C2 C2 D6 |
+D2 E2 =E2 F2 F2 A2 | B2 B2 G2 G2 F4 | G2 G2 F2 F2 F2 D2 | F2 E2 C2 D6 |
+F2 D2 F2 F6 | G2 G2 G2 F6 | F2 F2 F2 G2 F2 D2 | D2 C8 z2 |
+D2 D2 F2 F4 A2 | G2 G2 G2 F6 | G2 G2 F2 F2 D2 A,2 | C6 D4 z2 |]
+V:T
+A,2 A,2 B,2 D4 D D | D2 D2 A,2 A,2 A,4 | A,2 A,2 A,2 A,2 A,2 A,2 | A,2 A,2 A,2 A,6 |
+A,2 A,2 B,2 D2 D2 D2 | D2 D2 D2 D2 D4 | D2 C2 B,2 A,2 D2 A,2 | A,2 A,2 G,2 F,6 |
+D2 D2 D2 A,6 | A,2 E2 E2 A,6 | A,2 D2 D2 D4 A,2 | A,2 A,8 z2 |
+F,2 A,2 D2 A,4 D2 | B,2 B,2 D2 D6 | D2 A,2 A,2 D2 A,2 F,2 | G,6 F,4 z2 |]
+V:B
+D,2 D,2 D,2 D,4 D, D, | D,2 D,2 D,2 E,2 E,4 | A,,2 A,,2 A,,2 A,,2 A,,2 A,,2 | A,,2 A,,2 A,,2 D,6 |
+D,2 D,2 D,2 D,2 D,2 F,2 | G,2 G,2 G,2 D,2 D,4 | G,2 G,2 G,2 D,2 D,2 D,2 | A,,2 A,,2 A,,2 D,6 |
+D,2 D,2 D,2 D,6 | A,2 A,2 A,,2 D,6 | D,2 D,2 D,2 D,4 F,2 | A,2 A,8 z2 |
+D,2 D,2 D,2 D,4 F,2 | G,2 G,2 G,,2 D,6 | G,2 E,2 D,2 D,4 D,2 | A,,6 D,4 z2 |]

@@ -1,0 +1,17 @@
+X:1
+T:Larry O'Gaff
+C:Irish traditional jig
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: larry-ogaff
+M:6/8
+L:1/8
+K:G
+[P:A](3d/2e/2f/2 | "G"g2 G B A G | "G"d e d d B G | "C"c e c "G"B d B |
+"Am"A B c "D7"d e f | "G"g2 G B A G | "G"d e d d B G | "C"c e c "G"B d B |
+"D7"A B A "G"G2 :| [P:B]d | "D7"d e f "G"g f g | "D7"a b a a f d |
+"D7"d f g a g a | "G"b g g g2 d | "D"d e f "C"g f e | "G"d e d d B G |
+"C"c e c "G"B d B | "D7"A B A "G"G2 |]

@@ -1,0 +1,30 @@
+X:1
+T:Savior Of The Nations Come
+T:NUN KOMM, DER HEIDEN HEILAND
+C:Walter's Geistliche Gesangbüchlein, 1524
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: advent
+%%duets tune: NUN KOMM, DER HEIDEN HEILAND
+%%duets year: 1524
+%%duets credit: Tune and setting: public domain ("Mehrstimmiges ChoralBuch", 1906), via the Open Hymnal Project.
+%%duets lyricist: Ambrose of Milan, c. 397. Translated to German by Martin Luther, 1524. Translated from German to English by William M. Reynolds, 1851
+%%duets notes: intro 7-8
+%%duets slug: savior-of-the-nations-come
+M:4/4
+L:1/8
+Q:1/4=100
+K:Bb
+V:S
+"Gm"G2 "Cm"G2 "Dm"F2 "Bb"B2 | "Cm"A G "D"A2 "Gm"G4 | "Gm"G2 B2 "Cm"c2- "Cm7"c B | "F"c2 "Bb"d2 B4 |
+"Bb"B2 "F"c2 "Bb"d2 "Eb"B2 | "Cm"c2 "Gm/D"B A "Gm"G4 | "Cm7/Eb"G2 G2 "Dm"F2 "Gm"B2 | "D"A G A2 "Gm"G4 |]
+V:A
+D2 E2 D2 F2 | E G ^F2 G4 | D2 D2 E3 D | F2 F2 F4 |
+D2 F2 F2 G2 | G A G ^F G4 | E2 E2 D2 D2 | ^F G F2 G4 |]
+V:T
+B,2 C2 A,2 D2 | C B, A,2 B,4 | B,2 B,2 G,3 B, | A,2 B,2 D4 |
+F,2 A,2 B,2 B,2 | E2 D2 B,4 | B,2 C2 A,2 B,2 | D B, A,2 B,4 |]
+V:B
+G,,2 C,2 D,2 B,,2 | C, G,, D,2 G,,4 | G,2 G,2 C,3 G, | F,2 B,,2 B,,4 |
+B,,2 F,,2 B,,2 E,2 | C,2 D,2 G,,4 | E,2 C,2 D,2 G,,2 | D,2 D,2 G,,4 |]

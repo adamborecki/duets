@@ -1,0 +1,38 @@
+X:1
+T:Lord, Dismiss Us With Thy Blessing
+T:REGENT SQUARE
+C:Henry Smart, 1867
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: closing
+%%duets tune: REGENT SQUARE
+%%duets year: 1867
+%%duets credit: Tune and setting: public domain ("Psalms and Hymns for Divine Worship", 1867), via the Open Hymnal Project.
+%%duets lyricist: John Fawcett, 1773; verse 3 alt. by Godfrey Thring, 1880
+%%duets notes: intro 12-13
+%%duets slug: lord-dismiss-us-with-thy-blessing
+M:4/4
+L:1/8
+Q:1/4=100
+K:C
+V:S
+"C"G2 E2 | "C/E"c2 G2 e3 d | "C/E"c2 G2 "F"A2 A2 | "Am7/E"G2 c2 "G7/B"G2 F2 |
+"C"E4 G2 E2 | "C/E"c2 "Em"G2 "C"e3 d | "Am/E"c2 "E"B2 "Am"c2 "E"B2 | "Am/C"A2 "Am"B c "G/D"B2 "D7"A2 |
+"G"G4 d3 d | "G"B2 G2 "C"e2- "C7"e d | "F"c2 A2 "Dm"f2 "Em"e2 | "Dm/F"d2 "Am"c2 "Gsus4"c2 "G7"B2 |
+"C"c4 |]
+V:A
+E2 C2 | G2 E2 G3 G | G2 G2 C2 C2 | C2 C2 D2 B,2 |
+C4 E2 C2 | G2 G F E3 F | E2 E2 E2 E2 | E2 E2 G2 ^F2 |
+G4 G3 G | G2 G2 G3 E | F2 F2 A2 G2 | F2 E F G3 F |
+E4 |]
+V:T
+C2 G,2 | G,2 C2 C3 B, | C2 C2 A,2 C2 | G,2 A,2 G,2 G,2 |
+G,4 C2 C2 | G,2 G,2 C3 B, | A,2 ^G,2 A,2 G,2 | E2 D C D2 C2 |
+B,4 B,3 B, | D2 B,2 C3 _B, | A,2 C2 D2 G,2 | A, B, C2 D2 D2 |
+C4 |]
+V:B
+C,2 C,2 | E,2 C,2 G,3 F, | E,2 E,2 F,2 F,2 | E,2 A,,2 B,,2 G,,2 |
+C,4 C2 G,2 | E,2 E, D, C,3 D, | E,2 E,2 A,2 E,2 | C,2 A,,2 D,2 D,2 |
+G,,4 G,3 G, | G,2 G,2 C,3 C, | F,2 F,2 D,2 E,2 | F, G, A,2 G,2 G,,2 |
+C,4 |]

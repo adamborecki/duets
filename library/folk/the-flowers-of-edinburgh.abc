@@ -1,0 +1,17 @@
+X:1
+T:The Flowers of Edinburgh
+C:Scottish traditional reel
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: scottish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-flowers-of-edinburgh
+M:4/4
+L:1/8
+K:G
+[P:A]D2 | "G"G2 G2 "D/A"B2 G B | "G/B"d2 B2 "C"g3 e | "G"d2 B2 B A G A |
+"Em"B2 "C"G2 "D7"E2 "D"D2 | "G"G2 G2 "Em"B2 G B | "G"d2 B2 "C"g3 e | "G/D"d2 B2 "D7"B A G A |
+"G"B2 G2 G2 :| [P:B]f2 | "Em"g4 "B7"f3 e | "Em"B2 e2 "B7"e2 e f |
+"Em"g2 g2 "B7"f a g f | "Em"B2 e2 "D7"e4 | "G"d B G B d2 d2 | "C"e d e f g2 e2 |
+"G/D"d2 B2 "D7"B A G A | "G"B2 G2 G2 :|

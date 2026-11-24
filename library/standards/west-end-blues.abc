@@ -1,0 +1,23 @@
+X:1
+T:West End Blues
+C:Joe "King" Oliver, 1928
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: blues
+%%duets year: 1928
+%%duets credit: Melody and chords: public domain in the United States (published 1928); lead sheet from OpenEWLD.
+%%duets slug: west-end-blues
+M:2/2
+L:1/8
+K:Eb
+z5 c G G | "Eb"c B7- | B2 ^F3/2 G/2 B/2 c/2 F3 | G2 B,3 B,2 E/2 D/2 |
+"Eb7"E/2 _D9/2 B c/2 B c/2 | "Ab7"B/2 E3/2 B3/2 E/2 B E2 z | z F (3:2:4_GEF11/2E3/2 | "Eb"G B,5 z2 |
+z5 B B/2 G/2 B/2 G/2 | "Bb7"B2 A/2 G/2 A A/2 F5/2 B, | G3/2 E/2 G3/2 E/2 F3 B, | "Eb"E6 z2 |
+z4 "Bb7"z3 B, | "Eb"G6 z G | "Ab7"_G6 z B, | "Eb"G6 z B |
+"Eb7"B E5 E E | "Ab7"B A3 z E E/2 E/2 E | B/2 A/2 _G4 =G2 F/2 E/2 | "Eb"C/2 B,7/2 z4 |
+z5 B B B/2 G/2 | "Bb7"B3 G A F2 B, | _G3 E G/2 F5/2 B, | "Eb"F/2 E11/2 z2 |
+z5 "Bb7"B B G | "Eb"B7 c | "Eb7"G E3 z c/2 B/2 c/2 B/2 c | "Ab7"B E2 B B/2 E B3/2 z |
+z _G2 F/2 E/2 F3 E | "Eb"C B,3 z4 | z5 c3 | "Bb7"_d B c/2 B/2 c/2 B/2 c/2 B5/2 B, |
+G3/2 B/2 B3/2 c/2 G3/2 B/2 B3/2 c/2 | "Eb"G/2 E11/2 z2 | z4 "Bb7"z c _G3/2 G/2 || _d2 (3cBc c/2 B5/2 B |
+e2 B A G B, G2 | G/2 E15/2- | E2 z6 |]

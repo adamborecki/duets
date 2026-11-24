@@ -1,0 +1,17 @@
+X:1
+T:Happy Birthday to You
+C:Mildred J. Hill & Patty Hill, 1893
+S:OpenEWLD
+R:waltz
+%%duets category: folk
+%%duets tags: children
+%%duets year: 1893
+%%duets credit: Melody and chords: public domain in the United States (published 1893); lead sheet from OpenEWLD.
+%%duets slug: happy-birthday-to-you
+M:4/4
+L:1/8
+K:G
+D2 D2 || "Gmaj7"E4 "Am7"D4- | "Bm7"D4 "Bb13"G4 | "Am7"F8 |
+"D7"z4 D2 D2 | "Am7"E4 D4- | "D7"D4 A4 | "Gmaj7"G4 "C#dim"G4 |
+"Gmaj7"z4 D2 D2 | "Dm7"d4 B4 | "G7"B4 d2 d2 | "Dmaj7"d4 c4 |
+"F7"z4 c2 c2 | "Em7"B4 "A7"G4 | "Am7"G4 "D7"A4 | "Gmaj7"G4 "A#maj7"G4 |]

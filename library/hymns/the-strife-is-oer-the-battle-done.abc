@@ -1,0 +1,54 @@
+X:1
+T:The Strife Is O'er, The Battle Done
+T:VICTORY
+C:or 'Palestrina' Giovanni P. da Palestrina, 1591
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: easter
+%%duets tune: VICTORY
+%%duets year: 1591
+%%duets credit: Tune and setting: public domain (William Henry Monk, 1861), via the Open Hymnal Project.
+%%duets lyricist: from Symphonia Sirenum Selectarum, Köln, 1695; translated by Francis Pott, 1861
+%%duets notes: intro 21-22
+%%duets slug: the-strife-is-oer-the-battle-done
+M:3/4
+L:1/8
+Q:1/4=140
+K:E
+V:S
+"E"z2 G2 G2 | "A"A6 | "E"G2 B2 B2 | "A"c6 |
+"E"B2 B2 e2 | "B"d6 | "E"e4 z2 |: "E"B2 B2 B2 |
+"A"c4 "E"B2 | "G#m"B2 "F#m"A2 "C#m"G2 | "B"B6 | "E"G2 G2 G2 |
+"C#m"G4 "G#m"G2 | "E"G2 "F#m"F2 "C#m"E2 | "B"F6 | "G#m"B2 "E"B2 B2 |
+"A"c4 "E"B2 | "G#m"B2 "F#m"A2 "C#m"G2 | "B"B6 | "E"z2 B2 e2 |
+"B"d6 | "E"e6 :| "E"z2 G2 G2 | "A"A6 |
+"E"G2 B2 B2 | "A"c6 | "E"B2 B2 e2 | "B"d6 |
+"E"e4 z2 |]
+V:A
+z2 E2 E2 | E6 | E2 E2 E2 | E6 |
+E2 E2 G2 | F6 | G4 z2 |: G2 G2 G2 |
+A4 G2 | G2 C2 C2 | F6 | E2 E2 E2 |
+E4 D2 | E2 C2 C2 | D6 | G2 G2 G2 |
+A4 G2 | G2 C2 C2 | F6 | z2 E2 G2 |
+F6 | G6 :| z2 E2 E2 | E6 |
+E2 E2 E2 | E6 | E2 E2 G2 | F6 |
+G4 z2 |]
+V:T
+z2 B,2 B,2 | C6 | B,2 G,2 G,2 | A,6 |
+G,2 B,2 B,2 | B,6 | B,4 z2 |: E2 E2 E2 |
+E4 E2 | D2 F2 E2 | D6 | B,2 B,2 B,2 |
+C4 B,2 | B,2 A,2 G,2 | B,6 | D2 E2 E2 |
+E4 E2 | D2 F2 E2 | D6 | z2 E2 B,2 |
+B,6 | B,6 :| z2 B,2 B,2 | C6 |
+B,2 G,2 G,2 | A,6 | G,2 B,2 B,2 | B,6 |
+B,4 z2 |]
+V:B
+E,,2 E,2 E,2 | A,,6 | E,2 E,2 E,2 | A,,6 |
+E,2 G,2 E,2 | B,,6 | E,4 z2 |: E,2 E,2 E,2 |
+A,4 E,2 | G,2 F,2 C2 | B,6 | E,2 E,2 E,2 |
+C,4 G,2 | E,2 F,2 C,2 | B,,6 | G,2 E,2 E,2 |
+A,4 E,2 | G,2 F,2 C2 | B,6 | z2 G,2 E,2 |
+B,,6 | E,6 :| E,,2 E,2 E,2 | A,,6 |
+E,2 E,2 E,2 | A,,6 | E,2 G,2 E,2 | B,,6 |
+E,4 z2 |]

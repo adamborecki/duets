@@ -1,0 +1,22 @@
+X:1
+T:Make Believe
+C:Jerome Kern, 1927
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: kern
+%%duets year: 1927
+%%duets credit: Melody and chords: public domain in the United States (published 1927); lead sheet from OpenEWLD.
+%%duets slug: make-believe
+M:4/4
+L:1/8
+K:C
+z4 G3 E | "G7"G3 F B,4- | B,4 B4 | A4 A4- |
+A4 A3 G | "C"A3 G C4- | C4 z2 (3EGe | d8- |
+d4 c3 A | "G7"B4 "Dm"A3 d | "G7"G4 "Dm"F3 c | "G7"E4 E4- |
+E4 D3 A | "C"G4 C3 B | "D7"A4 D3 c | "G7"B8- |
+B4 G3 E | "G7"G3 F B,4- | B,4 B4 | A4 A4- |
+A4 A3 G | "C"A3 G C4- | C4 z2 (3EGe | "D7"d8- |
+d4 d3 c | "F"d4 d3 c | "D7"_e4 d3 c | "C"e8- |
+e4 G3 E | "G7"G3 F B,4- | B,4 d4 | "C"c8- |
+c4 z4 |]

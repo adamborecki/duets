@@ -1,0 +1,19 @@
+X:1
+T:The Rakes of Kildare
+C:Irish traditional jig
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-rakes-of-kildare
+M:6/8
+L:1/8
+K:Am
+|: [P:A]E | "Am"E A A A G A | "Am"B c d e2 ^f |
+"G"g ^f g e g e | "G"d B G A2 E | "Am"E A A A G A | "Am"B c d e2 ^f |
+"G"g ^f e d B G | "Am"A3 A2 :| [P:B]a | "Am"a e a a e a |
+"Am"a e a b2 a | "G"g ^f g e g e | "G"d B G A2 a | "Am"a e a a e a |
+"Am"a e a b2 a | "G"g ^f e d B G | "Am"A3 A2 a | "Am"a e a a e a |
+"Am"a e a b2 a | "G"g ^f g e g e | "G"d B G A2 E | "F"E A A A G A |
+"F"B c d e2 ^f | "G"g ^f e d B G | "Am"A3 A2 |]

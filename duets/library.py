@@ -1,0 +1,114 @@
+"""The tune library: ABC files with a little extra metadata."""
+from __future__ import annotations
+
+import re
+import unicodedata
+from pathlib import Path
+from typing import Optional
+
+from .abc import AbcTune, apply_play_order, irregular_bars, parse_abc
+from .model import Ev, F, Tune, merge_ties, total
+from .theory import Meter
+
+LIBRARY_ROOT = Path(__file__).resolve().parent.parent / "library"
+
+
+def slugify(text: str) -> str:
+    t = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
+    t = re.sub(r"['’`]", "", t.lower())
+    t = re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+    return t or "untitled"
+
+
+def tune_from_abc(abc: AbcTune) -> Tune:
+    """Build a Tune from a parsed ABC tune, including extra voices and the
+    ``%%duets`` metadata."""
+    tune = abc.to_tune()
+    main = abc.voice_order[0]
+    ref = abc.voices[main]
+    for vid in abc.voice_order[1:]:
+        bars = abc.voices[vid]
+        if len(bars) != len(ref) or any(a.length != b.length for a, b in zip(bars, ref)):
+            continue
+        for tb, vb in zip(tune.bars, bars):
+            tb.voices[vid] = list(vb.events)
+    meta = abc.meta
+    tune.category = meta.get("category", tune.category)
+    if meta.get("tags"):
+        tune.tags = [t.strip() for t in meta["tags"].split(",") if t.strip()]
+    tune.tune_name = meta.get("tune", "")
+    tune.credit = meta.get("credit", "")
+    tune.lyricist = meta.get("lyricist", "")
+    tune.tempo_text = meta.get("tempo-text", "")
+    tune.notes = meta.get("notes", "")
+    if meta.get("year", "").strip().isdigit():
+        tune.year = int(meta["year"])
+    if meta.get("free-meter", "").lower() in ("yes", "true", "1"):
+        tune.free_meter = True
+    if meta.get("style"):
+        tune.style = meta["style"]
+    titles = abc.headers.get("T", [])
+    if len(titles) > 1:
+        tune.subtitle = titles[1].strip()
+    order = abc.header("Y")
+    if order:
+        apply_play_order(tune, order)
+    for b in tune.bars:
+        b.melody = merge_ties(b.melody)
+        b.voices = {k: merge_ties(v) for k, v in b.voices.items()}
+    tune.slug = meta.get("slug") or slugify(tune.title)
+    return tune
+
+
+def load_file(path: Path) -> list:
+    text = Path(path).read_text(encoding="utf-8", errors="replace")
+    out = []
+    for abc in parse_abc(text):
+        try:
+            t = tune_from_abc(abc)
+        except Exception as exc:  # a broken tune should not take the library down
+            print(f"warning: {path}: {abc.title}: {exc}")
+            continue
+        out.append(t)
+    return out
+
+
+def load_library(root: Optional[Path] = None) -> list:
+    """Load every ``*.abc`` under the library folder."""
+    root = Path(root or LIBRARY_ROOT)
+    tunes = []
+    seen = set()
+    for path in sorted(root.rglob("*.abc")):
+        for t in load_file(path):
+            coll = path.parent.name if path.parent != root else ""
+            t.collection = coll
+            base = t.slug
+            k = 2
+            while t.slug in seen:
+                t.slug = f"{base}-{k}"
+                k += 1
+            seen.add(t.slug)
+            t.path = str(path)
+            tunes.append(t)
+    return tunes
+
+
+def validate(tune: Tune) -> list:
+    """Problems that make a tune unsuitable for arranging."""
+    problems = []
+    if not tune.bars:
+        return ["empty"]
+    for i, b in enumerate(tune.bars):
+        if total(b.melody) != b.length:
+            problems.append(f"bar {i + 1}: melody length mismatch")
+        for name, v in b.voices.items():
+            if total(v) != b.length:
+                problems.append(f"bar {i + 1}: voice {name} length mismatch")
+    if not tune.free_meter:
+        irr = irregular_bars(tune.bars, tune.meter)
+        if irr:
+            problems.append("irregular bars: " + ", ".join(str(i + 1) for i in irr[:6]))
+    notes = [p for p in tune.melody_pitches()]
+    if len(notes) < 8:
+        problems.append("too few notes")
+    return problems

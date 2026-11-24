@@ -1,0 +1,19 @@
+X:1
+T:Abbots Bromley Horn Dance
+C:English traditional
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: english
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: abbots-bromley-horn-dance
+M:6/8
+L:1/8
+K:Gm
+[P:A]g | "Gm"d2 g B2 g | "Gm"d2 g G2 B | "Cm"A B c "Gm/D"B c d |
+"D7"c B A "Gm"G2 g | "Gm"d2 g B2 g | "Gm"d2 g G2 B | "Cm"A B c "Gm/D"B c d |
+"D7"c B A "Gm"G2 :| [P:B]g | "Cm"e2 g e f g | "Cm"c2 e c d e |
+"F"A B c "Gm"B A G | "Dm"F G A D2 b | "Gm"g2 b g a b | "Cm"e2 g e f g |
+"Dm"f e d c B A | "Gm"G3 G2 :| [P:C]c | "Gm"d e d "Cm"e3 |
+"Gm"d e d "Cm"g3 | "Gm"d e d "D7"c B A | "Gm"B3 "D7"B2 c | "Gm"d e d "Cm"e3 |
+"Gm/Bb"d e d "Cm"g3 | "Gm/D"d e d "D7"c B A | "Gm"G3 G2 |]

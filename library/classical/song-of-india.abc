@@ -1,0 +1,27 @@
+X:1
+T:Song of India
+C:Nikolai Rimsky-Korsakov (Sadko), 1896
+S:OpenEWLD
+R:flowing
+%%duets category: classical
+%%duets tags: opera
+%%duets year: 1896
+%%duets credit: Melody and chords: public domain in the United States (published 1896); lead sheet from OpenEWLD.
+%%duets slug: song-of-india
+M:3/4
+L:1/8
+K:G
+B d B | "G"B A A G G E | "Em"G2 G G B G | "G7"G E E D D E |
+"G"E2 E E G A | E3 "Cm"G "Cm"A G | "G"B2 B z3 | z6 |
+d4 d/2 ^c/2 =c/2 B/2 | "Gm"d4 d/2 c/2 B/2 _B/2 | "G"d4 d ^c/2 =c/2 | B2 B z3 |
+B4 B/2 A/2 _A/2 G/2 | "Gm"_B4 B/2 A/2 _A/2 G/2 | "G"B4 B A/2 _A/2 | G2 G z3 |
+d4 d/2 ^c/2 =c/2 B/2 | "Gm6"d4 d/2 c/2 B/2 _B/2 | "G"d4 d ^c/2 =c/2 | B2 B z3 |
+B4 B/2 A/2 _A/2 G/2 | "Gm6"_B4 B/2 A/2 _A/2 G/2 | "G"B4 B A/2 _A/2 | G2 G z3 |
+"D9"F2 F/2 ^G/2 A/2 B/2 c/2 d/2 e/2 d/2 | e2 e/2 d/2 c/2 B/2 A/2 B/2 c/2 d/2 | e2 e z3 | z6 |
+F2 F/2 G/2 A/2 B/2 c/2 d/2 _e/2 d/2 | _e2 e/2 d/2 c/2 B/2 A/2 B/2 c/2 d/2 | _e2 e z3 | z6 |
+"Em"g4 g/2 f/2 =f/2 e/2 | "G+"g4 g/2 =f/2 e/2 _e/2 | "G"g6 | d2 d z3 |
+"C"e4 e/2 d/2 ^c/2 =c/2 | "Cm"_e4 e/2 d/2 ^c/2 =c/2 | "G"d6 | B2 B z3 |
+d4 d/2 ^c/2 =c/2 B/2 | "D7"d4 d/2 c/2 B/2 ^A/2 | "G"d6 | B2 B z3 |
+"Gm"d4 d/2 c/2 B/2 _B/2 | "D7"c4 c/2 B/2 _B/2 A/2 | "C"B6 | G z2 B d B |
+B A A G G E | "Em"G2 G G B G | "G7"G E E D D E | "C"E2 E E G A |
+E4 G2 | "Cm"A4 B2 | "G"G6 | !fermata!G2 z |]

@@ -1,0 +1,30 @@
+X:1
+T:Now the Light Has Gone Away
+T:MÜDE BIN ICH, GEH ZUR RUH
+C:Liederbuch für Kleinkinder-Schulen, 1842
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: evening
+%%duets tune: MÜDE BIN ICH, GEH ZUR RUH
+%%duets year: 1842
+%%duets credit: Tune and setting: public domain ("Common Service Book" (ULCA), 1917, alt), via the Open Hymnal Project.
+%%duets lyricist: Frances Ridley Havergal, 1869
+%%duets notes: intro 7-8
+%%duets slug: now-the-light-has-gone-away
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"F"F3 F F2 F2 | "C7/G"E2 "F"F2 "C"G4 | "C7"G2 G2 G2 G2 | "F/A"F2 "C/G"G2 "F"A4 |
+"F"A3 A A2 A2 | "Gm7/F"G2 "F7"F2 "Bb"d4 | "F/C"c2 A2 c2 "Bb"B2 | "Bb"D2 "C7"E2 "F"F4 |]
+V:A
+C3 C C2 C2 | C2 C2 E4 | E2 E2 E2 E2 | F2 E2 F4 |
+F2 F2 F2 F2 | E2 _E2 D4 | F2 F2 F2 F2 | D2 C2 C4 |]
+V:T
+A,3 A, A,2 C2 | B,2 A,2 C4 | C2 C2 C2 C2 | C2 C2 C4 |
+C2 C2 C2 C2 | B,2 A,2 [F,B,]4 | A,2 C2 A,2 D2 | B,2 B,2 A,4 |]
+V:B
+F,3 F, F,2 A,2 | G,2 F,2 C,4 | C,2 C,2 C,2 B,2 | A,2 G,2 F,4 |
+F,2 F,2 F,2 F,2 | F,2 F,2 B,,4 | C,2 C,2 C,2 C,2 | C,2 C,2 F,,4 |]

@@ -1,0 +1,42 @@
+X:1
+T:Gentle Mary Laid Her Child
+T:TEMPUS ADEST FLORIDUM
+C:13th Century spring carol; first published in the Swedish Piae Cantones, 1582
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: TEMPUS ADEST FLORIDUM
+%%duets year: 1582
+%%duets credit: Tune and setting: public domain ("Carols Old And Carols New", 1916), via the Open Hymnal Project.
+%%duets lyricist: Joseph S. Cook, 1919
+%%duets notes: intro 15-17
+%%duets slug: gentle-mary-laid-her-child
+M:4/4
+L:1/8
+Q:1/4=140
+K:A
+V:S
+"A"A2 A2 "F#m"A2 "E/G#"B2 | "A"A2 "D"A2 "E"E4 | "D"F2 "A/C#"E2 "D"F2 "G#dim/B"G2 | "A"A4 A4 |
+"A"A2 A2 "F#m"A2 "E/G#"B2 | "A"A2 "D"A2 "E"E4 | "D"F2 "A/C#"E2 "D"F2 "G#dim/B"G2 | "A"A4 A4 |
+"A/C#"e2 "D"d2 "A/E"c2 "E"B2 | "A"c2 "E"B2 "F#m"A4 | "D"F2 "A/C#"E2 "D"F2 "G#dim/B"G2 | "A"A4 A4 |
+"A/C#"E2 E2 "D"F2 "G#dim/B"G2 | "F#m"A2 A2 "E"B4 | "A/C#"e2 "D"d2 "A/E"c2 "E"B2 | "F#m"A4 "D"d4 |
+"A"A8 |]
+V:A
+E2 E2 F2 E2 | E2 F2 B,4 | D2 E2 D2 D2 | E4 E4 |
+E2 E2 F2 E2 | E2 F2 B,4 | D2 E2 D2 D2 | E4 E4 |
+A2 A2 A2 G2 | A2 G2 F4 | A,2 E2 D2 D2 | E4 E4 |
+E2 E2 D2 D2 | C2 C2 E4 | E2 A2 A2 G2 | A4 F4 |
+E8 |]
+V:T
+C2 C2 C2 B,2 | C2 D2 G,4 | A,2 A,2 A,2 B,2 | C4 C4 |
+C2 C2 C2 B,2 | C2 D2 G,4 | A,2 A,2 A,2 B,2 | C4 C4 |
+E2 F2 E2 E2 | E2 E2 C4 | D2 A,2 A,2 B,2 | C4 C4 |
+A,2 A,2 A,2 B,2 | A,2 A,2 G,4 | A,2 F2 E2 E2 | C4 D4 |
+C8 |]
+V:B
+A,2 A,2 F,2 G,2 | A,2 D,2 E,4 | D,2 C,2 D,2 B,,2 | A,,4 A,,4 |
+A,2 A,2 F,2 G,2 | A,2 D,2 E,4 | D,2 C,2 D,2 B,,2 | A,,4 A,,4 |
+C,2 D,2 E,2 E,2 | A,2 E,2 F,4 | D,2 C,2 D,2 B,,2 | A,,4 A,,4 |
+C,2 C,2 D,2 B,,2 | F,2 F,2 E,4 | C,2 D,2 E,2 E,2 | F,4 D,4 |
+A,8 |]

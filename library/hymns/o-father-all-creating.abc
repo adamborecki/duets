@@ -1,0 +1,42 @@
+X:1
+T:O Father, All Creating
+T:AURELIA
+C:Samuel Sebastian Wesley, 1864
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: home
+%%duets tune: AURELIA
+%%duets year: 1864
+%%duets credit: Tune and setting: public domain ("Order of worship for the Reformed Church in the United States", 1866), via the Open Hymnal Project.
+%%duets lyricist: John Ellerton, 1876
+%%duets notes: intro 16-17
+%%duets slug: o-father-all-creating
+M:4/4
+L:1/8
+Q:1/4=130
+K:D
+V:S
+"D"F2 | "D"F2 F2 "G/D"G2 "D"F2 | "D/A"F4 "A7/G"E2 "D/F#"D2 | "Em7/G"D2 B2 "D/A"A2 "A7"G2 |
+"D"F6 "A7/E"G2 | "D/F#"A2 d2 "F#+"d2 "F#7"c2 | "Gdim7"c4 "G"B2 "F#m/A"A2 | "G/B"G2 "A/C#"A2 "D"F2 "G#dim/B"D2 |
+"A"E6 E2 | "D"F2 "A7/E"G2 "D/F#"A2 "G"B2 | "G"B4 "Bm7/F#"A2 d2 | "Bm/F#"d3 c "Bm/D"B2 "B/D#"F2 |
+"Em"G6 "A/C#"E2 | "D"F2 F2 "G/D"G2 "D"F2 | "Gmaj7"F4 "Em/G"E2 "G"D2 | "Em7"D2 E2 "Asus4"D2 "A7"C2 |
+"D"D6 |]
+V:A
+D2 | D2 D2 D2 D2 | D4 C2 D2 | B,2 D2 D2 C2 |
+D6 C2 | D2 D2 F2 E2 | E4 D2 F2 | G2 E2 D2 D2 |
+C6 C2 | D2 C2 D2 D2 | D4 D2 F2 | F3 F F2 F2 |
+E6 E2 | D2 D2 D2 D2 | B,4 B,2 B,2 | B,2 B,2 B,2 A,2 |
+A,6 |]
+V:T
+A,2 | A,2 A,2 B,2 A,2 | A,4 A,2 A,2 | E,2 E,2 F,2 A,2 |
+A,6 A,2 | A,2 A,2 ^A,2 A,2 | ^A,4 B,2 C2 | D2 E2 A,2 ^G,2 |
+A,6 A,2 | A,2 A,2 A,2 G,2 | G,4 A,2 B,2 | B,3 ^A, B,2 B,2 |
+B,6 A,2 | A,2 A,2 B,2 A,2 | A,4 G,2 G,2 | G,2 G,2 E,2 G,2 |
+F,6 |]
+V:B
+D,2 | D,2 D,2 D,2 D,2 | A,,4 G,,2 F,,2 | G,,2 G,,2 A,,2 A,,2 |
+D,6 E,2 | F,2 F,2 F,2 F,,2 | G,,4 G,,2 A,,2 | B,,2 C,2 D,2 B,,2 |
+A,,6 A,,2 | D,2 E,2 F,2 G,2 | G,4 F,2 B,,2 | F,3 E, D,2 ^D,2 |
+E,6 C,2 | D,2 D,2 D,2 D,2 | G,,4 G,,2 G,,2 | E,,2 E,,2 A,,2 A,,2 |
+D,6 |]

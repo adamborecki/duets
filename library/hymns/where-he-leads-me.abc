@@ -1,0 +1,41 @@
+X:1
+T:Where He Leads Me
+T:BLANDY
+C:or 'Norris' attr. John Samuel Norris (1844-1907) or Philip Paul Bliss (1838-1876)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: obedience
+%%duets tune: BLANDY
+%%duets year: 1838
+%%duets credit: Tune and setting: public domain ("Best Endeavor Hymns", 1907), via the Open Hymnal Project.
+%%duets lyricist: Edward (or Ernest) William Blandy, 1890
+%%duets slug: where-he-leads-me
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"F"C3/2 F/2 | "F"A3 A "Bb/F"B3 A | "F/C"A G- "C"G2- "C7"G z C3/2 E/2 | "C7"G3 F "F/C"A3 G |
+"F"G F4 z F3/2 A/2 | "F"c3 c "Bb/F"d3 c | "Bb"c B4 z F G | "F/C"A/2 !fermata!C3/2 A/2 !fermata!C3/2 "C7"G2- "F/C"G F |
+"F"F6 C3/2 F/2 | "F"A3 A "Bb/F"B3 A | "F/C"A G- "C"G2- "C7"G z C3/2 E/2 | "C7"G3 F "F/C"A3 G |
+"F"G F4 z F3/2 A/2 | "F"c3 c "Bb/F"d3 c | "Bb"c B4 z F G | "F/C"A/2 !fermata!C3/2 A/2 !fermata!C3/2 "C7"G2- "F/C"G F |
+"F"F6 |]
+V:A
+C3/2 C/2 | F3 F F3 F | F E4 z C3/2 C/2 | E3 F F3 E |
+C C4 z F3/2 F/2 | F3 F F3 _E | D D4 z D _D | C/2 C3/2 C/2 C3/2 C3 C |
+C6 C3/2 C/2 | F3 F F3 F | F E4 z C3/2 C/2 | E3 F F3 E |
+C C4 z F3/2 F/2 | F3 F F3 _E | D D4 z D _D | C/2 C3/2 C/2 C3/2 C3 C |
+C6 |]
+V:T
+A,3/2 A,/2 | C3 C D3 C | C C4 z B,3/2 B,/2 | B,3 A, C3 B, |
+B, A,4 z A,3/2 C/2 | A,3 A, B,3 A, | B, F,4 z F, F, | F,/2 A,3/2 F,/2 A,3/2 B,3 A, |
+A,6 A,3/2 A,/2 | C3 C D3 C | C C4 z B,3/2 B,/2 | B,3 A, C3 B, |
+B, A,4 z A,3/2 C/2 | A,3 A, B,3 A, | B, F,4 z F, F, | F,/2 A,3/2 F,/2 A,3/2 B,3 A, |
+A,6 |]
+V:B
+F,3/2 F,/2 | F,3 F, F,3 F, | C, C,4 z C,3/2 C,/2 | C,3 C, C,3 C, |
+F, F,4 z F,3/2 F,/2 | F,3 F, F,3 F, | B,, B,,4 z B,, B,, | C,/2 C,3/2 C,/2 C,3/2 C,3 F, |
+F,6 F,3/2 F,/2 | F,3 F, F,3 F, | C, C,4 z C,3/2 C,/2 | C,3 C, C,3 C, |
+F, F,4 z F,3/2 F,/2 | F,3 F, F,3 F, | B,, B,,4 z B,, B,, | C,/2 C,3/2 C,/2 C,3/2 C,3 F, |
+F,6 |]

@@ -1,0 +1,22 @@
+X:1
+T:Embraceable You
+C:George Gershwin, 1930
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: gershwin, ella, sinatra, natkingcole
+%%duets year: 1930
+%%duets credit: Melody and chords: public domain in the United States (published 1930); lead sheet from OpenEWLD.
+%%duets slug: embraceable-you
+M:4/4
+L:1/8
+K:G
+|: "G"z2 E2 F2 G2 | "C#dim"z2 E2 F2 G2 | "D7"A z2 D "C"D2 D2- |
+"Ddim"D4- "D7"D4 | "Am"z2 A2 B2 c2 | "F7"z2 A2 "D7"B2 c2 | "G"d z2 G "D7sus4"G2 G2- |
+"G"G8 | "Em"B2 G2 "Em7"A2 G2 | "Em6"B2 G2 "F#7"A2 G2 | "Bm"B z2 F "Bb+"F2 F2- |
+"Bm7"F4- "E7"F4 | "D"A2 F2 "Ebdim"G2 F2 | "A7"G2 A2 B2 ^c2 | "D7"d z2 D "G"D2 "D7"D2- |
+"G"D4- "D7"D4 | "G"z2 E2 F2 G2 | "C#dim"z2 E2 F2 G2 | "D7"A z2 D "C"D2 D2- |
+"Ddim"D4- "D7"D4 | "A"z2 A2 B2 c2 | "E7"z2 A2 "D7"B2 c2 | "G7"d z2 G "D7sus4"G2 G2- |
+"C#dim"G4- "G7"G4 | "C"z2 d2 c2 B2 | "Am/F#"c2 B2 "D7"A2 B2 | "Em"z2 G G G G "Eb+"G G |
+"G"G G "Em6"B6 | "G"z2 B2 c2 d2 | "Cm/A"_e z2 G "D7"F4 | [1 "G"G4- "Eb"G4 |
+"A"z4 "D7"z4 :| [2 "G"G8- | G2 z6 |]

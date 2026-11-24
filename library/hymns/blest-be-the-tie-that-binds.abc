@@ -1,0 +1,33 @@
+X:1
+T:Blest Be The Tie That Binds
+T:BOYLSTON
+C:Mason, Lowell (1792-1872)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: church
+%%duets tune: BOYLSTON
+%%duets credit: Tune and setting: public domain ('Boylston' Lowell Mason, 1832), via the Open Hymnal Project.
+%%duets lyricist: John Fawcett, 1782. Music and
+%%duets notes: intro 8-9
+%%duets slug: blest-be-the-tie-that-binds
+M:3/4
+L:1/8
+Q:1/4=90
+K:C
+V:S
+"C"G2 | "C"E F G2 "F"A2 | "C"G4 c2 | "Am7"c B "C6"A2 "D7"A2 |
+"Cmaj7/G"G4 G2 | "C"E F "C/E"G2 G2 | "F"A B "C"c2 "G7/D"B2 | "Am7/E"c A "G"G2 "G7"G2 |
+"C"G4 |]
+V:A
+E2 | C D E2 F2 | E4 E2 | E/2 ^F/2 G G2 F2 |
+G4 E2 | C B, C2 E2 | F F E2 F2 | G F D E F2 |
+E4 |]
+V:T
+G,2 | G, G, G, C C2 | C4 C2 | C D E2 D C |
+B,4 C2 | G, G, G,2 C2 | C G, G,2 G,2 | G, A, B, C D2 |
+C4 |]
+V:B
+C,2 | C, C, C,2 F,2 | C,4 C,2 | A,, B,, C,2 D,2 |
+G,,4 C,2 | C, D, E,2 C,2 | F, D, C,2 D,2 | E, F, G,2 G,,2 |
+C,4 |]

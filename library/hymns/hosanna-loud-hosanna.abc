@@ -1,0 +1,42 @@
+X:1
+T:Hosanna, Loud Hosanna
+T:ELLACOMBE
+C:Gesangbuch der Herzogl. Hofkapelle, Wurttemberg, 1784
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: palm-sunday, easter
+%%duets tune: ELLACOMBE
+%%duets year: 1784
+%%duets credit: Tune and setting: public domain (Presbyterian Hymnal, 1911), via the Open Hymnal Project.
+%%duets lyricist: Jeanette Threlfall, 1873, alt
+%%duets notes: intro 16-17
+%%duets slug: hosanna-loud-hosanna
+M:4/4
+L:1/8
+Q:1/4=130
+K:Bb
+V:S
+"F"F2 | "Bb"B2 "A7"A G "Bb/F"F2 B2 | "Gm"D2 "Cm7/G"E2 "F"F2 "Bb"F2 | "Eb"G A "Bb/D"B2 "Cm7/Eb"c2 "F"c2 |
+"Bb"d6 F2 | "Bb"B2 "A7"A G "Bb/F"F2 B2 | "Gm"D2 "Cm7/G"E2 "F"F2 "Bb"F2 | "Eb"G A "Gm"B2 "Fsus4"B2 "F"A2 |
+"Bb"B6 B c | "Bb"d2 "F/A"c2 "Bb"d2 "Eb"e2 | "F"c2 A B c2 "Bb"B c | "Bb"d2 "F/A"c2 "Bb"d2 "Eb"e2 |
+"F"c6 F2 | "Bb"B2 "A7"A G "Bb/F"F2 B2 | "Gm"D2 "Cm7/G"E2 "F"F2 "Bb"F2 | "Eb"G A "Gm"B2 "Fsus4"B2 "F"A2 |
+"Bb"B6 |]
+V:A
+F2 | B2 A G F2 F2 | D2 C B, C2 D2 | E2 F2 G2 F2 |
+F6 F2 | B2 A G F2 F2 | D2 C B, C2 D2 | E2 D E F2 F2 |
+F6 D E | F2 F2 F2 G2 | F2 F2 F2 D E | F2 F2 F2 G2 |
+F6 F2 | B2 A G F2 F2 | D2 C B, C2 D2 | E2 D E F2 F2 |
+F6 |]
+V:T
+F,2 | B,2 A, G, F,2 B,2 | B,2 B,2 A,2 B,2 | B,2 B,2 B,2 A,2 |
+B,6 F,2 | B,2 A, G, F,2 B,2 | B,2 B,2 A,2 B,2 | B,2 B,2 C2 C2 |
+D6 B,2 | B,2 C2 B,2 B,2 | A,2 F, G, A,2 B,2 | B,2 C2 B,2 B,2 |
+A,6 F,2 | B,2 A, G, F,2 B,2 | B,2 B,2 A,2 B,2 | B,2 B,2 C2 C2 |
+D6 |]
+V:B
+F,2 | B,2 A, G, F,2 D,2 | G,2 G,2 F,2 B,,2 | E,2 D,2 E,2 F,2 |
+B,,6 F,2 | B,2 A, G, F,2 D,2 | G,2 G,2 F,2 B,,2 | E,2 G,2 F,2 F,2 |
+B,,6 B,2 | B,2 A,2 B,2 E,2 | F,2 F,2 F,2 B,2 | B,2 A,2 B,2 E,2 |
+F,6 F,2 | B,2 A, G, F,2 D,2 | G,2 G,2 F,2 B,,2 | E,2 G,2 F,2 F,2 |
+B,,6 |]

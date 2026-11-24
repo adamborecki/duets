@@ -1,0 +1,34 @@
+X:1
+T:To Avert From Men God's Wrath
+T:GETHSEMANE
+C:or 'Petra' Richard Redhead, 1853
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: communion
+%%duets tune: GETHSEMANE
+%%duets year: 1853
+%%duets credit: Tune and setting: public domain ("The Church Hymnal, Revised and Enlarged" (Episcopal), 1896), via the Open Hymnal Project.
+%%duets lyricist: Latin c. 1400, sometimes attr. John Hus. Translated Christian Ignatius Latrobe, 1789
+%%duets notes: intro 11-12
+%%duets slug: to-avert-from-men-gods-wrath
+M:4/4
+L:1/8
+Q:1/4=90
+K:Eb
+V:S
+"Eb"E2 E2 "Bb"F2 "Eb"G2 | "Ab"A3 A "Eb"G4 | "Cm7/Eb"E2 E2 "Bb"F2 "Eb"G2 | "Fm7/Ab"F2 "Bb"F2 "Eb"E4 |
+"Cm/Eb"E2 G2 "Bb"B2 "Eb"B2 | "Ab"c2 "Dm7b5/Ab"c2 "Eb"B4 | "Eb/G"E2 G2 "Gm7/D"B2 B2 | "Cm7/Eb"c2 "F7"c2 "Bb"B4 |
+"Eb/G"E2 E2 "Ddim/F"F2 "Eb"G2 | "Ab"A3 A "Eb"G4 | "Eb/G"E2 "Ddim/F"F2 "Eb"G2 "Fm/Ab"F2 | "Eb/Bb"E2 "Bb"D2 "Eb"E4 |]
+V:A
+B,2 B,2 D2 E2 | E3 E E4 | B,2 C2 D2 E2 | E2 D2 E4 |
+E2 E2 F2 G2 | E2 F2 G4 | E2 E2 F2 D2 | G2 F E D4 |
+E2 E2 D2 E2 | E3 E E4 | E2 D2 E2 C2 | B,2 B,2 B,4 |]
+V:T
+G,2 G,2 B,2 B,2 | C3 C B,4 | G,2 G,2 B,2 B,2 | C2 B,2 G,4 |
+G,2 C2 D2 E2 | C2 D2 E4 | B,2 B,2 B,2 B,2 | B,2 =A,2 B,4 |
+B,2 B,2 A,2 B,2 | C3 C B,4 | B,2 A,2 B,2 A,2 | G,2 F,2 G,4 |]
+V:B
+E,2 E,2 B,,2 E,2 | A,,3 A,, E,4 | E,2 C,2 B,,2 E,2 | A,,2 B,,2 E,4 |
+E,2 C,2 B,,2 E,2 | A,2 A,2 E,4 | G,2 E,2 D,2 G,2 | E,2 F,2 B,,4 |
+G,2 G,2 F,2 E,2 | A,,3 A,, E,4 | G,2 F,2 E,2 A,,2 | B,,2 B,,2 E,4 |]

@@ -1,0 +1,17 @@
+X:1
+T:Loch Lomond
+C:Scottish traditional
+S:OpenEWLD
+R:ballad
+%%duets category: folk
+%%duets tags: scottish
+%%duets credit: Melody and chords: public domain in the United States (traditional); lead sheet from OpenEWLD.
+%%duets slug: loch-lomond
+M:4/4
+L:1/8
+K:C
+z6 G A | "C"c2 c d e2 d c | "F"d2 d c A2 G A | "C"c2 c2 c2 e g |
+"F"a4 "C"g2 g2 | "Am"a2 a g e2 e g | "Dm"f e d c "G7"A2 G A | "C"c c e g a2 g e |
+"G7"d4 "C"c2 G2 | c2 c d e2 e d | "F"c2 c A "G7"G2 G A | "C"c2 c c c2 e g |
+"F"a4 "C"g2 g2 | "Am"a2 a g e2 e g | "Dm"f e d c "C7"A2 G A | "C"c c e g a2 g e |
+"G7"d4 "C"c4 |]

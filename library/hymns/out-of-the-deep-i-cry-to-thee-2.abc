@@ -1,0 +1,38 @@
+X:1
+T:Out of the Deep I Cry to Thee
+T:AUS TIEFER NOT (STRASSBURG)
+C:or 'Strassburg' from Köpfel's Gesangbuch, Strassburg, 1525
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: confession
+%%duets tune: AUS TIEFER NOT (STRASSBURG)
+%%duets year: 1525
+%%duets credit: Tune and setting: public domain (Karl August Haupt, 1869), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1524. Translated by Arthur Tozer Russell (1806-1874)
+%%duets notes: intro 14-15
+%%duets slug: out-of-the-deep-i-cry-to-thee-2
+M:4/4
+L:1/8
+Q:1/4=110
+K:C
+V:S
+"G"G2 | "F/A"F2 "G/B"G2 "C6"A2 "Dm"A2 | "Em"G2 "Dm"A2 "G"!fermata!B2 "C"c2 | "G"B2 "Dm"A2 "Em7"G2 G2 |
+"C6"A2- "Dm"A2 "G"!fermata!G2 G2 | "F/A"F2 "G/B"G2 "C6"A2 "Dm"A2 | "Em"G2 "Dm"A2 "G"!fermata!B2 "C"c2 | "G"B2 "Dm"A2 "Em7"G2 G2 |
+"C6"A2- "Dm"A2 "Em/G"!fermata!G2 G2 | "Dm/F"A2 "C/E"c2 "Fm7b5/D#"B2 "Em"G2 | "A/C#"A2 "Dm"F2 "A"!fermata!E2 "A+"F2 | "G7/B"D2 D2 "Dm/F"A2 "E7"B2 |
+"Dm7/A"c2 A2 "Em"!fermata!G2 "Dm/F"d2 | "G"B2 "Dm"A2 "Em7"G2 G2 | "C6"A2- "Dm"A2 "G"!fermata!G2 |]
+V:A
+D2 | C2 D2 E2 D2 | B,2 D2 D2 E2 | D2 D2 B,2 D2 |
+E2 D2 B,2 D2 | C2 D2 E2 D2 | B,2 D2 D2 E2 | D2 D2 B,2 D2 |
+E2 D2 B,2 E2 | D2 E2 F2 E2 | E2 D2 ^C2 C2 | B,2 D2 D2 D2 |
+C2 C2 B,2 D2 | D2 D2 B,2 D2 | E2 D2 B,2 |]
+V:T
+B,2 | A,2 G,2 G,2 F,2 | G,2 F,2 G,2 G,2 | G,2 F,2 G,2 G,2 |
+G,2 F,2 G,2 B,2 | A,2 G,2 G,2 F,2 | G,2 F,2 G,2 G,2 | G,2 F,2 G,2 G,2 |
+G,2 F,2 G,2 B,2 | A,2 G,2 F,2 B,2 | A,2 A,2 A,2 A,2 | F,2 B,2 A,2 ^G,2 |
+A,2 F,2 G,2 A,2 | G,2 F,2 G,2 G,2 | G,2 F,2 G,2 |]
+V:B
+G,,2 | A,,2 B,,2 C,2 D,2 | E,2 D,2 G,,2 C,2 | G,2 D,2 E,2 B,,2 |
+C,2 D,2 G,,2 G,,2 | A,,2 B,,2 C,2 D,2 | E,2 D,2 G,,2 C,2 | G,2 D,2 E,2 B,,2 |
+C,2 D,2 G,,2 E,2 | F,2 E,2 ^D,2 E,2 | ^C,2 D,2 A,,2 A,,2 | B,,2 G,2 F,2 E,2 |
+A,,2 D,2 E,2 F,2 | G,2 D,2 E,2 B,,2 | C,2 D,2 G,,2 |]

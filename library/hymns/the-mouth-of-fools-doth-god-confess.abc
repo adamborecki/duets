@@ -1,0 +1,42 @@
+X:1
+T:The Mouth of Fools Doth God Confess
+T:ES SPRICHT DER UNWEISEN MUND
+C:Walter's Geistliche Gesangbüchlein, 1524
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: reformation
+%%duets tune: ES SPRICHT DER UNWEISEN MUND
+%%duets year: 1524
+%%duets credit: Tune and setting: public domain (Michael Praetorius, 1610), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1524. Translated by Richard Massie, 1854, alt
+%%duets notes: intro 17-18
+%%duets slug: the-mouth-of-fools-doth-god-confess
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+V:S
+"G"G4 G2 "Am/C"E2 | "Bm"D2 "Em"G2 "D"A2 "G"B2 | "C"G4 "G"z2 G2 | "Em"G2 "Am/C"A2 "Bm"B2 "Am"c2 |
+"D"A4 "G"G4 | "G"G4 G2 "Am/C"E2 | "Bm"D2 "Em"G2 "D"A2 "G"B2 | "C"G4 "G"z2 G2 |
+"Em"G2 "Am/C"A2 "Bm"B2 "Am"c2 | "D"A4 "G"G4 | "G/B"z2 G2 "C"E2 "D"F2 | "Em"G2 "Am"E2 "Bm"D2 "A"^C2 |
+"D"D4 "G"z2 D2 | "Am7/E"G2 A2 "Bm"B2 "Am"c2 | "Em"B2 "Am"A2 "G"B4 | "D/F#"z2 A2 "Em"B2 "Am"c2 |
+"D/F#"d2 "G"B2 "C"A G "D"A2 | "G"G8 |]
+V:A
+B,4 B,2 A,2 | B,2 B,2 D2 D2 | E4 z2 D2 | E2 E2 D2 E2 |
+D4 B,4 | B,4 B,2 A,2 | B,2 B,2 D2 D2 | E4 z2 D2 |
+E2 E2 D2 E2 | D4 B,4 | z2 D2 C2 A,2 | E2 C2 B,2 A,2 |
+A,4 z2 B,2 | E2 E2 D2 E2 | E3 F G4 | z2 D2 G2 E2 |
+D2 D2 E2 F2 | D8 |]
+V:T
+D,4 D,2 E,2 | F,2 G,2 F,2 G,2 | G,4 z2 B,2 | B,2 E,2 F,2 A,2 |
+F,4 G,4 | D,4 D,2 E,2 | F,2 G,2 F,2 G,2 | G,4 z2 B,2 |
+B,2 E,2 F,2 A,2 | F,4 G,4 | z2 G,2 G,2 F,2 | B,2 A,2 F,2 E,2 |
+F,4 z2 G,2 | G,2 E,2 F,2 A,2 | G,2 C2 D4 | z2 A,2 E2 C2 |
+A,2 B,2 C B, D2 | B,8 |]
+V:B
+G,,4 G,,2 C,2 | B,,2 E,2 D,2 G,,2 | C,4 z2 G,2 | E,2 C,2 B,,2 A,,2 |
+D,4 G,,4 | G,,4 G,,2 C,2 | B,,2 E,2 D,2 G,,2 | C,4 z2 G,2 |
+E,2 C,2 B,,2 A,,2 | D,4 G,,4 | z2 B,,2 C,2 D,2 | E,2 A,,2 B,,/2 C,/2 D, A,,2 |
+D,4 z2 G,2 | E,2 C,2 B,,2 A,,2 | E,2 A,2 G,4 | z2 F,2 E,2 A,2 |
+F,2 G,2 C, E, D,2 | G,,8 |]

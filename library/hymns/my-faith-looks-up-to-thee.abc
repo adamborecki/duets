@@ -1,0 +1,37 @@
+X:1
+T:My Faith Looks Up To Thee
+T:OLIVET
+C:Mason, Lowell (1792-1872)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: consecration
+%%duets tune: OLIVET
+%%duets credit: Tune and setting: public domain ('Olivet' Lowell Mason, 1832. Setting: composite Lowell Mason, 1859 and C. C. Converse, 1867), via the Open Hymnal Project.
+%%duets lyricist: Ray Palmer, 1830. Music and
+%%duets notes: intro 11-14
+%%duets slug: my-faith-looks-up-to-thee
+M:4/4
+L:1/8
+Q:1/4=100
+K:D
+V:S
+"D"D4 F2 A2 | "A/C#"A3 G "D"F4 | "A7"E4 E2 G2 | "A7/C#"G3 F E4 |
+"D"F4 "A/E"E2 "E7"B2 | "A7"A8 | "D"A4 F2 "Em7/D"G2 | "D"A3 B A4 |
+"D"A4 F2 "Em7/D"G2 | "D"A3 B A2- "A/C#"A2 | "Bm"d4 "A/C#"c2 "C#m7b5"B2 | "D"A3 G "D/F#"F2 D2 |
+"Em7/G"E4 "A7"A4 | "D"D8 |]
+V:A
+A,4 D2 D2 | E3 E D4 | C4 C2 E2 | E3 D C4 |
+D4 C2 D2 | C8 | D4 D2 D2 | D3 D D4 |
+D4 D2 D2 | D3 D D2 E2 | D4 E2 E2 | F3 C D2 D2 |
+D4 C4 | D8 |]
+V:T
+F,4 A,2 F,2 | A,3 A, A,4 | A,4 A,2 A,2 | A,3 A, A,4 |
+A,4 A,2 ^G,2 | G,8 | F,4 D,2 E,2 | F,3 G, F,4 |
+F,4 D,2 E,2 | F,3 G, F,2 A,2 | B,4 A,2 G,2 | F,3 G, A,2 A,2 |
+B,4 A,2 G,2 | F,8 |]
+V:B
+D,4 D,2 D,2 | C,3 C, D,4 | A,,4 A,,2 A,,2 | C,3 D, A,,4 |
+D,4 E,2 E,2 | A,,8 | D,4 D,2 D,2 | D,3 D, D,4 |
+D,4 D,2 D,2 | D,3 D, D,2 C,2 | B,,4 C,2 C,2 | D,3 E, F,2 F,,2 |
+G,,4 A,,4 | D,8 |]

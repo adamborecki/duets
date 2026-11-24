@@ -1,0 +1,24 @@
+X:1
+T:The Entertainer
+C:Scott Joplin, 1902
+S:OpenEWLD
+R:stride
+%%duets category: rag
+%%duets tags: joplin
+%%duets year: 1902
+%%duets credit: Melody and chords: public domain in the United States (published 1902); lead sheet from OpenEWLD.
+%%duets slug: the-entertainer
+M:4/4
+L:1/8
+K:C
+z6 D ^D | "C"E c2 "C7"E c2 E "F"c- | c2 z2 "C"c d ^d z | "C"e c d "G7"e3 B d |
+"C"c A _A G2 D ^D z | "C"E c2 E "C7"c2 E "F"c- | c4 "C"c2 A G | "D"^F A c e e d c A |
+"G7"d4 z2 D ^D | "C"E c2 E "C7"c2 E "F"c- | c4- "C"c c d ^d | e c d "G7"e2 z B d |
+"C"c A _A G G2 c d | "C"e c d "C7"e2 c d c | "F"e c d "Fm"e2 c d c | "C"e c d "G7"e3 d2 |
+"C"c2 z2 E F ^F z | "C"G2 A G2 E F ^F | "C"G2 A G2 e c G | "F"A B c d "Fm"e d c d |
+"C"G2 E F "G7"A G E F | "C"G2 A G2 E F ^F | "C"G2 A G2 A A ^A | "G"B B2 "D7"B2 A F D |
+"G7"G4 G E F ^F | "C"G2 A G2 E F ^F | G2 A G2 e c G | "F"A B c d "Fm"e d c d |
+"C"c5 G ^F G | "Dm7"c2 A c3/2 z/2 A c A | "C"G c e g2 e c A | "D7"A2 c2 "G7"e2 d c- |
+"C"c4 z2 D ^D | "C"E c2 "C7"E c2 E "F"c- | c4- "C"c c d ^d | e c d e- "G7"e B d2 |
+"C"c A _A G2 z c d | e c d "C7"e2 c d c | "F"e c d e2 c d c | "C"e c d e- "G7"e B d2 |
+"C"c g "G"a2 "C"c'2 z2 |]

@@ -1,0 +1,21 @@
+X:1
+T:La Marseillaise
+C:Claude Joseph Rouget de Lisle, 1792
+S:OpenEWLD
+R:march
+%%duets category: patriotic
+%%duets tags: french
+%%duets year: 1792
+%%duets credit: Melody and chords: public domain in the United States (published 1792); lead sheet from OpenEWLD.
+%%duets slug: la-marseillaise
+M:4/4
+L:1/8
+K:G
+z11/2 D/2 D3/2 D/2 | "G"G2 G2 "C"A2 "D7"A2 | "G"d3 B G z/2 G/2 B3/2 G/2 | "C"E2 c4 "D7"A3/2 F/2 |
+"G"G4 z2 G3/2 A/2 | "G"B2 B2 B2 c3/2 B/2 | "D"B2 A2 z2 A3/2 B/2 | "D7"c2 c2 c2 d3/2 c/2 |
+"G"B4 z2 d3/2 d/2 | d2 B3/2 G/2 d2 B3/2 G/2 | D4 z3/2 D/2 D3/2 F/2 | "D7"A4 c2 A3/2 F/2 |
+"G"A2 G2 =F4 | "C"E2 G3/2 G/2 "A7"G2 F3/2 G/2 | "D"A6 z A | _B3 B B B c d |
+"D7"A6 _B A | G3 G G _B "A7"A G | "D"G2 F z9/2 d/2 | "G"d4 d3/2 d/2 B3/2 G/2 |
+"D"A6 z3/2 d/2 | "G"d4 d3/2 d/2 B3/2 G/2 | "D"A4 A z D2 | "G"G4 z2 "D7"A2 |
+"G"B6 z2 | "C"c4 d2 e2 | "D"A4 A z e2 | "G"d4 d3/2 B/2 "D7"c3/2 A/2 |
+"G"G8 |]

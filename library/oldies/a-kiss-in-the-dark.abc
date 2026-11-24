@@ -1,0 +1,20 @@
+X:1
+T:A Kiss in the Dark
+C:Victor Herbert, 1922
+S:OpenEWLD
+R:waltz
+%%duets category: oldies
+%%duets year: 1922
+%%duets credit: Melody and chords: public domain in the United States (published 1922); lead sheet from OpenEWLD.
+%%duets slug: a-kiss-in-the-dark
+M:3/4
+L:1/8
+K:C
+"Em"G4 "Ab7"^G2 | "Dm6"A6 | "Dbdim"^C4- "G7"C3/2 D/2 | "Dm6"A6 |
+"Gbdim"^F4- "C"F3/2 G/2 | "Em7"d6 | "C"c11/2 B/2 | "Am"A6 |
+"C"G11/2 A/2 | "Dm7"c6 | "Dm6"B11/2 A/2 | "G7"G6 |
+"G+"_E6 | "C/E"G6- | "Dbdim"G6- | "G7"G4 z2 |
+"C/E"G4 "Ab7/Eb"^G2 | "Dm6"A6 | "Dbdim"^C4- "G7"C3/2 D/2 | "Dm6"A6 |
+"Gbdim"^F4- "C"F3/2 G/2 | "Em7"d6 | "C"B11/2 c/2 | "D7/A"e6 |
+c11/2 ^F/2 | "Am7"A6 | "C/G"G11/2 A/2 | "Dm7"c6 |
+"G7"d6 | "C"c6- | c6- | c2 z4 |]

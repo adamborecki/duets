@@ -1,0 +1,17 @@
+X:1
+T:The Merry Blacksmith
+C:Irish traditional reel
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-merry-blacksmith
+M:4/4
+L:1/8
+K:D
+|: [P:A]A2 | "D"d2 d A B A F A | "D"A B d A B A F A |
+"D"A B d e "Bm"f2 e d | "Em"B e e d "A7"e g f e | "D"d c d A B A F A | "D"A B d A B A F A |
+"G"A B d e "A7"f g e c | "D"d B A F D2 :: [P:B]f g | "D"a2 a g f2 f e |
+"D"d2 d A B A F A | "D"A B d e "Bm"f2 e d | "Em"B e e d "A7"e g f e | "D"a b a g f g f e |
+"D"d c d A B A F A | "G"A B d e "A7"f g e c | "D"d B A F D2 :|

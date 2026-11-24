@@ -1,0 +1,42 @@
+X:1
+T:Jesus Grant That Balm and Healing
+T:DER AM KREUZ
+C:Johann Balthasar König, 1738
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: lent, easter
+%%duets tune: DER AM KREUZ
+%%duets year: 1738
+%%duets credit: Tune and setting: public domain ("Evangelical Lutheran Hymn-Book", 1931), via the Open Hymnal Project.
+%%duets lyricist: Johann Heermann, 1644. Translation composite
+%%duets notes: intro 13-17
+%%duets slug: jesus-grant-that-balm-and-healing
+M:4/4
+L:1/8
+Q:1/4=100
+K:C
+V:S
+"Am"A2 "Em/G"E2 "F"A2 "Bdim/D"B2 | "C"c2 "Dm"B A "E"^G2 E2 | "E"B2 "Am"c2 "Dm/F"d2 "Am/E"c2 | "Dm6"B2 "E"B2 "Am"A4 |
+"Am"A2 "Em/G"E2 "F"A2 "Bdim/D"B2 | "C"c2 "Dm"B A "E"^G2 E2 | "E"B2 "Am"c2 "Dm/F"d2 "Am/E"c2 | "Dm6"B2 "E"B2 "Am"A4 |
+"C"G2 "G/B"G2 "C"G2 E2 | "F/A"F2 "Edim/G"G2 "F"A4 | "C"G2 "G/B"G2 "F/A"F2 "C"E2 | "Gsus4"D2 "G7"D2 "C"C4 |
+"C6"c2 c2 "Dm6"B2 "Em"B2 | "F"A2 "Bdim/D"B2 "E"^G2 E2 | "E"B2 "Am"c2 "Dm"d2 "Am"c2 | "E"B2 "Am/C"c2 "Esus4"B2- "E"B2 |
+"Am"A8 |]
+V:A
+E2 E2 F2 F2 | G2 F2 E2 E2 | E2 E2 A2 A2 | A2 ^G2 A4 |
+E2 E2 F2 F2 | G2 F2 E2 E2 | E2 E2 A2 A2 | A2 ^G2 A4 |
+E2 D2 E2 C2 | C D E2 F4 | E2 D2 C2 C2 | C2 B,2 C4 |
+G2 A2 A2 G2 | F2 F2 E2 E2 | E2 E2 F2 E2 | E2 E2 E4 |
+C8 |]
+V:T
+C2 B,2 C2 D2 | E2 D C B,2 ^G,2 | ^G,2 A,2 A,2 E2 | F2 E2 C4 |
+C2 B,2 C2 D2 | E2 D C B,2 ^G,2 | ^G,2 A,2 A,2 E2 | F2 E2 C4 |
+C2 D2 C2 G,2 | A,2 _B,2 C4 | C2 G,2 A,2 G,2 | G,3 F, E,4 |
+E2 E2 F2 E D | C2 D2 B,2 ^G,2 | ^G,2 A,2 A,2 A,2 | ^G,2 A,4 G,2 |
+A,8 |]
+V:B
+A,2 G,2 F,2 D,2 | C,2 D,2 E,2 E,2 | E,2 A,2 F,2 E,2 | D,2 E,2 A,,4 |
+A,2 G,2 F,2 D,2 | C,2 D,2 E,2 E,2 | E,2 A,2 F,2 E,2 | D,2 E,2 A,,4 |
+C,2 B,,2 C,2 C,2 | A,,2 G,,2 F,,4 | C,2 B,,2 A,,2 C,2 | G,,2 G,,2 C,4 |
+C2 A,2 D,2 E,2 | F,2 D,2 E,2 E,2 | E,2 A,2 D,2 A,,2 | E,2 C, A,, E,4 |
+A,,8 |]

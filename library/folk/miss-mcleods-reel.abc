@@ -1,0 +1,19 @@
+X:1
+T:Miss McLeod's Reel
+C:Scottish/Irish traditional reel
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: irish, scottish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: miss-mcleods-reel
+M:4/4
+L:1/8
+K:G
+[P:A]B A |: "G"G2 g2 "C"e d e g | "G"B2 B A "D7"B c B A | "G"G2 g2 "C"e d e g |
+"Am"A2 A G "D7"A c B A | "G"G2 g2 "C"e d e g | "G"B c B A B2 d2 | "C"e f e d B d e f |
+"Em"g e d B "D7"A c B A :| [P:B]"G"G A B c d B G A | "G"B2 B A "D7"B c B A | "G"G A B c d B G B |
+"Am"A2 A G "D7"A c B A | "G"G A B c d B G A | "G"B c B A B2 d2 | "C"e f e d B d e f |
+"Em"g e d B "D7"A c B A :| [P:C]"G"G2 B G D G B G | "G"B2 B A "D7"B c B A | "G"G2 B G d G B G |
+"Am"A B A G "D7"A c B A | "G"G2 B G D G B G | "G"B c B A B2 d2 | "C"e f e d B d e f |
+"Em"g e d B "D7"A c B A :|

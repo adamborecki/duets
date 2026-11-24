@@ -170,6 +170,9 @@ class Tune:
     slug: str = ""
     free_meter: bool = False
     notes: str = ""
+    collection: str = ""
+    path: str = ""
+    tempo_set: bool = False
 
     # -- helpers ----------------------------------------------------------
     @property

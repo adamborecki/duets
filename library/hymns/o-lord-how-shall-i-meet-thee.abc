@@ -1,0 +1,42 @@
+X:1
+T:O Lord, How Shall I Meet Thee
+T:WIE SOLL ICH DICH EMPFANGE
+C:Johann Crüger, 1653
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: advent
+%%duets tune: WIE SOLL ICH DICH EMPFANGE
+%%duets year: 1653
+%%duets credit: Tune and setting: public domain ("Evangelical Lutheran Hymn-Book", 1931), via the Open Hymnal Project.
+%%duets lyricist: Paul Gerhardt, 1653. translator unknown
+%%duets notes: intro 14-17
+%%duets slug: o-lord-how-shall-i-meet-thee
+M:4/4
+L:1/8
+Q:1/4=140
+K:Eb
+V:S
+"Eb"E4 | "Eb"G2 "Ab/C"A2 "Bb"B2 "Eb"B2 | "Fm"A2- "Ddim/F"A2 "Cm"G2 "Ab"A2 | "Eb"G2 E2 "Fm/Ab"F2 "Bb"F2 |
+"Eb"E4 E4 | "Eb"G2 "Ab/C"A2 "Bb"B2 "Eb"B2 | "Fm"A2- "Ddim/F"A2 "Cm"G2 "Ab"A2 | "Eb"G2 E2 "Fm/Ab"F2 "Bb"F2 |
+"Eb"E4 B4 | "Ab"c2 "Ddim/F"d2 "Eb"e2 "Bb"d2 | "Fsus4"c2- "F"c2 "Bb"B2 "Eb"G2 | "Ab"c2 "Bb"B2 "Ab/C"A2 "Eb"G2 |
+"Bb"F4 "Eb"G4 | "Cm"E2 "Bb"F2 "Eb"G2 B2 | "Ab"A4 "Eb"G2 B2 | "Ab/C"A2 "Eb"G2 "Bbsus4"F2 "Bb7"F2 |
+"Eb"!fermata!E4 |]
+V:A
+B,4 | E2 E2 D2 E2 | C2 D2 E2 E2 | E2 B,2 C2 D2 |
+B,4 B,4 | E2 E2 D2 E2 | C2 D2 E2 E2 | E2 B,2 C2 D2 |
+B,4 E4 | E2 F2 G2 F2 | F4 D2 E2 | E2 D2 E2 E2 |
+D4 B,4 | C2 D2 E2 E2 | E4 E2 G2 | E2 E2 E2 D2 |
+E4 |]
+V:T
+G,4 | B,2 C2 F,2 G,2 | A,4 C2 C2 | B,2 B,2 A,2 F,2 |
+G,4 G,4 | B,2 C2 F,2 G,2 | A,4 C2 C2 | B,2 B,2 A,2 F,2 |
+G,4 G,4 | A,2 A,2 B,2 B,2 | B,2 =A,2 B,2 B,2 | A,2 F,2 C2 B,2 |
+B,4 G,4 | G,2 B,2 B,2 B,2 | C4 B,2 B,2 | C2 B,2 B,3 A, |
+G,4 |]
+V:B
+E,4 | E,2 C,2 B,,2 E,2 | F,4 C,2 A,,2 | E,2 G,,2 A,,2 B,,2 |
+E,4 E,4 | E,2 C,2 B,,2 E,2 | F,4 C,2 A,,2 | E,2 G,,2 A,,2 B,,2 |
+E,4 E,4 | A,2 F,2 E,2 B,,2 | F,4 B,,2 E,2 | A,,2 B,,2 C,2 E,2 |
+B,,4 E,4 | C,2 B,,2 E,2 G,,2 | A,,4 E,2 E,2 | C,2 E,2 B,,2 B,,2 |
+E,4 |]

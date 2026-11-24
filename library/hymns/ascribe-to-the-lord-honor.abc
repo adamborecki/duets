@@ -1,0 +1,29 @@
+X:1
+T:Ascribe To the Lord Honor
+T:IYIN OLUWA
+C:traditional Yoruba tune
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: praise
+%%duets tune: IYIN OLUWA
+%%duets credit: Tune and setting: public domain (Bola Omodun Ilori, 2012), via the Open Hymnal Project.
+%%duets lyricist: Bola Omodun Ilori, 2012
+%%duets notes: intro 7-8
+%%duets slug: ascribe-to-the-lord-honor
+M:4/4
+L:1/8
+Q:1/4=120
+K:Eb
+V:S
+"Eb"B2 e2 "Bb/D"B2 B2 | "Eb/G"B2 G2 B4 | "Eb"E2 G2 B2 G2 | "Cm/G"E2 "Cm7"G2 "Bb"F4 |
+"Bb/D"B2 "Eb"B c "Gm/Bb"B2 "Eb"G2 | "Cm7/G"E2 "Bb/F"F2 "Ab"C4 | "Cm7"E2 G2 B2 G2 | "Fm"F2- "Cm7/Bb"F E "Eb"E4 |]
+V:A
+E2 E2 F2 D2 | B,2 C D E4 | E2 E2 G2 E2 | E2 B, C D4 |
+F2 G A G F E2 | B,2 B,2 A,4 | C2 E2 E2 E2 | C3 B, B,4 |]
+V:T
+G,2 G,2 B,2 F,2 | G,2 B,2 B,4 | B,2 B,2 B,2 E2 | C2 C2 B,4 |
+B,2 B, A, G,2 E D | C B, B,2 A,4 | G,2 B,2 B,2 C2 | A,3 G, G,4 |]
+V:B
+E,2 E,2 D,2 B,,2 | G,,2 B,,2 E,4 | E,2 E,2 B,,2 E,2 | G,2 F, E, B,,4 |
+D,2 E,2 B,,2 E,2 | G,2 F,2 B,,2 A,,2 | C,2 E,2 G,,2 A,,2 | B,,3 B,, E,4 |]

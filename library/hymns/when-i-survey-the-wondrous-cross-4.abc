@@ -1,0 +1,42 @@
+X:1
+T:When I Survey the Wondrous Cross
+T:ROCKINGHAM OLD
+C:Edward Miller, 1790
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: lent, easter
+%%duets tune: ROCKINGHAM OLD
+%%duets year: 1790
+%%duets credit: Tune and setting: public domain (composite from "The Anglican Hymn Book", 1871 and "Hymns Ancient and Modern", 1869), via the Open Hymnal Project.
+%%duets lyricist: Isaac Watts, 1707
+%%duets notes: intro 14-17
+%%duets slug: when-i-survey-the-wondrous-cross-4
+M:3/4
+L:1/8
+Q:1/4=130
+K:D
+V:S
+"D"D2 | "Bm"F2 "G/B"G2 "A7/C#"E2 | "Bm/D"D4 F2 | "D/F#"A4 "G"B2 |
+"D"A4 A2 | "Bm"d2- "G/B"d2 "Dmaj7/F#"c2 | "G"B2- "C#m7b5/G"B2 "D/F#"A2 | "A/C#"A2 "A7/C#"G2 "D"F2 |
+"D/A"F2 "A"E2 E2 | "F#m"A4 "E"B2 | "A7"c4 A2 | "D/F#"d2 "Bm/D"F2 "E7"^G2 |
+"Dmaj7/A"A4 D2 | "Em"G2- "C#dim/E"G2 "D"F2 | "A"E2- "A7"E2 "Bm"D2 | "G"D E "D/A"F2 "A7"E2 |
+"D"D4 |]
+V:A
+D2 | D4 A,2 | D4 D2 | D4 D2 |
+D4 D2 | D4 D2 | D2 E2 F2 | E4 D2 |
+D2 C2 C2 | C4 E2 | E4 C2 | D4 D2 |
+C4 D2 | B,2 C2 D2 | C4 D2 | D4 C2 |
+D4 |]
+V:T
+F,2 | B,2 G,2 G,2 | F,4 B,2 | A,4 G,2 |
+F,4 F,2 | F,2 G,2 A,2 | B,2 C2 D2 | A,4 A,2 |
+A,4 A,2 | A,4 ^G,2 | A,4 A,2 | A,2 B,2 B,2 |
+A,4 A,2 | G,4 A,2 | A,2 G,2 F,2 | B,2 A,2 G,2 |
+F,4 |]
+V:B
+D,2 | B,,4 C,2 | D,4 B,,2 | F,4 G,2 |
+D,4 D,2 | B,,4 F,2 | G,4 F,2 | C,4 D,2 |
+A,,4 A,2 | F,4 E,2 | A,4 G,2 | F,2 D,2 E,2 |
+A,,4 F,2 | E,4 D,2 | A,,4 B,,2 | G,,2 A,,2 A,,2 |
+D,4 |]

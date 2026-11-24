@@ -1,0 +1,46 @@
+X:1
+T:O Come, All Ye Faithful
+T:ADESTE FIDELES
+C:or 'Portuguese Hymn' John F. Wade, 1743
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: ADESTE FIDELES
+%%duets year: 1743
+%%duets credit: Tune and setting: public domain ("A Hymnal" (Episcopal), 1916), via the Open Hymnal Project.
+%%duets lyricist: John F. Wade, circa 1743. v.1-3, 6 Translated by Frederick Oakeley, 1841; v. 4, 5 Translated by William T. Brooke (1848-1917)
+%%duets notes: intro 18-21
+%%duets slug: o-come-all-ye-faithful
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+V:S
+"G"G2 | "G"G4 D2 G2 | "D/F#"A4 D4 | "G"B2 "D/F#"A2 "G"B2 "C"c2 |
+"G/D"B4 "D"A2 "Em"G2 | "Em"G2- "C#dim/E"G2 "D"F2 "A"E2 | "D"F2 "G/B"G2 "D/F#"A2 "Em7/G"B2 | "D/A"F4 "A7"E3 D |
+"D"D6 z2 | "Bm"d4 "Am"c2 "G"B2 | "Am7"c2- "F#dim/A"c2 "G"B4 | "D/F#"A2 "G"B2 "Em"G2 "Am/C"A2 |
+"D"F3 E D2 "G/B"G2 | "G/B"G2 "D/A"F2 "G/B"G2 "D7/C"A2 | "G/B"G4 D2 B2 | "G"B2 "D/F#"A2 "G"B2 "D7/A"c2 |
+"G"B4 "D/F#"A2 "G"B2 | "D7/A"c2 "G"B2 "D/F#"A2 "A7/E"G2 | "D7"F4 "G/B"G2 "C"c2 | "G/D"B4 "D"A3 G |
+"G"G6 |]
+V:A
+D2 | D4 D2 D2 | D4 D4 | D2 D2 D2 E2 |
+D4 D2 B,2 | B,2 ^C2 D2 C2 | D2 D2 D2 D2 | D4 ^C3 D |
+D6 z2 | D4 E F G2 | G2 F2 G4 | D2 D2 E2 E2 |
+D4 D2 D2 | D8 | D6 D2 | D2 D2 D2 D2 |
+D4 D2 G2 | F2 G2 D2 D ^C | D4 D2 E2 | D7 B, |
+B,6 |]
+V:T
+B,2 | B,4 B,2 B,2 | A,4 A,4 | G,2 A,2 G,2 G,2 |
+G,4 F,2 G,2 | G,4 A,2 A,2 | A,2 G,2 F,2 E,2 | A,4 G,3 F, |
+F,6 z2 | B,4 C2 D2 | C4 D4 | A,2 G,2 B,2 C2 |
+A,3 G, F,2 B,2 | B,2 A,2 B,2 C2 | B,6 G,2 | G,2 F,2 G,2 A,2 |
+G,4 F,2 D2 | D2 D2 A,2 A,2 | A,4 G,4 | G,4 F,3 G, |
+G,6 |]
+V:B
+G,2 | G,4 B,2 G,2 | F,4 F,4 | G,2 F,2 G,2 C,2 |
+D,4 D,2 E,2 | E,4 D,2 A,,2 | D,2 B,,2 F,,2 G,,2 | A,,4 A,,3 D, |
+D,6 z2 | B,4 A,2 G,2 | A,4 G,4 | F,2 G,2 E,2 C,2 |
+D,4 D,2 B,2 | B,2 A,2 B,2 C2 | B,6 G,2 | G,2 F,2 G,2 A,2 |
+G,4 F,2 G,2 | A,2 G,2 F,2 E,2 | D,2 C,2 B,,2 C,2 | D,4 D,3 G,, |
+G,,6 |]

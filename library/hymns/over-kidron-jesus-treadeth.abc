@@ -1,0 +1,41 @@
+X:1
+T:Over Kidron Jesus Treadeth
+T:OVER KEDRON JESUS TRAEDER
+C:Ludvig Mathias Lindeman
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: maundy-thursday, easter
+%%duets tune: OVER KEDRON JESUS TRAEDER
+%%duets credit: Tune and setting: public domain ("The Lutheran Hymnary", 1913), via the Open Hymnal Project.
+%%duets lyricist: Thomas Hansen Kingo, 1689. Translated by J. Jeffrey, before 1866
+%%duets notes: intro 15-18
+%%duets slug: over-kidron-jesus-treadeth
+M:4/4
+L:1/8
+Q:1/4=100
+K:Ab
+V:S
+"Fm"c2 "Edim/G"B2 "Fm/Ab"A2 "Db"F2 | "Fm/Ab"A2 "Gdim/Bb"G2 "C7"=E2 C2 | "Db"F3 G "Fm"A2 "Eb7"G2 | "Ab/C"c2 "Eb7"B2 "Ab"A3 z |
+"Fm/Ab"c2 "Gdim/Bb"B2 "C+"A2 "Db"F2 | "Bbm7"A2 "Gdim/Bb"G2 "C"=E2 C2 | "Dbmaj7/C"F3 G "Ab"A2 "Fbdim7"G2 | "Ab/Eb"c2 "Eb7"B2 "Ab"A3 z |
+"Eb7"B2 B2 "Fm7/C"c2 A2 | "Gdim/Bb"d2 "Ab/C"c2 "Eb"B3 z | "Ab"c2 "Cm7b5/Gb"c2 "Bbm/F"d2 "Gb"B2 | "Adim/C"e2 "Bbm/Db"d2 "F"c3 z |
+"Bbm"d2 "C"c2 "Bbm/Db"B2 "C"c2 | "Fm"A2 "Edim/G"G2 "Fm/Ab"F2 "Bbm"D2 | "C7"C3 =E "Db"F2 A2 | "Bbm7"c4 "Gdim/Bb"B2 "Bbm7"A2 |
+"C7"G8 | "Fm"F8 |]
+V:A
+F2 =E2 F2 F2 | F2 D2 C2 B,2 | A,3 D C2 E2 | A2 G2 E3 z |
+F2 G2 =E2 F2 | D2 D2 C2 C2 | D3 D E2 D2 | C2 E D C3 z |
+E2 E2 A2 A2 | G2 A2 G3 z | A2 B2 B2 B2 | =A2 B2 A3 z |
+B2 G2 F2 G2 | F2 =E2 C2 B,2 | B,3 B, A,2 F2 | A4 G2 F2 |
+F4 =E4 | C8 |]
+V:T
+A,2 B,2 C2 A,2 | C2 B,2 G,2 =E,2 | F,3 B, A,2 B,2 | E3 D C3 z |
+C2 D2 C2 A,2 | D2 B,2 G,2 =E,2 | A,3 B, C2 B,2 | A,2 G,2 A,3 z |
+G,2 G,2 E2 C2 | D2 E2 E3 z | E2 E2 F2 D2 | E2 F2 F3 z |
+F2 =E2 F2 E2 | C2 B,2 A,2 F,2 | =E,3 G, F,2 F,2 | D4 D4 |
+B,8 | A,8 |]
+V:B
+F,2 G,2 A,2 D,2 | A,,2 B,,2 C,2 C,2 | D,3 B,, F,2 E, D, | C,2 E,2 A,3 z |
+A,,2 B,,2 C,2 D,2 | B,,2 B,,2 C,2 C,2 | C,3 B,, A,,2 _F,2 | E,2 E,2 A,,3 z |
+E,2 D,2 C,2 F,2 | B,,2 C, D, E,3 z | A,2 _G,2 F,2 G,2 | C,2 D, E, F,3 z |
+B,,2 C,2 D,2 C,2 | F,,2 G,,2 A,,2 B,,2 | C,3 C, D,2 D, C, | B,,4 B,,4 |
+C,8 | F,8 |]

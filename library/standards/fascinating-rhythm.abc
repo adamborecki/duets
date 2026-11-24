@@ -1,0 +1,21 @@
+X:1
+T:Fascinating Rhythm
+C:George Gershwin, 1924
+S:OpenEWLD
+R:swing
+%%duets category: standard
+%%duets tags: gershwin, ella
+%%duets year: 1924
+%%duets credit: Melody and chords: public domain in the United States (published 1924); lead sheet from OpenEWLD.
+%%duets slug: fascinating-rhythm
+M:4/4
+L:1/8
+K:F
+"Gm7"G B A G "C7"c c z G | "Gm7"B A G c "C7"c z G B | "Gm7"A G c c "C7"z G B A | "Gm7"G2 "C7"C6 |
+"Cm7"c _e d c "F7"f f z c | "Cm7"_e d c f "F7"f z c e | "Cm7"d c f f "F7"z c _e d | "Cm7"c2 "Bb9"F6 |
+"Bb"z2 F2 B2 "Adim"c2 | "Gm7"d2 c e- "C7"e c d2 | "F"A8 | "Em7"c A A A "A7"c A A A |
+"Dm"z2 F2 A2 c2 | "Dm7"f2 e g- "G7"g d e2 | "C7"c8 | "Am7b5"z2 d2 "D7#5"B2 "D7"A2 |
+"Gm7"G B A G "C7"c c z G | "Gm7"B A G c "C7"c z G B | "Gm7"A G c c "C7"z G B A | "Gm7"G2 "C7"C6 |
+"Cm7"c _e d c "F7"f f z c | "Cm7"_e d c f "F7"f z c e | "Cm7"d c f f "F7"z c _e d | "Cm7"c2 "F7"F2- "B9"F4 |
+"Bb"z2 F2 B2 "Adim"c2 | "Gm7"d2 d e- "Bb7b5"e d "A7"e2 | "Dm7"z2 f2 g e3 | "G9"d8 |
+"Gm7"G B A G "C7"c c z G | "Gm7"B A G d- "G9"d f "C13"A2 | "F"F8- | F6 z2 |]

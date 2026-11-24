@@ -1,0 +1,38 @@
+X:1
+T:Lift High The Cross
+T:CRUCIFIER
+C:Sydney H. Nicholson, 1916
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: missions
+%%duets tune: CRUCIFIER
+%%duets year: 1916
+%%duets credit: Tune and setting: public domain ("Hymns Ancient and Modern", 1922), via the Open Hymnal Project.
+%%duets lyricist: George W. Kitchin (1827-1912). Modified by Michael R. Newbolt, 1916
+%%duets notes: intro 5-8
+%%duets slug: lift-high-the-cross
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:S
+"C"G2- "Csus4"G2 "C"c3 G | "Dm7"F2- "G7"F2- "F/A"F2 "G/B"G2 | "C"E2- "Am7"E F "C/G"G2 "D7/F#"A2 | "Gsus4"D2- "G"D2- "Dsus4/A"D2 "G7/B"D2 |
+"C"E2 "G7/D"G2 "C/E"c2- "Dm7/F"c2- | "Cmaj7/G"c2 "F/A"A2 "G/B"G2- "F/A"G2- | "Em/G"G2 "F"A2 "Dm7"F E "G7"D2 | "Csus4"C2- "Gsus4/C"C2- "C"C4 ||
+"Em7"G4 "F#dim/A"^F2- "Am"F E | "D7"^F4 "G/B"D2- "Bm"D2 | "C"E2- "Cmaj7"E ^F "Em"G2 "Am/C"A2 | "B"B4 "Em7"G4 |
+"Am7"c4 "Bm/D"B2 "D7/C"A2 | "G/B"d2- "Bm7"d2 "G/B"D2- "Bm"D2 | "C"E3 G "Dsus4"G2 "D"^F2 | "G"G8 |]
+V:A
+C2 D2 E2 C2- | C2 B,2 C2 D2 | C6 C2 | C2 B,2 A,2 G,2 |
+G,2 B,2 C2 D2 | E2 F2 G2 F2 | E2 D C C2 B, A, | G,8 ||
+E2 D2 C3 C | D4 D4 | G,3 B, B,2 E2 | ^D4 E2 =D2 |
+C2 E2 D4 | D4 D4 | C3 E D2 D2 | D8 |]
+V:T
+E,2 F,2 G,4 | A,2 G,2 F,2 D,2 | G,3 F, E,2 D,2 | G,6 F,2 |
+E,2 F,2 G,2 A,2 | B,2 C2 D2 C2 | B,2 A,2 A, G, F,2 | F,2 D,2 E,4 ||
+B,4 A,3 A, | A,4 G,2 ^F,2 | E,3 ^D, E,2 E,2 | ^F,4 G,4 |
+A,2 G,2 ^F,4 | G,2 A,2 G,2 ^F,2 | E,3 C A,2 A,2 | B,8 |]
+V:B
+C,,6 E,,2 | D,,2 G,,2 A,,2 B,,2 | C,2 A,,2 G,,2 ^F,,2 | G,,4 A,,2 B,,2 |
+C,2 D,2 E,2 F,2 | G,2 A,2 B,2 A,2 | G,2 F, E, D,2 G,,2 | C,8 ||
+E,4 A,,3 A,, | D,2 C,2 B,,4 | C,3 B,, E,2 C,2 | B,,4 E,4 |
+A,,4 D,2 C,2 | B,,4 B,,4 | C,3 C, D,2 D,2 | G,,8 |]

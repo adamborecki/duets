@@ -1,0 +1,54 @@
+X:1
+T:Though in the Midst of Life We Be
+T:MITTEN WIR IM LEBEN SIND
+C:Medieval sequence altered by Martin Luther. Found in Walter's Geistliche Gesangbüchlein, 1524
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: funeral
+%%duets tune: MITTEN WIR IM LEBEN SIND
+%%duets year: 1524
+%%duets credit: Tune and setting: public domain (Erythraeus, 1608), via the Open Hymnal Project.
+%%duets lyricist: v.1 Medieval sequence, vs 2,3 Martin Luther, 1524. Translated by Richard Massie, 1854, alt
+%%duets notes: intro 28-29
+%%duets slug: though-in-the-midst-of-life-we-be
+M:4/4
+L:1/8
+Q:1/4=110
+K:C
+V:S
+"Em"G2 "C"G2 "F"A2 "Bdim/D"B2 | "C"c2 "F#dim/A"c2 "G"B2 "D"A2 | "G"B2 "C/E"c2 "Dm7"d2 A2 | "C"G E "Dm"F2 "A"E4 |
+"Em"G2 "C"G2 "F"A2 "Bdim/D"B2 | "C"c2 "F#dim/A"c2 "G"B2 "D"A2 | "G"B2 "C/E"c2 "Dm7"d2 A2 | "C"G E "Dm"F2 "A"E2 "Dm"z D |
+"C6"E2 E2 "G"G2 "F/A"F2 | "C"E2 "G"D2 "C"C2 z C | "C"G2 G2 "F"A2 "G"B2 | "Am"c2 c2 "Em7"B2 "F"A2 |
+"G"B2 "C/E"c2 "Dm7"d2 A2 | "C"G E "Dm"F2 "E"E4 | "Am"A4 "G/B"G2 "C"E2 | "Dm"F2 "Gm"G2 "A"E4 |
+"Am7"G4 "G/B"G2 "C"E2 | "Dm"F2 "Gm"G2 "A"E4 | "Am"A4 "Em"G2 "F"A2 | "Em"B2- "G7/D"B2 "Em7/D"B4 |
+"G"B2 "Am"A2 "C"G2 "Dm"F2 | "C"E4 "Dm"D2 "Am"A2 | "C"G2 "Dm"F2 "A"E4 | "Am"A2 "Em"G2 "F"A2 "Bdim/D"B2 |
+"C"c2 "D"A2 "G"G4 | "Am"c2 "Em"B2 "Dm7"d2 A2 | "C"G2 "Dm"F2 "A"E4 | "Dm"D2 "Am"A2 "C"G2 "Dm"F2 |
+"Am"E4 "E"E4 |]
+V:A
+E2 E2 F2 F2 | E2 ^F2 G2 F2 | G2 G2 A2 F2 | E2 D2 ^C4 |
+E2 E2 F2 F2 | E2 ^F2 G2 F2 | G2 G2 A2 F2 | E2 D2 ^C2 z A, |
+C2 C2 D2 C2 | C2 B,2 C2 z C | E2 G2 F2 D2 | A2 A2 G2 F2 |
+D2 G2 A2 F2 | E2 D2 B,4 | C4 D2 C2 | A,2 D2 ^C4 |
+E4 D2 C2 | A,2 D2 ^C4 | E4 E2 C2 | G2 F2 E3 F |
+G2 E2 E2 D2 | G,4 D2 E2 | E2 D2 ^C4 | E2 E2 C2 F2 |
+E2 ^F2 G4 | E2 E2 F2 C2 | E2 D2 ^C4 | A,2 C2 E2 D2 |
+C B, C2 B,4 |]
+V:T
+B,2 C2 C2 D2 | G,2 A,2 D4 | D2 E2 F2 C2 | C3/2 B,/2 A,2 A,4 |
+B,2 C2 C2 D2 | G,2 A,2 D4 | D2 E2 F2 C2 | C3/2 B,/2 A,2 A,2 z F, |
+G,2 A,2 B,2 A,2 | G,4 E,2 z E, | C2 C2 C2 B,2 | E2 E2 D3/2 B,/2 C2 |
+B,2 E2 F2 C2 | C2 A,2 ^G,4 | z2 E,2 G,2 G,2 | D2 _B,2 A,4 |
+C4 G,2 G,2 | D2 _B,2 A,4 | C4 B,2 A,2 | G,4 G,4 |
+D2 C2 C3/2 B,/2 A,2 | C4 F,2 C2 | C2 A,2 A,4 | C2 B,2 A,2 D2 |
+G,2 D2 B,4 | A,2 G,2 A,3 B, | C2 A,2 A,4 | F,2 E,2 C2 A,2 |
+A, E, A,2 ^G,4 |]
+V:B
+E,2 C,2 F,2 D,2 | C,3/2 B,,/2 A,,2 G,,2 D,2 | G,2 E,2 D,2 F,2 | C,2 D,2 A,,4 |
+E,2 C,2 F,2 D,2 | C,3/2 B,,/2 A,,2 G,,2 D,2 | G,2 E,2 D,2 F,2 | C,2 D,2 A,,2 z D, |
+C,2 A,,2 G,,2 A,,2 | C,2 G,,2 C,2 z C, | C,2 E,2 F,2 G,2 | A,2 A,,2 E,2 F,2 |
+G,2 E,2 D,2 F,2 | C,2 D,2 E,4 | A,,4 B,,2 C,2 | D,2 G,,2 A,,4 |
+A,,4 B,,2 C,2 | D,2 G,,2 A,,4 | A,4 E,2 F,2 | E,2 D,2 D,4 |
+G,,2 A,,3/2 B,,/2 C,2 D,2 | C,4 D,2 A,,2 | C,2 D,2 A,,4 | A,,2 E,2 F,2 D,2 |
+C,2 D,2 G,4 | A,,2 E,2 D,2 F,2 | C,2 D,2 A,,4 | D,2 A,,2 C,2 D,2 |
+A,, ^G,, A,,2 E,4 |]

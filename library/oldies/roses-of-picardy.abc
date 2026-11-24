@@ -1,0 +1,22 @@
+X:1
+T:Roses of Picardy
+C:Haydn Wood, 1916
+S:OpenEWLD
+R:ballad
+%%duets category: oldies
+%%duets tags: sinatra
+%%duets year: 1916
+%%duets credit: Melody and chords: public domain in the United States (published 1916); lead sheet from OpenEWLD.
+%%duets slug: roses-of-picardy
+M:4/4
+L:1/8
+K:C
+"Am"z4 "E7"z2 E E | "Am"c2 c2 "B7"B3 "Bdim"^G | "Am"E2 E4 "Fm6"F F | "C"G2 G G "Dm7"A2 "G+"B2 |
+"C"G6 "E7"E E | "Am"c2 c c "B7"B2 "Bdim"^G F | "Am"E2 E4 "F#7b5"^F F | "Em"G2 ^F E B2 "B7"F2 |
+"E"B6 B B | "B9/E"^c4 ^F2 ^G A | "Edim"^c4 "E"^G2 G G | "B9"A2 B ^c "B7"^d2 B2 |
+"E6"^c6 "E"B2 | "G13"e2 e e "G7"d2 B2 | "C6"A4 "Eb7"G2 G A | "G"B2 c d "A7/D"E2 "D13"B2 |
+"G7"G8 || "G9"A2 G A "G7"B2 c A | "C6"c A A4 c A | "G7"c2 B G "G+"B2 A G |
+"C"E4- "E7b5"E4 | "A7"A2 ^G A e2 ^c A | "Dm"G F A4 A B | "D9"c2 B c e2 c2 |
+"Dm"d6 B B | "G9"A2 G A "G7"B2 c A | "C6"c A A4 c A | "G7"c2 B G "G+"B2 A G |
+"C"e6 "E7"^d e | "A7#5"f2 "A7"e ^c "Em7"B2 "A7"c A | "D9"e c e4 "D7"d c | "G11"A2 c A A2 "G7"B G |
+"C"c8 |]

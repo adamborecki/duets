@@ -1,0 +1,42 @@
+X:1
+T:O Love, How Deep, How Broad, How High
+T:DEO GRACIAS
+C:or 'Agincourt' traditional English, circa 1415
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: justification, easter
+%%duets tune: DEO GRACIAS
+%%duets year: 1415
+%%duets credit: Tune and setting: public domain (Charles Winfred Douglas, 1918, alt), via the Open Hymnal Project.
+%%duets lyricist: Unknown, 15th Century; Translated by Benjamin Webb, 1852, alt
+%%duets notes: intro 14-17
+%%duets slug: o-love-how-deep-how-broad-how-high
+M:3/4
+L:1/8
+Q:1/4=140
+K:E
+V:S
+"C#m"c2 | "C#m"c2- "C#m7"c2 B2 | "A"c4 "G#m"B2 | "E/G#"B2 "A"A4 |
+"C#m/E"G4 "A"c2 | "A"c2 "E/G#"B2 G2 | "F#m"F2 "Amaj7/E"G2 F C | "C#m/E"E2 "G#sus4"D2- "G#7"D2 |
+"C#m"C4 G2 | "G#m"B2- "E/G#"B2 B2 | "A"c2 "E/G#"B2 "F#m"A2 | "E/G#"G2 "Bsus4"F2- "B"F2 |
+"E"E4 "A/E"E2 | "C#m7/E"G4 G2 | "D#m7b5"F2- "G#7/D#"F2 "C#m/E"E2 | "F#m7"E2 "F#m6"D2- "G#"D2 |
+"C#m"C4 |]
+V:A
+E2 | E4 E2 | E4 D2 | E2 E4 |
+E4 E2 | E4 E2 | C4 C2 | C4 ^B,2 |
+C4 E2 | D2 E4 | E4 F2 | E4 D2 |
+B,4 C2 | B,2 C4 | C2 ^B,2 C2 | C4 ^B,2 |
+C4 |]
+V:T
+G,2 | G,4 G,2 | A,4 G,2 | G,2 C4 |
+C4 C2 | A,2 B,2 B,2 | A,2 G,2 A,2 | G,4 G, F, |
+E,4 C2 | B,4 G,2 | A,2 B,2 C2 | B,4 B,2 |
+G,4 A,2 | B,2 G,2 E,2 | A,2 G,2 G,2 | A, G, A,2 G,2 |
+E,4 |]
+V:B
+C,2 | C,4 E,2 | A,,4 G,,2 | G,,2 A,,3 B,, |
+E,4 A,,2 | A,2 G,2 E,2 | F,2 E,2 A,2 | E, F, G,2 G,,2 |
+C,4 C,2 | G,4 E,2 | A,2 G,2 F,2 | G, A, B,2 B,,2 |
+E,4 E,2 | E,4 C,2 | D,4 E,2 | F, G, F,2 G,2 |
+C,4 |]

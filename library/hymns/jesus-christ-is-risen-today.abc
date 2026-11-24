@@ -1,0 +1,38 @@
+X:1
+T:Jesus Christ Is Risen Today
+T:EASTER HYMN
+C:Lyra Davidica, 1708
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: easter
+%%duets tune: EASTER HYMN
+%%duets year: 1708
+%%duets credit: Tune and setting: public domain (composite found in "Church Praise: with tunes", 1885), via the Open Hymnal Project.
+%%duets lyricist: 14th Century Bohemian Latin carol. Stanzas 1-3 translated in John Arnold's Compleat Psalmist, 1749. Stanza 4 Charles Wesley, 1740, alt
+%%duets notes: intro 15-16
+%%duets slug: jesus-christ-is-risen-today
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:S
+"C"C2 E2 "G/B"G2 "C"C2 | "F/A"F2 A2 "F/C"A2 "C"G2 | "C"E F "C/E"G C "Dm7"F2 "C"E F | "C/G"E2 "G7"D2 "C"C4 |
+"F/A"F2 "C"G2 "F"A2 "C/E"G2 | "Dm7"F2 "C"E2 "C/G"E2 "G"D2 | "C"E F "C/E"G C "Dm7"F2 "C"E F | "C/G"E2 "G7"D2 "C"C4 |
+"G"B2 "Am7"c2 "G/B"d2 G2 | "C/E"c2 "Dm7"d2 "C"e4 | "G"B c "G/B"d G "D7/A"c2 "G"B c | "G/D"B2 "D7"A2 "G"G4 |
+"G"G A "G7"B G "C/E"c2 E2 | "F/A"F2 A2 "F/C"A2 "C"G2 | "C"c B "C/E"c G "F"A B "C/E"c d | "C/G"c2 "G7"B2 "C"c4 |]
+V:A
+C2 C2 D2 C2 | C2 F2 F2 E2 | C4 C B, C2 | C2 B,2 C4 |
+C2 C2 C2 C2 | C B, C2 C2 B,2 | C4 C B, C2 | C2 B,2 C4 |
+G3 ^F G2 G2 | G2 F2 E4 | G4 G ^F G2 | G2 ^F2 G4 |
+B, C D B, C2 C2 | C2 F2 F2 E2 | E F G E F2 E D | E2 G F E4 |]
+V:T
+E,2 G,2 G,2 E,2 | F,2 C2 C4 | G,4 A, F, G, A, | G,3 F, E,4 |
+F,2 E,2 F,2 G,2 | A, F, G,2 G,4 | G,4 A, F, G, A, | G,3 F, E,4 |
+D2 C2 B,2 B,2 | C3 B, C4 | D4 D2 D C | D3 C B,4 |
+G,2 G,2 G,2 G,2 | F,2 C2 C4 | G,3 C C D G, A, | G,4 G,4 |]
+V:B
+C,2 C,2 B,,2 C,2 | A,,2 F,,2 C,4 | C, D, E,2 D,2 C, F,, | G,,4 C,4 |
+A,,2 C,2 F,2 E,2 | D,2 C,2 G,,4 | C, D, E,2 D,2 C, F,, | G,,4 C,4 |
+G,,2 A,,2 B,,2 G, F, | E,2 D,2 C,4 | G, A, B,2 A,2 G, E, | D,4 G,,4 |
+G,3 F, E,2 C, B,, | A,,2 F,,2 C,4 | C, D, E, C, F, D, E, F, | G,2 G,,2 C,4 |]

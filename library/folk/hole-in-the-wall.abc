@@ -1,0 +1,17 @@
+X:1
+T:Hole in the Wall
+C:Henry Purcell, 1695 (Playford's Dancing Master)
+S:Nottingham Music Database
+R:waltz
+%%duets category: folk
+%%duets tags: english, baroque
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: hole-in-the-wall
+M:3/2
+L:1/8
+K:Bb
+[P:P]B2 c2 || [P:A]"Bb"d3 e d e f2 "F/A"c2 f2 | "Gm"B3 c B c d2 "Dm/F"A2 d2 | "Eb"G3 A G A B2 "Bb/D"F2 d2 |
+"Eb"B4- "F7"B2 A2 "Bb"B4 :| [P:B]"Gm"b3 a g a b2 "Cm"a2 g2 | "D"^f3 g f g a2 "D7"d2 a2 | "Gm"b3 a g a b2 "Cm"a2 g2 |
+"Gm/D"g4- "D7"g2 ^f2 "Gm"g4 | "Eb"G3 A G A B2 "F"A B c2 | "Gm"B3 c B c d2 "F/A"c d e2 | "Bb"d3 e d e f2 "F/A"F2 f2 |
+"Gm"d4- "F7"d2 c d "Bb"B4 || [P:A]"Bb"d3 e d e f2 "F/A"c2 f2 | "Gm"B3 c B c d2 "Dm/F"A2 d2 | "Eb"G3 A G A B2 "Bb/D"F2 d2 |
+"Eb"B4- "F7"B2 A2 "Bb"B4 :|

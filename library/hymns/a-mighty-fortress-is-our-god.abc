@@ -1,0 +1,42 @@
+X:1
+T:A Mighty Fortress Is Our God
+T:EIN FESTE BURG (ISORHYTHMIC)
+C:Martin Luther, 1529
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: reformation
+%%duets tune: EIN FESTE BURG (ISORHYTHMIC)
+%%duets year: 1529
+%%duets credit: Tune and setting: public domain ("Common Service Book" (ULCA), 1917, alt), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1529. Translation Frederic Henry Hedge, 1853
+%%duets notes: intro 16-17
+%%duets slug: a-mighty-fortress-is-our-god
+M:4/4
+L:1/8
+Q:1/4=110
+K:D
+V:S
+"D"d2 | "D/F#"d2 d2 "A/C#"A B "A"c2 | "Bm"d c "E"B2 "A"!fermata!A2 "Bm"d2 | "F#m"c2 "G"B2 "D6"A2 B2 |
+"Em"G F "A"E2 "D"!fermata!D2 d2 | "D/F#"d2 d2 "A/C#"A B "A"c2 | "Bm"d c "E"B2 "A"!fermata!A2 "Bm"d2 | "F#m"c2 "G"B2 "D6"A2 B2 |
+"Em"G F "A"E2 "D"!fermata!D2 D2 | "D"F2 "A/C#"A2 "Bm"B2 "E"^G2 | "A"!fermata!A2 "Bm"D2 "A/C#"A2 "D"A2 | "G"B2 "C#dim/E"c2 "D"!fermata!d2 "F#m"c2 |
+"Bm"d2 "A/C#"c2 "D6"B2 "E7"B2 | "A"!fermata!A2 "G"B2 "G/B"B2 "D7"A2 | "B/D#"B2 "Em"G2 "F#"!fermata!F2 "Bm"d2 | "F#m"c2 "G"B2 "D7"A2 "B/D#"B2 |
+"Em"G F "Am"E2 "D"!fermata!D2 |]
+V:A
+F2 | D2 F2 E2 E2 | D2 E2 C2 D2 | F2 D2 D2 D2 |
+B,2 C2 D2 F2 | D2 F2 E2 E2 | D2 E2 C2 D2 | F2 D2 D2 D2 |
+B,2 C2 D2 D2 | D2 E2 F2 E2 | E2 D2 E2 F2 | G2 G2 F2 F2 |
+F2 E2 F2 E D | C2 G2 G2 F2 | F2 E2 C2 F2 | F E D2 D =C B,2 |
+B,2 =C2 D2 |]
+V:T
+A,2 | A,2 A,2 A, ^G, A,2 | F,2 ^G,2 A,2 F,2 | A,2 G,2 F,2 F,2 |
+G,2 A,2 F,2 A,2 | A,2 A,2 A, ^G, A,2 | F,2 ^G,2 A,2 F,2 | A,2 G,2 F,2 F,2 |
+G,2 A,2 F,2 F,2 | A,4 D2 B,2 | C2 F,2 A,2 D2 | D2 E2 A,2 A,2 |
+F,2 A,2 A,2 ^G,2 | A,2 D2 D3 =C | B,2 B,2 ^A,2 B,2 | A,2 G,2 F,2 F,2 |
+G,2 A, G, F,2 |]
+V:B
+D,2 | F,2 D,2 C, B,, A,,2 | B,,2 E,2 A,,2 B,,2 | F,2 G,2 D,2 B,,2 |
+E,2 A,,2 D,2 D,2 | F,2 D,2 C, B,, A,,2 | B,,2 E,2 A,,2 B,,2 | F,2 G,2 D,2 B,,2 |
+E,2 A,,2 D,2 D,2 | D,2 C,2 B,,2 E,2 | A,,2 B,,2 C,2 D,2 | G,2 E,2 D,2 F,2 |
+B,,2 C,2 D,2 E,2 | A,,2 G,,2 B,,2 D,2 | ^D,2 E,2 F,2 B,,2 | F,2 G,2 D,2 ^D,2 |
+E,2 A,,2 D,2 |]

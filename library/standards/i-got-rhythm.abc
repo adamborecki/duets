@@ -1,0 +1,29 @@
+X:1
+T:I Got Rhythm
+C:George Gershwin, 1930
+S:OpenEWLD
+R:swing
+%%duets category: standard
+%%duets tags: gershwin, ella
+%%duets year: 1930
+%%duets credit: Melody and chords: public domain in the United States (published 1930); lead sheet from OpenEWLD.
+%%duets slug: i-got-rhythm
+M:4/4
+L:1/8
+K:Bb
+"Gm"d d2 d f2 e2 | "D7"d2 D6 || "Gm"B2 G2 B4 | "Cm"c2 c4 G2 |
+"Gm6"B2 G2 B4 | "Eb7"_d8 | "Gm"B2 G2 "Eb"B4 | "Gm6"d2 d4 "Em6"B2 |
+"Gm"G2- "Dm7"G2- "Gm"G4- | "Dm7"G6 "Gm"z2 | B2 G2 B4 | "Cm"c2 c4 G2 |
+"Gm6"B2 G2 B4 | "Eb7"_d8 | "Gm"B2 G2 "Gm7"B4 | "Cm7"d2 d4 "F7"d2 |
+"Bb"B4- "Fm7"B4- | "Fm7"B4- "Bb"B2 z2 | "D"d2 z2 "D7"D2 D2 | "F+"F2 F2 "D7"D4 |
+"Cm7"E2 F2 G2 B2 | "Eb7"_d8 | "D"d2 z2 "D7"D2 D2 | "F+"F2 F2 "D7"D4 |
+"Cm7"E2 F2 G2 B2 | "F7"c8 | "Edim"f f2 f "Gb7"_a2 _g2 | "F7"f2- "Bbm6"f2- "Ddim"f2- "F7"f2 |:
+"Bb"z2 F3 "Bb6"G3 | "Cm7"B3 c- "F7"c4 | "Bb6"z2 c3 "Edim"B3 | "Cm7"G3 F- "F7"F4 |
+"Bb"z2 F3 "Bb6"G3 | "Cm7"B3 "F7"c z e z "Em6"c | "Bb"d2 d2 "F7"c d c B- | "Bb"B2- "C#dim"B2- "F7"B4 ||
+"Bb"z2 F3 "Bb6"G3 | "Cm7"B3 c- "F7"c4 | "Bb6"z2 c3 "Edim"B3 | "Cm7"G3 F- "F7"F4 |
+"Bb"z2 F3 "Bb6"G3 | "Cm7"B3 "F7"c z e z "Em6"c | "Bb"d2 d2 "F7"c d c2 | "Bb"B8 ||
+"D7"z2 d3 "Am7"d3 | "Fm6"d3 =e- "D7"e4 | "G"z2 d3 "D+"d3 | "Dm"d3 G- "G7"G4 |
+"C7"z2 c3 "Gm7"c3 | "Ebm6"c3 d- "C9"d4 | "C7b5"z2 c3 c3 | "F7"c2- "C7"c2- "F7"c4 ||
+"Bb"z2 F3 "Bb6"G3 | "Cm7"B3 c- "F7"c4 | "Bb6"z2 c3 "Edim"B3 | "Cm7"G3 F- "F7"F4 |
+"Bb"z2 F3 "Bb6"G3 | "Cm7"B3 c- "F7"c e2 "Ebm"c | "Bb"d2 d2 "Fm"c d c2 | "G7"f6 e B |
+"C7"d2 d2 "F7"c d c2 | [1 "Bb"B2- "Ab"B2- "Gb"B2- "Db"B2 | [2 "Bb"B6 z2 |]

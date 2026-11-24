@@ -1,0 +1,26 @@
+X:1
+T:Londonderry Hornpipe
+C:Irish traditional
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: londonderry-hornpipe
+M:4/4
+L:1/8
+K:D
+[P:A]A G | "D"F2 A d f d A F | "G"G2 B d g d B G | "D"F2 A d f d A F |
+"Em"E2 G B "A7"(3edc A G | "D"F2 A d f d A F | "G"G2 B d g2 a g | "D"f a f d "A7"B g e c |
+"D"d2 f2 d2 :| [P:B]f g | "D"a2 f d A d f a | "Em"g2 e c "A7"A c e g |
+"D"a2 f d A d g f | "G"(3efd "E7"(3cdB "A7"A2 f g | "D"a2 f d A d f a | "Em"g e c e "A7"g2 a g |
+"D"f a f d "A7"B g e c | "D"d2 f2 d2 :| [P:C]A G | "D"(3FED A D B D A D |
+"D"d c d f "A7"e c A G | "D"(3FED A D B D A D | "G"E G F A "A7"G B A G | "D"(3FED A D B D A D |
+"D"d c d f "A7"e d e g | "D"(3faf d f "A7"g e c e | "D"d f (3edc d2 :| [P:D](3fg^g |
+"D"a ^g a b a f d f | "Em"g f g a "A7"g e c e | "D"a ^g a b a f d f | "G"(3efd "E7"(3cdB "A7"A2 (3fg^g |
+"D"a ^g a b a f d f | "G"g f e f "A7"g b a g | "D"d c d f "A7"e d e g | "D"(3faf d f "A7"g e c e :|
+[P:E]f g | "D"(3aaa f d A d f d | "Em"(3ggg e c "A7"A c e c | "D"f d g e a f b g |
+"A"e c "E7"d B "A7"A2 f g | "D"(3aaa f d A d f d | "Em"(3ggg e c "A7"A2 a g | "D"f d A F "A7"E g e c |
+"D"d2 f2 d2 :| [P:F]F G | "D"A F A d f e d c | "G"B G B e "Em"g f e d |
+"A7"c A c e a g f e | "D"f c d B "A7"A2 F G | "D"A F A d f e d c | "G"B G B e "Em"g2 a g |
+"D"f a f d "A7"B g e c | "D"d2 f2 d2 :|

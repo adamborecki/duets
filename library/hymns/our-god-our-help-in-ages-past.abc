@@ -1,0 +1,34 @@
+X:1
+T:Our God, Our Help In Ages Past
+T:ST. ANNE
+C:William Croft, 1708
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trust
+%%duets tune: ST. ANNE
+%%duets year: 1708
+%%duets credit: Tune and setting: public domain (composite found in "The Lutheran Hymnary", 1913), via the Open Hymnal Project.
+%%duets lyricist: Isaac Watts, 1719
+%%duets notes: intro 8-9
+%%duets slug: our-god-our-help-in-ages-past
+M:4/4
+L:1/8
+Q:1/4=100
+K:C
+V:S
+"C"G2 | "C"E2 "F"A2 "Am7/E"G2 c2 | "Dm7/F"c2 "G"B2 "C"c2 G2 | "Am"c2 "Em"G2 "Am/C"A2 "D"^F2 |
+"G"G6 B2 | "C"c2 "F"A2 "Dm"d2 "G"B2 | "C"c2 "Dm/F"A2 "E"B2 "C/E"G2 | "Dm"A2 "C"c2 "Dm/F"d2 "G"B2 |
+"C"c6 |]
+V:A
+C2 | C2 C2 C2 E2 | D2 D2 E2 E2 | E2 E2 E2 D2 |
+D6 D2 | E2 C2 F2 D2 | E3 D B,2 C2 | F2 E2 D2 D2 |
+E6 |]
+V:T
+E,2 | G,2 A,2 C2 C2 | A,2 G,2 G,2 C2 | C2 B,2 A,2 A,2 |
+B,6 G,2 | G,2 A,2 A,2 G,2 | G,2 A,2 ^G,2 =G,2 | F,2 G,2 A,2 G,2 |
+G,6 |]
+V:B
+C,2 | C,2 F,2 E,2 A,2 | F,2 G,2 C,2 C,2 | A,,2 E,2 C,2 D,2 |
+G,,6 G,2 | C,2 F,2 D,2 G,2 | C,2 F,2 E,2 E,2 | D,2 C,2 F,2 G,2 |
+C,6 |]

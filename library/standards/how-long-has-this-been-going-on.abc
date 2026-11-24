@@ -1,0 +1,20 @@
+X:1
+T:How Long Has This Been Going On?
+C:George Gershwin, 1927
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: gershwin, ella
+%%duets year: 1927
+%%duets credit: Melody and chords: public domain in the United States (published 1927); lead sheet from OpenEWLD.
+%%duets slug: how-long-has-this-been-going-on
+M:4/4
+L:1/8
+K:G
+|: "Am7"d e2 e5 | "Abdim7"e d2 d5 | "G7sus4"d2 e2 "G7b9"e2 d2 |
+"Cmaj7"A G2 "F7"G5 | "G/B"G A2 A- "Bbdim7"A2 G2 | "Am7"E D2 D- "Abdim7"D3 D | [1 "Am7"E G A G "Eb9"_B =B2 "D9"d- |
+"Bm7"d4- "E7b9"d4 :| [2 "Am7"E G A G "Eb9"_B A2 "D9"G- | "Gmaj7"G4- "G7#5"G4 || "Cmaj7"B4 "F7"A c2 A |
+"Cmaj7"B2 G "F7"A5 | "Cmaj7"B2 B2 "F7"A c2 A | "Cmaj7"B2- "C#m7b5"B4 "F#7b9"z2 | "Bm7"d4 "F#7b9"^c e2 c |
+"Bm7"d2 B ^c- "F#7b9"c4 | "Bm7"d2 d2 "F#7b9"^c e2 c | "Bm7"d4- "Bb13"d2 z2 || "Am7"d e2 e5 |
+"Abdim7"e d2 d5 | "G7sus4"d2 e2 "G7b9"e2 d2 | "Cmaj7"A G2 "F7"G5 | "G/B"G A2 A- "Bbdim7"A2 G2 |
+"Am7"E D2 D- "Abdim7"D3 D | "Am7"E G A G "Eb9"_B A- "D9"A G- | "G6/9"G8 |]

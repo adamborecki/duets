@@ -1,0 +1,29 @@
+X:1
+T:Christ The Lord Is Risen Today (Lyra)
+T:ORIENTIS PARTIBUS
+C:or 'Redhead 45' traditional French
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: easter
+%%duets tune: ORIENTIS PARTIBUS
+%%duets credit: Tune and setting: public domain ("The Church Hymnal, Revised and Enlarged" (Episcopal), 1893), via the Open Hymnal Project.
+%%duets lyricist: Stanzas 1-7, Charles Wesley, 1739. Stanzas 8-10, 14th Century; translated in Lyra Davidica
+%%duets notes: intro 7-8
+%%duets slug: christ-the-lord-is-risen-today-lyra-2
+M:4/4
+L:1/8
+Q:1/4=130
+K:G
+V:S
+"G"G3 A B2 G2 | "Am/C"A2 "D"F2 "G"G4 | "G"d2 d2 "C"e2 B c | "Dsus4"d2 "D"d2 "G"B4 |
+"G"B2 "D/F#"A2 "C/E"c2 "G/D"B2 | "Am/C"A2 G A "B"B4 | "G/B"d3 c "Bm/D"B2 "Em"G2 | "Am/C"A2 "D"F2 "G"G4 |]
+V:A
+D3 D D2 D2 | E2 D2 D4 | G2 G2 G2 G2 | G2 F2 G4 |
+G2 D2 G2 G2 | E2 E2 F4 | G3 G F2 E2 | E2 D2 D4 |]
+V:T
+B,3 C D2 D2 | C2 A,2 B,4 | B,2 B,2 C2 G,2 | A,2 A,2 B,4 |
+D2 D2 C2 D2 | E2 E2 ^D4 | D3 E D2 B,2 | C2 A,2 B,4 |]
+V:B
+G,3 G, G,2 B,,2 | C,2 D,2 G,,4 | G,2 G,2 C,2 E,2 | D,2 D,2 G,4 |
+G,2 F,2 E,2 D,2 | C,2 C,2 B,,4 | B,,3 C, D,2 E,2 | C,2 D,2 G,,4 |]

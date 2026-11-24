@@ -1,0 +1,41 @@
+X:1
+T:He Leadeth Me
+T:HE LEADETH ME
+C:Bradbury, William Batchelder (1816-1868)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: consecration
+%%duets tune: HE LEADETH ME
+%%duets credit: Tune and setting: public domain ('He Leadeth Me' William B. Bradbury, 1864), via the Open Hymnal Project.
+%%duets lyricist: Joseph H. Gilmore, 1862. Music and
+%%duets notes: intro 16-17
+%%duets slug: he-leadeth-me
+M:4/4
+L:1/8
+Q:1/4=100
+K:D
+V:S
+"D"A2 | "D"F3 E D2 A2 | "G"B2 G2 G2 B2 | "D"A3 F F2 E D |
+"D/A"F2 F2 "A"E2 A2 | "D"F3 E D2 A2 | "G"B2 G2 d2 c B | "D"A2 F2 "Bm"F E D E |
+"D/A"F3 E !fermata!D2 A2 | "D"A2 d2 "A"c2 "A7/G"d2 | "D/F#"d2 "G"c B "D"A2 "G/D"B2 | "D"A2 F2 "Bm"F E D E |
+"D/A"F2 F2 "A7"E2 A2 | "D"A2 d2 "A7"c2 e2 | "D/F#"d2 "G"c B "D"A2 "G/D"B2 | "D"A2 F2 "Bm"F E D E |
+"D/A"F3 E "D"!fermata!D2 |]
+V:A
+F2 | D3 A, A,2 D2 | D2 D2 D2 G2 | F3 D D2 D2 |
+D2 D2 C2 C2 | D3 A, A,2 D2 | D2 G2 G2 G2 | F2 D2 D C B, C |
+D3 C D2 F2 | F2 F2 E2 A2 | A2 G2 F2 G2 | F2 D2 D C B, C |
+D2 D2 C2 C2 | D2 D2 E2 A2 | A2 G2 F2 G2 | F2 D2 D C B, C |
+D3 C D2 |]
+V:T
+A,2 | A,3 G, F,2 F,2 | G,2 B,2 B,2 D2 | D3 A, A,2 G, F, |
+A,2 A,2 A,2 A,2 | A,3 G, F,2 F,2 | G,2 B,2 B,2 D2 | D2 A,2 B,2 F,2 |
+A,3 G, F,2 A,2 | D2 A,2 A,2 C2 | D2 D2 D2 D2 | D2 A,2 B,2 F,2 |
+A,2 A,2 A,2 G,2 | F,2 A,2 A,2 C2 | D2 D2 D2 D2 | D2 A,2 B,2 F,2 |
+A,3 G, F,2 |]
+V:B
+D,2 | D,3 D, D,2 D,2 | G,2 G,2 G,2 G,2 | D,3 D, D,2 D,2 |
+A,,2 A,,2 A,,2 A,,2 | D,3 D, D,2 D,2 | G,2 G,2 G,2 G,2 | D,2 D,2 B,,2 B,,2 |
+A,,3 A,, D,2 D,2 | D,2 F,2 A,2 G,2 | F,2 G,2 D,2 D,2 | D,2 D,2 B,,2 B,,2 |
+A,,2 A,,2 A,,2 A,,2 | D,2 F,2 A,2 G,2 | F,2 G,2 D,2 D,2 | D,2 D,2 B,,2 B,,2 |
+A,,3 A,, D,2 |]

@@ -1,0 +1,29 @@
+X:1
+T:The Holy City
+C:Stephen Adams, 1892
+S:OpenEWLD
+R:ballad
+%%duets category: oldies
+%%duets tags: church
+%%duets year: 1892
+%%duets credit: Melody and chords: public domain in the United States (published 1892); lead sheet from OpenEWLD.
+%%duets slug: the-holy-city
+M:4/4
+L:1/8
+K:G
+"G"G2 "Am"A2 "Bm"B2 "C"c2 | "D"d2 "Em"e2 "D"f2 "G"g2 | "A7"g2 "D"f e "G"d2 "D7"c2 | "G"B4 z3 D |:
+"G"G3/2 G/2 G G "D7/A"F F2 F | "C"E E "D"F3/2 E/2 "G"D2 z D | "G/B"D D G3/2 F/2 "C"F3/2 E/2 E E | "A7"E3/2 E/2 F G "D7"F2 z D |
+"G"G3/2 G/2 G G "D7/A"F2 F F | "C"E E F3/2 E/2 "G"D2 z D | "G#dim"D3/2 D/2 ^C D "D/A"F2 "A7"E D | G3/2 G/2 F E "D/F#"A2 z A |
+"A7"A2 A2 ^c3 B | "D/F#"A2 F2 "Bm"D z "G"G2 | "D/A"F3 F "A7"F2 E2 | "D"(3Ddd "Am"(3ddd "D7"d2 D2 |
+"G"G3 D "D7"D2 D2 | "G"B3 A G2 z2 | "C"G2 (3:2:2G2F G2 c2 | "G"B2 (3B,DG B2 B2 |
+"D"A4 D2 (3DFA | "Bm"d4 "Em"G z "C"c2 | "G"B2 (3BAG "D7"A2 B2 | "G"G4 (3zBc "D7"(3def |
+"G"g3 d "C"f2 e2 | "G"d2 B2 "Em"G z "Am"c2 | "G/D"B2 (3bag "D7"a2 b2 | "G"g4 z3 D :|
+"B"B,3/2 B,/2 B, B, "C#m"^C3/2 C/2 C C | "E"E3/2 E/2 E ^D/2 ^C/2 "B"D2 z D | "G#m"^D3/2 D/2 "G#dim"^E E "B"F F z F | "F#7"^G3/2 G/2 F E "B"^D2 z D |
+"G#m"^D3/2 D/2 D D "D#m"F3/2 F/2 F F | "D"F3/2 F/2 F F "A"A2 z A | "D/F#"A3 F "D7"D2 c2 | "G"B3 A "C"G z E2 |
+"D7"D3 E D2 C2 | "G"B,4 "B7/F#"z2 B,2 | "Em"E2 E2 "B7"F2 F2 | "Em"G3 F E2 z E |
+"C"G3 G "D7/A"A2 A2 | "G"B4 z2 D2 | "G#dim"D3 D ^C2 D2 | "D"F3 F E2 D2 |
+"A7"G3 G F2 E2 | "D/F#"A4 "A7"z2 A2 | "D"A2 A2 "A7/E"^c3 B | "D/F#"A2 "F#m"F2 "Bm"D2 "G"G2 |
+"D"F2 "E7"F2 "A7"F3 E | "D"(3Ddd "Am6"(3ddd "G"d2 "D7"D2 | "G"G3 D "D7"D2 D2 | "G"B3 A G2 z2 |
+"C"G2 (3:2:2G2F G2 c2 | "G"d2 (3B,DG B2 B2 | "D/F#"A4 D2 (3DFA | "Bm"d4 "Em"G z "Am"c2 |
+"G"B2 (3BAG "D7"F2 A2 | "G"(3DDD (3DDD "D7"D2 D2 | "G"G4 "D7"A z (3:2:2D2D | "G"B2 "Am"c2 "G"d2 "Am"c2 |
+"G"B2 (3BAG "D7"A2 d2 | "G"(3GGG (3GGG (3BBB (3ddd | g2 z2 b2 z2 | G8 |]

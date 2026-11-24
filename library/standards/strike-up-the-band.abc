@@ -1,0 +1,22 @@
+X:1
+T:Strike Up the Band
+C:George Gershwin, 1927
+S:OpenEWLD
+R:march
+%%duets category: standard
+%%duets tags: gershwin
+%%duets year: 1927
+%%duets credit: Melody and chords: public domain in the United States (published 1927); lead sheet from OpenEWLD.
+%%duets slug: strike-up-the-band
+M:2/2
+L:1/8
+K:Bb
+z6 "F7"F3/2 =E/2 |: "Bb"F2 G2 G4- | "Bb6"G6 "Bb"F3/2 =E/2 | "Bdim"F2 _A2 A4- |
+_A6 F3/2 =E/2 | "F7"F2 A2 A4- | A4 F G2 F | "Bb"B8- |
+"Ab"B6 "Bb7"B3/2 A/2 | "Cm"B2 c2 c4- | c6 "Eb"B3/2 A/2 | "Edim"B2 _d2 d4- |
+_d6 B3/2 A/2 | "Bb7"B2 d2 d4- | d4 B c2 B | "Eb"e8- |
+e4 "Ebm6"f2 e2 | "Bb"d2 d B "Bb6"d2 d B | "Bb"d4 "Eb"e2 "Ebmaj7"d2 | "Am"c2 c A "D9"c2 c A |
+"Am"c4 "D7"d2 c2 | "Gm"B2 B G "C9"B2 B G | "Gm"B4 "C7"B2 d2 | "F7"f8- |
+f5 z F3/2 =E/2 | "Bb"F2 G2 G4- | G6 d3/2 ^c/2 | "Dm7"d2 f2 "G9"f4- |
+f6 "G7"z2 | "Cm7"e4 "Gm"d2 "Eb6"c2 | "Gm6"g2 "F7sus4"f4 "F7"d2 | "Bb"B4- "G"B4- |
+"C"B2 z2 "F7"z2 F3/2 =E/2 :| "Bb"B8- | B6 z2 |]

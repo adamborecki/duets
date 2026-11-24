@@ -1,0 +1,18 @@
+X:1
+T:I've Got a Crush on You
+C:George Gershwin, 1928
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: gershwin, sinatra, ella
+%%duets year: 1928
+%%duets credit: Melody and chords: public domain in the United States (published 1928); lead sheet from OpenEWLD.
+%%duets slug: ive-got-a-crush-on-you
+M:4/4
+L:1/8
+K:Bb
+z11/2 F/2 G3/2 ^G/2 | "Dm7"A2 c3/2 A/2- "Dbdim"A4 | "Cm7"G B2 d- "F13"d4 | "Dm7"A3/2 A/2 c3/2 c/2 "Dbdim"A A3 |
+"Cm7"G B2 d- "F13"d3 c | "Bb"f2 d3/2 c/2- "Gm7"c3/2 B/2 d2 | "C9"A3 G5/2 c/2 d3/2 c/2 | "Gm7"A3 G- "C9"G3/2 c/2 d3/2 c/2 |
+"Cm7"d3 c- "F9"c2- "Ebdim"c2 | "Dm7"A2 c3/2 A/2- "Dbdim"A4 | "Cm7"G B2 "F13"d5 | "Dm7"A3/2 A/2 c3/2 c/2 "Dbdim"A A3 |
+"Cm7"G B2 e- "Cm7b5"e3 d | "Bb/F"f2 d3/2 c/2 "Gm7"c3/2 B/2 d2 | "C13"A6 z2 | "Bb/F"D2 "Dm7"F2 "Gm7"G2 B2 |
+"C9"d2 ^c3/2 d/2- "F13"d3/2 c/2 d2 | "Bb"B2- "Eb"B2- "Edim"B4- | "Bb/F"B2- "F7b5"B4 "Bb"z2 |]

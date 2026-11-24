@@ -1,0 +1,34 @@
+X:1
+T:All Depends On Our Possessing
+T:ALLES IST AN GOTTES SEGEN
+C:Johann Balthasar König, 1738
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trust
+%%duets tune: ALLES IST AN GOTTES SEGEN
+%%duets year: 1738
+%%duets credit: Tune and setting: public domain ("Chorale Book for England", 1863, alt), via the Open Hymnal Project.
+%%duets lyricist: unknown circa 1673. Translated by Catherine Winkworth, 1858
+%%duets notes: intro 11-12
+%%duets slug: all-depends-on-our-possessing
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"F"F2 F2 "C/E"c2 "F"c2 | "Bb/D"B2 "C/E"c2 "F"A2 F2 | "F"A2 A2 "C"G2 "Am7"G2 | "Dm"F2 "Gm/Bb"G2 "C"E2 C2 |
+"G"G2 G2 "F"F2 "C"E2 | "Dm/F"D2 D2 "C/E"C4 | "C"G2 G2 "C/E"c2 "Dm/F"A2 | "Gm"B2 "C/E"c2 "F"A2 F2 |
+"F"A2 A2 "C/E"G2 G2 | "Dm"F2 "Gm/Bb"G2 "C"E2 C2 | "Dm7/A"F2 F2 B2 A2 | "Csus4"G2 "C"G2 "F"F4 |]
+V:A
+C2 C2 C2 C2 | F2 C2 C2 C2 | F2 F2 E2 E2 | D2 D2 C2 C2 |
+D2 D2 C2 C2 | D2 D2 C4 | E2 E2 C2 D2 | D2 C2 C2 C2 |
+F2 F2 C2 E2 | D2 D2 C2 C2 | C2 C2 F2 F2 | F2 E2 C4 |]
+V:T
+A,2 A,2 G,2 A,2 | F,2 G,2 A,2 A,2 | C2 C2 C2 C2 | A,2 G,2 G,2 E,2 |
+G,2 G,2 A,2 G,2 | A,2 A,2 G,4 | C2 C2 G,2 A,2 | G,2 G,2 A,2 A,2 |
+C2 C2 C2 C2 | A,2 G,2 G,2 E,2 | A,2 A,2 D2 C2 | C2 C2 A,4 |]
+V:B
+F,2 F,2 E,2 F,2 | D,2 E,2 F,2 F,2 | F,2 F,2 C,2 A,,2 | D,2 B,,2 C,2 C,2 |
+G,2 D,2 F,2 C,2 | F,2 F,2 E,4 | C,2 C,2 E,2 F,2 | G,2 E,2 F,2 F,2 |
+F,2 F,2 E,2 E,2 | D,2 B,,2 C,2 C,2 | A,2 A,2 D,2 F,2 | C,2 C,2 F,4 |]

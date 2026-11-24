@@ -1,0 +1,42 @@
+X:1
+T:Fear Not, O Little Flock
+T:KOMMT HER ZU MIR, SPRICHT GOTTES SOHN
+C:traditional German, 1490
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trust
+%%duets tune: KOMMT HER ZU MIR, SPRICHT GOTTES SOHN
+%%duets year: 1490
+%%duets credit: Tune and setting: public domain ("Mehrstimmiges Choralbuch", 1906), via the Open Hymnal Project.
+%%duets lyricist: Attr. to King Gustavus Adolphus of Sweden (1594-1632), Jacob Fabricius (1593-1654) or Johann M. Altenburg (1584-1640). Translated by Catherine Winkworth, 1855
+%%duets notes: intro 17-18
+%%duets slug: fear-not-o-little-flock
+M:4/4
+L:1/8
+Q:1/4=160
+K:F
+V:S
+"Gm"G4 G2 "Cm"G2 | "Bb"d6 "F"c2 | "Dm"d2 "Gm"B2 "D"!fermata!A4 | "Gm"z2 G2 "Eb"B2 "Adim/C"A2 |
+"Bb"B6 d2 | "F"c2 "Gm"B2 "D"!fermata!A4 | "Dm"z2 A2 "Cm"c4- | "Cm"c2 "Bb/D"B2 "F"A2 "Bb"B2 |
+"Csus4"G2- "C"G2 "F"!fermata!F4 | "Dm"z2 F2 "Gm"B2 "F"A2 | "Bb"B6 d2 | "F"c2 "Gm"B2 "D"!fermata!A4 |
+"Gm"z2 G2 "Eb"B2 "Adim/C"A2 | "Bb"B6 d2 | "F"c2 "Gm"B2 "D"!fermata!A4 | "Eb"z2 G2 "Bb"d4- |
+"Bb"d2 "F"c2 "Gm"B2 "Cm"c2 | "D"A4 "G"!fermata!G4 |]
+V:A
+D4 D2 _E2 | D6 F2 | F2 D2 D4 | z2 D2 _E2 E2 |
+F6 F2 | F2 D2 D4 | z2 D2 _E4- | _E2 D2 C2 F2- |
+F2 E2 F4 | z2 F2 D2 F2 | F6 F2 | F2 D2 D4 |
+z2 D2 _E2 E2 | F6 F2 | F2 D2 D4 | z2 B,2 D4- |
+D2 F2 D2 _E2 | D4 D4 |]
+V:T
+B,4 B,2 C2 | F,6 A,2 | A,2 G,2 ^F,4 | z2 B,2 G,2 C2 |
+D6 B,2 | A,2 G,2 ^F,4 | z2 F,2 G,4- | G,2 F, G, A,2 D2 |
+C4 A,4 | z2 A,2 B,2 C2 | D6 B,2 | A,2 G,2 ^F,4 |
+z2 B,2 G,2 C2 | D6 B,2 | A,2 G,2 ^F,4 | z2 G,2 F,4- |
+F,2 A,2 G,2 G,2 | ^F,4 =B,4 |]
+V:B
+G,,4 G,,2 C,2 | B,,6 F,2 | D,2 G,2 D,4 | z2 G,2 _E,2 C,2 |
+B,,6 B,2 | F,2 G,2 D,4 | z2 D,2 C,4- | C,2 D, E, F,2 B,,2 |
+C,4 F,,4 | z2 D,2 G,2 F,2 | B,,6 B,2 | F,2 G,2 D,4 |
+z2 G,2 _E,2 C,2 | B,,6 B,2 | F,2 G,2 D,4 | z2 _E,2 B,,4- |
+B,,2 F,2 G,2 C,2 | D,4 G,,4 |]

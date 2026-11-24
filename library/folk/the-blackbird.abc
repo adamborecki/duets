@@ -1,0 +1,17 @@
+X:1
+T:The Blackbird
+C:Irish traditional hornpipe
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-blackbird
+M:4/4
+L:1/8
+K:G
+(3DFA | "D"B2 A F A2 B c | "Bm"d c d F "A7"G2 F G | "D"A2 f e "A7"d B A G |
+"D"F2 D2 "A7"D2 (3DFA | "D"B2 A F A2 B c | "Bm"d c d F "A7"G2 F G | "D"A2 f e "A7"d B A G |
+"D"F2 D2 "A7"D4 | "D"d e f g a2 a f | "G"g f g a "A7"(3gag f e | "D"d e f g "A7"a b a g |
+"D"f2 d2 "A7"d2 f g | "D"a2 f d "G"g2 f e | "D"d c d B "G"g2 f e | "D"d2 A2 "A7"A B A G |
+"D"F2 D2 D2 |]

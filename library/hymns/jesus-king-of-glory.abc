@@ -1,0 +1,46 @@
+X:1
+T:Jesus, King of Glory
+T:ST. ALBAN
+C:Franz Joseph Haydn, 1774
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: redeemer
+%%duets tune: ST. ALBAN
+%%duets year: 1774
+%%duets credit: Tune and setting: public domain (John Bacchus Dykes, 1868), via the Open Hymnal Project.
+%%duets lyricist: W. Hope Davison, 1880
+%%duets notes: intro 21-24
+%%duets slug: jesus-king-of-glory
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+V:S
+"G"B2 B2 "D7"A2 A2 | "G"G4 D4 | "G"d2 d2 "C6"e2 e2 | "D"A8 |
+"C/E"c2 "D7/F#"c2 "G"B2 B2 | "Am/C"A4 E4 | "Em7/D"G2 G2 "Am/C"A2 "D7"A2 | "G"G8 |
+"G/B"d2 d2 "Am7"c2 "F/A"c2 | "G#dim7"B4 "E7/G#"E4 | "Am"c2 c2 e2 e2 | "G/D"G4 "D"F4 |
+"Am7"c2 c2 "D7"A2 A2 | "G/B"d4 B4 | "Am/C"A2 A2 "D"F2 F2 | "G"G4- "C/G"G4 |
+"G"B2 B2 "D7"A2 A2 | "G"G2- "Am7"G2 "Bm"D2- "D7/A"D2 | "G"d2 d2 "Cmaj7"e2 "C6"e2 | "D"A8 |
+"C/E"c2 "D7/F#"c2 "G"B2 B2 | "Am/C"A4 "E7/B"E2- "Am"E2 | "G/D"G2 G2 "Am"A2 "D7"A2 | "G"G8 |]
+V:A
+G2 G2 F2 F2 | D4 D4 | G2 G2 G2 G2 | F8 |
+E2 D2 D2 D2 | E4 E4 | D2 B,2 E2 F2 | G8 |
+G2 G2 G2 =F2 | =F2 D2 E4 | E2 E2 E2 E2 | D8 |
+E2 E2 D2 D2 | D4 G4 | E2 E2 D2 D2 | D4 E4 |
+D2 D2 D2 D2 | D2 C2 B,2 C2 | D2 G2 G2 G2 | F8 |
+E2 D2 D2 D2 | C2 E2 D2 C2 | B,2 B,2 C2 C2 | B,8 |]
+V:T
+D2 D2 C2 C2 | B,4 B,4 | B,2 B,2 A,2 A,2 | D8 |
+G,2 A,2 B,2 B,2 | C4 C4 | B,2 G,2 C2 C2 | B,8 |
+D2 B,2 C2 C2 | D2 =F2 E2 D2 | C2 C2 C2 B, A, | B,4 A,4 |
+A,2 G,2 F,2 F,2 | G,4 D4 | C2 C2 A,2 A,2 | B,4 C4 |
+B,2 G,2 F,2 C2 | B,2 C2 D2 C2 | B,2 B,2 B,2 A,2 | D8 |
+G,2 A,2 B,2 G,2 | E,4 ^G,2 A,2 | B,2 D,2 E,2 F,2 | G,8 |]
+V:B
+G,2 G,2 D,2 D,2 | G,4 G,4 | G,,2 G,,2 C,2 C,2 | D,8 |
+E,2 F,2 G,2 G,2 | C,4 C,4 | D,2 E,2 C,2 D,2 | G,8 |
+B,2 B,2 A,2 A,2 | ^G,4 G,4 | A,2 A,2 C,2 C,2 | D,8 |
+A,,2 A,,2 D,2 C,2 | B,,4 B,,4 | C,2 C,2 D,2 D,2 | G,8 |
+G,,2 B,,2 D,2 F,2 | G,2 A,2 B,2 A,2 | G,2 G,2 C,2 C,2 | D,8 |
+E,2 F,2 G,2 B,,2 | C,4 B,,2 A,,2 | D,2 D,2 D,2 D,2 | G,,8 |]

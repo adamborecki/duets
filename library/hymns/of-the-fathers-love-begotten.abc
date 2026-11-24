@@ -1,0 +1,37 @@
+X:1
+T:Of The Father's Love Begotten
+T:DIVINUM MYSTERIUM
+C:or 'Corde Natus' Latin Plainsong, 13th Century
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: DIVINUM MYSTERIUM
+%%duets credit: Tune and setting: public domain ("The Church Hymnal, Revised and Enlarged" (Episcopal), 1892, alt), via the Open Hymnal Project.
+%%duets lyricist: Aurelius Prudentius Clemens, 5th Century. Verses 1, 4-8 translated by John Mason Neale, 1854. Verses 2-3, 9 translated by Henry Williams Baker, 1859
+%%duets slug: of-the-fathers-love-begotten
+%%duets free-meter: yes
+M:6/4
+L:1/8
+Q:3/4=40
+K:F
+V:S
+"F"F3 G A2 "C7/Bb"B2 A2 G2 | "F"A3 G F8 | "F"A2 B2 c2 "Bb"d2 c2 A3 B | "C"c8 |
+"Gm7"d3 e f2 "Dm7/A"c2 c2 B2 | "Dm7/C"A3 G F8 | "Dm"D3 E F2 "Gm7"G2 F2 D3 E | "F"F8 |
+"F"F3 G A2 "C7/Bb"B2 A2 G2 | "F/A"c4 d2- "Bb"d6 | "F"c2 A2 B2 c2 F3 E D2 E2 | "Dm7"F3 D C4 z4 |
+"F"F3 G A2 "F/A"c2 A2 F2 | "C7"G4 F2- "F"F6 |]
+V:A
+C3 C F2 F2 F2 E2 | F4 F8 | F2 F2 F2 F2 E2 F3 F | E8 |
+G3 G F2 F2 F2 F2 | F3 E F8 | A,3 A, D2 D2 D2 A,3 C | C8 |
+C3 C F2 F2 F2 E2 | F4 F8 | F4 D2 C4 C2 B,2 B,2 | A,3 B, A,4 z4 |
+C3 E F2 F2 F2 F2 | E4 F8 |]
+V:T
+A,3 B, C2 D2 C2 C2 | C3 B, A,8 | C2 B,2 A,2 B,2 G,2 F,3 F, | G,8 |
+B,3 B, C2 C2 D2 D2 | C3 B, A,8 | F,3 G, A,2 B,2 A,2 F,3 G, | A,8 |
+A,3 B, C2 D2 C2 C2 | C4 B,8 | A,2 C2 B,2 A,4 A,2 B,2 G,2 | F,8 z4 |
+A,3 C C2 C2 C2 B,2 | B,4 A,8 |]
+V:B
+F,3 F, F,2 B,,2 C,2 C,2 | F,4 F,8 | F,2 D,2 C,2 B,,2 C,2 F,3 D, | C,8 |
+G,,3 G,, A,,2 A,,2 B,,2 B,,2 | C,4 D,8 | D,3 D, D,2 G,,2 D,2 D,3 C, | F,8 |
+F,3 F, F,2 B,,2 C,2 C,2 | A,,4 B,,8 | F,4 F,2 F,4 F,2 G,2 C,2 | D,3 B,, F,4 z4 |
+F,3 C, F,2 A,2 F,2 D,2 | C,4 F,8 |]

@@ -1,0 +1,42 @@
+X:1
+T:There's a Great Day Coming
+T:THERES A GREAT DAY COMING
+C:Will L. Thompson, 1886
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: end-times
+%%duets tune: THERES A GREAT DAY COMING
+%%duets year: 1886
+%%duets credit: Tune and setting: public domain ("Alexander's Hymns No. 3", 1915), via the Open Hymnal Project.
+%%duets lyricist: Will L. Thompson, 1886
+%%duets notes: intro 15-17
+%%duets slug: theres-a-great-day-coming
+M:4/4
+L:1/8
+Q:1/4=80
+K:G
+V:S
+"G"D D | "G"G2 G2 G/2 G3/2 z G | "G"B2 B2 A/2 G3/2 "C/G"E D | "G"G2 G2 "G/B"G/2 G3/2 "D/A"A B |
+"D"A6 "G/B"G A | "G"B2 B B B d d B | "C"A G G E "G"D2 D D | "G/B"G/2 G3/2 G G "D7"A2 A2 |
+"G"G6 z2 || "G"d3 d "C/G"e d z2 | "G"B3 B "C/G"c B z2 | "G/B"G3 G G G G G |
+"A7"B2 "A"A2 "D"A4 | "G"d3 d "C/G"e d z2 | "G"B3 B "C/G"c B z2 | "G/B"G3 G "D7"A2 A2 |
+"G"G6 |]
+V:A
+B, B, | B,2 B,2 B,/2 B,3/2 z B, | D2 D2 C/2 B,3/2 C B, | B,2 B,2 D/2 D3/2 D D |
+D6 D D | D2 D D D D D D | E E E C B,2 B, B, | D/2 D3/2 D D C2 C2 |
+B,6 z2 || G3 G G G z2 | G3 G G G z2 | D3 D B, B, D D |
+^C2 C2 D4 | G3 G G G z2 | G3 G G G z2 | D3 D C2 C2 |
+B,6 |]
+V:T
+G, G, | G,2 G,2 G,/2 G,3/2 z G, | G,2 G,2 G,/2 G,3/2 G, G, | G,2 G,2 G,/2 G,3/2 F, G, |
+F,6 G, F, | G,2 G, G, G, B, B, G, | C C C G, G,2 G, G, | G,/2 G,3/2 G, G, F,2 F,2 |
+G,6 z2 || B,3 B, C B, z2 | D3 D E D z2 | G,3 G, G, G, G, G, |
+G,2 E,2 F,4 | B,3 B, C B, z2 | D3 D E D z2 | G,3 G, F,2 F,2 |
+D,6 |]
+V:B
+G,, G,, | G,,2 G,,2 G,,/2 G,,3/2 z G,, | G,2 G,2 G,/2 G,3/2 G, G, | G,,2 G,,2 B,,/2 B,,3/2 A,, G,, |
+D,6 B,, D, | G,2 G, G, G, G, G, G, | C, C, C, C, G,,2 G,, G,, | B,,/2 B,,3/2 B,, B,, D,2 D,2 |
+G,,6 z2 || G,3 G, G, G, z2 | G,3 G, G, G, z2 | B,,3 B,, G,, G,, B,, B,, |
+A,,2 A,,2 D,4 | G,3 G, G, G, z2 | G,3 G, G, G, z2 | B,,3 B,, D,2 D,2 |
+G,,6 |]

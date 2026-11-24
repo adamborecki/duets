@@ -1,0 +1,17 @@
+X:1
+T:Lanigan's Ball
+C:Irish traditional jig
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: lanigans-ball
+M:6/8
+L:1/8
+K:Em
+[P:A]D | "Em"E F E G2 A | "Em"B2 A B ^c d | "D"D E D F2 G |
+"D"A B A A F D | "Em"E F E G2 A | "Em"B2 A B ^c d | "G"e d B "Am"c B A |
+"Em"B G E E2 :| [P:B]d | "Em"e2 f g f e | "D"f a g f e d |
+"Em"e2 f g f e | "Bm"f d B B2 d | "Em"e2 f g f e | "D"f a g f e d |
+"G"e d B "Am"c B A | "Em"B G E E2 :|

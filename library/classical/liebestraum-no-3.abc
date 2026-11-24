@@ -1,0 +1,33 @@
+X:1
+T:Liebestraum No. 3
+C:Franz Liszt, 1850
+S:OpenEWLD
+R:flowing
+%%duets category: classical
+%%duets year: 1850
+%%duets credit: Melody and chords: public domain in the United States (published 1850); lead sheet from OpenEWLD.
+%%duets slug: liebestraum-no-3
+M:6/4
+L:1/8
+K:G
+D2 | "G"B6 B6 | "B7"B10 B2 | "E7"B4 B2 c4 B2 |
+"A7"B6 E2 z2 E2 | "D7"E2 F2 G2 B4 A2 | "G"G6 z4 D2 | B6 B6 |
+"B7"B10 B2 | "E7"B4 B2 c4 B2 | "A7"e6 z4 E2 | "D7"E2 F2 G2 B4 A2 |
+"G"G6 z4 G2 | "Cm"G5 F G5 A | "G"B6 z5 B | "Em"B5 ^A B5 B |
+"B"B4 z8 | "G#m"^d6 =d6 | "Eb"_e6 _B6 | "Cm"c10 G2 |
+"D"A6 "Cm"c4 _B2 | "D"A2 ^G2 A2 "Cm"c4 _B2 | "D"A2 ^G2 A2 "Cm6"_e6 | e2 d2 c2 _B2 A2 G2 |
+"D"F6 !fermata!d4 c2 | "Bb"d6 d6 | "D7"d6 z4 d2 | "G7"d4 d2 _e4 d2 |
+"C7"d6 G2 z2 G2 | "F7"G2 A2 _B2 d4 c2 | "Bb"c2 _B2 "Gdim"G2 "Bb"=F2 z2 F2 | d6 "D7"d6 |
+"Ddim"d6 "G7"z4 d2 | "Cb"d4 _e2 d4 e2 | "Dbm"_f10 _A2 | "Gb7"_A2 _B2 _c2 _e4 _d2 |
+"Cb"_c2 z9 B | "Em"B5 ^A B5 ^c | "B"^d5 ^c B2 z3 d | "G#m"^d5 =d _e5 =f |
+"Eb"g6 g6 | "G7"g10 z g | "Bbm6"g4 g2 "C7"_a4 g2 | "F7"g6 c2 z2 c2 |
+"Bb7"c2 d2 _e2 g4 d2 | "Eb"^e2 d2 "Cdim"c2 "Eb"_B2 z2 B2 | g6 "G7"g6 | "Gdim"g12 |
+"Em"g6 "Gdim"g6 | "A7"g4 f2 e2 F2 G2 | "Am7"B6 A2 z2 g2 | "A7"g3 f (3agf e2 F2 G2 |
+"Am7"B6 A2 z2 g2 | "Gdim"g3 f a g "A7"b a f'2 z e' | "D7"d' c' b a g f e2 F2 G2 | "Am7"B4 A2 d4 c2 |
+f4 e2 b4 a2 | "D7"e'12 | d'12 | "G"B6 B6 |
+"B7"B8 z2 B2 | "E7"B4 B2 c4 B2 | "A7"B6 E2 z2 E2 | "D7"E2 F2 G2 B4 A2 |
+"G"G6 z4 D2 | B6 B6 | "B7"B8 z2 B2 | "E7"B4 B2 "Ddim"c4 B2 |
+"Em6"e6- "Edim"e6 | "Cm6"z6 A6 | "Dm6"d6- "Ddim"d6 | "Bbm6"z6 G6 |
+"Am7"c6- "Cm6"c4 B2 | "D7b9"B4 A2 B4 A2 | "G"G12 | B4 "B7"B2 "E"B2 "Fm"c2 "Ddim"B2 |
+"Gdim"e2 z10 | "F"A4 "A7b5"A2 "D"A2 B2 "Cdim"A2 | "Ddim"d2 z10 | "Ab"c12 |
+"Am7"A6- "D7"A4 B2 | "G"G12 | "C"G12 | "G"G12 |]

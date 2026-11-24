@@ -1,0 +1,41 @@
+X:1
+T:The Lord's My Shepherd
+T:MAROSA-BROTHER JAMES AIR
+C:Bain, James Leith Macbeth (1860-1925)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trust
+%%duets tune: MAROSA-BROTHER JAMES AIR
+%%duets credit: Tune and setting: public domain ('Marosa' or 'Brother James` Air' James Leith Macbeth Bain, 1915, alt), via the Open Hymnal Project.
+%%duets lyricist: Psalm 23 from the Scottish Psalter, 1650 alt. by James Leith Macbeth Bain, 1915. Music and
+%%duets notes: intro 16-17
+%%duets slug: the-lords-my-shepherd
+M:3/2
+L:1/8
+Q:1/2=70
+K:D
+V:S
+"D"D4 | "D"F2 A2 d4 A4 | "G"B2 d2 "D"A4 "A7/E"G4 | "D6"F2 D2 "D/A"D4 "A7"C4 |
+"D"D8 D4 | "D"F2 A2 d4 A4 | "G"B2 d2 "D"A4 "A7/E"G4 | "D6"F2 D2 "D/A"D4 "A7"C4 |
+"D"D8 "A"E4 | "D6"F2 D2 "D"!fermata!D4 "A"E4 | "D6"F2 D2 "D"!fermata!D4 "A"E4 | "D"F2 A2 "D/F#"d4 "G"d4 |
+"D"d8 D4 | "D"F2 A2 d4 A4 | "G"B2 d2 "D"A4 "A7/E"G4 | "D6"F2 D2 "D/A"D4 "A7"C4 |
+"D"D12 |]
+V:A
+D4 | D2 F2 F4 F4 | G2 G2 F4 C4 | D2 B,2 A,4 A,4 |
+A,8 D4 | D2 F2 F4 F4 | G2 G2 F4 C4 | D2 B,2 A,4 A,4 |
+A,8 C4 | D2 B,2 A,4 C4 | D2 B,2 A,4 C4 | D2 C2 D4 [DG]4 |
+F8 D4 | D2 F2 F4 F4 | G2 G2 F4 C4 | D2 B,2 A,4 A,4 |
+A,12 |]
+V:T
+F,4 | A,2 D2 D4 D4 | D2 D2 D4 A,4 | A,2 B,2 F,4 G,4 |
+F,8 F,4 | A,2 D2 D4 D4 | D2 D2 D4 A,4 | A,2 B,2 F,4 G,4 |
+F,8 A,4 | A,2 B,2 F,4 A,4 | A,2 B,2 F,4 A,4 | A,2 A,2 A,4 B,4 |
+A,8 F,4 | A,2 D2 D4 D4 | D2 D2 D4 A,4 | A,2 B,2 F,4 G,4 |
+F,12 |]
+V:B
+D,4 | D,2 D,2 D,4 D,4 | G,,2 B,,2 D,4 E,4 | D,2 G,,2 A,,4 A,,4 |
+D,8 D,4 | D,2 D,2 D,4 D,4 | G,,2 B,,2 D,4 E,4 | D,2 G,,2 A,,4 A,,4 |
+D,8 A,,4 | D,2 G,,2 D,4 A,,4 | D,2 G,,2 D,4 A,,4 | D,2 G,2 F,4 G,4 |
+D,8 D,4 | D,2 D,2 D,4 D,4 | G,,2 B,,2 D,4 E,4 | D,2 G,,2 A,,4 A,,4 |
+D,12 |]

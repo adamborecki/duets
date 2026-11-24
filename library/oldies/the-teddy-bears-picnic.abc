@@ -1,0 +1,32 @@
+X:1
+T:The Teddy Bears' Picnic
+C:John W. Bratton, 1907
+S:OpenEWLD
+R:march
+%%duets category: march
+%%duets tags: children
+%%duets year: 1907
+%%duets credit: Melody and chords: public domain in the United States (published 1907); lead sheet from OpenEWLD.
+%%duets slug: the-teddy-bears-picnic
+M:6/8
+L:1/8
+K:Eb
+"Cm"c z e "Cm(maj7)"d e d | "Cm6"c z e "Cdim"d3 | "Cm"C z E "Cm(maj7)"D E D | "Cm6"C z E "G7"D3 |
+g3 f3 | "Cm"e3 "G7"d3 | "Cm"c3 "G7"=B3 | "Ab7"A3 "G7"G2 |
+G, |: "Cm"C z E "Bdim"D E D | "Cm"C z E "Bdim"D z E | "Cm"C D E "Bdim"D z E |
+"Cm"C5 B, | "Eb"E z G "Ddim"F G F | "Eb"E z G "Ddim"F z G | "Eb"E F G "Ddim"F z G |
+"Eb"E5 B | "Fm7"c2 B "Gdim"c2 B | "Fm7"F G B "Bb7"G2 F | "Eb"F2 E F2 E |
+B, C E C2 B, | "Ab"C z E "Eb"B, z E | "Ab"C D E "Eb"B, z G | "Bb7"F B, =B, C ^C D |
+[1 "Eb"E z4 G, :| [2 "Eb"E z5 || [3 "Eb"E z5 || "Bb7"c z B "Gdim"c3- |
+"Bb7"c B A B A B | "Eb"F z D F3- | F B, C D E C | "Bb7"D5 C |
+B,5 G | "Eb"F E F G B d | c B G B G B | "Bb7"c z B "Gdim"c3- |
+"Bb7"c B G B G B | "Eb"F z D F3 | F B, C D F E | "Ab7"E4 C D |
+"Cm"E4 C D | "Ab7"E D C A2 E | "G7"G5 G, || "Eb"B,3 G3 |
+^F3 G3 | c z G B3- | B2 G "Ebdim"^F2 G | "Eb"c z G B z G |
+c B G "Edim"^F2 G | "Fm7"B z F "Bb7"A3- | A B, C D C B, | "Bb7"B,3 A3 |
+"Gdim"=E3 "Bb7"F3 | d z A "Gdim"c3- | "Bb7"c2 c =B2 c | d3 c3 |
+B3 A3 | "Eb"G z B "Gdim"B3- | "Bb7"B B, C D G F | "Eb"B,3 G3 |
+"Cdim"^F3 "Eb"G3 | c z G B3- | B2 G "Cdim"^F2 G | "Eb"c z G B z G |
+"Eb7"c B G F2 E | "Ab"e6- | e5 E | e2 d e2 d |
+e d e "Cdim"f e c | "Eb"B2 =A B2 c | B z E "G7"F2 G | "Fm"A3 B2 c |
+"Bb7"G3 B3 | "Eb"e z B, =A,2 B, | E z2 e z2 |]

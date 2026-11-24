@@ -1,0 +1,21 @@
+X:1
+T:Intermezzo from Cavalleria Rusticana
+C:Pietro Mascagni (Cavalleria rusticana), 1890
+S:OpenEWLD
+R:flowing
+%%duets category: classical
+%%duets tags: opera
+%%duets year: 1890
+%%duets credit: Melody and chords: public domain in the United States (published 1890); lead sheet from OpenEWLD.
+%%duets slug: intermezzo-from-cavalleria-rusticana
+M:3/4
+L:1/8
+K:F
+"F"A4 "C/E"c2 | "Dm"F4 "Am/C"A2 | "Bb"D2 d c "Gm7"B F | "C7"A4 G2 |
+"Gm"B4 "Bb"D2 | "F"A2 c2 "Dm"F2 | "F/C"A4 "C7"G2 | "F"F2- "F/A"F4 |
+"Bb"d2 d c "Gm"B F | "C7"A4 G2 | "Bb/D"B2 B A "Bb6"G D | "C7sus4"F4 "C7"E2 |
+"Dm"F2 G A "Bb6"B/2 c/2 d/2 e/2 | "F/A"f3 f "Gm7"e d | "F/C"A2 c2 "C7"E2 | "F"F2- "F/E"F f "Dm"f f |
+"Dm/C"f2- "Bb"f f "Bb/A"f f | "Gm7"f3 f "Bb6"e d | "F/C"A2 c2 "C7"E2 | "F"F2- "F/E"F f "Dm"f f |
+"Dm/C"f2- "Bb"f f "Bb/A"f f | "Gm7"f3 f "Bb6"e d | "F/C"A2 c2 "C7"E2 | "F"F3 E "F/E"F G |
+"Dm"A3 F "Dm/C"A d | "Bb"d3 B "Gm7"d f | "F"a6 | a6- |
+a z5 |]

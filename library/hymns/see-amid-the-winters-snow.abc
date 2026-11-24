@@ -1,0 +1,38 @@
+X:1
+T:See Amid the Winter's Snow
+T:HUMILITY
+C:John Goss, 1870
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: HUMILITY
+%%duets year: 1870
+%%duets credit: Tune and setting: public domain ("The Children's Hymnal, with Tunes", 1875), via the Open Hymnal Project.
+%%duets lyricist: Edward Caswall, 1851
+%%duets notes: intro 13-16
+%%duets slug: see-amid-the-winters-snow
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+V:S
+"G"G3 A "Am7"G2 "Bm"F2 | "C"E2- "D7/C"E D "G"D2- "Gsus4"D2 | "G"G2 "Bm7/F#"A2 "C/E"c2 "G"B2 | "G/D"B3 A "D7"A4 |
+"G/B"G3 A "Am7"G2 "Bm"F2 | "C"E2- "D7/C"E D "G"D2- "D/F#"D2 | "Em"G2 "Am7/E"A2 "G/D"B2 "C"c2 | "D7"A3 G "G"G4 |
+"G"d3 d "C/G"c2 "G"B2 | "D7/F#"A2 "G"G2 "D"F4 | "G/B"d3 d "C"c2 "G"B2 | "Am"A2 "G/B"G2 "D"F4 |
+"Em"G3 A "A7"G2 "Bm"F2 | "Em7/G"E2- "A7"E D "D7"D4 | "G/B"d3 B "C"G2 "Am7"c2 | "Bm/D"B2 "D7"A2 "G"G4 |]
+V:A
+B,4 C2 D2 | G,2 A,2 B,2 C2 | D4 G4 | G4 F4 |
+D2 B,2 C2 D2 | G,2 A,2 B,2 A,2 | B,2 C2 D2 E2 | C4 B,4 |
+G3 G G2 G2 | D2 D2 D4 | D3 G G2 G2 | E2 D2 D4 |
+B,3 B, ^C2 D2 | D2 ^C2 D4 | D3 D E2 G2 | F2 F2 G4 |]
+V:T
+G,4 G,2 D,2 | E,2 F,2 G,2 A,2 | B,4 E2 D2 | D2 ^C2 D4 |
+G,4 G,2 D,2 | E,2 F,2 G,2 A,2 | G,4 G,4 | G,2 F,2 G,4 |
+B,3 B, E2 D2 | C2 B,2 A,4 | G,3 G, E2 D2 | C2 B,2 A,4 |
+G,3 G, E,2 D,2 | B,2 A, G, F,4 | G,3 G, G,2 E2 | D2 C2 B,4 |]
+V:B
+G,,4 A,,2 B,,2 | C,4 G,,4 | G,2 F,2 E,2 G,2 | D,4 D,2 C,2 |
+B,,2 G,,2 A,,2 B,,2 | C,4 G,2 F,2 | E,4 D,2 C,2 | D,4 G,,4 |
+G,3 G, G,2 G,2 | F,2 G,2 D,4 | B,,3 B,, C,2 G,,2 | A,,2 B,, C, D,4 |
+E,3 E, A,,2 B,,2 | G,,2 A,,2 D,2 C,2 | B,,3 B,, C,2 A,,2 | D,2 D,2 G,,4 |]

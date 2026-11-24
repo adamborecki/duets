@@ -1,0 +1,22 @@
+X:1
+T:Dill Pickles Rag
+C:Charles L. Johnson, 1906
+S:Nottingham Music Database
+R:stride
+%%duets category: rag
+%%duets tags: rag, american
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: dill-pickles-rag
+M:4/4
+L:1/8
+K:G
+B2 c2 ^c2 |: "G"d e g d e g d e | g d e g2 e d2 | "Em"G A B G A B G A |
+B G A B2 A G2 | "D"D E F D E F D E | "D"F D E F2 E D2 | [1 "G"G F G E- "E"E F G ^G |
+"A"A ^G A d- "D"d B c ^c :| [2 "A"A ^G A d- "D"d B A2 | "G"G5 G F E ||: "D"D2 _E2 =E2 F2 |
+"G"G2 e d2 e d2 | "D"F2 e d2 e d2 | "G"G2 e d2 e d2 | "D"D A E A =F A ^F A |
+"G"G2 e d2 e d2 | [1 "A"A B ^c A B c3 | "D"d5 G F E :| [2 "D"d e f d e f3 |
+"G"g8 ||: [K:C]"C"c A G c A G E F | G E G A2 G E2 | "G"D ^C D G2 E D2 |
+"C"C4 A2 B2 | [K:C]"C"c A G c A G E F | G E G A2 G E2 | "D"A ^G A d2 B A2 |
+"G"G4 A2 B2 | [K:C]"C"c A G c A G E F | G E G A2 G E2 | "G"D ^C D G2 E D2 |
+"C"C4 c2 B2 | "Am"A2 A B c B c d | e ^d e a2 g e2 | "D"d ^c d g- "G"g e d2 |
+[1 "C"c6 A B :| [2 "C"c6 z2 |]

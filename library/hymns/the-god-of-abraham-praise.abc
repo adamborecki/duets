@@ -1,0 +1,41 @@
+X:1
+T:The God of Abraham Praise
+T:YIGDAL
+C:or 'Leoni' Traditional Hebrew
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: praise
+%%duets tune: YIGDAL
+%%duets credit: Tune and setting: public domain (Meyer Lyon, 1780), via the Open Hymnal Project.
+%%duets lyricist: Daniel ben Judah, circa 1400. Paraphrased by Thomas Olivers, circa 1765
+%%duets notes: intro 14-17
+%%duets slug: the-god-of-abraham-praise
+M:4/4
+L:1/8
+Q:1/4=120
+K:Ab
+V:S
+"C"C2 | "F"F2 "C"G2 "Fm"A2 "Bbm/Db"B2 | "C"c6 "Fm"A2 | "Bbm/Db"B2 "Ab/C"c2 "Bbm7"d2 "Eb"e2 |
+"Ab"c6 "Eb"G2 | "Ab/C"A2 "Gdim/Bb"B2 "Dbmaj7/Ab"c2 d2 | "Ab/C"e2 "Eb7"G2 "Fm"A2 "Bbm7"d2 | "Ab/Eb"c4 "Eb7"B4 |
+"Ab"A6 A2 | "Ab"c2 c2 "Ab/C"c2 "Dm7b5"c2 | "Eb"B6 "Ab/C"A G | "Db"F G A B "Ab"c2 "Bbm7"F2 |
+"C"F2 =E4 C2 | "Fm/Ab"F2 "C"G2 "Fm"A2 "Eb"B2 | "Ab"c2 "Db"B c "Bbm"d2 c B | "Fm/C"A4 "C7"G4 |
+"Fm"F6 |]
+V:A
+C2 | F2 C2 C2 F2 | =E6 C2 | F2 E2 F2 E2 |
+E6 E2 | E2 D2 C2 F2 | E2 D2 C2 F2 | E4 E2 D2 |
+C6 E2 | E2 C2 E2 F2 | G6 E2 | D2 D2 C2 D2 |
+C6 C2 | C2 C2 C2 E2 | E2 F2 F2 F2 | F4 =E4 |
+F6 |]
+V:T
+C,2 | F,2 =E,2 F,2 F,2 | G,6 A,2 | F,2 A,2 A,2 G,2 |
+A,6 B,2 | A,2 G,2 A,2 A,2 | A,2 B,2 A,2 A,2 | A,4 G,4 |
+A,6 C2 | A,2 A,2 A,2 A,2 | G,6 A,2 | A,2 F,2 A,2 A,2 |
+G,6 =E,2 | F,2 =E,2 F,2 G,2 | A,2 A,2 B,2 D2 | C4 C2 B,2 |
+A,6 |]
+V:B
+z2 | z2 C,2 F,2 D,2 | C,6 F,2 | D,2 C,2 B,,2 E,2 |
+A,,6 E,2 | C,2 B,,2 A,,2 D,2 | C,2 E,2 F,2 B,,2 | E,4 E,4 |
+A,,6 A,2 | A,2 A,,2 C,2 =D,2 | E,6 C,2 | D,2 D,2 A,,2 B,,2 |
+C,6 C,2 | A,,2 C,2 F,2 E,2 | A,,2 D,2 B,,2 B,,2 | C,4 C,4 |
+F,6 |]

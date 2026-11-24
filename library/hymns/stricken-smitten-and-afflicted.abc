@@ -1,0 +1,42 @@
+X:1
+T:Stricken, Smitten, and Afflicted
+T:O MEIN JESU, ICH MUSS STERBEN
+C:or 'Wo Ist Jesus, Mein Verlangen' from Geistliches Volkslied, 1850
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: good-friday, easter
+%%duets tune: O MEIN JESU, ICH MUSS STERBEN
+%%duets year: 1850
+%%duets credit: Tune and setting: public domain ("Evangelical Lutheran Hymn-Book", 1931), via the Open Hymnal Project.
+%%duets lyricist: Thomas Kelly, 1804
+%%duets notes: intro 16-17
+%%duets slug: stricken-smitten-and-afflicted
+M:6/4
+L:1/8
+Q:3/4=60
+K:Bb
+V:S
+"Gm"G2 A2 | "Gm"B4 B2- "Eb"B2 c2 B2 | "D"A4 A4 B2 A2 | "Eb"G4 A2- "D7/C"A2 G2 ^F2 |
+"Gm"G8 G2 A2 | "Gm"B4 B2- "Eb"B2 c2 B2 | "D"A4 A4 B2 A2 | "Eb"G4 A2- "D7/C"A2 G2 ^F2 |
+"Gm"G6- "Gm7"G2 B2 c2 | "Bb"d4 d2- "Gm"d2 e2 d2 | "F"c4 c4 d2 c2 | "Gm"B4 B2- "Eb"B2 c2 B2 |
+"D"A8 G2 ^F2 | "Gm"G4 B4 A2 G2 | "D"A4 A4 B2 A2 | "Eb"G4 A2- "D7/C"A2 G2 ^F2 |
+"Gm"G8 |]
+V:A
+D2 D2 | D4 E4 E2 D2 | D4 D4 D2 D2 | B,4 E4 D2 D2 |
+D8 D2 D2 | D4 E4 E2 D2 | D4 D4 D2 D2 | B,4 E4 D2 D2 |
+D8 D2 F2 | F4 G4 G2 F2 | F4 F4 F2 F2 | D4 E4 E2 D2 |
+D8 D2 D2 | D4 D4 D2 B,2 | D4 D4 D2 D2 | E4 E4 D2 D2 |
+D8 |]
+V:T
+B,2 A,2 | G,4 G,4 G,2 G,2 | G,4 ^F,4 G,2 F,2 | G,4 C4 B,2 A,2 |
+B,8 B,2 A,2 | G,4 G,4 G,2 G,2 | G,4 ^F,4 G,2 F,2 | G,4 C4 B,2 A,2 |
+B,8 G,2 A,2 | B,4 B,4 B,2 B,2 | B,4 A,4 B,2 A,2 | G,4 G,4 G,2 G,2 |
+^F,8 G,2 A,2 | B,4 G,4 ^F,2 G,2 | G,4 ^F,4 G,2 A,2 | B,4 C4 B,2 A,2 |
+B,8 |]
+V:B
+G,2 ^F,2 | G,4 E,4 C,2 G,,2 | D,4 D,4 G,2 D,2 | E,4 C,4 D,2 D,2 |
+G,,8 G,2 ^F,2 | G,4 E,4 C,2 G,,2 | D,4 D,4 G,2 D,2 | E,4 C,4 D,2 D,2 |
+G,,8 G,2 F,2 | B,4 G,4 E,2 B,,2 | F,4 F,4 B,2 F,2 | G,4 E,4 C,2 G,,2 |
+D,8 B,,2 D,2 | G,4 G,4 D,2 E,2 | D,4 D,4 G,2 F,2 | E,4 C,4 D,2 D,2 |
+G,,8 |]

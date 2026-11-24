@@ -1,0 +1,22 @@
+X:1
+T:Ol' Man River
+C:Jerome Kern, 1927
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: kern, sinatra
+%%duets year: 1927
+%%duets credit: Melody and chords: public domain in the United States (published 1927); lead sheet from OpenEWLD.
+%%duets slug: ol-man-river
+M:4/4
+L:1/8
+K:Eb
+"Eb"B,2 B,2 "Cm"C E2 C | "Eb"B,2 B,2 "Ab"C E2 F | "Eb"G2 G2 "Ab"F E2 F | "Eb"G2 B2 "Cm"c B2 c |
+"Bb7"B2 B2 G F2 G | "Fmaj7"B2 B2 "Bb9"G F2 G | "Eb"E4- "Ab6"E4- | "Eb"E6 z B, |
+B,2 B,2 "Cm"C E2 C | "Eb"B,2 B,2 "Ab"C E2 F | "Eb"G2 B2 "Cm"c B2 c | "Eb/G"e2 e2 "Gbdim7"d c2 d |
+"Fm7"B2 B2 "Bb7"G F2 G | "Fm7"B2 B2 "Bb9"G F2 G | "Eb"E4- "Ab"E4- | "Eb"E2 z2 "D7"z4 |
+"Gm"d2 B2 "D7"c3 e | "Gm"d2 B2 "D7"c4 | "Gm6"d3/2 d/2 B2 "Cdim7"c3/2 c/2 e2 | "Gm"d2 B2 "D7"c4 |
+"Gm"B z G2 "Cm6"=A4 | "Gm"B2 G2 "Cdim7"=A4 | "Gm"B3/2 B/2 G3/2 G/2 "Cdim7"=A2 c3/2 c/2 | "Gm"B2 G2 "Fm7"F2- "Bb7"F2 |
+"Eb"B,2 B,2 "Cm"C E2 C | "Eb"B,2 B,2 "Ab"C E2 F | "Eb"G2 B2 "Bb9"c B2 c | "Cm"e2 e2 "F7"f e2 f |
+"Eb"g2 g2 "Cm"f e2 f | "Fm9"g2 g2 "Bb7"f e f2 | [1 "Eb"e2 z2 "Abm"z4 | "Eb"z4 "Bb7"z4 :|
+[2 "Eb"e8- | e2 z6 |]

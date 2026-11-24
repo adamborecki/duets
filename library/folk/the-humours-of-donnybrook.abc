@@ -1,0 +1,17 @@
+X:1
+T:The Humours of Donnybrook
+C:Irish traditional jig
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-humours-of-donnybrook
+M:6/8
+L:1/8
+K:A
+[P:A]e | "A"a2 A A G A | "D"F A A "E"E A A | "A"a2 A A G A |
+"Bm"F B A "E7"G F E | "A"a2 A "F#m"A G A | "D"F A A "E"E A A | "D"F A A "E7"G A B |
+"A"c B A A2 :: [P:B]e | "A"A c e e c A | "A"A c e "E7"e2 E |
+"A"A c e e d c | "Bm"d c d "E7"B2 B | "A"A c e e c A | "A"A c e "E7"e f g |
+"A"a g f e d c | [1 "E7"B c B "A"A2 :| [2 "Bm"B c d "E7"e f g |]

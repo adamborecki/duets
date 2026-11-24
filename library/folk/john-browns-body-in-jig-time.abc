@@ -1,0 +1,17 @@
+X:1
+T:John Brown's Body (in Jig Time)
+C:William Steffe, c. 1856
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: american, patriotic
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: john-browns-body-in-jig-time
+M:6/8
+L:1/8
+K:D
+F/2 G/2 | "D"A2 A "A7"A2 G | "D"F2 A d2 e | "D"f2 f f2 e |
+"D7"d3 d2 A | "G"B2 A B2 c | "G"d2 e d2 B | "D"A2 B "A7"A2 G |
+"D"F3 "A7"F2 G | "D"A2 A "A7"A2 G | "D"F2 A d2 e | "F#7"f2 f f2 e |
+"Bm"d3 d2 d | "E7"e3 e3 | "A7"d3 c3 | "D"d3 d2 d |
+"D"d3 d2 |]

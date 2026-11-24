@@ -1,0 +1,42 @@
+X:1
+T:I Need Thee Every Hour
+T:I NEED THEE EVERY HOUR
+C:Robert Lowry, 1872
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: redeemer
+%%duets tune: I NEED THEE EVERY HOUR
+%%duets year: 1872
+%%duets credit: Tune and setting: public domain ("Pentecostal Hymns, No. 2", 1898), via the Open Hymnal Project.
+%%duets lyricist: Annie Sherwood Hawks, 1872
+%%duets notes: intro 15-18
+%%duets slug: i-need-thee-every-hour
+M:3/4
+L:1/8
+Q:1/4=80
+K:Ab
+V:S
+"Ab"A2 | "Ab"c2- "Bbm7/Ab"c B "Eb"A G | "Ab"A4 A2 | "Db"A3 B A F |
+"Ab"E4 "Eb"E2 | "Eb"B3 c B E | "Ab"c4 A2 | "Eb/Bb"G3 A "Bb7"G F |
+"Eb"E4 || "Ab"c2 | "Ab"c3 A d c | "Ab/Eb"c2 "Eb"B4 |
+"Eb7"B2- "Ab/Eb"B A "Eb7"c B | "Absus4"B2 "Ab"A2 A2 | "Db"A3 B A F | "Ab"E2 "Ab/C"A2 "Db6"B2 |
+"Ab/Eb"c3 A "Eb7"B2 | "Ab"A4 |]
+V:A
+C2 | E3 D C B, | C4 C2 | D4 D2 |
+C4 E2 | E3 E E E | E4 E2 | E3 F E =D |
+E4 || A2 | A3 E A A | A2 G4 |
+E3 E E E | E2 E2 E2 | F3 F F D | C2 E2 F2 |
+E3 C D2 | C4 |]
+V:T
+E,2 | A,3 F, E, E, | E,4 E,2 | F,4 F, A, |
+A,4 G,2 | G,3 A, G, G, | A,4 C2 | B,4 B, A, |
+G,4 || E2 | E3 C F E | E2 E4 |
+D3 C E D | D2 C2 A,2 | A,3 A, A, A, | A,2 A,2 A,2 |
+A,4 G,2 | A,4 |]
+V:B
+A,,2 | A,,3 D, E, E, | A,,4 A,,2 | D,4 D,2 |
+A,,4 E,2 | E,3 E, E, E, | A,4 A,,2 | B,,4 B,,2 |
+E,4 || A,2 | A,3 A, A, A, | E,2 E,4 |
+E,3 E, E, E, | A,,2 A,,2 C,2 | D,3 D, D, D, | A,,2 C,2 D,2 |
+E,4 E,2 | A,,4 |]

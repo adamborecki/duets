@@ -1,0 +1,46 @@
+X:1
+T:One Thing's Needful
+T:EINS IST NOT
+C:Adam Krieger (1634-1666)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: redeemer
+%%duets tune: EINS IST NOT
+%%duets year: 1634
+%%duets credit: Tune and setting: public domain (Fridrich Layriz, 1853, alt), via the Open Hymnal Project.
+%%duets lyricist: Johann H. Schröder, 1697. Translated by Frances E. Cox, 1841, alt
+%%duets notes: intro 21-24
+%%duets slug: one-things-needful
+M:4/4
+L:1/8
+Q:1/4=120
+K:Eb
+V:S
+"Eb"B2 "Bb/D"B2 "Cm"c2 "Bb"d2 | "Cm7/Eb"e2 e2 "Gsus4"d2 "G"d2 | "Ab"c2 "Cm"c2 "Bb/D"B2 "Eb"G2 | "Ab"A2 "Bb"F2 "Eb"E4 |
+"Eb"B2 "Bb/D"B2 "Cm"c2 "Bb"d2 | "Cm7/Eb"e2 e2 "Gsus4"d2 "G"d2 | "Ab"c2 "Cm"c2 "Bb/D"B2 "Eb"G2 | "Ab"A2 "Bb"F2 "Eb"E4 |
+"Eb"E F G2 "Gm"G2 "Eb"G2 | [M:3/4]"Bbsus4"F2 "F7/A"F2 "Bb"F G | "Fm"A2 "Ab/C"A2 "Bb7/D"A2 | "Eb"G2 G2 G2 |
+"Ab"c2 "Cm"c2 "Fm"c2 | "Bb/D"B2- "Bb7"B A "Eb"G2 | "Fm/Ab"A2 "Eb/Bb"G2 "Bb7"F2 | "Eb"E2 !fermata!E2 E F |
+"Eb"G2 "Gm"G2 "Eb"G2 | "Bbsus4"F2 "F7/A"F2 "Bb"F G | "Fm"A2 "Ab/C"A2 "Bb7/D"A2 | "Eb"G4 G2 |
+"Ab"c2 "Cm"c2 "Fm"c2 | "Bb/D"B2- "Bb7"B A "Eb"G2 | "Fm/Ab"A2 "Eb/Bb"G2 "Bb7"F2 | "Eb"E6 |]
+V:A
+E2 B,2 E2 F2 | G2 G2 G2 G2 | E2 E2 F2 E2 | E2 D2 E4 |
+E2 B,2 E2 F2 | G2 G2 G2 G2 | E2 E2 F2 E2 | E2 D2 E4 |
+E D E2 D2 E2 | [M:3/4]E2 E2 D E | F2 E2 F2 | F2 E2 E2 |
+E2 E2 F2 | F2 D2 E2 | F2 E2 D2 | B,2 B,2 E D |
+E2 D2 E2 | E2 E2 D E | F2 E2 F2 | E4 E2 |
+E2 E2 F2 | F2 D2 E2 | F2 E2 D2 | E6 |]
+V:T
+G,2 F,2 G,2 B,2 | B,2 C2 C2 =B,2 | C2 G,2 F,2 B,2 | C2 B,2 G,4 |
+G,2 F,2 G,2 B,2 | B,2 C2 C2 =B,2 | C2 G,2 F,2 B,2 | C2 B,2 G,4 |
+G, A, B,2 B,2 B,2 | [M:3/4]B,2 C2 B,2 | C2 C2 B,2 | B,2 B,2 B,2 |
+A,2 G,2 A,2 | F,2 B,2 B,2 | C2 B,2 A,2 | G,2 G,2 G, A, |
+B,2 B,2 B,2 | B,2 C2 B,2 | C2 C2 B,2 | B,4 B,2 |
+A,2 G,2 A,2 | F,2 B,2 B,2 | C2 B,2 A,2 | G,6 |]
+V:B
+E,2 D,2 C,2 B,,2 | E,2 C,2 G,2 G,,2 | A,,2 C,2 D,2 E,2 | A,,2 B,,2 E,4 |
+E,2 D,2 C,2 B,,2 | E,2 C,2 G,2 G,,2 | A,,2 C,2 D,2 E,2 | A,,2 B,,2 E,4 |
+E,2 E,2 G,2 E,2 | [M:3/4]B,,2 =A,,2 B,,2 | F,2 C,2 D,2 | E,2 E,2 E,2 |
+A,,2 C,2 F,2 | D,2 B,,2 E,2 | A,,2 B,,2 B,,2 | E,2 E,2 E,2 |
+E,2 G,2 E,2 | B,,2 =A,,2 B,,2 | F,2 C,2 D,2 | E,4 E,2 |
+A,,2 C,2 F,2 | D,2 B,,2 E,2 | A,,2 B,,2 B,,2 | E,,6 |]

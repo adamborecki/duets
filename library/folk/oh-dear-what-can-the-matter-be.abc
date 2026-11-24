@@ -1,0 +1,30 @@
+X:1
+T:Oh Dear! What Can the Matter Be?
+C:English traditional
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: english, children
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: oh-dear-what-can-the-matter-be
+M:6/8
+L:1/8
+K:G
+[P:A]B c | "G"d3 d3 | "G"d B g d B G | "Am"c3 c3 |
+"D7"c A B c B A | "G"d3 d3 | "G"d B g d B G | "Am"E A c "D7"B c A |
+"G"G4 || [P:B]B c | d B c d B c | d B g d B G |
+c A B c A B | c A B c B A | d B c d B c | d B g d B G |
+E A c B c A | G4 || [P:C]B c | d B/2 c/2 d/2 B/2 g B/2 c/2 d/2 B/2 |
+d B/2 c/2 d/2 B/2 e/2 d/2 c/2 B/2 A/2 G/2 | c A/2 B/2 c/2 A/2 a A/2 B/2 c/2 A/2 | c A/2 B/2 c/2 A/2 a/2 g/2 f/2 e/2 d/2 ^c/2 | d B/2 c/2 d/2 B/2 g B/2 c/2 d/2 B/2 |
+d B/2 c/2 d/2 B/2 e/2 d/2 c/2 B/2 A/2 G/2 | E A c B c A | G4 || [P:D]B c |
+d/2 c/2 B/2 c/2 d/2 B/2 d/2 c/2 B/2 c/2 d/2 B/2 | d B g d B G | c/2 B/2 A/2 B/2 c/2 A/2 c/2 B/2 A/2 B/2 c/2 A/2 | c A a g f e |
+d/2 c/2 B/2 c/2 d/2 B/2 d/2 c/2 B/2 c/2 d/2 B/2 | d B g d B G | E A c B c A | G4 ||
+[P:E]B c | d B G D G B | d/2 G/2 B/2 d/2 g/2 d/2 b/2 a/2 g/2 f/2 e/2 d/2 | e c A E F G |
+F/2 D/2 F/2 A/2 d/2 A/2 a/2 g/2 f/2 e/2 d/2 ^c/2 | d B G D G B | d/2 G/2 B/2 d/2 g/2 d/2 b/2 a/2 g/2 f/2 e/2 d/2 | E A c B c A |
+G4 || [P:F]B c | d2 b B2 g | G B d D G B |
+A2 a A2 e | D F A c B c | d2 b B2 g | G B d D G B |
+E A c B c A | G4 || [P:G]B c | e/2 d/2 c/2 B/2 A/2 G/2 e/2 d/2 c/2 B/2 A/2 G/2 |
+B/2 G/2 B/2 d/2 g/2 d/2 b/2 a/2 g/2 f/2 e/2 d/2 | f/2 e/2 d/2 c/2 B/2 A/2 f/2 e/2 d/2 c/2 B/2 A/2 | F/2 D/2 F/2 A/2 d/2 A/2 a/2 g/2 f/2 e/2 d/2 ^c/2 | e/2 d/2 c/2 B/2 A/2 G/2 e/2 d/2 c/2 B/2 A/2 G/2 |
+B/2 G/2 B/2 d/2 g/2 d/2 b/2 a/2 g/2 f/2 e/2 d/2 | E A c B c A | G4 || [P:H]B c |
+d3/2 B/2 d/2 B/2 e3/2 B/2 e/2 B/2 | d3/2 B/2 d/2 c/2 B A G | c3/2 A/2 c/2 A/2 a3/2 b/2 a/2 g/2 | f3/2 g/2 f/2 e/2 d3/2 e/2 d/2 ^c/2 |
+d3/2 B/2 d/2 B/2 e3/2 B/2 e/2 B/2 | d3/2 B/2 d/2 c/2 B A G | E A c B c A | G4 |]

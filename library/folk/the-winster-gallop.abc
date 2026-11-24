@@ -1,0 +1,17 @@
+X:1
+T:The Winster Gallop
+C:English traditional (Derbyshire)
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: english
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-winster-gallop
+M:4/4
+L:1/8
+K:G
+[P:A]d2 | "G"G2 B B G2 B2 | "G"G2 B2 d4 | "Am"A3 c "D7"B2 A2 |
+"G"G2 B2 "G7"d4 | "C"c2 e2 f2 e2 | "G"d2 B2 "Em"d4 | "Am"A3 c "D7"B2 A2 |
+"G"G4 G2 :| [P:B]d2 | "G"g2 f2 e2 d2 | "G"g2 f2 e2 d2 |
+"G"g2 f2 e2 d2 | "Am"c2 B2 A4 | "D"f2 e2 d4 | "D"f2 e2 d4 |
+"D7"d4 A3 c | "G"B2 G2 G2 :|

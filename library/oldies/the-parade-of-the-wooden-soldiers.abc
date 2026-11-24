@@ -1,0 +1,24 @@
+X:1
+T:The Parade of the Wooden Soldiers
+C:Leon Jessel, 1905
+S:OpenEWLD
+R:march
+%%duets category: march
+%%duets tags: christmas
+%%duets year: 1905
+%%duets credit: Melody and chords: public domain in the United States (published 1905); lead sheet from OpenEWLD.
+%%duets slug: the-parade-of-the-wooden-soldiers
+M:4/4
+L:1/8
+K:C
+z6 G2 |: "C"E2 G2 G2 G G | "G7"F2 G2 G2 G G | "C"E2 G2 "Ebdim"B2 A2 |
+"Dm7"G ^F =F E "G7"D2 G G | "C"E2 G2 "Bbdim"G2 G G | "G"D2 B2 B2 B B | "C6"A2 z2 "D"d2 z2 |
+[1 "G7"G2 z4 G G :| [2 "G7"G6 G G | G6 G G | G6 z2 |
+"C"G c E2 A2 G2 | G c E2 A2 G2 | G3 G G2 c2 | "G7"c2 B2 B4 |
+G d F2 A2 G2 | G d F2 A2 G2 | G3 G G2 d2 | "C"d2 c2 c4 |
+G c E2 A2 G2 | G c E2 A2 G2 | G3 G G2 c2 | "Em"c2 B2 B4 |
+B B B2 B B B2 | B, B, B,2 B, B, B,2 | B2 B2 "B7"B A G ^F | "Em"E4 "G7"z4 ||
+"C"G c E2 A2 G2 | G c E2 A2 G2 | G3 G G2 c2 | "G7"c2 B2 B4 |
+G d F2 A2 G2 | G d F2 A2 G2 | G3 G G2 d2 | "C"d2 c2 c4 |
+G c E2 A2 G2 | G c E2 A2 G2 | G3 G G2 e2 | "F"e2 d2 d4 |
+"F#dim"c3 c c2 A2 | "C/G"A2 G2 "A7"F2 E2 | "Dm"D E F G "G7"A2 B2 | "C"c6 z2 |]

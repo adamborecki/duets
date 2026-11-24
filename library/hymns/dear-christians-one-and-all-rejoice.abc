@@ -1,0 +1,42 @@
+X:1
+T:Dear Christians, One and All Rejoice
+T:ES IST GEWISSLICH AN DER ZEIT
+C:Klug's Geistliche Lieder, Wittenberg, 1533
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: justification
+%%duets tune: ES IST GEWISSLICH AN DER ZEIT
+%%duets year: 1533
+%%duets credit: Tune and setting: public domain (Michael Praetorius, 1610), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1523. Translated by Richard Massie, 1854, alt
+%%duets notes: intro 16-18
+%%duets slug: dear-christians-one-and-all-rejoice
+M:4/4
+L:1/8
+Q:1/4=110
+K:G
+V:S
+"G"z2 G2 "C/E"G2 "G"B2 | "D"A2 "Em"G2 "Am/C"A2 "D"A2 | "Em7/G"B4 G4 | "G"B2 "C/E"c2 "D/F#"d2 "G"B2 |
+"D"A4 "G"G4 | "G"z2 G2 "C/E"G2 "G"B2 | "D"A2 "Em"G2 "Am/C"A2 "D"A2 | "Em7/G"B4 G4 |
+"G"B2 "C/E"c2 "D/F#"d2 "G"B2 | "D"A4 "G"G4 | "G"z2 B2 "Em"B2 "F#dim/A"A2 | "C"G2 "D"F2 "Em"G2 "C"E2 |
+"G"D4 z2 D2 | "G"G2 "C"G2 "G"G2 "D"F2 | "Em"G2 "Am/C"A2 "B"B4 | "Em"G4 "G"B2 "Am"c2 |
+"D/F#"d2 "G"B2 "D"A4 | "G"G8 |]
+V:A
+z2 D2 E2 D2 | F2 E2 E2 F2 | D4 E4 | D2 E2 D2 D2 |
+D4 [B,D]4 | z2 D2 E2 D2 | F2 E2 E2 F2 | D4 E4 |
+D2 E2 D2 D2 | D4 [B,D]4 | z2 D2 G2 F2 | E2 D2 B,2 C2 |
+B,4 z2 B,2 | D2 E2 D2 D2 | B,2 E2 ^D4 | B,2 E2 D2 A2 |
+A2 G2 F E F2 | D8 |]
+V:T
+z2 B,2 C2 B,2 | D2 B,2 A,2 A,2 | G,4 B,4 | B,2 G,2 A,2 G,2 |
+G, F,/2 E,/2 F,2 G, A, B,2 | z2 B,2 C2 B,2 | D2 B,2 A,2 A,2 | G,4 B,4 |
+B,2 G,2 A,2 G,2 | G, F,/2 E,/2 F,2 G, A, B,2 | z2 B,2 B,2 C2 | C2 A,2 G,2 G,2 |
+G,4 z2 G,2 | B,2 C2 B,2 A,2 | G,2 E,2 F,4 | G,2 B,4 E2 |
+D2 D2 D4 | B,8 |]
+V:B
+z2 G,2 E,2 G,2 | D,2 E,2 C,2 D,2 | G,4 E,4 | G,2 E,2 F,2 G,2 |
+D,4 G,,4 | z2 G,2 E,2 G,2 | D,2 E,2 C,2 D,2 | G,4 E,4 |
+G,2 E,2 F,2 G,2 | D,4 G,,4 | z2 G,2 E,2 A,,2 | C,2 D,2 E,2 C,2 |
+G,4 z2 G,,2 | G,,2 C,2 G,,2 D,2 | E,2 C,2 B,,4 | E,4 G,2 A,2 |
+F,2 G,2 D,4 | G,,8 |]

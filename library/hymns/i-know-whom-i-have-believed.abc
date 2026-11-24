@@ -1,0 +1,41 @@
+X:1
+T:I Know Whom I Have Believed
+T:I KNOW WHOM I HAVE BELIEVED
+C:McGranahan, James (1840-1907)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trust
+%%duets tune: I KNOW WHOM I HAVE BELIEVED
+%%duets credit: Tune and setting: public domain ('I Know Whom I Have Believed' James McGranahan, 1892), via the Open Hymnal Project.
+%%duets lyricist: Daniel Webster Whittle (a.k.a. Elias Nathan), 1883. Music and
+%%duets notes: intro 16-17
+%%duets slug: i-know-whom-i-have-believed
+M:4/4
+L:1/8
+Q:1/4=100
+K:Eb
+V:S
+"Eb"E2 | "Eb"G3 G "Ab/Eb"A G "Eb"F E | "Ab/Eb"c2 "Eb"B2 B2 G2 | "Eb"B3 B "Ab/Eb"c B "Bb7/D"A G |
+"Bb7"F6 A2 | "Eb"G3 G "Ab/Eb"A G "Eb"F E | "Ab/Eb"c2 "Eb"B2 B2 G2 | "Bb"B3 B "Bb7"c B A F |
+"Eb"E6 E E | "Ab"e2 e3 e d c | "Ab/Eb"c2 "Eb"B3 B "Ab/Eb"c B | "Gm/Bb"B2 "Bb7"A3 A B A |
+"Fm7/Eb"A2 "Eb"G4 E2 | "Ab"e2 e3 e d c | "Ab/Eb"c2 "Eb"B4 B B | "Bb7"d3 c d2 B2 |
+"Eb"e6 |]
+V:A
+E2 | E3 E E2 B,2 | E2 E2 E2 E2 | G3 G A G F E |
+D6 F2 | E3 E E2 B,2 | E2 E2 E2 E2 | D3 D D2 D2 |
+E6 E E | c2 c3 c B A | A2 G3 G A G | G2 F3 F G F |
+F2 E4 E2 | c2 c3 c B A | A2 G4 G G | F3 A A2 A2 |
+G6 |]
+V:T
+G,2 | B,3 B, C B, A, G, | A,2 G,2 G,2 B,2 | E3 E E2 B,2 |
+B,6 B,2 | B,3 B, C B, A, G, | A,2 G,2 G,2 B,2 | B,3 F, F,2 F, A, |
+G,6 E, E, | E2 E3 E E E | E2 E3 E E E | D2 D3 D D D |
+E2 B,4 E,2 | E2 E3 E E E | E2 E4 B, B, | B,3 B, B,2 B,2 |
+B,6 |]
+V:B
+E,2 | E,3 E, E,2 E,2 | E,2 E,2 E,2 E,2 | E,3 E, E,2 D, E, |
+B,,6 B,,2 | E,3 E, E,2 E,2 | E,2 E,2 E,2 E,2 | B,,3 B,, B,,2 B,,2 |
+E,6 E, E, | A,,2 A,3 A, A, A, | E,2 E,3 E, E, E, | B,,2 B,,3 B,, B,, B,, |
+E,2 E,4 E,2 | A,,2 A,3 A, A, A, | E,2 E,4 E, E, | B,,3 B,, B,, C, D,2 |
+E,6 |]

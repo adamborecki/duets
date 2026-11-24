@@ -1,0 +1,33 @@
+X:1
+T:Sing, O Sing, This Blessed Morn
+T:NATIVITY
+C:Monk, William Henry (1823-1889)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: NATIVITY
+%%duets credit: Tune and setting: public domain ('Nativity' William Henry Monk, 1865), via the Open Hymnal Project.
+%%duets lyricist: Christopher Wordsworth, 1865. Music and
+%%duets notes: intro 11-12
+%%duets slug: sing-o-sing-this-blessed-morn
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:S
+"C"c2 "Bdim/D"B2 "C/E"c2 E2 | "F/A"F2 A2 "C"G4 | "F"A2 A2 "C6"G2 A2 | "G7/B"G2 F2 "C"E4 |
+"Am"c2 c2 "G#dim/B"B2 "Am/C"A2 | "E"^G2 B2 "Am"A4 | "Am"A3 G "D"^F2 "Em"G2 | "G/D"B2 "D"A2 "G"G4 |
+"F"A2 A2 "C"c2 E2 | "F/A"F2 A2 "C"G4 | "C"E2 "Am"E2 "G"G2 "C/E"G2 | "F"A2 A2 "C"c4 |]
+V:A
+E2 D2 C2 C2 | C2 C2 C4 | C2 C2 C2 C2 | D2 B,2 C4 |
+E2 E2 D2 E2 | E2 E2 C4 | C2 E2 D2 B,2 | D2 D2 B,4 |
+C2 C2 E2 C2 | C2 C2 C4 | C2 C2 D2 C2 | C2 F2 E4 |]
+V:T
+G,2 F,2 E,2 G,2 | F,2 F,2 E,4 | F,2 F,2 E,2 E,2 | G,2 G,2 G,4 |
+A,2 A,2 ^G,2 A,2 | B,2 ^G,2 A,4 | A,2 A,2 A,2 G,2 | G,2 ^F,2 G,4 |
+F,2 A,2 G,2 G,2 | F,2 F,2 E,4 | G,2 C2 B,2 C2 | C2 C2 C4 |]
+V:B
+C,2 D,2 E,2 C,2 | A,,2 F,,2 C,4 | F,2 F,,2 C,2 A,,2 | B,,2 G,,2 C,4 |
+A,,2 A,,2 B,,2 C,2 | E,2 E,2 A,,4 | A,,2 C,2 D,2 E,2 | D,2 D,2 G,,4 |
+F,2 F,2 C,2 C,2 | A,,2 F,,2 C,4 | C,2 A,,2 G,,2 E,2 | F,2 F,2 C,4 |]

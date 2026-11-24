@@ -1,0 +1,41 @@
+X:1
+T:I Place My Trust In God
+T:HALY TRUST
+C:Kropf, Loren J. (1989-)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trust
+%%duets tune: HALY TRUST
+%%duets credit: Tune and setting: public domain ('Haly - Trust' Loren J. Kropf, 2010), via the Open Hymnal Project.
+%%duets lyricist: verses by Dorothy Amstutz, 2007. Refrain by Loren J. Kropf, 2010. Music and
+%%duets notes: intro 14-17
+%%duets slug: i-place-my-trust-in-god
+M:2/2
+L:1/8
+Q:1/2=60
+K:Bb
+V:S
+"Bb"F2 | "Cm7/Bb"G2 A2 "Bb"B2 B2 | "Bb"B3 G F2 F G | "Bb"B2 B2 d2 d2 |
+"Bb"B3 G F2 F2 | "Cm"G2 G2 "Cm7"G2 d2 | "Bb"B3 B B2 F2 | "Eb"G2 G2 "Adim/C"A2 A2 |
+"F7"c3 c "Bb"B2 F G | "Bb"B2 B2 B2 d2 | "Bb"B3 G F2 F G | "Bb"B2 B2 d2 d2 |
+"F"c3 d c2 d c | "Bb"B2 B2 B2 c2 | "Cm/Eb"c3 d "Cm7"e2 e2 | "Bb"d2 d2 d2 B2 |
+"F7/C"c2 A2 B2 |]
+V:A
+D2 | E2 E2 F2 F2 | F3 E D2 F E | D2 D2 F2 F2 |
+F3 E D2 F2 | E2 E2 E2 F2 | D3 D D2 D2 | E2 E2 E2 E2 |
+E3 E D2 F2 | F2 F2 F2 F2 | F3 E D2 F E | D2 D2 F2 F2 |
+F3 F F2 F E | F2 F2 F2 F2 | G3 F G2 G2 | F2 F2 F2 D2 |
+E2 E2 D2 |]
+V:T
+B,2 | B,2 C2 D2 D2 | D3 B, B,2 B, G, | F,2 F,2 B,2 B,2 |
+D3 B, B,2 B,2 | G,2 G,2 G,2 B,2 | F,3 F, F,2 B,2 | B,2 B,2 C2 C2 |
+C3 G, F,2 B, C | D2 D2 D2 D2 | D3 B, B,2 B, G, | F,2 F,2 B,2 B,2 |
+A,3 B, A,2 B, C | D2 D2 D2 C2 | C3 B, C2 B,2 | B,2 B,2 B,2 B,2 |
+A,2 A,2 F,2 |]
+V:B
+B,,2 | B,,2 F,2 B,,2 B,,2 | B,,3 B,, B,,2 D, C, | B,,2 B,,2 B,,2 B,,2 |
+B,,3 B,, B,,2 D,2 | C,2 C,2 C,2 F,2 | B,,3 B,, B,,2 B,,2 | E,2 E,2 C,2 C,2 |
+F,3 C, B,,2 D, C, | B,,2 B,,2 B,,2 B,,2 | B,,3 B,, B,,2 D, C, | B,,2 B,,2 B,,2 B,,2 |
+F,3 F, F,2 D, C, | B,,2 B,,2 B,,2 F,2 | E,3 D, C,2 E,2 | B,,2 B,,2 B,,2 B,,2 |
+C,2 F,2 B,,2 |]
