@@ -27,9 +27,12 @@ def collect() -> list:
             continue
         data = json.loads(f.read_text(encoding="utf-8"))
         b = meta.get(d.name)
-        data["subtitle"] = b.subtitle if b else ""
-        data["blurb"] = b.blurb if b else ""
-        data["order"] = order.get(d.name, 99)
+        if b:
+            data["subtitle"], data["blurb"] = b.subtitle, b.blurb
+        else:
+            data["subtitle"] = data.get("subtitle") or "Hymns of the day for the weeks ahead"
+            data["blurb"] = data.get("blurb") or "A packet built with: python -m duets sunday --build"
+        data["order"] = order.get(d.name, 0 if d.name.startswith("sundays") else 99)
         data["dir"] = d.name
         out.append(data)
     out.sort(key=lambda x: (x["order"], x["title"]))
@@ -47,6 +50,7 @@ def build_site(path: Path = None) -> Path:
                 "b": b["title"], "d": b["dir"], "k": it["key"], "m": it["meter"],
                 "p": it["levels"]["p"], "q": it["levels"]["s"], "f": it["flavor_text"],
                 "sec": it.get("section") or "", "pg": it["pages"],
+                "fn": {k: Path(v["path"]).name for k, v in b["layouts"].items()},
             })
     total = len(rows)
     cards = []
@@ -61,6 +65,20 @@ def build_site(path: Path = None) -> Path:
     doc = _PAGE.replace("__CARDS__", "\n".join(cards)).replace("__DATA__", json.dumps(rows, ensure_ascii=False)) \
         .replace("__TOTAL__", str(total)).replace("__NBOOKS__", str(len(books)))
     path.write_text(doc, encoding="utf-8")
+    # a plain index for browsing the books folder on GitHub
+    lines = ["# The books", "",
+             f"{total} duets in {len(books)} books. Each book comes in four editions; open a book's folder "
+             "for its contents list with difficulty ratings.", "",
+             "| Book | Duets | Print: facing pages | Print: score | Screen: side by side | Screen: score |",
+             "|---|---|---|---|---|---|"]
+    for b in books:
+        cells = []
+        for k in ("facing", "score", "screen", "screen-score"):
+            v = b["layouts"].get(k)
+            cells.append(f'[{v["pages"]} pp]({b["dir"]}/{Path(v["path"]).name})' if v else "")
+        lines.append(f'| [**{b["title"]}**]({b["dir"]}/) <br><sub>{b["subtitle"]}</sub> | {b["pieces"]} | '
+                     + " | ".join(cells) + " |")
+    (BOOKS_DIR / "README.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"wrote {path} ({total} duets in {len(books)} books)")
     return path
 
@@ -159,7 +177,7 @@ function render() {
   $("count").textContent = rows.length + " of " + DATA.length;
   $("rows").innerHTML = rows.slice(0, 400).map(r => {
     const links = Object.entries(r.pg).map(([k, p]) =>
-      `<a href="books/${r.d}/${r.d}-${k}.pdf#page=${p}">${ED[k]} p.${p}</a>`).join("");
+      `<a href="books/${r.d}/${r.fn[k]}#page=${p}">${ED[k]} p.${p}</a>`).join("");
     return `<tr><td class="t">${esc(r.t)}<small>${esc(r.s)}${r.s && r.c ? " · " : ""}${esc(r.c)}</small></td>` +
       `<td>${esc(r.b)}<small>${esc(r.sec)}</small></td><td>${esc(r.k)}<small>${esc(r.m)}</small></td>` +
       `<td><span class="dots">${dots(r.p)}</span><small>${r.p}</small></td>` +

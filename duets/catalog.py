@@ -168,7 +168,8 @@ def piece_from_duet(tune: Tune) -> Piece:
         pb.pickup, pb.start_repeat, pb.end_repeat, pb.volta = b.pickup, b.start_repeat, b.end_repeat, b.volta
         pb.double_bar, pb.meter, pb.key = b.double_bar, b.meter, b.key
         pb.mark = b.label
-        pb.chords = [(off, c.simplified(1)) for off, c in b.chords if c is not None]
+        from .arrange import _dedupe, plain_chord
+        pb.chords = _dedupe([(off, plain_chord(c)) for off, c in b.chords if c is not None])
         pb.hands["prh"] = [b.melody] + ([b.voices["prh2"]] if "prh2" in b.voices else [])
         for h in ("plh", "srh", "slh"):
             pb.hands[h] = [b.voices.get(h, [])] + ([b.voices[h + "2"]] if h + "2" in b.voices else [])

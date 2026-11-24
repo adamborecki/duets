@@ -54,6 +54,25 @@ def q(text: str) -> str:
     return '"' + str(text).replace("\\", "\\\\").replace('"', '\\"') + '"'
 
 
+def tidy_credit(text: str, limit: int = 78) -> str:
+    """Keep a composer/arranger line to one line: drop a leading quoted tune
+    name (it is already the subtitle) and cut politely if still too long."""
+    import re
+    t = re.sub(r"^\s*(((or|and|also)\s+)?['\"‘“][^'\"’”]{2,60}['\"’”][\s,.;:]*)+", "", text).strip()
+    t = re.sub(r"\s+", " ", t) or text.strip()
+    if len(t) > limit:
+        cut = t[:limit]
+        for sep in (". ", "; ", ", "):
+            k = cut.rfind(sep)
+            if k > limit * 0.5:
+                cut = cut[:k]
+                break
+        else:
+            cut = cut.rsplit(" ", 1)[0] + " …"
+        t = cut.rstrip(" .,;")
+    return t
+
+
 def frac_dur(d: Fraction, base: str = "1") -> str:
     """Duration with a multiplier, relative to a whole note: 3 quarters -> 1*3/4."""
     w = Fraction(d) / 4
@@ -398,17 +417,17 @@ def _paper(spec: Spec, piece: Piece) -> str:
         "  oddHeaderMarkup = ##f",
         "  evenHeaderMarkup = ##f",
         "  bookTitleMarkup = \\markup \\column {",
-        "    \\fill-line { \\fontsize #5 \\bold \\fromproperty #'header:title }",
+        "    \\fill-line { \\abs-fontsize #19 \\bold \\fromproperty #'header:title }",
+        "    \\vspace #0.2",
+        "    \\fill-line { \\abs-fontsize #10.5 \\italic \\fromproperty #'header:subtitle }",
         "    \\vspace #0.25",
-        "    \\fill-line { \\fontsize #0.5 \\italic \\fromproperty #'header:subtitle }",
-        "    \\vspace #0.35",
+        "    \\fill-line { \\null \\abs-fontsize #10 \\fromproperty #'header:composer }",
         "    \\fill-line {",
-        "      \\fontsize #0.5 \\fromproperty #'header:poet",
-        "      \\right-column { \\fontsize #0.5 \\fromproperty #'header:composer",
-        "                      \\fontsize #-0.5 \\fromproperty #'header:arranger }",
+        "      \\abs-fontsize #10 \\fromproperty #'header:poet",
+        "      \\abs-fontsize #8.5 \\fromproperty #'header:arranger",
         "    }",
         "  }",
-        "  oddFooterMarkup = \\markup \\if \\on-first-page \\fontsize #-3.5 \\column {",
+        "  oddFooterMarkup = \\markup \\if \\on-first-page \\abs-fontsize #6.5 \\column {",
         "    \\fill-line { \\fromproperty #'header:copyright }",
         "    \\fill-line { \\fromproperty #'header:duetnote } }",
         "  evenFooterMarkup = \\oddFooterMarkup",
@@ -498,9 +517,9 @@ def render_ly(piece: Piece, spec: Spec) -> str:
         if piece.subtitle:
             hdr.append(f"  subtitle = {q(piece.subtitle)}")
         if piece.composer:
-            hdr.append(f"  composer = {q(piece.composer)}")
+            hdr.append(f"  composer = {q(tidy_credit(piece.composer, 78))}")
         if piece.arranger:
-            hdr.append(f"  arranger = {q(piece.arranger)}")
+            hdr.append(f"  arranger = {q(tidy_credit(piece.arranger, 84))}")
         if spec.label:
             hdr.append(f"  poet = {q(spec.label)}")
     if spec.footer:

@@ -230,8 +230,9 @@ class Arranger:
         cl = 0 if level <= 1 else (1 if level <= 4 else 2)
         if self.style in ("walking", "ballad", "stride"):
             cl = max(cl, 1)
+        inferred = tune.has_satb
         for b in t.bars:
-            b.chords = _dedupe([(off, c.simplified(cl)) for off, c in b.chords])
+            b.chords = _dedupe([(off, plain_chord(c) if inferred else c.simplified(cl)) for off, c in b.chords])
         # key
         if opts.key == "original":
             iv = Interval(0, 0)
@@ -659,7 +660,8 @@ class Arranger:
         lo = hi - 13
         blo, bhi = 40, min(52, lo + 2)
         last = self.is_last(i) and self.opts.ending
-        n_notes = 2 if level <= 2 else 3
+        n_notes = 2 if (level <= 2 or hi <= 58) else 3
+        aim = hi - 4.5
         strong = strong_pulses(m, self.pulse)
         sp = H.spans(b)
         pulse = self.pulse
@@ -669,13 +671,13 @@ class Arranger:
             s0 = sp[-1][0]
             for (s, e_, c) in sp[:-1]:
                 root = H.bass_note(c, blo, bhi, st["prev_bass"], centre=45)
-                v = H.voice_chord(c, n_notes, max(lo, root.midi + 3), hi, st["prev_rh"])
+                v = H.voice_chord(c, n_notes, max(lo, root.midi + 3), hi, st["prev_rh"], target=aim)
                 st["prev_rh"] = v
                 st["prev_bass"] = root.midi
                 rh.add(s, e_ - s, v)
                 lh.add(s, e_ - s, root)
             root = H.bass_note(ch, blo, bhi, st["prev_bass"], centre=43)
-            v = H.voice_chord(ch, n_notes, max(lo, root.midi + 3), hi, st["prev_rh"])
+            v = H.voice_chord(ch, n_notes, max(lo, root.midi + 3), hi, st["prev_rh"], target=aim)
             fl = _final_len(b, self.melody_bar(i))
             marks = ("ferm",) if not b.end_repeat else ()
             bass = (root,)
@@ -689,7 +691,7 @@ class Arranger:
 
         for si, (s, e_, ch) in enumerate(sp):
             root = H.bass_note(ch, blo, bhi, st["prev_bass"], centre=45)
-            v = H.voice_chord(ch, n_notes, max(lo, root.midi + 3), hi, st["prev_rh"])
+            v = H.voice_chord(ch, n_notes, max(lo, root.midi + 3), hi, st["prev_rh"], target=aim)
             st["prev_rh"] = v
             alt = H.alternate_bass(ch, root, blo - 1, bhi + 2)
             if alt.midi >= v[0].midi:
@@ -722,7 +724,7 @@ class Arranger:
                 for k, p in enumerate(pts):
                     nx = pts[k + 1] if k + 1 < len(pts) else e_
                     rh.add(p, nx - p, v)
-                self._walk(lh, s, e_, ch, nxt_ch, root, blo, bhi, st, simple=True)
+                self._walk(lh, s, e_, ch, nxt_ch, root, blo, bhi, st, simple=True, top=v[0].midi - 2)
                 continue
 
             if style in ("ballad", "lullaby", "flowing") or (style == "alberti" and level == 2):
@@ -734,7 +736,7 @@ class Arranger:
                 continue
 
             if style == "walking":
-                self._walk(lh, s, e_, ch, nxt_ch, root, blo, bhi, st, simple=False)
+                self._walk(lh, s, e_, ch, nxt_ch, root, blo, bhi, st, simple=False, top=v[0].midi - 2)
                 t = s
                 while t < e_:
                     pos = mp + t
@@ -763,7 +765,7 @@ class Arranger:
                             and nxt_ch.bass_pitch.pc != note.pc and self.rng.random() < 0.3
                             and not m.compound):
                         target = H.bass_note(nxt_ch, blo, bhi, note.midi, centre=45)
-                        app = H.approach_tone(self.key, note, target)
+                        app = H.approach_tone(self.key, note, target, ch)
                         if (blo - 2 <= app.midi <= bhi + 2 and abs(app.midi - target.midi) <= 2
                                 and app.pc != note.pc and app.pc != target.pc):
                             lh.add(nx - pulse, pulse, app)
@@ -840,7 +842,7 @@ class Arranger:
             nx = pts[k2 + 1] if k2 + 1 < len(pts) else e_
             lh.add(p, nx - p, root if k2 % 2 == 0 else alt)
 
-    def _walk(self, lh, s, e_, ch, nxt_ch, root, blo, bhi, st, simple):
+    def _walk(self, lh, s, e_, ch, nxt_ch, root, blo, bhi, st, simple, top=None):
         """Bass moving in pulses: root, chord tones, then a step into the next root."""
         pulse = self.pulse
         n = int((e_ - s) / pulse)
@@ -853,7 +855,7 @@ class Arranger:
         cur = root
         for k in range(1, n):
             if k == n - 1 and nxt_ch is not None and target.pc != cur.pc:
-                app = H.approach_tone(self.key, cur, target)
+                app = H.approach_tone(self.key, cur, target, ch)
                 if abs(app.midi - target.midi) <= 2 and blo - 3 <= app.midi <= bhi + 4:
                     seq.append(app)
                     cur = app
@@ -874,6 +876,9 @@ class Arranger:
             nxt = min(cands, key=lambda q: (abs(q.midi - (cur.midi + 3 * direction)), abs(q.midi - cur.midi)))
             seq.append(nxt)
             cur = nxt
+        if top is not None:
+            # stay under the right hand
+            seq = [q if q.midi <= top else q.octave_shift(-1) for q in seq]
         # merge repeated notes into longer ones
         t = s
         k = 0
@@ -957,6 +962,14 @@ def arrange(tune: Tune, opts: Optional[Options] = None) -> Piece:
 # ---------------------------------------------------------------------------
 # hymns: arranging from an existing four-part setting
 # ---------------------------------------------------------------------------
+def plain_chord(c: Chord) -> Chord:
+    """A chord symbol that can be taken in at a glance: no inversion, no
+    added sixth (chords inferred from four-part writing are fussy otherwise)."""
+    c = c.simplified(1)
+    kind = {"6": "", "m6": "m", "sus4": "", "aug": "", "7sus4": "7"}.get(c.kind, c.kind)
+    return Chord(c.root, kind, None)
+
+
 def _same_rhythm(a: list, b: list) -> bool:
     if len(a) != len(b):
         return False
@@ -1031,7 +1044,7 @@ def arrange_satb(tune: Tune, opts: Optional[Options] = None) -> Piece:
         H.infer_chords(t)
     H.fill_chords(t)
     for b in t.bars:
-        b.chords = _dedupe([(off, c.simplified(1)) for off, c in b.chords])
+        b.chords = _dedupe([(off, plain_chord(c)) for off, c in b.chords])
     if o.key == "original":
         iv = Interval(0, 0)
     elif o.key != "auto":
@@ -1252,7 +1265,7 @@ def arrange_split(tune: Tune, opts: Optional[Options] = None) -> Piece:
         pb.start_repeat, pb.end_repeat, pb.volta = b.start_repeat, b.end_repeat, b.volta
         pb.double_bar, pb.meter, pb.key = b.double_bar, b.meter, b.key
         pb.mark = b.label
-        pb.chords = _dedupe([(off, c.simplified(1)) for off, c in b.chords if c is not None])
+        pb.chords = _dedupe([(off, plain_chord(c)) for off, c in b.chords if c is not None])
         rh = [b.melody] + ([b.voices["rh2"]] if "rh2" in b.voices else [])
         rh = [v for v in rh if any(e.pitches for e in v)] or [[Ev(b.length)]]
         lh = [b.voices.get("lh", [Ev(b.length)])] + ([b.voices["lh2"]] if "lh2" in b.voices else [])

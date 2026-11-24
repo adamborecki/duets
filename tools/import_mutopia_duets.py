@@ -29,8 +29,28 @@ from duets.model import Ev, F, TBar, Tune, total                     # noqa: E40
 HANDS = ("prh", "plh", "srh", "slh")
 
 
+def without_scores(text: str) -> str:
+    """The source with every \\score { ... } block removed (definitions stay)."""
+    out = ""
+    i = 0
+    while True:
+        m = re.search(r"\\score\s*\{", text[i:])
+        if not m:
+            return out + text[i:]
+        out += text[i:i + m.start()]
+        j = i + m.end()
+        depth = 1
+        while j < len(text) and depth:
+            if text[j] == "{":
+                depth += 1
+            elif text[j] == "}":
+                depth -= 1
+            j += 1
+        i = j
+
+
 def compile_midi(src_text: str, staves: list, workdir: Path, name: str) -> Path:
-    head = src_text[:src_text.index("\\score")]
+    head = without_scores(src_text)
     body = "\n".join(f'    \\new Staff = "{v}" \\unfoldRepeats {{ \\{v} }}' for v in staves)
     ly = head + "\n\\score {\n  <<\n" + body + "\n  >>\n  \\midi { }\n}\n"
     path = workdir / f"{name}.ly"
@@ -200,6 +220,10 @@ def main():
                 tune = to_tune(parts, title)
             except Exception as exc:
                 print(f"  skipped {path.name}: {type(exc).__name__}: {str(exc)[:200]}")
+                continue
+            sounding = sum(1 for b in tune.bars for e in b.melody if e.pitches)
+            if sounding < len(tune.bars) // 2:
+                print(f"  skipped {path.name}: the Primo part did not come through the conversion")
                 continue
             tempo_txt = re.findall(r'piece\s*=\s*"([^"]+)"', src)
             tune.tempo_text = tempo_txt[0].strip().rstrip(".") if tempo_txt else ""

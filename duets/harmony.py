@@ -95,7 +95,7 @@ def voicing_tones(chord: Chord, n: int) -> list:
     return order[:max(2, n)] if n < len(order) else order
 
 
-def candidate_voicings(chord: Chord, n: int, lo: int, hi: int, max_span: int = 12) -> list:
+def candidate_voicings(chord: Chord, n: int, lo: int, hi: int, max_span: int = 12, strict: bool = True) -> list:
     """All n-note sets of chord tones inside [lo, hi] spanning at most ``max_span``."""
     tones = voicing_tones(chord, 4)
     placed = []
@@ -119,8 +119,11 @@ def candidate_voicings(chord: Chord, n: int, lo: int, hi: int, max_span: int = 1
             continue
         if n >= 3 and len(tones) == 3 and set(pcs) != {p.pc for p in tones}:
             continue
-        # no seconds at the very bottom in a low register (muddy)
-        if n >= 2 and combo[1].midi - combo[0].midi <= 2 and combo[0].midi < 55:
+        # low interval limits: close intervals growl in the bass register
+        gap = combo[1].midi - combo[0].midi
+        if strict and n >= 2 and gap <= 2 and combo[0].midi < 55:
+            continue
+        if strict and n >= 2 and gap <= 4 and combo[0].midi < 50:
             continue
         out.append(tuple(combo))
     return out
@@ -131,15 +134,19 @@ def voice_chord(chord: Chord, n: int, lo: int, hi: int, prev: Optional[tuple] = 
     """Pick the n-note voicing closest to ``prev`` (smooth voice leading) or to
     the ``target`` centre pitch."""
     cands = candidate_voicings(chord, n, lo, hi, max_span)
+    if not cands:
+        cands = candidate_voicings(chord, n, lo, hi, max_span, strict=False)
     span_try = max_span
     lo2, hi2 = lo, hi
     guard = 0
-    while not cands and guard < 6:
+    while not cands and guard < 8:
+        # make room downwards first: the ceiling is there to protect the other player
         guard += 1
         lo2 -= 2
-        hi2 += 1
+        if guard > 5:
+            hi2 += 1
         span_try = min(14, span_try + 1)
-        cands = candidate_voicings(chord, n, lo2, hi2, span_try)
+        cands = candidate_voicings(chord, n, lo2, hi2, span_try, strict=False)
     if not cands:
         if n > 2:
             return voice_chord(chord, n - 1, lo, hi, prev, target, max_span)
@@ -156,8 +163,8 @@ def voice_chord(chord: Chord, n: int, lo: int, hi: int, prev: Optional[tuple] = 
                 c += sum(abs(a - b) for a, b in zip(pm, vm))
             else:
                 c += abs(sum(pm) / len(pm) - sum(vm) / len(vm)) * len(vm)
-            # mild pull back to the centre so voicings do not drift
-            c += 0.15 * abs(sum(vm) / len(vm) - centre)
+            # pull towards the target register so voicings do not sink or drift
+            c += 0.45 * abs(sum(vm) / len(vm) - centre)
         else:
             vm = [p.midi for p in v]
             c += abs(sum(vm) / len(vm) - centre)
@@ -209,20 +216,24 @@ def alternate_bass(chord: Chord, root: Pitch, lo: int, hi: int) -> Pitch:
     return below if (lo - below.midi) < (above.midi - hi) else above
 
 
-def approach_tone(key: Key, frm: Pitch, to: Pitch) -> Pitch:
-    """A stepwise approach note leading from ``frm`` towards ``to``."""
-    if to.midi > frm.midi:
-        # come from below: leading tone a half or whole step under the target
-        cand = key.spell(to.midi - 1)
-        if not key.contains(cand):
-            cand2 = key.spell(to.midi - 2)
-            if key.contains(cand2):
-                cand = cand2
-        return cand
-    cand = key.spell(to.midi + 2)
-    if not key.contains(cand):
-        cand = key.spell(to.midi + 1)
-    return cand
+def approach_tone(key: Key, frm: Pitch, to: Pitch, chord: Optional[Chord] = None) -> Pitch:
+    """A stepwise approach note leading from ``frm`` towards ``to``.  It must
+    not contradict the chord sounding above it (no B natural under G minor)."""
+    def clashes(p: Pitch) -> bool:
+        if chord is None:
+            return False
+        return any(t.step == p.step and t.alter != p.alter for t in chord.tones())
+
+    below = [key.spell(to.midi - 1), key.spell(to.midi - 2)]
+    above = [key.spell(to.midi + 2), key.spell(to.midi + 1)]
+    order = (below + above) if to.midi > frm.midi else (above + below)
+    for cand in order:
+        if key.contains(cand) and not clashes(cand):
+            return cand
+    for cand in order:
+        if not clashes(cand):
+            return cand
+    return order[0]
 
 
 # ---------------------------------------------------------------------------
@@ -312,7 +323,7 @@ def _best_chord(w: dict, spelled: dict, bass: Optional[Pitch], key: Key):
     return Chord(root, kind, bass_p), quality
 
 
-def infer_chords(tune: Tune, min_unit: Optional[Fraction] = None) -> None:
+def infer_chords(tune: Tune, min_unit: Optional[Fraction] = None, plain: bool = False) -> None:
     """Derive chord symbols from all sounding voices (melody + extra voices).
 
     Works top-down: a whole bar gets one symbol if nearly everything in it
@@ -358,6 +369,10 @@ def infer_chords(tune: Tune, min_unit: Optional[Fraction] = None) -> None:
         analyse(F(0), b.length, 0)
         ded = []
         for off, ch in out:
+            if plain:
+                # symbols a player can take in at a glance: no inversions, no added sixths
+                kind = {"6": "", "m6": "m", "sus4": "", "aug": ""}.get(ch.kind, ch.kind)
+                ch = Chord(ch.root, kind, None)
             if ded and ded[-1][1] == ch:
                 continue
             ded.append((off, ch))

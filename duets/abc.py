@@ -158,6 +158,8 @@ class _Voice:
         self.overlay_others: list = []
         self.intro_start = False
         self.octave_shift = 0
+        self.key = None
+        self.key_set = False
 
 
 class _Parser:
@@ -171,6 +173,7 @@ class _Parser:
         self.vcur: Optional[_Voice] = None
         self.in_body = False
         self.done = False
+        self.header_key: Optional[Key] = None
 
     # -- voices ---------------------------------------------------------
     def voice(self, vid: str) -> _Voice:
@@ -189,6 +192,9 @@ class _Parser:
         if props:
             self.tune.voice_props.setdefault(vid, {}).update(props)
         self.vcur = v
+        # each voice keeps its own current key (a later voice starts again in the opening key)
+        if self.in_body:
+            self.key = v.key if v.key_set else self.header_key
 
     # -- header fields ----------------------------------------------------
     def field(self, letter: str, value: str, inline: bool = False):
@@ -201,6 +207,7 @@ class _Parser:
             key, props = parse_key_field(value)
             if not self.in_body:
                 self.key = key
+                self.header_key = key
                 t.key = key or Key.parse("C")
                 self.in_body = True
                 if props and self.vcur is not None:
@@ -210,6 +217,8 @@ class _Parser:
                     self.key = key
                     v = self.vcur or self.voice("1")
                     v.key_change = key
+                    v.key = key
+                    v.key_set = True
             return
         if letter == "M":
             val = value.split("%")[0].strip()

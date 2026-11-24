@@ -84,12 +84,17 @@ def with_tag(tunes, *tags, category=None, collection=None):
 
 
 def unique(entries: list) -> list:
+    """Drop repeats: the same tune twice, or two versions of one song under
+    slightly different titles ("God Rest Ye/You Merry ...")."""
     seen = set()
     out = []
     for e in entries:
-        if e.slug in seen:
+        key = re.sub(r"\b(ye|you|a|the|o|oh|upon)\b", "", e.slug.replace("-", " "))
+        key = re.sub(r"greensleeves|[^a-z0-9]", "", key)
+        if e.slug in seen or key in seen:
             continue
         seen.add(e.slug)
+        seen.add(key)
         out.append(e)
     return out
 
@@ -112,7 +117,9 @@ SETTINGS = {  # hymns that get a three-stanza setting in the seasonal books
 
 def _advent_christmas(tunes):
     hymns = [t for t in tunes if t.collection == "hymns"]
-    e = rotate(with_tag(hymns, "advent"), "Advent", 0, specials=SETTINGS)
+    adv = with_tag(hymns, "advent") + [t for t in hymns if t.slug in ("wake-awake-for-night-is-flying",
+                                                                  "the-day-is-surely-drawing-near")]
+    e = rotate(sorted(adv, key=sort_key), "Advent", 0, specials=SETTINGS)
     xmas = with_tag(tunes, "christmas", collection=("hymns", "carols"))
     e += rotate(xmas, "Christmas", 3, specials=SETTINGS)
     e += rotate(with_tag(hymns, "epiphany"), "Epiphany", 1, specials=SETTINGS)
@@ -608,7 +615,8 @@ def build_book(book: BookDef, layouts=LAYOUTS, paper: str = "letter", jobs: int 
             for r in rs:
                 results[(r["id"], r["layout"])] = r
     failures = [r for r in results.values() if not r["ok"]]
-    report = {"id": book.id, "title": book.title, "pieces": 0, "layouts": {}, "failures": failures,
+    report = {"id": book.id, "title": book.title, "subtitle": book.subtitle, "blurb": book.blurb,
+              "pieces": 0, "layouts": {}, "failures": failures,
               "warnings": [], "items": []}
     good = [e for e in entries if all(results[(e.id, l)]["ok"] for l in layouts)]
     report["pieces"] = len(good)
