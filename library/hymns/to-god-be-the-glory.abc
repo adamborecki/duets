@@ -1,0 +1,57 @@
+X:1
+T:To God Be the Glory
+T:TO GOD BE THE GLORY
+C:Doane, William Howard (1832-1915)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: praise
+%%duets tune: TO GOD BE THE GLORY
+%%duets credit: Tune and setting: public domain ('To God Be The Glory' William Howard Doane, 1875), via the Open Hymnal Project.
+%%duets lyricist: Fanny Crosby, 1875. Music and
+%%duets notes: intro 30-33
+%%duets slug: to-god-be-the-glory
+M:3/4
+L:1/8
+Q:1/4=120
+K:Ab
+V:S
+"Ab"E2 | "Ab"E2- "Ab/C"E2 "Eb7"F G | "Ab"A2 E2 A2 | "Eb7"B2 E2 B2 |
+"Ab"c4 c2 | "Db"d2 F2 "Absus4/Db"d2 | "Ab"c2 A2 c2 | "Bb"c2 "Bb7"B2 F2 |
+"Eb7"B4 E2 | "Ab"E2- "Ab/C"E2 "Eb7"F G | "Ab"A2 E2 A2 | "Eb"B2 E2 B2 |
+"Ab7"c4 c2 | "Db"e2 "Bbm/Db"d2 B2 | "Ab/Eb"A2 "Eb"G2 "Ab/Eb"A2 | "Ab/Eb"c2 c2 "Eb7"B2 |
+"Ab"A4 c3/2 d/2 | "Ab"e4 c3/2 d/2 | "Ab"e4 e3/2 c/2 | "Ab/C"A2 "Eb/Bb"B2 "Ab"c2 |
+"Eb"B4 B3/2 c/2 | "Eb7"d4 B3/2 c/2 | "Eb7"d4 d A | "Ab/C"e2 e2 "Eb7/Bb"d2 |
+"Ab"c4 "Eb7"E2 | "Ab"E2- "Ab/C"E2 "Eb7"F G | "Ab"A2 E2 A2 | "Eb"B2 E2 B2 |
+"Ab7"c4 c2 | "Db"e2 "Bbm/Db"d2 B2 | "Ab/Eb"A2 "Eb"G2 "Ab/Eb"A2 | "Ab/Eb"c2 c2 "Eb7"B2 |
+"Ab"A4 |]
+V:A
+C2 | C2 E2 D D | C2 C2 E2 | E2 D2 E2 |
+E4 E2 | F2 D2 E2 | E2 E2 E2 | =D2 D2 D2 |
+E4 D2 | C2 E2 D D | C2 C2 E2 | E2 E2 E2 |
+E4 _G2 | F2 F2 F2 | E2 E2 E2 | E2 E2 D2 |
+C4 E3/2 E/2 | E4 A3/2 G/2 | A4 E3/2 E/2 | E2 E2 E2 |
+E4 E3/2 E/2 | E4 E3/2 E/2 | E4 E E | E2 E2 E2 |
+E4 D2 | C2 E2 D D | C2 C2 E2 | E2 E2 E2 |
+E4 _G2 | F2 F2 F2 | E2 E2 E2 | E2 E2 D2 |
+C4 |]
+V:T
+A,2 | A,4 G, E, | E,2 A,2 E,2 | G,2 G,2 G,2 |
+A,4 A,2 | A,2 A,2 A,2 | A,2 A,2 A,2 | F,2 F,2 B, A, |
+G,4 G,2 | A,4 G, E, | E,2 A,2 A,2 | G,2 G,2 G,2 |
+A,4 A,2 | A,2 B,2 D2 | C2 B,2 C2 | A,2 A,2 G,2 |
+A,4 A,3/2 B,/2 | C4 A,3/2 B,/2 | C4 C3/2 A,/2 | A,2 G,2 A,2 |
+G,4 G,3/2 A,/2 | B,4 G,3/2 A,/2 | B,4 B, G, | A,2 A,2 G,2 |
+A,4 G,2 | A,4 G, E, | E,2 A,2 A,2 | G,2 G,2 G,2 |
+A,4 A,2 | A,2 B,2 D2 | C2 B,2 C2 | A,2 A,2 G,2 |
+A,4 |]
+V:B
+A,,2 | A,,2 C,2 E, E, | A,,2 A,,2 C,2 | E,2 E,2 E,2 |
+A,,4 A,,2 | D,2 D,2 D,2 | A,,2 C,2 A,,2 | B,,2 B,,2 B,,2 |
+E,4 E,2 | A,,2 C,2 E, E, | A,,2 A,,2 C,2 | E,2 E,2 E,2 |
+A,,4 A,,2 | D,2 D,2 D,2 | E,2 E,2 E,2 | E,2 E,2 E,2 |
+A,,4 A,3/2 A,/2 | A,4 A,3/2 A,,/2 | A,4 A,3/2 A,,/2 | C,2 B,,2 A,,2 |
+E,4 E,3/2 E,/2 | E,4 E,3/2 E,/2 | E,4 E, D, | C,2 C,2 B,,2 |
+A,,4 E,2 | A,,2 C,2 E, E, | A,,2 A,,2 C,2 | E,2 E,2 E,2 |
+A,,4 A,,2 | D,2 D,2 D,2 | E,2 E,2 E,2 | E,2 E,2 E,2 |
+A,,4 |]

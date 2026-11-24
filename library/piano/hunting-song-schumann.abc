@@ -1,0 +1,41 @@
+X:1
+T:Hunting Song
+T:Album for the Young, Op. 68 No. 7
+C:Robert Schumann
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schumann
+%%duets credit: Robert Schumann. Source edition: Philippe Hézaine for the Mutopia Project (Creative Commons Attribution-ShareAlike 3.0).
+%%duets tempo-text: Fresh and cheerful
+%%duets slug: hunting-song-schumann
+M:6/8
+L:1/8
+Q:3/8=100
+K:F
+V:S
+C |: F2 C F2 C | F5 C/2 z/2 | F/2 z/2 A/2 z/2 c/2 z/2 f/2 z/2 c/2 z/2 d/2 z/2 |
+c/2 z/2 A/2 z/2 F/2 z/2 [EG]2 C | F2 C F2 C | F5 F/2 z/2 | A/2 z/2 c/2 z/2 f/2 z/2 a/2 z/2 f/2 z/2 g/2 z/2 |
+[1 f/2 z/2 d/2 z/2 [_ce]/2 z/2 =c2 C :| [2 f/2 z/2 d/2 z/2 [_ce]/2 z/2 =c2 c |: g2 c g2 c | g5 C/2 z/2 |
+[EG]/2 z/2 [EG]/2 z/2 C/2 z/2 F/2 z/2 F/2 z/2 C/2 z/2 | [EB]/2 z/2 [EB]/2 z/2 C/2 z/2 [FA]2 A | [_de]2 A [de]2 A | [_de]5 A,/2 z/2 |
+[_DE]/2 z/2 [DE]/2 z/2 A,/2 z/2 =D/2 z/2 D/2 z/2 A,/2 z/2 | [_DG]/2 z/2 [DG]/2 z/2 A,/2 z/2 [=DF]2 F/2 z/2 | B/2 z/2 d/2 z/2 f/2 z/2 b/2 z/2 f/2 z/2 g/2 z/2 | f/2 z/2 d/2 z/2 B/2 z/2 [EG]2 F/2 z/2 |
+B/2 z/2 d/2 z/2 f/2 z/2 b/2 z/2 f/2 z/2 g/2 z/2 | f/2 z/2 d/2 z/2 B/2 z/2 [EG]2 [Ec] | [Ff]2 [Ec] [Ff]2 [^CA] | [Dd]2 [^CA] [Dd]2 [DB] |
+[EG]3 [Ec]3 | [FA]3 z2 [Ec] | f2 c [Ff]2 z | [Dd]2 z [Dd]2 z |
+z3 [Ec]3 | [1 z5 c :| [2 F3 z3 |]
+V:lh
+C, |: F,2 C, F,2 C, | F,5 C,/2 z/2 | F,/2 z/2 A,/2 z/2 C/2 z/2 F/2 z/2 C/2 z/2 D/2 z/2 |
+C/2 z/2 A,/2 z/2 F,/2 z/2 C2 C, | F,2 C, F,2 C, | F,5 F,/2 z/2 | A,/2 z/2 C/2 z/2 F/2 z/2 A/2 z/2 F/2 z/2 G/2 z/2 |
+[1 F/2 z/2 D/2 z/2 [G,D]/2 z/2 [CE]2 C, :| [2 F/2 z/2 D/2 z/2 [G,D]/2 z/2 [CE]2 C |: G2 C G2 C | G5 C,/2 z/2 |
+B,/2 z/2 B,/2 z/2 C,/2 z/2 A,/2 z/2 A,/2 z/2 C,/2 z/2 | G,/2 z/2 G,/2 z/2 C,/2 z/2 F,2 A, | [_DE]2 A, [DE]2 A, | [_DE]5 A,,/2 z/2 |
+G,/2 z/2 G,/2 z/2 A,,/2 z/2 F,/2 z/2 F,/2 z/2 A,,/2 z/2 | E,/2 z/2 E,/2 z/2 A,,/2 z/2 D,2 F, | [B,D]2 F, [B,D]2 F, | [B,D]2 F, [B,C]2 F, |
+[B,D]2 F, [B,D]2 F, | [B,D]2 F, [B,C]2 [B,C] | [A,C]2 [B,C] [A,C]2 [G,A,] | [F,A,]2 [G,A,] [F,A,]2 [B,,G,] |
+[C,G,]3 [C,G,]2 C,/2 z/2 | F,/2 z/2 A,/2 z/2 C/2 z/2 F/2 z/2 A,/2 z/2 [B,C]/2 z/2 | [A,C]2 [B,C] [A,C]2 [G,A,] | [F,A,]2 [G,A,] [F,A,]2 [B,,G,] |
+[C,G,]3 [C,G,]2 C,/2 z/2 | [1 F,/2 z/2 A,/2 z/2 C/2 z/2 F/2 z3/2 C :| [2 F,/2 z/2 A,/2 z/2 C/2 z/2 F/2 z5/2 |]
+V:rh2
+z |: z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+[1 z6 :| [2 z6 |: z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | F G2 z2 [^CA] | z2 [^CA] z2 [DB] |
+[EG]3 z3 | [1 F3 z3 :| [2 z6 |]

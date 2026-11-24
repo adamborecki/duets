@@ -1,0 +1,33 @@
+X:1
+T:The King Shall Come
+T:CONSOLATION-MORNING SONG
+C:Wyeth, John (1770-1858)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: advent
+%%duets tune: CONSOLATION-MORNING SONG
+%%duets credit: Tune and setting: public domain ('Consolation' or 'Morning Song' John Wyeth, 1813), via the Open Hymnal Project.
+%%duets lyricist: Unknown author. Translated by John Brownlie, 1907. Music and
+%%duets notes: intro 8-9
+%%duets slug: the-king-shall-come
+M:4/4
+L:1/8
+Q:1/4=100
+K:Ab
+V:S
+"C"C2 | "Fm/Ab"F2 "C7/G"G2 "Fm"A2 "Bbm"B A | "Cm"G2 F E "Fm"C2 "Cm/Eb"C2 | "Bbm/Db"F2 "Cm"G2 "Fm"A2 "Eb"B2 |
+"Ab"c6 A B | "Ab"c2 "Bbm"d c "Db6"B2 A2 | "Eb"G2 "Cm"F E "Fm"C2 C2 | "Fm/Ab"F2 "Eb"G2 "Fm/Ab"A F "Cm"G2 |
+"Fm"F6 |]
+V:A
+C2 | C2 C2 C2 D2 | E2 C2 A,2 C2 | B,2 E2 C2 E2 |
+E6 E2 | E2 D2 F2 D2 | B,2 C2 C2 C2 | C2 E2 C2 C2 |
+A,6 |]
+V:T
+C,2 | C2 B,2 A,2 F,2 | E,2 G,2 A,2 G,2 | F,2 C2 A,2 G,2 |
+A,6 A,2 | A,2 F,2 F,2 F,2 | E, F, G,2 A,2 A, B, | C2 B,2 A,2 E,2 |
+F,6 |]
+V:B
+C,2 | A,2 G,2 F,2 B,,2 | C,2 C,2 F,2 E,2 | D,2 C,2 F,2 E,2 |
+A,,6 C, B,, | A,,2 B,, C, D,2 B,,2 | E,2 C,2 F,2 F, G, | A,2 E,2 A,,2 C,2 |
+F,,6 |]

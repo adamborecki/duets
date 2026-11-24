@@ -1,0 +1,22 @@
+X:1
+T:This Funny World
+C:Richard Rodgers, 1926
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: rodgers
+%%duets year: 1926
+%%duets credit: Melody and chords: public domain in the United States (published 1926); lead sheet from OpenEWLD.
+%%duets slug: this-funny-world
+M:4/4
+L:1/8
+K:G
+"G"z B c B d3 G | "D7"F G A C2 D E2 | "G"D4 D4 | "C"d' e e e "Fmaj7"e2 "F7"_e2 |
+"G"z B c B d3 G | "D7"F G A C2 D E2 | "Fm6"D4 "E7"D4 | "Dm"d' e e e "E7sus4"=f2 "E"e2 |
+"Am9"z E F G2 A B2 | c2 "Am"c2- "D7"c4 | "G"z F G A2 B "Gsus4"c2 | "G"d8 |
+"Em"z G A B ^c2 "Em7"d2 | "F#7"e2 e4 ^c2 | "Bm7"B B2 F "E7"B4 | "A7"A A2 E "Dm7"A4 |
+"G"z B c B d3 G | "D7"F G A C2 D E2 | "G"D4 D4 | "C"d' e e e "D7"e2 "D7b9"_e2 |
+"G"z B c B d3 G | "F"=F G A B- "G7"B c d2 | "C"e4- "C/B"e4- | "C/A"e4- "C/G"e4 |
+"A7"z ^c d c e3 A | B A "Dm7"d6 | "G7"z B c B d3 G | "C6"A G "Cm6"c6 |
+"G"z B c B d3 G | "C"e2 e2 "D7"e2 F2 | [1 "G"G2- "A7b9"G2- "D7"G4- | "Eb7"G2- "D7sus4"G4 "D7"z2 :|
+[2 "G"G8- | G6 z2 |]

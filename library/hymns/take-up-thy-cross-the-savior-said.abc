@@ -1,0 +1,34 @@
+X:1
+T:'Take Up Thy Cross', the Savior Said
+T:NUN LASST UNS DEN LEIB BEGRABEN
+C:George Rhau, 1544
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: missions
+%%duets tune: NUN LASST UNS DEN LEIB BEGRABEN
+%%duets year: 1544
+%%duets credit: Tune and setting: public domain ("Evangelical Lutheran Hymn-Book", 1931), via the Open Hymnal Project.
+%%duets lyricist: Charles W. Everest, 1833
+%%duets notes: intro 9-10
+%%duets slug: take-up-thy-cross-the-savior-said
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+V:S
+"G"G4 "D"A2 "Em"G2 | "D"F2 "G/B"G2 "Am"A2 "G"B2 | "C"G6 G2 | "D/F#"A2 "G"B2 "C"c2 "G"B2 |
+"Em"G2 "D"A2 "G"B4 | "G"G4 "D/F#"A2 A2 | "G"B2 "F#dim/A"A2 "Em/B"G2 "B7"F2 | "C"E6 "D"A2 |
+"G"B2 "Am"A2 "G/B"G2 "C"E2 | "Em"G2 "D"A2 "G"G4 |]
+V:A
+D4 D2 B,2 | D2 D2 E F G2 | E6 E2 | D2 D2 E2 D2 |
+E2 F2 G4 | D4 D2 F2 | G2 F2 E2 ^D2 | E6 F2 |
+G2 E2 D2 C2 | B,2 D2 B,4 |]
+V:T
+B,4 F,2 G,2 | A,2 B,2 C2 D2 | C6 B,2 | A,2 G,2 G,2 G,2 |
+B,2 D2 D4 | B,4 A,2 D2 | D2 C2 B,3 A, | G,6 D2 |
+D2 C2 B,2 G,2 | G,3 F, G,4 |]
+V:B
+G,4 D,2 E,2 | D,2 B,,2 A,,2 G,,2 | C,6 E,2 | F,2 G,2 C,2 G,2 |
+E,2 D,2 G,4 | G,4 F,2 D,2 | G,,2 A,,2 B,,2 B,,2 | C,6 D,2 |
+G,,2 A,,2 B,,2 C,2 | E,2 D,2 G,,4 |]

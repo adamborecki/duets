@@ -1,0 +1,21 @@
+X:1
+T:Core 'ngrato
+C:Salvatore Cardillo, 1911
+S:OpenEWLD
+R:ballad
+%%duets category: oldies
+%%duets tags: italian
+%%duets year: 1911
+%%duets credit: Melody and chords: public domain in the United States (published 1911); lead sheet from OpenEWLD.
+%%duets slug: core-ngrato
+M:4/4
+L:1/8
+K:Eb
+"Gm"g5 d (3dgd | "Ab"c6 d e | "Bb7"f5 d (3dfd | "Eb/G"B4 E2 D2 |
+"Fm7"A2 e3 A (3AcA | "Eb/Bb"G5 B E G | "Bb7"B6 G2 || "Eb"z6 G3/2 G/2 |
+B5 z B3/2 B/2 | "Cm"c5 c d e | "Gm/Bb"d/2 c/2 B/2 c/2 d3/2 B/2 d2 d z/2 d/2 | "Ab"c5/2 B/2 A/2 B/2 c c e c |
+"Eb/Bb"B/2 A/2 G/2 A/2 B2 z B A G | "Fm"A3 G F G A B | "Eb/Bb"G/2 F/2 E/2 F/2 G G "Bb7"!fermata!F3 E | "Eb"E2 z G/2 G/2 "Gm"B2 z B/2 B/2 |
+"D7/F#"d c c d "Gm"B/2 c/2 d z d/2 d/2 | "Ab6"f e e f "Bb7"d/2 e/2 f3 | "Cm"e2 f g f e d/2 c/2 =B/2 c/2 | "Ab"e2 e2 z e d/2 c/2 B/2 A/2 |
+"Eb/Bb"G/2 G/2 A/2 B/2 G2 "Bb7"B4 | "Eb"B5 z3 || "Gm"g5 d (3dgd | d/2 g/2 d/2 "Ab"c/2 c2 z2 d e |
+"Bb7"f5 d (3dfd | d/2 f/2 d/2 "Eb/G"B5/2 B2 z2 | "Fm"A4 e3 A | "Eb/Bb"G5 B E G |
+"Bb7"B4 G4 | G/2 B/2 G/2 "Eb"E5 z3/2 |]

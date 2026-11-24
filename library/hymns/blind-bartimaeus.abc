@@ -1,0 +1,50 @@
+X:1
+T:Blind Bartimaeus
+T:FILLMORE
+C:Jeremiah Ingalls (1764-1828)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: comfort
+%%duets tune: FILLMORE
+%%duets year: 1764
+%%duets credit: Tune and setting: public domain ("The Methodist Hymnal", 1905), via the Open Hymnal Project.
+%%duets lyricist: Henry Wadsworth Longfellow, alt, 1842
+%%duets notes: intro 22-25
+%%duets slug: blind-bartimaeus
+M:3/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"F"F2 | "F"A3 G F2 | "C7"G4 "Am/C"A2 | "C7"G4 "Dm"F2 |
+"C"G4 "F"A2 | "F"c4 c2 | "F"c2 "Bb/F"d2 "F"c2 | "F/C"A4 "C7"G2 |
+"F"F4 c2 | "Bb"d4 d2 | "Bb"d3 e f2 | "F"c4 c2 |
+"F"A4 c2 | "Bb"d4 d2 | "Bb"d3 e f2 | "F"c4 c2 |
+"F"A2 "C"!fermata!G2 "F"F2 | "F"A3 G F2 | "C7"G4 "Am/C"A2 | "C7"G4 "Dm"F2 |
+"C"G4 "F"A2 | "F"c4 c2 | "F"c2 "Bb/F"d2 "F"c2 | "F/C"A4 "C7"G2 |
+"F"F4 |]
+V:A
+F2 | F4 F2 | E4 E2 | E4 D2 |
+E4 F2 | F4 F2 | F4 F2 | F4 E2 |
+F4 F2 | F4 F2 | F4 F2 | A4 A2 |
+F4 F2 | F4 F2 | F4 F2 | F4 F2 |
+F2 E2 F2 | F4 F2 | E4 E2 | E4 D2 |
+E4 F2 | F4 F2 | F4 F2 | F4 E2 |
+F4 |]
+V:T
+A,2 | C3 B, A,2 | B,4 C2 | B,4 A,2 |
+C4 C2 | A,4 A,2 | A,2 B,2 A,2 | C4 B,2 |
+A,4 A,2 | B,4 B,2 | B,3 C D2 | F4 F2 |
+C4 A,2 | B,4 B,2 | B,3 C D2 | A,4 A,2 |
+C4 A,2 | C3 B, A,2 | B,4 C2 | B,4 A,2 |
+C4 C2 | A,4 A,2 | A,2 B,2 A,2 | C4 B,2 |
+A,4 |]
+V:B
+F,2 | F,4 F,2 | C,4 C,2 | C,4 D,2 |
+C,4 F,2 | F,4 F,2 | F,4 F,2 | C,4 C,2 |
+F,4 F,2 | B,4 B,2 | B,4 B,,2 | F,4 F,2 |
+F,4 F,2 | B,4 B,2 | B,4 B,,2 | F,4 F,2 |
+F,2 C,2 F,2 | F,4 F,2 | C,4 C,2 | C,4 D,2 |
+C,4 F,2 | F,4 F,2 | F,4 F,2 | C,4 C,2 |
+F,4 |]

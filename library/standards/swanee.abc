@@ -1,0 +1,21 @@
+X:1
+T:Swanee
+C:George Gershwin, 1919
+S:OpenEWLD
+R:march
+%%duets category: standard
+%%duets tags: gershwin
+%%duets year: 1919
+%%duets credit: Melody and chords: public domain in the United States (published 1919); lead sheet from OpenEWLD.
+%%duets slug: swanee
+M:4/4
+L:1/8
+K:C
+"F"A8 | A8 | A2 G2 G2 F2 | A2 G2 G2 F2 |
+"Bb"G8 | "Gm"F4 "C7"D4 | "F"C2 F6- | F2 G2 A2 _B2 |
+c8 | "A"^c8 | "Bb"d8 | z2 _B2 c2 ^c2 |
+"Gm"d8 | "C7"e8 | "F"f2 e2 d2 c2 | d2 c2 B2 _B2 |
+"F"A8 | A8 | A2 G2 G2 F2 | A2 G2 G2 F2 |
+"Bb"G8 | "Gm7"F4 "C7"D4 | "F"C2 F6- | F2 G2 A2 _B2 |
+c8 | "A"^c8 | "Bb"e2 d2 ^c2 d2- | "Gm"d6 ^d2 |
+"C"e2 d2 c2 _B2 | A2 G4 "F"F2- | F8- | F6 z2 |]

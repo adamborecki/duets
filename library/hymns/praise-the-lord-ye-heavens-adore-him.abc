@@ -1,0 +1,38 @@
+X:1
+T:Praise the Lord, Ye Heavens Adore Him
+T:AUSTRIA (HAYDN)
+C:or 'Austrian Hymn' Franz Joseph Haydn, 1797
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: praise
+%%duets tune: AUSTRIA (HAYDN)
+%%duets year: 1797
+%%duets credit: Tune and setting: public domain ("The Evangelical Hymnal with Tunes", 1880), via the Open Hymnal Project.
+%%duets lyricist: verses 1-2, unknown, 1796. verse 3 Edward Osler, 1836
+%%duets notes: intro 15-16
+%%duets slug: praise-the-lord-ye-heavens-adore-him
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"F"F3 G A2 "C"G2 | "C7/E"B2 "F"A2 "C7"G E "F"F2 | "Bb/F"d2 "F"c2 "C7/E"B2 "F"A2 | "Gm/Bb"G2 "Bm7b5"A F "C"c4 |
+"Dm"F2- "G7/D"F G "F/C"A2 "C"G2 | "C7/E"B2 "F"A2 "C7"G E "F"F2 | "Bb"d2 "F"c2 "Gm"B2 "F"A2 | "Gm/Bb"G2 "Bm7b5"A F "C"c4 |
+"C"G2 "F/C"A2 "C"G E C2 | "C7"B2 "F/C"A2 "C"G E C2 | "Am"c2 "Gm/Bb"B2 "Dm"A3 A | "G7"=B2 B c "C"c4 |
+"F/A"f3 e "Bb"d2 "F"c2 | "Bb"d3 c "Dm7"c B "F"A2 | "C7/Bb"G2 A B "F7/A"c d "Bb"B G | "F/C"F2 "C7"A G "F"F4 |]
+V:A
+C3 C F2 E2 | C2 C2 C2 C2 | F2 F2 G2 F2 | D2 F2 E4 |
+F3 F F2 E2 | C2 C2 B,2 A,2 | F2 F2 D E F2 | D2 F2 E4 |
+E2 F2 E C C2 | D E F2 E C C2 | C2 D E F3 F | F2 F E E4 |
+F3 F F2 F2 | F3 F F C C2 | C2 C2 F _E D2 | C2 E2 F4 |]
+V:T
+A,3 B, C2 C2 | G,2 A,2 B,2 A,2 | B,2 A,2 C2 C2 | D2 D2 C4 |
+A,2 =B,2 C2 C2 | G,2 A,2 E, G, F,2 | B,2 A,2 B,2 C2 | D2 D2 G,4 |
+C2 C2 C G, E,2 | F, G, A, =B, C G, E,2 | A,2 G,2 F,2 A,2 | D2 D C C4 |
+C3 C B,2 A,2 | B,3 A, A, G, F,2 | E,2 E,2 F,2 F, G, | A,2 B,2 A,4 |]
+V:B
+F,3 F, F,2 C,2 | E,2 F,2 C,2 F,2 | F,2 F,2 E,2 F,2 | B,,2 =B,,2 C,4 |
+D,3 D, C,2 C,2 | E,2 F,2 C,2 F,2 | B,,2 F,2 G,2 F,2 | B,,2 =B,,2 C,4 |
+C,2 C,2 C,2 C,2 | C,2 C,2 C,2 C,2 | A,,2 B,, C, D,3 D, | G,,2 G,2 C,4 |
+A,3 A, B,2 F,2 | B,,3 C, D, E, F,2 | B,,2 B,,2 A,,2 B,,2 | C,2 C,2 F,,4 |]

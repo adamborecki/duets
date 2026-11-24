@@ -1,0 +1,30 @@
+X:1
+T:Soldiers' March
+T:Album for the Young, Op. 68 No. 2
+C:Robert Schumann
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schumann
+%%duets credit: Robert Schumann. Source edition: Philippe Hézaine for the Mutopia Project (Creative Commons Attribution-ShareAlike 2.5).
+%%duets tempo-text: Lively and crisp
+%%duets slug: soldiers-march-schumann
+M:2/4
+L:1/8
+Q:1/4=112
+K:G
+V:S
+|: [GB]3/2 [Gc]/2 [Gd] z | [Ge] z [Gd] z | [Fc] z [GB] z |
+[FA] z G z | [GB]3/2 [Gc]/2 [Gd] z | [Ge] z [Gd] z | [eg] z [df] z |
+[_de] z =d z :: D3/2 E/2 F2 | E2 D2 | [Fe] z [Gd] z |
+[Ac] z [GB] z | [DFA]3/2 E/2 F2 | E2 D2 | [Ac] z [GB] z |
+[FA] z [GB] z | [GB]3/2 [Gc]/2 [Gd] z | [Ge] z [Gd] z | [Fc] z [GB] z |
+[FA] z G z | C3/2 D/2 E2 | D2 C2 | D2 [Adf] z |
+[Bdg] z3 :|
+V:lh
+|: G,3/2 A,/2 B, z | C z B, z | A, z G, z |
+[D,C] z [G,B,] z | G,3/2 A,/2 B, z | C z B, z | ^C z D z |
+[A,G] z [DF] z :: D,3/2 E,/2 F,2 | E,2 D,2 | C z B, z |
+[F,D] z [G,D] z | D,3/2 E,/2 F,2 | E,2 D,2 | [F,D] z [G,D] z |
+[D,D] z [G,D] z | G,3/2 A,/2 B, z | C z B, z | A, z G, z |
+[D,C] z [G,B,] z | C,3/2 D,/2 E,2 | D,2 C,2 | D,2 D z |
+G, z3 :|

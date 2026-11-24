@@ -1,0 +1,42 @@
+X:1
+T:It Came upon a Midnight Clear
+T:CAROL
+C:Richard S. Willis, 1861
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: CAROL
+%%duets year: 1861
+%%duets credit: Tune and setting: public domain ("Order of worship for the Reformed Church in the United States", 1866), via the Open Hymnal Project.
+%%duets lyricist: Edmund H. Sears, 1849
+%%duets notes: intro 16-17
+%%duets slug: it-came-upon-a-midnight-clear
+M:6/8
+L:1/8
+Q:3/8=40
+K:Bb
+V:S
+"Bb"F | "Bb"d2 A "Eb/Bb"c B G | "Bb"F2 G F2 F | "Eb"G A B "C7/G"B c d |
+"F"c5 F | "Bb"d2 A "Eb/Bb"c B G | "Bb"F2 G F2 F | "Eb"G2 G "F7"A G F |
+"Bb"B5 d | "D"d2 D "D7"D =E ^F | "Gm/Bb"G2 A "Gm"B2 d | "F/C"c B A "C7"G A G |
+"F"F5 F | "Bb"d2 A "Eb/Bb"c B G | "Bb"F2 G F2 F | "Eb"G2 G "F7"A G F |
+"Bb"B5 |]
+V:A
+D | D2 D E2 E | D2 E D2 D | E2 E =E2 E |
+F5 F | D2 D E2 E | D2 E D2 F | E2 E E2 E |
+D5 D | D2 D D2 D | D2 D D2 D | F2 F =E2 E |
+F5 E | D2 D E2 E | D2 E D2 F | E2 E E2 E |
+D5 |]
+V:T
+F, | F,2 ^F, G,2 A, | B,2 F, F,2 B, | B,2 B, B,2 B, |
+A,5 F, | F,2 ^F, G,2 A, | B,2 F, F,2 B, | B,2 C C B, A, |
+B,5 D, | D,2 ^F, F, G, A, | G,2 ^F, G,2 G, | A, D C B, C B, |
+A,5 A, | B,2 ^F, G,2 A, | B,2 F, F,2 B, | B,2 C C B, A, |
+B,5 |]
+V:B
+B,, | B,,2 B,, B,,2 B,, | B,,2 A,, B,,2 B,, | E, F, G, G,2 C, |
+F,5 F, | B,,2 B,, B,,2 B,, | B,,2 A,, B,,2 B,, | E,2 C, F,2 F, |
+B,,5 D, | D,2 D, D,2 C, | B,,2 D, G,2 B,, | C,2 C, C,2 C, |
+F,5 F, | B,,2 B,, B,,2 B,, | B,,2 A,, B,,2 D, | E,2 C, F,2 F, |
+B,,5 |]

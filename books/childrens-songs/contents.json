@@ -1,0 +1,701 @@
+{
+ "id": "childrens-songs",
+ "title": "Nursery Songs & Singing Games",
+ "subtitle": "Very easy duets for piano four hands",
+ "blurb": "Children's songs in the easiest settings.",
+ "pieces": 29,
+ "layouts": {
+  "facing": {
+   "path": "childrens-songs-facing.pdf",
+   "pages": 71,
+   "bytes": 851268
+  },
+  "score": {
+   "path": "childrens-songs-score.pdf",
+   "pages": 46,
+   "bytes": 618050
+  },
+  "screen": {
+   "path": "childrens-songs-screen.pdf",
+   "pages": 48,
+   "bytes": 820973
+  },
+  "screen-score": {
+   "path": "childrens-songs-screen-score.pdf",
+   "pages": 45,
+   "bytes": 563039
+  }
+ },
+ "items": [
+  {
+   "slug": "aiken-drum",
+   "title": "Aiken Drum",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 2.4,
+    "s": 2.5
+   },
+   "key": "A",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 4,
+    "score": 4,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "alouette",
+   "title": "Alouette",
+   "subtitle": "",
+   "composer": "French-Canadian traditional",
+   "levels": {
+    "p": 1.9,
+    "s": 1.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 5,
+    "screen": 5,
+    "screen-score": 4
+   }
+  },
+  {
+   "slug": "au-clair-de-la-lune",
+   "title": "Au clair de la lune",
+   "subtitle": "",
+   "composer": "French traditional (18th century)",
+   "levels": {
+    "p": 1.0,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 6,
+    "screen": 6,
+    "screen-score": 5
+   }
+  },
+  {
+   "slug": "for-hes-a-jolly-good-fellow",
+   "title": "For He's a Jolly Good Fellow",
+   "subtitle": "",
+   "composer": "Traditional",
+   "levels": {
+    "p": 2.8,
+    "s": 2.6
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 21,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 7,
+    "screen": 7,
+    "screen-score": 6
+   }
+  },
+  {
+   "slug": "frere-jacques",
+   "title": "Fr\u00e8re Jacques",
+   "subtitle": "",
+   "composer": "French traditional round",
+   "levels": {
+    "p": 2.3,
+    "s": 1.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 12,
+    "score": 9,
+    "screen": 9,
+    "screen-score": 8
+   }
+  },
+  {
+   "slug": "the-grand-old-duke-of-york",
+   "title": "The Grand Old Duke of York",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 2.5,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 10,
+    "screen": 10,
+    "screen-score": 9
+   }
+  },
+  {
+   "slug": "happy-birthday-to-you",
+   "title": "Happy Birthday to You",
+   "subtitle": "",
+   "composer": "Mildred J. Hill & Patty Hill, 1893",
+   "levels": {
+    "p": 1.2,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 12,
+    "screen": 12,
+    "screen-score": 10
+   }
+  },
+  {
+   "slug": "hes-got-the-whole-world-in-his-hands",
+   "title": "He's Got the Whole World in His Hands",
+   "subtitle": "",
+   "composer": "African-American spiritual",
+   "levels": {
+    "p": 1.8,
+    "s": 1.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 18,
+    "score": 13,
+    "screen": 13,
+    "screen-score": 11
+   }
+  },
+  {
+   "slug": "hot-cross-buns",
+   "title": "Hot Cross Buns",
+   "subtitle": "",
+   "composer": "English street cry",
+   "levels": {
+    "p": 1.8,
+    "s": 2.2
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 4,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 20,
+    "score": 15,
+    "screen": 15,
+    "screen-score": 13
+   }
+  },
+  {
+   "slug": "lightly-row",
+   "title": "Lightly Row",
+   "subtitle": "",
+   "composer": "German traditional (\"H\u00e4nschen klein\")",
+   "levels": {
+    "p": 1.5,
+    "s": 1.8
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 22,
+    "score": 16,
+    "screen": 16,
+    "screen-score": 14
+   }
+  },
+  {
+   "slug": "london-bridge-is-falling-down",
+   "title": "London Bridge Is Falling Down",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 2.1,
+    "s": 1.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 17,
+    "screen": 17,
+    "screen-score": 15
+   }
+  },
+  {
+   "slug": "londons-burning",
+   "title": "London's Burning",
+   "subtitle": "",
+   "composer": "English traditional round",
+   "levels": {
+    "p": 2.1,
+    "s": 1.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 18,
+    "screen": 18,
+    "screen-score": 16
+   }
+  },
+  {
+   "slug": "mary-had-a-little-lamb",
+   "title": "Mary Had a Little Lamb",
+   "subtitle": "",
+   "composer": "Lowell Mason, 1830",
+   "levels": {
+    "p": 1.1,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 28,
+    "score": 19,
+    "screen": 19,
+    "screen-score": 17
+   }
+  },
+  {
+   "slug": "nancy-dawson-here-we-go-round-the-mulberry-bush",
+   "title": "Nancy Dawson (Here We Go Round the Mulberry Bush)",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 2.2,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 17,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 30,
+    "score": 20,
+    "screen": 20,
+    "screen-score": 18
+   }
+  },
+  {
+   "slug": "oh-dear-what-can-the-matter-be",
+   "title": "Oh Dear! What Can the Matter Be?",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 3.8,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 72,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 32,
+    "score": 21,
+    "screen": 21,
+    "screen-score": 19
+   }
+  },
+  {
+   "slug": "old-macdonald-had-a-farm",
+   "title": "Old MacDonald Had a Farm",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 1.9,
+    "s": 1.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 40,
+    "score": 27,
+    "screen": 28,
+    "screen-score": 26
+   }
+  },
+  {
+   "slug": "polly-put-the-kettle-on",
+   "title": "Polly Put the Kettle On",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 2.5,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 28,
+    "screen": 29,
+    "screen-score": 27
+   }
+  },
+  {
+   "slug": "polly-wolly-doodle",
+   "title": "Polly Wolly Doodle",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 2.1,
+    "s": 2.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 44,
+    "score": 30,
+    "screen": 31,
+    "screen-score": 29
+   }
+  },
+  {
+   "slug": "pop-goes-the-weasel",
+   "title": "Pop! Goes the Weasel",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 2.3,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 17,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 31,
+    "screen": 33,
+    "screen-score": 30
+   }
+  },
+  {
+   "slug": "row-row-row-your-boat",
+   "title": "Row, Row, Row Your Boat",
+   "subtitle": "",
+   "composer": "American traditional round",
+   "levels": {
+    "p": 2.1,
+    "s": 1.7
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 8,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 32,
+    "screen": 34,
+    "screen-score": 31
+   }
+  },
+  {
+   "slug": "shell-be-coming-round-the-mountain",
+   "title": "She'll Be Coming 'Round the Mountain",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 1.3,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 50,
+    "score": 33,
+    "screen": 35,
+    "screen-score": 32
+   }
+  },
+  {
+   "slug": "skip-to-my-lou",
+   "title": "Skip to My Lou",
+   "subtitle": "",
+   "composer": "American traditional play-party song",
+   "levels": {
+    "p": 1.6,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 52,
+    "score": 34,
+    "screen": 36,
+    "screen-score": 33
+   }
+  },
+  {
+   "slug": "sur-le-pont-davignon",
+   "title": "Sur le pont d'Avignon",
+   "subtitle": "",
+   "composer": "French traditional",
+   "levels": {
+    "p": 2.5,
+    "s": 2.2
+   },
+   "key": "F",
+   "meter": "2/4",
+   "bars": 8,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 54,
+    "score": 35,
+    "screen": 37,
+    "screen-score": 34
+   }
+  },
+  {
+   "slug": "the-teddy-bears-picnic",
+   "title": "The Teddy Bears' Picnic",
+   "subtitle": "",
+   "composer": "John W. Bratton, 1907",
+   "levels": {
+    "p": 3.4,
+    "s": 3.5
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 74,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 56,
+    "score": 36,
+    "screen": 38,
+    "screen-score": 35
+   }
+  },
+  {
+   "slug": "this-old-man",
+   "title": "This Old Man",
+   "subtitle": "",
+   "composer": "English traditional children's song",
+   "levels": {
+    "p": 1.5,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 62,
+    "score": 41,
+    "screen": 43,
+    "screen-score": 40
+   }
+  },
+  {
+   "slug": "three-blind-mice",
+   "title": "Three Blind Mice",
+   "subtitle": "",
+   "composer": "English traditional round",
+   "levels": {
+    "p": 1.9,
+    "s": 1.7
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 16,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 42,
+    "screen": 44,
+    "screen-score": 41
+   }
+  },
+  {
+   "slug": "twinkle-twinkle-little-star",
+   "title": "Twinkle, Twinkle, Little Star",
+   "subtitle": "",
+   "composer": "French melody \"Ah! vous dirai-je, maman\", 1761",
+   "levels": {
+    "p": 1.0,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 43,
+    "screen": 45,
+    "screen-score": 42
+   }
+  },
+  {
+   "slug": "up-on-the-housetop",
+   "title": "Up on the Housetop",
+   "subtitle": "",
+   "composer": "Benjamin Hanby, 1864",
+   "levels": {
+    "p": 1.9,
+    "s": 2.4
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 35,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 68,
+    "score": 44,
+    "screen": 46,
+    "screen-score": 43
+   }
+  },
+  {
+   "slug": "yankee-doodle",
+   "title": "Yankee Doodle",
+   "subtitle": "",
+   "composer": "American traditional (18th century)",
+   "levels": {
+    "p": 2.5,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "2/4",
+   "bars": 16,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 70,
+    "score": 46,
+    "screen": 48,
+    "screen-score": 45
+   }
+  }
+ ],
+ "seconds": 21.7
+}

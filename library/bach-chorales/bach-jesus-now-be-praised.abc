@@ -1,0 +1,55 @@
+X:1
+T:Jesus, Now Be Praised
+T:Jesu, nun sei gepreiset · BWV 41.6
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, newyear
+%%duets tune: Jesu, nun sei gepreiset
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 41.6), public domain; score from the music21 corpus.
+%%duets slug: bach-jesus-now-be-praised
+%%duets free-meter: yes
+M:4/4
+L:1/8
+K:C
+V:S
+"C"g a- "Dm/F"a g/2 f/2 "C/E"g G/2 G/2 c/2 c/2 e/2 e/2 | "C"g a- "F/C"a g/2 f/2 "C"g2 z2 | z8 | z8 |
+z8 | "C"g a- "Dm/F"a g/2 f/2 "C/E"g G/2 G/2 c/2 c/2 e/2 e/2 | "C"g a- "F/C"a g/2 f/2 "C"!fermata!g2 :| z2 |
+z8 | z8 | z8 | z6 |
+[M:3/4]z2 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z4 | [M:4/4]z2 | z8 | z8 |
+z8 | "C"g a- "Dm/F"a g/2 f/2 "C/E"g G/2 G/2 c/2 c/2 e/2 e/2 | "C"g a- "F/C"a g/2 f/2 "C"!fermata!g2 |]
+V:A
+e f2 e/2 d/2 e E/2 E/2 G/2 G/2 c/2 c/2 | e f2 e/2 d/2 e2 z2 | z8 | z8 |
+z8 | e f2 e/2 d/2 e E/2 E/2 G/2 G/2 c/2 c/2 | e f2 e/2 d/2 !fermata!e2 :| z2 |
+z8 | z8 | z8 | z6 |
+[M:3/4]z2 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z4 | [M:4/4]z2 | z8 | z8 |
+z8 | e f2 e/2 d/2 e E/2 E/2 G/2 G/2 c/2 c/2 | e f2 e/2 d/2 !fermata!e2 |]
+V:T
+c2 z3 C/2 C/2 E/2 E/2 G/2 G/2 | c C/2 C/2 C/2 C/2 C/2 C/2 c2 z2 | z8 | z8 |
+z8 | c2 z3 C/2 C/2 E/2 E/2 G/2 G/2 | c C/2 C/2 C/2 C/2 C/2 C/2 !fermata!c2 :| z2 |
+z8 | z8 | z8 | z6 |
+[M:3/4]z2 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z4 | [M:4/4]z2 | z8 | z8 |
+z8 | c2 z3 C/2 C/2 E/2 E/2 G/2 G/2 | c c/2 c/2 c/2 c/2 c/2 c/2 !fermata!c2 |]
+V:B
+C,2 z3 C,/2 C,/2 C,/2 C,/2 C,/2 C,/2 | C, C,/2 C,/2 C,/2 C,/2 C,/2 C,/2 C,2 z2 | z8 | z8 |
+z8 | C,2 z3 C,/2 C,/2 C,/2 C,/2 C,/2 C,/2 | C, C,/2 C,/2 C,/2 C,/2 C,/2 C,/2 !fermata!C,2 :| z2 |
+z8 | z8 | z8 | z6 |
+[M:3/4]z2 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z4 | [M:4/4]z2 | z8 | z8 |
+z8 | C,2 z3 C,/2 C,/2 C,/2 C,/2 C,/2 C,/2 | C, C,/2 C,/2 C,/2 C,/2 C,/2 C,/2 !fermata!C,2 |]

@@ -1,0 +1,34 @@
+X:1
+T:The Advent of Our God
+T:ST. THOMAS
+C:Aaron Williams, 1770
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: advent
+%%duets tune: ST. THOMAS
+%%duets year: 1770
+%%duets credit: Tune and setting: public domain ("The Church Hymnal, Revised and Enlarged" (Episcopal), 1905), via the Open Hymnal Project.
+%%duets lyricist: Charles Coffin, 1736. translated by John Chandler, 1837, alt
+%%duets notes: intro 8-9
+%%duets slug: the-advent-of-our-god
+M:4/4
+L:1/8
+Q:1/4=140
+K:G
+V:S
+"G"D2 | "G/B"G2 G2 "G"B2 "F#m"A G | "D"A6 "G"B c | "G/B"d2 "D7/A"c B "Am"c2 "G"B2 |
+"D"A6 d2 | "G"B2 G2 "D"A2 D2 | "G"G A "Em"B ^c "D"d3 d | "C"e2 "G/B"d c "G/D"B2 "D7"A2 |
+"G"G6 |]
+V:A
+B,2 | D2 D2 D2 D ^C | D6 G F | G2 F G E F G2 |
+F6 D2 | D2 D2 D2 D2 | D2 G2 F3 G | G2 G2 G2 F2 |
+D6 |]
+V:T
+G,2 | G,2 B,2 D2 A,2 | F,6 D2 | D2 D2 C2 D2 |
+D6 A,2 | G,2 G,2 F,2 A,2 | B,2 G,2 A,3 B, | C2 D E D2 C2 |
+B,6 |]
+V:B
+G,,2 | B,,2 G,,2 G,2 F, E, | D,6 G, A, | B,2 A, G, A,2 G,2 |
+D,6 F,2 | G,2 B,,2 D,2 F,2 | G,2 E,2 D,3 G, | C,2 B,, C, D,2 D,2 |
+G,,6 |]

@@ -1,0 +1,17 @@
+X:1
+T:Rosin the Bow
+C:Irish/American traditional
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: irish, american, song
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: rosin-the-bow
+M:6/8
+L:1/8
+K:G
+[P:A]D | "G"G2 G B A G | "G"d3 "C"e f g | "G"d B G G A B |
+"Em"E3 "D7"E2 D | "G"G2 G B A G | "G"d3 "C"e f g | "G"d B G "D7"A B A |
+"G"G3 G2 :| [P:B]d | "G"d B d d e f | "C"g2 e g2 e |
+"G"d B G G A B | "Em"E3 "D7"E2 D | "G"G2 G B A G | "G"d3 "C"e f g |
+"G"d B G "D7"A B A | "G"G3 G2 :|

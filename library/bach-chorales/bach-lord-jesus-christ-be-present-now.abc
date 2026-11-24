@@ -1,0 +1,30 @@
+X:1
+T:Lord Jesus Christ, Be Present Now
+T:Herr Jesu Christ, dich zu uns wend · BWV 332
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, opening
+%%duets tune: Herr Jesu Christ, dich zu uns wend
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 332), public domain; score from the music21 corpus.
+%%duets slug: bach-lord-jesus-christ-be-present-now
+M:4/4
+L:1/8
+K:G
+V:S
+"G"G2 | "G"B2 "D/F#"d2 "G"B2 "D"A2 | "G"B2 "C#dim/E"^c2 "D"!fermata!d2 "Am"e2 | "D7/F#"d c "G"B2 "A7/C#"A2 "Em"G A |
+"G"B2 "D"A2 "G"!fermata!G2 | "D"A2 | "G"B2 "G/B"B2 "Dsus4"A2 "D/F#"d2 | "Em7/G"d2 "A"^c2 "D"!fermata!d2 "G7"B2 |
+"C/E"c2 "G"B2 "A7/C#"A2 "Em"G2 | "G/B"G2 "D"F2 "G"!fermata!G2 |]
+V:A
+D2 | G2 A3 G2 F | G2 G2 !fermata!F2 A2 | A3 G2 F E D |
+D2 D2 !fermata!D2 | F2 | G2 G2 G2 F2 | E2 E2 !fermata!F2 D2 |
+E2 D G2 F2 E | D2 D2 !fermata!D2 |]
+V:T
+B,2 | D2 D2 D2 D2 | D2 E2 !fermata!A,2 C2 | D2 D2 E B,2 A,- |
+A, G,2 F, !fermata!B,2 | D2 | D2 D2 D2 A, D | B, G, A,2 !fermata!A,2 G,2 |
+G, A, B,2 E B, B,2 | B,2 A,2 !fermata!B,2 |]
+V:B
+G,,2 | G,,2 F,,2 G,, B,, D,2 | G, F, E,2 !fermata!D,2 A, G, | F,2 G,2 ^C, ^D, E, F, |
+G,2 D,2 !fermata!G,,2 | D,2 | G,, A,, B,, ^C, D, E, F, B, | G, E, A, A,, !fermata!D,2 G, =F, |
+E, F, G,2 ^C, ^D, E,2 | B,, C, D,2 !fermata!G,,2 |]

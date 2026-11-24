@@ -1,0 +1,19 @@
+X:1
+T:Molly Malone
+C:Irish traditional
+S:OpenEWLD
+R:waltz
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: public domain in the United States (traditional); lead sheet from OpenEWLD.
+%%duets slug: molly-malone
+M:3/4
+L:1/8
+K:G
+z4 D2 | "G"G G3 G2 | "Em7"G B3 G2 | "C6"A2 A3 A |
+"D7"A c3 A2 | "G"B2 c2 d2 | "Em7"d2 c2 B2 | "A7"B2 A3 A |
+"D7"A4 D D | "G"G2 G2 G2 | "G7"G B3 G2 | "Am"A2 A3 A |
+"D7"A c3 B A | "G"d B3 G2 | d2 B3 G | "Am"A3 G "D7"A2 |
+"G"G4 D2 || G3 G G2 | G2 B2 G2 | "D7"A3 A A2 |
+A2 c2 B A | "G"d2 B3 G | "Em7"d B3 G2 | "A7"A3 G "D7"A2 |
+[1 "G"G4 "D7"D2 :| [2 "G"G6- | G6 |]

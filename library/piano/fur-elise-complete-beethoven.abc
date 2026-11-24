@@ -1,0 +1,70 @@
+X:1
+T:Für Elise (complete)
+T:Bagatelle in A minor, WoO 59
+C:Ludwig van Beethoven
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, beethoven
+%%duets credit: Ludwig van Beethoven. Source edition: Stelios Samelis for the Mutopia Project (Public Domain).
+%%duets tempo-text: Poco moto
+%%duets slug: fur-elise-complete-beethoven
+M:3/8
+L:1/8
+Q:1/8=60
+K:Am
+V:S
+e/2 ^d/2 |: e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 | B z/2 E/2 ^G/2 B/2 |
+c z/2 E/2 e/2 ^d/2 | e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 | B z/2 E/2 c/2 B/2 |
+[1 A2 e/2 ^d/2 :| [2 A z/2 B/2 c/2 d/2 |: e3/2 G/2 f/2 e/2 | d3/2 F/2 e/2 d/2 |
+c3/2 E/2 d/2 c/2 | B z/2 E/2 e/2 z/2 | z/2 e/2 e'/2 z ^d/2 | e z/2 ^d/2 e/2 d/2 |
+e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 | B z/2 E/2 ^G/2 B/2 | c z/2 E/2 e/2 ^d/2 |
+e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 | B z/2 E/2 c/2 B/2 | [1 A z/2 B/2 c/2 d/2 :|
+[2 A z/2 [Ec]/2 [Fc]/2 [EGc]/2 | c2 f3/4 e/4 | e d _b3/4 a/4 | a/2 g/2 f/2 e/2 d/2 c/2 |
+_B A A/4 G/4 A/4 ^A/4 | c2 d/2 ^d/2 | e3/2 e/2 f/2 A/2 | c2 d3/4 B/4 |
+c/4 g/4 G/4 g/4 A/4 g/4 B/4 g/4 c/4 g/4 d/4 g/4 | e/4 g/4 c'/4 b/4 a/4 g/4 f/4 e/4 d/4 g/4 f/4 d/4 | c/4 g/4 G/4 g/4 A/4 g/4 B/4 g/4 c/4 g/4 d/4 g/4 | e/4 g/4 c'/4 b/4 a/4 g/4 f/4 e/4 d/4 g/4 f/4 d/4 |
+e/4 f/4 e/4 ^d/4 e/4 B/4 e/4 d/4 e/4 B/4 e/4 d/4 | e3/2 B/2 e/2 ^d/2 | e3/2 B/2 e/2 ^d/2 | e/2 ^d/2 e/2 d/2 e/2 d/2 |
+e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 | B z/2 E/2 ^G/2 B/2 | c z/2 E/2 e/2 ^d/2 |
+e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 | B z/2 E/2 c/2 B/2 | A z/2 B/2 c/2 d/2 |
+e3/2 G/2 f/2 e/2 | d3/2 F/2 e/2 d/2 | c3/2 E/2 d/2 c/2 | B z/2 E/2 e/2 z/2 |
+z/2 e/2 e'/2 z ^d/2 | e/2 z ^d/2 e/2 d/2 | e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 |
+B z/2 E/2 ^G/2 B/2 | c z/2 E/2 e/2 ^d/2 | e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 |
+B z/2 E/2 c/2 B/2 | A z2 | [EG^A^c]3 | [FAd]2 [^ce]/2 [df]/2 |
+[_Adf]2 [Adf] | [Ace]3 | [Fd]2 [Ec]/2 [DB]/2 | [C^FA]2 [CA] |
+[CA] [Ec] [DB] | [CA]3 | [EG^A^c]3 | [FAd]2 [^ce]/2 [df]/2 |
+[df]2 [df] | [df]3 | [G_e]2 [Fd]/2 [_Ec]/2 | [DF_B]2 [DFA] |
+[DF^G]2 [DFG] | [CEA]2 z | [EB] z2 | (3A,/2C/2E/2 (3A/2c/2e/2 (3d/2c/2B/2 |
+(3A/2c/2e/2 (3a/2c'/2e'/2 (3d'/2c'/2b/2 | (3a/2c'/2e'/2 (3a'/2c''/2e''/2 (3d''/2c''/2b'/2 | (3_b'/2a'/2_a'/2 (3g'/2_g'/2f'/2 (3e'/2_e'/2d'/2 | (3_d'/2c'/2b/2 (3_b/2a/2_a/2 (3g/2_g/2f/2 |
+e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 | B z/2 E/2 ^G/2 B/2 | c z/2 E/2 e/2 ^d/2 |
+e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 | B z/2 E/2 c/2 B/2 | A z/2 B/2 c/2 d/2 |
+e3/2 G/2 f/2 e/2 | d3/2 F/2 e/2 d/2 | c3/2 E/2 d/2 c/2 | B z/2 E/2 e/2 z/2 |
+z/2 e/2 e'/2 z ^d/2 | e/2 z ^d/2 e/2 d/2 | e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 |
+B z/2 E/2 ^G/2 B/2 | c z/2 E/2 e/2 ^d/2 | e/2 ^d/2 e/2 B/2 =d/2 c/2 | A z/2 C/2 E/2 A/2 |
+B z/2 E/2 c/2 B/2 | A z2 |]
+V:lh
+z |: z3 | A,,/2 E,/2 A,/2 z3/2 | E,,/2 E,/2 _A,/2 z3/2 |
+A,,/2 E,/2 A,/2 z3/2 | z3 | A,,/2 E,/2 A,/2 z3/2 | E,,/2 E,/2 _A,/2 z3/2 |
+[1 A,,/2 E,/2 A,/2 z3/2 :| [2 A,,/2 E,/2 A,/2 z3/2 |: C,/2 G,/2 C/2 z3/2 | G,,/2 G,/2 B,/2 z3/2 |
+A,,/2 E,/2 A,/2 z3/2 | E,,/2 E,/2 E/2 z E/2 | e/2 z ^d/2 e/2 z/2 | z/2 ^d/2 e/2 z3/2 |
+z3 | A,,/2 E,/2 A,/2 z3/2 | E,,/2 E,/2 _A,/2 z3/2 | A,,/2 E,/2 A,/2 z3/2 |
+z3 | A,,/2 E,/2 A,/2 z3/2 | E,,/2 E,/2 _A,/2 z3/2 | [1 A,,/2 E,/2 A,/2 z3/2 :|
+[2 A,,/2 E,/2 A,/2 [_B,C]/2 [A,C]/2 [G,B,C]/2 | F,/2 A,/2 C/2 A,/2 C/2 A,/2 | F,/2 ^A,/2 D/2 A,/2 D/2 _B,/2 | F,/2 E/2 [F,G,^A,]/2 E/2 [F,G,A,]/2 E/2 |
+F,/2 A,/2 C/2 A,/2 C/2 A,/2 | F,/2 A,/2 C/2 A,/2 C/2 A,/2 | E,/2 A,/2 C/2 A,/2 [D,D]/2 F,/2 | G,/2 E/2 G,/2 E/2 G,/2 F/2 |
+[CE] z/2 [FG]/2 [EG]/2 [DFG]/2 | [CEG] [F,A,] [G,B,] | C z/2 [FG]/2 [EG]/2 [DFG]/2 | [CEG] [F,A,] [G,B,] |
+[_A,B,] z2 | z3 | z3 | z3 |
+z3 | A,,/2 E,/2 A,/2 z3/2 | E,,/2 E,/2 _A,/2 z3/2 | A,,/2 E,/2 A,/2 z3/2 |
+z3 | A,,/2 E,/2 A,/2 z3/2 | E,,/2 E,/2 _A,/2 z3/2 | A,,/2 E,/2 A,/2 z3/2 |
+C,/2 G,/2 C/2 z3/2 | G,,/2 G,/2 B,/2 z3/2 | A,,/2 E,/2 A,/2 z3/2 | E,,/2 E,/2 E/2 z E/2 |
+e/2 z ^d/2 e/2 z/2 | z/2 ^d/2 e/2 z3/2 | z3 | A,,/2 E,/2 A,/2 z3/2 |
+E,,/2 E,/2 _A,/2 z3/2 | A,,/2 E,/2 A,/2 z3/2 | z3 | A,,/2 E,/2 A,/2 z3/2 |
+E,,/2 E,/2 _A,/2 z3/2 | A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 | A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 | A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 |
+A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 | A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 | [D,,A,,]/2 [D,,A,,]/2 [D,,A,,]/2 [D,,A,,]/2 [D,,A,,]/2 [D,,A,,]/2 | [^D,,A,,]/2 [D,,A,,]/2 [D,,A,,]/2 [D,,A,,]/2 [D,,A,,]/2 [D,,A,,]/2 |
+[E,,A,,]/2 [E,,A,,]/2 [E,,A,,]/2 [E,,A,,]/2 [E,,^G,,]/2 [E,,G,,]/2 | [A,,,A,,]/2 A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 | A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 | A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 |
+A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 A,,/2 | _B,,/2 B,,/2 B,,/2 B,,/2 B,,/2 B,,/2 | _B,,/2 B,,/2 B,,/2 B,,/2 B,,/2 B,,/2 | _B,,/2 B,,/2 B,,/2 ^A,,/2 A,,/2 A,,/2 |
+B,,/2 B,,/2 B,,/2 B,,/2 B,,/2 B,,/2 | C,2 z | [E,_A,] z2 | A,,, z [A,CE] |
+[A,CE] z [A,CE] | [A,CE] z [A,CE] | [A,CE] z2 | z3 |
+z3 | A,,/2 E,/2 A,/2 z3/2 | E,,/2 E,/2 _A,/2 z3/2 | A,,/2 E,/2 A,/2 z3/2 |
+z3 | A,,/2 E,/2 A,/2 z3/2 | E,,/2 E,/2 _A,/2 z3/2 | A,,/2 E,/2 A,/2 z3/2 |
+C,/2 G,/2 C/2 z3/2 | G,,/2 G,/2 B,/2 z3/2 | A,,/2 E,/2 A,/2 z3/2 | E,,/2 E,/2 E/2 z E/2 |
+e/2 z ^d/2 e/2 z/2 | z/2 ^d/2 e/2 z3/2 | z3 | A,,/2 E,/2 A,/2 z3/2 |
+E,,/2 E,/2 _A,/2 z3/2 | A,,/2 E,/2 A,/2 z3/2 | z3 | A,,/2 E,/2 A,/2 z3/2 |
+E,,/2 E,/2 _A,/2 z3/2 | [A,,,A,,] z2 |]

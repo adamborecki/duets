@@ -1,0 +1,98 @@
+X:1
+T:Gymnopédie No. 1
+T:Lent et douloureux
+C:Erik Satie
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, satie
+%%duets credit: Erik Satie. Source edition: Evin Robertson for the Mutopia Project (Public Domain).
+%%duets tempo-text: Lent et douloureux
+%%duets slug: gymnopedie-no-1-satie
+M:3/4
+L:1/8
+Q:1/4=72
+K:Bm
+V:S
+z2 [B,DF]4 | z2 [A,CF]4 | z2 [B,DF]4 | z2 [A,CF]4 |
+z2 f2 a2 | g2 f2 c2 | B2 c2 d2 | z2 [A,CF]4 |
+F2 F4- | F2 F4- | F2 F4- | F2 [A,CF]4 |
+z2 f2 a2 | g2 f2 c2 | B2 c2 d2 | z2 [A,CF]4 |
+z2 [A,CF]4 | z2 [B,DF]4 | E6- | E6- |
+E6 | A2 B2 ^B2 | e2 d2 B2 | d2 =c2 B2 |
+d6- | d4 d2 | e2 ^e2 g2 | a2 ^B2 d2 |
+e2 d2 B2 | d6- | d4 d2 | g6 |
+f6 | z2 [B,DF]4 | z2 [CEA]4 | z2 [A,CFA]4 |
+F6 | [^B,EA^B]6 | [DFAd]6 | z2 [B,DF]4 |
+z2 [A,CF]4 | z2 [B,DF]4 | z2 [A,CF]4 | z2 f2 a2 |
+g2 f2 c2 | B2 c2 d2 | z2 [A,CF]4 | F2 F4- |
+F2 F4- | F2 F4- | F2 [A,CF]4 | z2 f2 a2 |
+g2 f2 c2 | B2 c2 d2 | z2 [A,CF]4 | z2 [A,CF]4 |
+z2 [B,DF]4 | E6- | E6- | E6 |
+A2 B2 ^B2 | e2 d2 B2 | d2 =c2 B2 | d6- |
+d4 d2 | e2 ^e2 g2 | a2 ^B2 d2 | e2 d2 B2 |
+d6- | d4 d2 | g6 | =f6 |
+z2 [A,^B,^E]4 | z2 [=CEA]4 | z2 [A,=C=FA]4 | ^E6 |
+[^B,EA^B]6 | [D^EAd]6 |]
+V:lh
+G,,6 | D,,6 | G,,6 | D,,6 |
+G,,6 | D,,6 | G,,6 | D,,6 |
+G,,6 | D,,6 | G,,6 | D,,6 |
+G,,6 | D,,6 | G,,6 | D,,6 |
+F,,6 | B,,,6 | E,,6 | E,,6 |
+D,,6 | A,,,6 | D,,6 | D,,6 |
+D,,6 | D,,6 | D,,6 | D,,6 |
+D,,6 | D,,6 | D,,6 | E,,6 |
+F,,6 | B,,,6 | E,,6 | E,,6 |
+E,,6 | [A,,G,]6 | [D,,A,,D,]6 | G,,6 |
+D,,6 | G,,6 | D,,6 | G,,6 |
+D,,6 | G,,6 | D,,6 | G,,6 |
+D,,6 | G,,6 | D,,6 | G,,6 |
+D,,6 | G,,6 | D,,6 | F,,6 |
+B,,,6 | E,,6 | E,,6 | D,,6 |
+A,,,6 | D,,6 | D,,6 | D,,6 |
+D,,6 | D,,6 | D,,6 | D,,6 |
+D,,6 | D,,6 | E,,6 | E,,6 |
+E,,6 | E,,6 | E,,6 | E,,6 |
+[A,,G,]6 | [D,,A,,D,]6 |]
+V:rh2
+z6 | z6 | z6 | z6 |
+z2 [B,DF]4 | z2 [A,CF]4 | z2 [B,DF]4 | A6 |
+z2 [B,D]4 | z2 [A,C]4 | z2 [B,D]4 | z6 |
+z2 [B,DF]4 | z2 [A,CF]4 | z2 [B,DF]4 | A6 |
+c6 | f6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z2 [B,EG]4 |
+z2 [A,CF]4 | B2 A2 B2 | c2 d2 e2 | c2 d2 e2 |
+z2 [A,D]2 [B,DG]2 | z6 | z6 | z6 |
+z6 | z6 | z6 | z2 [B,DF]4 |
+z2 [A,CF]4 | z2 [B,DF]4 | A6 | z2 [B,D]4 |
+z2 [A,C]4 | z2 [B,D]4 | z6 | z2 [B,DF]4 |
+z2 [A,CF]4 | z2 [B,DF]4 | A6 | c6 |
+f6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z2 [B,EG]4 | z2 [A,D^EA]4 |
+B2 ^B2 =f2 | e2 d2 ^B2 | e2 d2 =c2 | z2 [A,D]2 [B,DG]2 |
+z6 | z6 |]
+V:lh2
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z2 [G,B,]4 | z2 [B,DG]4 |
+z2 [^E,A,D]4 | z2 [A,=CE]4 | z2 [G,B,E]4 | z2 [D,G,B,E]4 |
+z2 [^B,,E,A,D]4 | z2 [^B,,F,A,D]4 | z2 [A,=C=F]4 | z2 [A,=CE]4 |
+z2 [D,G,B,E]4 | z2 [=C,E,A,D]4 | z2 [=C,F,A,D]4 | z6 |
+z6 | z6 | z6 | z6 |
+z2 B,,2 E,2 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z2 [G,B,]4 | z2 [B,DG]4 | z2 [^E,A,D]4 |
+z2 [A,=CE]4 | z2 [G,B,E]4 | z2 [D,G,B,E]4 | z2 [^B,,E,A,D]4 |
+z2 [^B,,F,A,D]4 | z2 [A,=C=F]4 | z2 [A,=CE]4 | z2 [D,G,B,E]4 |
+z2 [=C,E,A,D]4 | z2 [=C,F,A,D]4 | z6 | z6 |
+z6 | z6 | z6 | z2 B,,2 E,2 |
+z6 | z6 |]

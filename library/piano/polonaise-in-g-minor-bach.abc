@@ -1,0 +1,26 @@
+X:1
+T:Polonaise in G minor
+T:Notebook for Anna Magdalena Bach, BWV Anh. 119
+C:Johann Sebastian Bach (attrib.)
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, bach
+%%duets credit: Johann Sebastian Bach (attrib.). Source edition: Steven McDougall for the Mutopia Project (Public Domain).
+%%duets tempo-text: Alla polacca
+%%duets slug: polonaise-in-g-minor-bach
+M:3/4
+L:1/8
+Q:1/4=84
+K:Gm
+V:S
+G3/2 A/2 B2 c2 | A A/2 B/2 c4 | B B/2 c/2 d g c g | B A/2 B/2 G4 |
+G3/2 A/2 B2 c2 | A A/2 B/2 c4 | B B/2 c/2 d g c g | B A/2 B/2 G4 |:
+B3/2 c/2 d2 f2 | d c/2 B/2 A/2 B/2 c/2 A/2 F2 | f d B f g/2 f/2 e/2 d/2 | e c A e f/2 e/2 d/2 c/2 |
+d c/2 d/2 e d c B | A/2 B/2 c/2 A/2 B2 B,2 | d/4 z7/4 e/4 z7/4 G/4 z7/4 | ^F F/2 G/2 A D F A |
+d/4 z7/4 e/4 z7/4 G/4 z7/4 | ^F F/2 G/2 A D F A | d d/2 e/2 d d/2 e/2 d g | B A/2 B/2 G2 G,2 :|
+V:lh
+G,2 G,2 G,2 | G,2 _G, =E, G, D, | G,2 G,,2 C,2 | D,2 G, G,, B,, D, |
+G,2 G,2 G,2 | G,2 _G, =E, G, D, | G,2 G,,2 C,2 | D,2 G, G,, B,, D, |:
+G,3/2 A,/2 B,2 A,2 | B,2 F,2 F, E, | D,2 G,2 E,2 | C,2 F,2 D,2 |
+B,,2 G,2 E,2 | F, E, D, E, D, C, | B,,2 C,2 E,2 | D,2 D,2 C,2 |
+B,,2 C,2 E,2 | D,4 C,2 | B,,2 G,,2 B,,2 | D,2 G,,4 :|

@@ -1,0 +1,46 @@
+X:1
+T:Melodious Piece No. 1
+T:Melodische Übungsstücke, Op. 149 No. 1
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Andante
+%%duets slug: diabelli-op149-01
+M:4/4
+L:1/8
+Q:1/4=110
+K:C
+V:S
+|: c'4 d'4 | e'4 c'4 | d'4 e'4 |
+f'4 d'4 | e'4 f'4 | g'4 f'4 | e'4 d'4 |
+[1 c'8 :| [2 c'8 |: d'4 e'4 | f'4 d'4 |
+e'4 f'4 | g'4 e'4 | f'4 e'4 | d'4 c'4 |
+d'4 e'4 | d'8 | e'4 f'4 | g'4 c'4 |
+f'4 d'4 | e'4 c'4 | d'4 e'4 | f'4 d'4 |
+e'4 d'4 | [1 c'8 :| [2 c'8 |]
+V:plh
+|: c4 d4 | e4 c4 | d4 e4 |
+f4 d4 | e4 f4 | g4 f4 | e4 d4 |
+[1 c8 :| [2 c8 |: d4 e4 | f4 d4 |
+e4 f4 | g4 e4 | f4 e4 | d4 c4 |
+d4 e4 | d8 | e4 f4 | g4 c4 |
+f4 d4 | e4 c4 | d4 e4 | f4 d4 |
+e4 d4 | [1 c8 :| [2 c8 |]
+V:srh
+|: [G,EG]4 [G,B,G]4 | [G,CG]4 [G,EG]4 | [G,G]4 [G,G]4 |
+[G,G]4 [G,G]4 | [G,CG]4 [G,B,G]4 | [G,CG]4 [A,DF]4 | [G,CE]4 [G,B,F]4 |
+[1 [G,CE]8 :| [2 [G,CE]8 |: [G,B,D]4 [G,CE]4 | [G,DF]4 [G,B,]4 |
+[G,CE]4 [G,B,F]4 | [G,CG]4 [G,CE]4 | [G,DF]4 [G,CE]4 | [G,B,D]4 [G,C]4 |
+[B,D]4 [CE]4 | [B,D]8 | [G,CE]4 [G,B,F]4 | [_B,CG]4 [^A,CE]4 |
+[CF]4 [A,D]4 | [_A,B,E]4 [=A,CE]4 | [A,D]4 [G,A,^C]4 | [F,A,D]4 [A,DF]4 |
+[G,CE]4 [G,B,F]4 | [1 [G,CE]8 :| [2 [G,CE]8 |]
+V:slh
+|: C,, z E,, z G,, z G,,, z | C,, z E,, z G,, z C, z | B,, z G,, z C, z G,, z |
+D, z G,, z B,, z G,, z | C,, z C, z D, z D,, z | E,, z E, z F, z F,, z | G,, z G,,, z G,,, z G,, z |
+[1 C,, z C, z G,, z E,, z :| [2 C,, z G,, z E,, z C,, z |: G,,, z G,, z E,, z G,, z | D,, z D, z G,, z G, z |
+C,, z C, z D, z D,, z | E,, z E, z C, z C,, z | B,, z B,,, z C,, z C, z | F, z F,, z E,, z E, z |
+G,, z G, z E, z C, z | G,, z D,, z B,,, z G,,, z | C,, z C, z D, z D,, z | E,, z E, z G, z G,, z |
+A,, z A, z F, z F,, z | E,, z E, z A,, z A,,, z | F,, z F, z E, z E,, z | D,, z D, z F,, z F,,, z |
+G,,, z G,, z G,, z G,,, z | [1 C,, z G,, z E,, z C,, z :| [2 [C,,C,]8 |]

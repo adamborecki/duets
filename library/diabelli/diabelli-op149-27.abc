@@ -1,0 +1,44 @@
+X:1
+T:Melodious Piece No. 27
+T:Melodische Übungsstücke, Op. 149 No. 27
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Andante
+%%duets slug: diabelli-op149-27
+M:4/4
+L:1/8
+Q:1/4=70
+K:E
+V:S
+|: b7/2 g/2 e2 z3/2 g/2 | b7/2 a/2 f2 z3/2 f/2 | g2 g2 b2 a z/2 g/2 |
+f3 a/2 g/2 f2 z2 | b7/2 g/2 e2 z3/2 g/2 | b5/2 a/2 g/2 a/2 f2 z3/2 f/2 | g b/2 z/2 f a/2 z/2 e g/2 z/2 f b/2 z/2 |
+b4 e2 z2 :: f7/2 f/2 a2 z3/2 a/2 | g7/2 f/2 e2 z3/2 e/2 | f2 g3/2 g/2 b a g f |
+e2 g3/2 b/2 f2 z2 | b7/2 g/2 e2 z3/2 g/2 | b5/2 a/2 g/2 a/2 f2 z3/2 f/2 | g b/2 z/2 f a/2 z/2 e g/2 z/2 f b/2 z/2 |
+b4 e2 z2 :|
+V:plh
+|: [GB]4 z [GB]/2 z/2 [GB]/2 z/2 [GB]/2 z/2 | [AB]4 z [AB]/2 z/2 [AB]/2 z/2 [AB]/2 z/2 | G2 G2 B2 A z/2 G/2 |
+F3 A/2 G/2 F2 z2 | [GB]4 z [GB]/2 z/2 [GB] [GB]/2 z/2 | [AB]4 z [AB]/2 z/2 [AB]/2 z/2 [AB]/2 z/2 | G B/2 z/2 F A/2 z/2 E G/2 z/2 F B/2 z/2 |
+z [AB]/2 z/2 [AB]/2 z/2 [AB]/2 z/2 [GB]2 z2 :: F7/2 F/2 A2 z3/2 A/2 | G7/2 F/2 E2 z3/2 E/2 | F2 G3/2 G/2 B A G F |
+E2 G3/2 B/2 F2 z2 | [GB]4 z [GB]/2 z/2 [GB] [GB]/2 z/2 | [AB]4 z [AB]/2 z/2 [AB]/2 z/2 [AB]/2 z/2 | G B/2 z/2 F A/2 z/2 E G/2 z/2 F B/2 z/2 |
+z [AB]/2 z/2 [AB]/2 z/2 [AB]/2 z/2 [GB]2 z2 :|
+V:srh
+|: z/2 G,/2 B,/2 E/2 B,/2 G,/2 B,/2 E/2 z/2 G,/2 B,/2 E/2 B,/2 G,/2 B,/2 E/2 | z/2 A,/2 B,/2 F/2 B,/2 A,/2 B,/2 F/2 z/2 A,/2 B,/2 F/2 B,/2 A,/2 B,/2 F/2 | z/2 E/2 B,/2 G,/2 E,/2 B,/2 G,/2 E,/2 z/2 C,/2 F,/2 A,/2 F,/2 C,/2 F,/2 A,/2 |
+z/2 D,/2 F,/2 B,/2 F,/2 D,/2 F,/2 B,/2 z/2 D,/2 F,/2 B,/2 A,/2 G,/2 F,/2 B,/2 | z/2 G,/2 B,/2 E/2 B,/2 G,/2 B,/2 E/2 z/2 G,/2 B,/2 E/2 B,/2 G,/2 B,/2 E/2 | z/2 A,/2 B,/2 F/2 B,/2 A,/2 B,/2 F/2 z/2 A,/2 B,/2 F/2 B,/2 A,/2 B,/2 F/2 | z/2 E/2 B,/2 G,/2 z/2 C/2 A,/2 F,/2 z/2 G,/2 E,/2 B,/2 z/2 A,/2 F,/2 D/2 |
+z/2 A,/2 B,/2 D/2 B,/2 A,/2 B,/2 D/2 [G,B,E]2 z2 :: z/2 F,/2 B,/2 D/2 B,/2 F,/2 B,/2 D,/2 z/2 F,/2 A,/2 C/2 A,/2 F,/2 A,/2 C/2 | z/2 D,/2 G,/2 =C/2 G,/2 D,/2 G,/2 C/2 z/2 E,/2 G,/2 ^C/2 G,/2 E,/2 G,/2 C/2 | z/2 F,/2 A,/2 C/2 ^E,/2 B,/2 C/2 B,/2 z/2 F,/2 A,/2 C/2 A,/2 F,/2 A,/2 C/2 |
+z/2 G,/2 B,/2 G,/2 E,/2 G,/2 B,/2 G,/2 z/2 D,/2 F,/2 B,/2 A,/2 G,/2 F,/2 B,/2 | z/2 G,/2 B,/2 E/2 B,/2 G,/2 B,/2 E/2 z/2 G,/2 B,/2 E/2 B,/2 G,/2 B,/2 E/2 | z/2 A,/2 B,/2 F/2 B,/2 A,/2 B,/2 F/2 z/2 A,/2 B,/2 F/2 B,/2 A,/2 B,/2 F/2 | z/2 E/2 B,/2 G,/2 z/2 C/2 A,/2 F,/2 z/2 G,/2 E,/2 B,/2 z/2 A,/2 F,/2 D/2 |
+z/2 A,/2 B,/2 D/2 B,/2 A,/2 B,/2 D/2 [G,B,E]2 z2 :|
+V:slh
+|: [E,,E,]2 z2 E,, z E, z | [D,,D,]2 z2 D,, z D, z | [E,,E,]2 z2 [A,,,A,,]2 z2 |
+[B,,,B,,]2 z2 [B,,,B,,]2 z2 | [E,,E,]2 z2 E,, z E, z | [D,,D,]2 z2 D,, z D, z | [E,,E,] z A,, z B,, z B,, z |
+B,,,2 B,,2 [E,,B,,E,]2 z2 :: B,,2 z2 F,,2 z2 | [G,,,G,,]4 [C,,C,]2 z2 | A,,2 G,,2 F,,2 A,,2 |
+B,,2 B,,,2 B,,2 z2 | [E,,E,]2 z2 E,, z E, z | [D,,D,]2 z2 D,, z D, z | [E,,E,] z A,, z B,, z B,, z |
+B,,,4 z4 :|
+V:slh2
+|: z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 :: z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z2 B,,2 [E,,B,,E,]2 z2 :|

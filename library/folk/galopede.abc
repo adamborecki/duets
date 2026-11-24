@@ -1,0 +1,19 @@
+X:1
+T:Galopede
+C:English traditional country dance
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: english
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: galopede
+M:4/4
+L:1/8
+K:G
+[P:A]d c | "G"B2 B c "D7"A2 A B | "G"G2 G2 G2 A B | "C"c B c d e d c B |
+"Am"c2 A2 "D7"A2 d c | "G"B2 B c "D"A2 A B | "Em"G2 G2 "Em7/D"G2 A B | "Am/C"c B A G "D7"F G A F |
+"G"G2 G2 G2 :| [P:B]d c | "G"B2 g f "C"e2 e d | "Am"d c B c "D7"A2 d c |
+"G"B2 g f "C"e d c B | "Am"c2 A2 "D7"A2 d c | "G"B2 g f "C"e2 e d | "Am"d c B c "D7"A2 d c |
+"G"B d c B "D7"A c B A | "G"G2 G2 "D7"G2 B c | "G"d2 d d d2 g2 | "G"d2 d d d2 g2 |
+"G"d2 d2 "C"e d c B | "Am"c2 A2 "D7"A2 B c | "G"d2 d d d2 g2 | "Em"d2 d d d2 g2 |
+"Am"e d c B "D7"d c B A | "G"G2 G2 G2 |]

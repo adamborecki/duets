@@ -1,0 +1,19 @@
+X:1
+T:Dingle Regatta
+C:Irish traditional
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: dingle-regatta
+M:6/8
+L:1/8
+K:G
+|: [P:A]B/2 c/2 | "G"d ^c d e2 d | "G"B ^A B d2 B |
+"Am"A2 A "D7"A G A | "G"B2 A "D7"G B c | "G"d ^c d e2 d | "Em"B ^A B d2 B |
+"Am"A B c "D7"B2 A | "G"G5 :: [P:B]d | "G"d3 "D7"d e f |
+"G"g3 "Em"g f g | "Am"a3 "D7"a g a | "G"b2 a "D7"g f e | "G"d3 "D7"d e f |
+"G"g3 "Em"g f g | "Am"a2 g "D7"f2 e | "D7"d e f "G"g2 :: [P:C]d |
+"G"g b g d g d | "G"B d B G B G | "D7"F G A D E F | "G"G2 B "D7"d e f |
+"G"g b g d g d | "G"B d B G B G | "D7"F G A D E F | "G"G5 :|

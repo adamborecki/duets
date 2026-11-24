@@ -1,0 +1,31 @@
+X:1
+T:Alas, My God (II)
+T:Ach Gott und Herr · BWV 48.3
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, confession
+%%duets tune: Ach Gott und Herr
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 48.3), public domain; score from the music21 corpus.
+%%duets slug: bach-alas-my-god-2
+%%duets free-meter: yes
+M:4/4
+L:1/8
+K:Bb
+V:S
+"Bb"B2 | "F"A2 "C7"G2 "F7"!fermata!F2 F2 | "Gm7b5/Db"G2 "Cdim7"A2 "Gm"!fermata!B2 "D7/F#"c2 | "Gm"B2 "Dm"A2 "C7/Bb"G2 "F"A B |
+"C"G4 "F"!fermata!F2 z2 | "Bb/D"B2 | "Adim/C"A2 "Bb"B2 "F"!fermata!c2 c2 | "Bb7"d c "Eb7"B2 "Ab"!fermata!c2 "F7/A"F2 |
+"G7/B"G2 "A7/C#"A2 "Bb/D"B c "Dm"d2 | "F#dim7"c2 "Gm"B2 "C7/E"c2- "Fm"c2 | "Bb7/D"B2- "Ebm"B2- "Ebm/Gb"B2- "Bbsus4"B2- | "Bbsus4"!fermata!B2- "Bb"B4 |]
+V:A
+F2 | F2 =E2 !fermata!C2 C2 | F2 ^F2 !fermata!G2 A2 | G2 F2 C2 C2 |
+C4 !fermata!C2 z2 | D2 | E2 F2 !fermata!F2 F2 | F E _D2 !fermata!C2 F2 |
+F2 =E2 D3 G | A2 B4 _A2- | _A2 _G4 F E | !fermata!F6 |]
+V:T
+D2 | C2 C B, !fermata!A,2 A,2 | B,2 E2 !fermata!D2 D2 | D2 D2 =E2 F2 |
+F =E/2 D/2 E2 !fermata!A,2 z2 | F,2 | C2 D2 !fermata!A,2 A,2 | _A,2 G,2 !fermata!E2 E2 |
+D2 G2 F2 F2 | E2 D2 G2 F2- | F4 E4- | E2 D C !fermata!D2 |]
+V:B
+B,,2 | F,2 C,2 !fermata!F,,2 E,2 | _D,2 C,2 !fermata!G,2 ^F,2 | G,2 D C B, A, G, F, |
+C2 C,2 !fermata!F,2 z2 | D,2 | C,2 B,,2 !fermata!F,2 F,2 | B,,2 E,2 !fermata!_A,,2 =A,,2 |
+=B,,2 ^C,2 D,3 =E, | ^F,2 G, =F, =E,2 F, _E, | D,2 E, F, _G, _A, B,2 | !fermata!B,,6 |]

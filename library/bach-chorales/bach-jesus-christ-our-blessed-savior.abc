@@ -1,0 +1,31 @@
+X:1
+T:Jesus Christ, Our Blessed Savior
+T:Jesus Christus, unser Heiland · BWV 363
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, easter, communion
+%%duets tune: Jesus Christus, unser Heiland
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 363), public domain; score from the music21 corpus.
+%%duets slug: bach-jesus-christ-our-blessed-savior
+%%duets free-meter: yes
+M:4/4
+L:1/8
+K:Em
+V:S
+"Em"E2 "Bm"B2 "Cmaj7"B2 "Am/C"A2 | "B7"B2 "Em/G"E F "Em"G2 "C"G2 | "A#dim7"G2 "B"F2 "Em"!fermata!E4 | "Em"G2 "C"G2 "G/B"G2 "C"E2 |
+"G"G2 "Am"A2 "G"B2 "Am7"A2 | "Em/B"G2 "B"F2 "Em"!fermata!E4 | "Em"G2 "G/B"G2 "C"G2 "C/E"E2 | "C"G2 "Am"A2 "G"B2 "D"A2 |
+"G"!fermata!G4 z2 d2 | "C"e2 "D7"d c "Em"B A G A | "G"B2 "A7/C#"A2 "Em"G2 "Am6"F2 | "E"!fermata!E6 |]
+V:A
+B,2 B,2 E ^D E2 | ^D2 E D E2 E2 | E3 ^D B,4 | E2 E2 D2 C2 |
+D2 E F G3 F- | F E2 ^D B,4 | E2 G F E2 C2 | E D E F G3 F |
+D4 z2 G =F | E2 F2 G ^D E =D- | D G2 F2 E2 ^D | B,6 |]
+V:T
+G,2 F,2 G,2 F, E, | F,2 B, A, B,2 E ^D | ^C2 F, B,/2 A,/2 G,4 | B,2 C2 G,2 G,2 |
+G, A,/2 B,/2 C2 D E/2 D/2 C/2 B,/2 C | B,7/2 A,/2 G,4 | B, C D2 C2 G,2 | G,2 C2 D7/2 C/2 |
+B,4 z2 D2 | C B, A,2 G, C B, A, | G, D E B, B,2 C B,/2 A,/2 | ^G,6 |]
+V:B
+E,3 D, C,4 | B,, A, G, F, E, D, C, B,, | ^A,,2 B,,2 !fermata!E,,4 | E, D, C,2 B,,2 C,2- |
+C, B,, A,,2 G,,2 A,,2 | B,,4 !fermata!E,4 | E,2 B,,2 C, D, E, D, | C, B,, A,,2 G,,2 D,2 |
+!fermata!G,,4 z2 B,,2 | C,2 D,2 E,3 F, | G, B,, ^C, ^D, E, G,, A,, B,, | !fermata!E,,6 |]

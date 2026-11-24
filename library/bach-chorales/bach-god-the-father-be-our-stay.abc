@@ -1,0 +1,38 @@
+X:1
+T:God the Father, Be Our Stay
+T:Gott der Vater wohn uns bei · BWV 317
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trinity
+%%duets tune: Gott der Vater wohn uns bei
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 317), public domain; score from the music21 corpus.
+%%duets slug: bach-god-the-father-be-our-stay
+M:4/4
+L:1/8
+K:D
+V:S
+"D"A2 A2 "G"B2 "C#dim/E"c2 | "D"d2 "Bm7"d2 "A"!fermata!c2 "Em"B2 | "Bm"d2 "A/C#"A2 "D"F2 "Em7"G2 | "D/F#"F2 "A"E2 "D"!fermata!D4 ::
+"D"D2 "A/C#"E2 "D"F2- "D/A"F E | "Bm"D2 "Em/G"E2 "F#"!fermata!F2 "Bm"d2 | "F#m"c2 "Bm/D"d2 "C#m7"e2- "F#m7"e d | "A/E"c2 "E7"B2 "A"!fermata!A2 |
+"A7"A2 | "D/F#"A2 d2 "A7"c2 "D"A2 | "B7/D#"B A "Em"G2 "B"!fermata!F2 "A/C#"E2 | "D"F2 "Em7"G2 "F#m"A2- "G"A G |
+"D/A"F2 "A7"E2 "D"!fermata!D4 :| "D/F#"D2 "A/C#"E2 "D"F2- "D/A"F E | "D/F#"D2 "Em7/D"E2 "D"!fermata!F2 A2 | "D/F#"A2 "A"A2 "Bm"F2 "G"G2 |
+"D/A"F2 "A7"E2 "D"!fermata!D4 |]
+V:A
+F2 F2 G2 G2 | A2 A ^G !fermata!A2 =G2 | F2 E3 D2 C | D3 C !fermata!A,4 ::
+A,2 A, E2 D2 C | B,2 B,2 !fermata!C2 D E | F2 F B2 A/2 ^G/2 A2 | A2 ^G2 !fermata!E2 |
+E2 | F2 F2 E2 D E | F3 E2 !fermata!^D E2- | E D2 C2 D2 E- |
+E D2 C !fermata!A,4 :| A,2 A, E2 D2 C | D2 B, E !fermata!D2 D2- | D E F E D3 E- |
+E D2 C !fermata!A,4 |]
+V:T
+D2 D2 D2 E2 | F E D2 !fermata!E2 E2 | D2 E A, A,2 G,2 | A,3 A,/2 G,/2 !fermata!F,4 ::
+F,2 A,2 A,2 A, G, | F,2 B,2 !fermata!^A,2 B,2- | B, A, F2 E2 C D | E3 D !fermata!C2 |
+C2 | D2 A,2 A, G, F,2 | B,2 B,2 !fermata!B,2 B, A, | A,2 G,2 F, A, B,2 |
+A,3 G, !fermata!F,4 :| A,2 A,2 A,2 A,2 | A, F, G, A, !fermata!A,2 F, G, | A, B, C2 D C B,2 |
+A,3 G, !fermata!F,4 |]
+V:B
+D,2 D,2 G, F, E,2 | D, C, B,,2 !fermata!A,,2 E,2 | B,,2 C,2 D,2 E,2 | F, G, A,2 !fermata!D,4 ::
+D,2 C,2 D,2 A,,2 | B,, A,, G,,2 !fermata!F,,2 B,,2 | F,2 D,2 C,2 F,2 | E,2 E,,2 !fermata!A,,2 |
+A, G, | F, E, D,2 A,,2 D,2 | ^D,2 E,2 !fermata!B,,2 C,2 | D,2 E,2 F,2 G,2 |
+A,2 A,,2 !fermata!D,4 :| F,2 C,2 D,2 A, G, | F, D,2 C, !fermata!D,2 D, E, | F, G, A,2 B, A, G,2 |
+A,2 A,,2 !fermata!D,4 |]

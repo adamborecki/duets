@@ -1,0 +1,18 @@
+X:1
+T:Oh, Dem Golden Slippers
+C:James A. Bland, 1879
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: american, song
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: oh-dem-golden-slippers
+M:4/4
+L:1/8
+K:D
+[P:A]d e | "D"f2 f2 f e d e | "D"f2 f2 "A7"f2 d e | "D"f2 f2 f e d e |
+"A7"f2 e2 e2 c d | "A7"e2 e2 e d c d | "A7"e2 e2 e2 c d | "A7"e2 g2 f2 e2 |
+"D"e2 d2 d2 :| [P:B]c B |: "D"A6 d2 | "D7"f2 e2 d2 A2 |
+"G"B6 e2 | "Em"g2 f2 "E7"e2 d2 | "A7"c2 c2 c B c d | [1 "A7"e4 A4 |
+"D"d3 c "A7"d2 e2 | "D"f4 "A7"a4 :| [2 "A7"e4 g4 | "D"f3 g "A7"f2 e2 |
+"D"d4 d2 |]

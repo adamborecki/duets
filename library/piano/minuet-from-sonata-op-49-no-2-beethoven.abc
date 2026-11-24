@@ -1,0 +1,110 @@
+X:1
+T:Minuet from Sonata Op. 49 No. 2
+T:Tempo di Menuetto
+C:Ludwig van Beethoven
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, beethoven
+%%duets credit: Ludwig van Beethoven. Source edition: Stelios Samelis for the Mutopia Project (Public Domain).
+%%duets tempo-text: Tempo di menuetto
+%%duets slug: minuet-from-sonata-op-49-no-2-beethoven
+M:3/4
+L:1/8
+Q:1/4=112
+K:G
+V:S
+G3/2 F/2 | F4 F3/2 G/2 | G4 G3/2 B/2 | d3 e d c |
+B2 G z G3/2 F/2 | F4 F3/2 G/2 | G4 G3/2 B/2 | d3 _d c A |
+G2 z2 B3/2 B/2 | B2 c z c3/2 c/2 | c2 B z B3/2 B/2 | B A ^G A ^d e |
+G2 F z g3/2 f/2 | f4 f3/2 g/2 | g4 g3/2 b/2 | d'3 e' d' c' |
+b2 g z g3/2 f/2 | f4 f3/2 g/2 | g4 g3/2 b/2 | d'2 d'/2 ^c'/2 d'/2 c'/2 d'/2 =c'/2 b/2 a/2 |
+g2 z2 [Bd]2 | [eg]2 z2 [df]2 | [ce]2 z2 [Bd]2 | [cd]2 [cd]2 [cd]2 |
+[Bd]2 z4 | z/2 d/2 e/2 f/2 g/2 a/2 b/2 ^c'/2 d' d' | z/2 d/2 e/2 f/2 g/2 a/2 b/2 ^c'/2 d' d' | b a g f e d |
+a3 b/2 a/2 g/2 z/2 a/2 g/2 | f/2 z/2 g/2 f/2 e/2 z/2 f/2 e/2 d/2 z/2 e/2 d/2 | ^c2 z c d/2 _d/2 B/2 c/2 | d2 z d e/2 d/2 ^c/2 d/2 |
+a3 b/2 a/2 g/2 z/2 a/2 g/2 | f/2 z/2 g/2 f/2 e/2 z/2 f/2 e/2 d/2 z/2 e/2 d/2 | ^c2 z c e/2 d/2 c/2 d/2 | e3/2 g/2 d2 ^c2 |
+d e/2 f/2 g/2 a/2 b/2 ^c'/2 d' d' | d' a a f f d | d4 e3/2 ^c/2 | d e/2 f/2 g/2 a/2 b/2 ^c'/2 d' d' |
+(3d'aa (3aff (3fdd | d4 e3/2 ^c/2 | d3/2 d/2 ^c3/2 d/2 =c3/2 d/2 | B3/2 d/2 B3/2 d/2 ^c3/2 e/2 |
+d3/2 d/2 ^c3/2 d/2 =c3/2 d/2 | B3/2 d/2 B3/2 d/2 ^c3/2 e/2 | d3/2 d/2 ^c3/2 d/2 =c3/2 d/2 | B3/2 d/2 A3/2 d/2 G3/2 F/2 |
+F4 F3/2 G/2 | G4 G3/2 B/2 | d3 e d c | B2 G z G3/2 F/2 |
+F4 F3/2 G/2 | G4 G3/2 B/2 | d3 _d c A | G2 z2 B3/2 B/2 |
+B2 c z c3/2 c/2 | c2 B z B3/2 B/2 | B A ^G A ^d e | G2 F z g3/2 f/2 |
+f4 f3/2 g/2 | g4 g3/2 b/2 | d'3 e' d' c' | b2 g z g3/2 f/2 |
+f4 f3/2 g/2 | g4 g3/2 b/2 | d'2 d'/2 ^c'/2 d'/2 c'/2 d'/2 =c'/2 b/2 a/2 | g2 z2 c3/2 e/2 |
+[eg]3 [Ge] [A=f] [=Fd] | [Ec]2 [Ec] G c e | [eg]3 [Ge] [A=f] [=Fd] | [Ec]2 z c B c |
+d B G d c d | e c G e d e | =f g a e f d | c2 B G c e |
+[eg]3 [Ge] [A=f] [=Fd] | [Ec]2 [Ec] G c e | [eg]3 [Ge] [A=f] [=Fd] | [Ec]2 z c B c |
+d B G d c d | e c G e d e | _g c A g e f | g d B g a b |
+c' b a g _g e | d c B A G _G | E D z4 | z4 G3/2 F/2 |
+F4 F3/2 G/2 | G4 G3/2 B/2 | d3 e d c | B2 G z G3/2 F/2 |
+F4 F3/2 G/2 | G4 G3/2 B/2 | d3 _d c A | G2 z2 B3/2 B/2 |
+B2 c z c3/2 c/2 | c2 B z B3/2 B/2 | B A ^G A ^d e | G2 F z g3/2 f/2 |
+f4 f3/2 g/2 | g4 g3/2 b/2 | d'3 e' d' c' | b2 g z g3/2 f/2 |
+f4 f3/2 g/2 | g4 g3/2 b/2 | d'2 d'/2 ^c'/2 d'/2 c'/2 d'/2 =c'/2 b/2 a/2 | g2 z2 g3/2 =f/2 |
+=f2 z2 f3/2 e/2 | e2 z2 e3/2 d/2 | d2 z2 d3/2 c/2 | c2 z2 c3/2 A/2 |
+G F d3 G | G F d3 B | z A/2 c/2 z G/2 B/2 z F/2 A/2 | z/2 G/2 A/2 B/2 c/2 d/2 e/2 f/2 g/2 a/2 b/2 g/2 |
+f d'2 d' c'/2 b/2 a/2 g/2 | f/2 d'/2 ^c'/2 d'/2 c'/2 d'/2 c'/2 d'/2 =c'/2 b/2 a/2 g/2 | ^d'/2 e'/2 d'/2 e'/2 g2 b/2 a/2 g/2 a/2 | g2 z2 [CF]2 |
+[B,G]2 z4 |]
+V:lh
+[G,B,] D | [A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | [F,A,] D D, D [F,A,] D |
+[G,B,] D D, D [G,B,] D | [A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | z2 [D,C]2 [D,C]2 |
+[G,B,]2 G,,2 z2 | [^DF]2 [EG] z3 | [EG]2 [DF] z3 | z2 C2 C2 |
+B,2 A, z3 | [A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | [F,A,] D D, D [F,A,] D |
+[G,B,] D D, D [G,B,] D | [A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | z2 [D,C]2 [D,C]2 |
+[G,B,]2 G,,2 z2 | z/2 G,/2 A,/2 B,/2 C/2 D/2 E/2 F/2 G G | z/2 G,/2 A,/2 B,/2 C/2 D/2 E/2 F/2 G G | F E F D E F |
+G D E F G A | [GB]2 z2 [FA]2 | [EG]2 z2 [DF]2 | z2 G,2 ^G,2 |
+A,/2 ^C/2 E/2 _D/2 A,/2 C/2 E/2 D/2 A,/2 C/2 E/2 D/2 | A,/2 D/2 F/2 D/2 A,/2 D/2 F/2 D/2 A,/2 D/2 F/2 D/2 | A,/2 E/2 G/2 E/2 A,/2 E/2 G/2 E/2 A,/2 E/2 G/2 E/2 | A,/2 D/2 F/2 D/2 A,/2 D/2 F/2 D/2 A,/2 D/2 F/2 D/2 |
+A,/2 ^C/2 E/2 _D/2 A,/2 C/2 E/2 D/2 A,/2 C/2 E/2 D/2 | A,/2 D/2 F/2 D/2 A,/2 D/2 F/2 D/2 A,/2 D/2 F/2 D/2 | A,/2 E/2 G/2 E/2 ^A,/2 E/2 G/2 E/2 B,/2 D/2 F/2 D/2 | G, G [A,F]2 [A,E]2 |
+[DF]2 z4 | z6 | z2 [A,F]2 [A,G]2 | [DF]2 z4 |
+z6 | z2 [A,F]2 [A,G]2 | [DF]2 z2 [DF]2 | [DG]2 z2 [DE]2 |
+[DF]2 z2 [DF]2 | [DG]2 z2 [DE]2 | [DF]2 z4 | z4 [G,B,] D |
+[A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | [F,A,] D D, D [F,A,] D | [G,B,] D D, D [G,B,] D |
+[A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | z2 [D,C]2 [D,C]2 | [G,B,]2 G,,2 z2 |
+[^DF]2 [EG] z3 | [EG]2 [DF] z3 | z2 C2 C2 | B,2 A, z3 |
+[A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | [F,A,] D D, D [F,A,] D | [G,B,] D D, D [G,B,] D |
+[A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | z2 [D,C]2 [D,C]2 | [G,B,]2 G,,2 z2 |
+C, C C, C C, C | C, C C, C C, C | C, C C, C C, C | C, C C, z3 |
+z2 [G,B,D]2 z2 | z2 [CE]2 z2 | z3 ^C D =F | E2 D z3 |
+z C z C z C | z C z C z C | z C z C z C | z C z4 |
+z2 [G,B,D]2 z2 | z2 [CE]2 z2 | z2 [CD]2 z2 | z2 [B,D]2 z2 |
+z2 [_G,D]2 z2 | z6 | z2 ^C D C D | C D C D [G,B,] D |
+[A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | [F,A,] D D, D [F,A,] D | [G,B,] D D, D [G,B,] D |
+[A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | z2 [D,C]2 [D,C]2 | [G,B,]2 G,,2 z2 |
+[^DF]2 [EG] z3 | [EG]2 [DF] z3 | z2 C2 C2 | B,2 A, z [G,B,] D |
+[A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | [F,A,] D D, D [F,A,] D | [G,B,] D D, D [G,B,] D |
+[A,C] D D, D [A,C] D | [G,B,] D D, D [G,B,] D | z2 [D,C]2 [D,C]2 | [G,B,]2 G,,2 z2 |
+B, G D G B, G | C E C E C E | ^G, E B, E G, E | A, E C E C E |
+[A,C] D [F,A,] D [G,B,] D | [A,C] D [F,A,] D [G,B,] D | C,2 D,2 D,2 | G,2 z3 [GB] |
+[Ac] d [FA] d [GB] d | [Ac] d [FA] d [GB] d | C2 [DB]2 [Dc]2 | [GB]2 z2 [D,A,]2 |
+[G,,G,]2 z4 |]
+V:lh2
+z2 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+D,3 z3 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | D,3 z3 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | G,3 z3 |
+C, z C, z C, z | C, z C, z C, z | C, z C, z C, z | C, z C, z3 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | D,3 z3 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 |]

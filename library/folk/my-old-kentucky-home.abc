@@ -1,0 +1,18 @@
+X:1
+T:My Old Kentucky Home
+C:Stephen Foster, 1853
+S:OpenEWLD
+R:ballad
+%%duets category: folk
+%%duets tags: american, foster
+%%duets year: 1853
+%%duets credit: Melody and chords: public domain in the United States (published 1853); lead sheet from OpenEWLD.
+%%duets slug: my-old-kentucky-home
+M:4/4
+L:1/8
+K:D
+z6 "D"F2 |: F2 F2 D2 E F | "G"G F G B "D"A3 G | F E z D "D7"D C z D |
+"A"E6 "A7"E2 | "D"F2 F2 D2 E F | "G"G F G B "D"A2 D E | [1 F2 F2 "A"E D F E |
+"D"D6 F2 :| [2 F D G F "A7"E3 C | "D"D6 z2 | A3 F "G"G3 B |
+"D"A2 F4 "F#m"E2 | "Bm"D3 E "G"D3 B, | "D"D6 D E | "D"F2 F2 "D7"D2 E F |
+"G"G F G B "D"A2 D E | F D G F "A7"E2 E C | "D"D6 z2 |]

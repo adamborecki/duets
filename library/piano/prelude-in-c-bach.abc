@@ -1,0 +1,44 @@
+X:1
+T:Prelude in C
+T:The Well-Tempered Clavier I, BWV 846
+C:Johann Sebastian Bach
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, bach
+%%duets credit: Johann Sebastian Bach. Source edition: Tobias Erbsland for the Mutopia Project (Public Domain).
+%%duets tempo-text: Moderato
+%%duets slug: prelude-in-c-bach
+M:4/4
+L:1/8
+Q:1/4=72
+K:C
+V:S
+z G/2 c/2 e/2 G/2 c/2 e/2 z G/2 c/2 e/2 G/2 c/2 e/2 | z A/2 d/2 f/2 A/2 d/2 f/2 z A/2 d/2 f/2 A/2 d/2 f/2 | z G/2 d/2 f/2 G/2 d/2 f/2 z G/2 d/2 f/2 G/2 d/2 f/2 | z G/2 c/2 e/2 G/2 c/2 e/2 z G/2 c/2 e/2 G/2 c/2 e/2 |
+z A/2 e/2 a/2 A/2 e/2 a/2 z A/2 e/2 a/2 A/2 e/2 a/2 | z ^F/2 A/2 d/2 F/2 A/2 d/2 z F/2 A/2 d/2 F/2 A/2 d/2 | z G/2 d/2 g/2 G/2 d/2 g/2 z G/2 d/2 g/2 G/2 d/2 g/2 | z E/2 G/2 c/2 E/2 G/2 c/2 z E/2 G/2 c/2 E/2 G/2 c/2 |
+z E/2 G/2 c/2 E/2 G/2 c/2 z E/2 G/2 c/2 E/2 G/2 c/2 | z D/2 ^F/2 c/2 D/2 F/2 c/2 z D/2 F/2 c/2 D/2 F/2 c/2 | z D/2 G/2 B/2 D/2 G/2 B/2 z D/2 G/2 B/2 D/2 G/2 B/2 | z E/2 G/2 _d/2 E/2 G/2 d/2 z E/2 G/2 d/2 E/2 G/2 d/2 |
+z D/2 A/2 d/2 D/2 A/2 d/2 z D/2 A/2 d/2 D/2 A/2 d/2 | z D/2 F/2 B/2 D/2 F/2 B/2 z D/2 F/2 B/2 D/2 F/2 B/2 | z C/2 G/2 c/2 C/2 G/2 c/2 z C/2 G/2 c/2 C/2 G/2 c/2 | z A,/2 C/2 F/2 A,/2 C/2 F/2 z A,/2 C/2 F/2 A,/2 C/2 F/2 |
+z A,/2 C/2 F/2 A,/2 C/2 F/2 z A,/2 C/2 F/2 A,/2 C/2 F/2 | z G,/2 B,/2 F/2 G,/2 B,/2 F/2 z G,/2 B,/2 F/2 G,/2 B,/2 F/2 | z G,/2 C/2 E/2 G,/2 C/2 E/2 z G,/2 C/2 E/2 G,/2 C/2 E/2 | z ^A,/2 C/2 E/2 A,/2 C/2 E/2 z A,/2 C/2 E/2 A,/2 C/2 E/2 |
+z A,/2 C/2 E/2 A,/2 C/2 E/2 z A,/2 C/2 E/2 A,/2 C/2 E/2 | z A,/2 C/2 _E/2 A,/2 C/2 E/2 z A,/2 C/2 E/2 A,/2 C/2 E/2 | z B,/2 C/2 D/2 B,/2 C/2 D/2 z B,/2 C/2 D/2 B,/2 C/2 D/2 | z G,/2 B,/2 D/2 G,/2 B,/2 D/2 z G,/2 B,/2 D/2 G,/2 B,/2 D/2 |
+z G,/2 C/2 E/2 G,/2 C/2 E/2 z G,/2 C/2 E/2 G,/2 C/2 E/2 | z G,/2 C/2 F/2 G,/2 C/2 F/2 z G,/2 C/2 F/2 G,/2 C/2 F/2 | z G,/2 B,/2 F/2 G,/2 B,/2 F/2 z G,/2 B,/2 F/2 G,/2 B,/2 F/2 | z A,/2 C/2 _G/2 A,/2 C/2 G/2 z A,/2 C/2 G/2 A,/2 C/2 G/2 |
+z G,/2 C/2 G/2 G,/2 C/2 G/2 z G,/2 C/2 G/2 G,/2 C/2 G/2 | z G,/2 C/2 F/2 G,/2 C/2 F/2 z G,/2 C/2 F/2 G,/2 C/2 F/2 | z G,/2 B,/2 F/2 G,/2 B,/2 F/2 z G,/2 B,/2 F/2 G,/2 B,/2 F/2 | z G,/2 ^A,/2 E/2 G,/2 A,/2 E/2 z G,/2 A,/2 E/2 G,/2 A,/2 E/2 |
+z F,/2 A,/2 C/2 F/2 C/2 A,/2 C/2 A,/2 F,/2 A,/2 F,/2 D,/2 F,/2 D,/2 | z G/2 B/2 d/2 f/2 d/2 B/2 d/2 B/2 G/2 B/2 D/2 F/2 E/2 D/2 | [EGc]8 |]
+V:lh
+C4 C4 | C4 C4 | B,4 B,4 | C4 C4 |
+C4 C4 | C4 C4 | B,4 B,4 | B,4 B,4 |
+A,4 A,4 | D,4 D,4 | z/2 B,7/2 z/2 B,7/2 | z/2 _B,7/2 z/2 B,7/2 |
+z/2 A,7/2 z/2 A,7/2 | z/2 _A,7/2 z/2 A,7/2 | z/2 G,7/2 z/2 G,7/2 | z/2 F,7/2 z/2 F,7/2 |
+z/2 F,7/2 z/2 F,7/2 | z/2 D,7/2 z/2 D,7/2 | C,4 C,4 | C,4 C,4 |
+F,,4 F,,4 | ^F,,4 F,,4 | _A,,4 A,,4 | G,,4 G,,4 |
+G,,4 G,,4 | G,,4 G,,4 | G,,4 G,,4 | G,,4 G,,4 |
+G,,4 G,,4 | G,,4 G,,4 | G,,4 G,,4 | C,,4 C,,4 |
+C,,8 | C,,8 | [C,,C,]8 |]
+V:lh2
+z/2 E7/2 z/2 E7/2 | z/2 D7/2 z/2 D7/2 | z/2 D7/2 z/2 D7/2 | z/2 E7/2 z/2 E7/2 |
+z/2 E7/2 z/2 E7/2 | z/2 D7/2 z/2 D7/2 | z/2 D7/2 z/2 D7/2 | z/2 C7/2 z/2 C7/2 |
+z/2 C7/2 z/2 C7/2 | z/2 A,7/2 z/2 A,7/2 | G,4 G,4 | G,4 G,4 |
+F,4 F,4 | F,4 F,4 | E,4 E,4 | E,4 E,4 |
+D,4 D,4 | G,,4 G,,4 | z/2 E,7/2 z/2 E,7/2 | z/2 G,7/2 z/2 G,7/2 |
+z/2 F,7/2 z/2 F,7/2 | z/2 C,7/2 z/2 C,7/2 | z/2 F,7/2 z/2 F,7/2 | z/2 F,7/2 z/2 F,7/2 |
+z/2 E,7/2 z/2 E,7/2 | z/2 D,7/2 z/2 D,7/2 | z/2 D,7/2 z/2 D,7/2 | z/2 ^D,7/2 z/2 D,7/2 |
+z/2 E,7/2 z/2 E,7/2 | z/2 D,7/2 z/2 D,7/2 | z/2 D,7/2 z/2 D,7/2 | z/2 C,7/2 z/2 C,7/2 |
+z/2 C,15/2 | z/2 B,,15/2 | z8 |]

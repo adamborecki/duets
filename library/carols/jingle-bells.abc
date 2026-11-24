@@ -1,0 +1,22 @@
+X:1
+T:Jingle Bells
+C:James Lord Pierpont, 1857
+S:OpenEWLD
+R:march
+%%duets category: carol
+%%duets tags: christmas
+%%duets year: 1857
+%%duets credit: Melody and chords: public domain in the United States (published 1857); lead sheet from OpenEWLD.
+%%duets slug: jingle-bells
+M:4/4
+L:1/8
+K:G
+"G"D2 B2 A2 G2 | D4 z2 D D | D2 B2 A2 G2 | "C"E4 z2 E2 |
+E2 c2 "Am"B2 A2 | "D"F4 z2 F2 | d2 d2 "D7"c2 A2 | "G"B4 z2 D2 |
+"G"D2 B2 A2 G2 | D4 z2 D2 | D2 B2 A2 G2 | "C"E4 z2 E2 |
+E2 c2 "Am"B2 A2 | "G/D"d2 d2 d3 d | e2 d2 "D7"c2 A2 | "G"G4 "D7"d4 |
+"G"B2 B2 B4 | B2 B2 B4 | B2 d2 G3 A | B4- "G7"B2 z2 |
+"C"c2 c2 c3 c | "G"c2 B2 B2 B B | "A7"B2 A2 A2 B2 | "D7"A4 d4 |
+"G"B2 B2 B4 | B2 B2 B4 | B2 d2 G3 A | B4- "G7"B4 |
+"C"c2 c2 c3 c | "G"c2 B2 B2 B B | "D"d2 d2 "D7"c2 A2 | [1 "G"G6 D2 :|
+[2 G8 |]

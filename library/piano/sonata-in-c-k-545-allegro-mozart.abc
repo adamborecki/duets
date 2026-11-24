@@ -1,0 +1,54 @@
+X:1
+T:Sonata in C, K. 545: Allegro
+T:Sonata facile, first movement
+C:Wolfgang Amadeus Mozart
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, mozart
+%%duets credit: Wolfgang Amadeus Mozart. Source edition: Alejandro Sierra for the Mutopia Project (Creative Commons Attribution-ShareAlike 3.0).
+%%duets tempo-text: Allegro
+%%duets slug: sonata-in-c-k-545-allegro-mozart
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:S
+|: c4 e2 g2 | B3 c/2 d/2 c2 z2 | a4 g2 c'2 |
+g2 f e/2 f/2 e2 z2 | A B/2 c/2 d/2 e/2 f/2 g/2 a/2 g/2 f/2 e/2 d/2 c/2 B/2 A/2 | G A/2 B/2 c/2 d/2 e/2 f/2 g/2 f/2 e/2 d/2 c/2 B/2 A/2 G/2 | F G/2 A/2 B/2 c/2 d/2 e/2 f/2 e/2 d/2 c/2 B/2 A/2 G/2 F/2 |
+E F/2 G/2 A/2 B/2 c/2 d/2 e/2 d/2 c/2 B/2 A/2 G/2 F/2 E/2 | D E/2 F/2 G/2 A/2 B/2 ^c/2 d/2 A/2 B/2 c/2 d/2 e/2 f/2 g/2 | a/2 b/2 c'/2 b/2 a/2 g/2 f/2 e/2 f/2 g/2 a/2 g/2 f/2 e/2 d/2 c/2 | B g e/2 z/2 c/2 z/2 d g e/2 z/2 c/2 z/2 |
+d z [Bdg] z G z3 | z8 | d' b g3 a/2 b/2 a g | g3/2 ^f/4 z/4 f2 z4 |
+d' b g3 a/2 b/2 a g | g3/2 ^f/2 f2 z4 | d'2 z/2 d'/2 b/2 g/2 e2 z/2 e/2 g/2 e/2 | c'2 z/2 c'/2 a/2 _g/2 d2 z/2 d/2 g/2 d/2 |
+b2 z/2 b/2 g/2 e/2 c2 z/2 c/2 e/2 c/2 | a2 z/2 a/2 _g/2 d/2 B2 z/2 =g/2 d/2 B/2 | A4 c z e z | a3 b/4 a/4 ^g/4 a/4 c' a c' a |
+b g d'4 c'/2 b/2 a/2 g/2 | a15/2 z/2 | g2 g/2 d/2 g/2 b/2 d'/2 b/2 g/2 b/2 c'/2 a/2 ^f/2 a/2 | g z G/2 D/2 G/2 B/2 d/2 B/2 G/2 B/2 c/2 A/2 ^F/2 A/2 |
+G z [db] z [Bg] z3 :: G z g/2 d/2 g/2 ^a/2 d'/2 _b/2 g/2 a/2 c'/2 =a/2 ^f/2 a/2 | g z G/2 D/2 G/2 ^A/2 d/2 _B/2 G/2 A/2 c/2 =A/2 ^F/2 A/2 | G z7/2 g/2 _b/2 a/2 g/2 f/2 e/2 d/2 |
+^c z7/2 ^c'/2 e'/2 d'/2 _d'/2 _b/2 a/2 g/2 | f2 d/2 A/2 d/2 f/2 a/2 f/2 d/2 f/2 g/2 e/2 ^c/2 e/2 | d z D/2 A,/2 D/2 F/2 A/2 F/2 D/2 F/2 G/2 E/2 ^C/2 E/2 | z/2 D/2 E/2 F/2 G/2 A/2 B/2 ^c/2 d z3 |
+z/2 B/2 c/2 d/2 e/2 ^f/2 ^g/2 a/2 b z3 | z/2 a/2 e'/2 d'/2 c'/2 b/2 a/2 g/2 f z3 | z/2 g/2 d'/2 c'/2 b/2 a/2 g/2 f/2 e z3 | z/2 f/2 c'/2 b/2 a/2 g/2 f/2 e/2 d z3 |
+z/2 e/2 b/2 a/2 _a/2 f/2 e/2 d/2 c z3 | z/2 ^A/2 d/2 c/2 _B/2 =A/2 G/2 F/2 E/2 F/2 G/2 A/2 ^A/2 c/2 d/2 e/2 | f4 a2 c'2 | e3 f/2 g/2 f2 z2 |
+d'4 c'2 f'2 | c'2 _b a/2 b/2 a2 z2 | d e/2 f/2 g/2 a/2 ^a/2 c'/2 d'/2 c'/2 _b/2 =a/2 g/2 f/2 e/2 d/2 | c d/2 e/2 f/2 g/2 a/2 ^a/2 c'/2 _b/2 =a/2 g/2 f/2 e/2 d/2 c/2 |
+^A c/2 d/2 e/2 f/2 g/2 a/2 _b/2 a/2 g/2 f/2 e/2 d/2 c/2 _B/2 | A ^A/2 c/2 d/2 e/2 f/2 g/2 a/2 g/2 f/2 e/2 d/2 c/2 _B/2 =A/2 | a z5 [ca] z | [cg] z5 [cg] z |
+[cf] z5 [Bf] z | [ce] z5 [ce] z | d/2 D/2 E/2 F/2 G/2 A/2 B/2 ^c/2 d/2 A/2 B/2 c/2 d/2 e/2 f/2 g/2 | a/2 b/2 c'/2 b/2 a/2 g/2 f/2 e/2 f/2 g/2 a/2 g/2 f/2 e/2 d/2 c/2 |
+B g e/2 z/2 c/2 z/2 d g e/2 z/2 c/2 z/2 | d z [Bdg] z G z3 | z8 | g e c3 d/2 e/2 d c |
+c3/2 B/4 z/4 B2 z4 | g e c3 d/2 e/2 d c | c3/2 B/2 B2 z4 | g2 z/2 g/2 e/2 c/2 A2 z/2 A/2 c/2 A/2 |
+f2 z/2 f/2 d/2 B/2 G2 z/2 g/2 b/2 g/2 | e'2 z/2 e'/2 c'/2 a/2 f2 z/2 f/2 a/2 f/2 | d'2 z/2 d'/2 b/2 g/2 e2 z/2 c'/2 g/2 e/2 | d4 d z d z |
+a4 a z a z | g a/2 b/2 c'/2 d'/2 e'/2 d'/2 c'/2 b/2 a/2 g/2 f/2 e/2 d/2 c/2 | d15/2 z/2 | c z c/2 G/2 c/2 e/2 g/2 e/2 c/2 e/2 f/2 d/2 B/2 d/2 |
+c z C/2 G,/2 C/2 E/2 G/2 E/2 C/2 E/2 F/2 D/2 B,/2 D/2 | C z [egc'] z c2 z2 :|
+V:lh
+|: C G E G C G E G | D G F G C G E G | C A F A C G E G |
+B, G D G C G E G | F2 z4 [F,C] z | [E,C] z5 [E,C] z | [D,C] z5 [D,B,] z |
+[C,C] z5 [C,E,] z | [F,A,]8 | F,3 G, A,3 _G, | G,,/2 B,,/2 D,/2 G,/2 G,,/2 C,/2 E,/2 G,/2 G,,/2 B,,/2 D,/2 G,/2 G,,/2 C,/2 E,/2 G,/2 |
+G,, z G, z G,, z3 | ^C/2 D/2 C/2 D/2 C/2 D/2 C/2 D/2 =C/2 D/2 C/2 D/2 C/2 D/2 C/2 D/2 | B,/2 D/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 | C/2 D/2 B,/2 D/2 A,/2 D/2 B,/2 D/2 C/2 D/2 B,/2 D/2 C/2 D/2 A,/2 D/2 |
+B,/2 D/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 B,/2 D/2 | C/2 D/2 B,/2 D/2 A,/2 D/2 B,/2 D/2 C/2 D/2 B,/2 D/2 C/2 D/2 A,/2 D/2 | z/2 B,/2 D/2 G/2 B2 z/2 C/2 E/2 G/2 c2 | z/2 A,/2 C/2 ^F/2 A2 z/2 B,/2 D/2 F/2 B2 |
+z/2 G,/2 B,/2 E/2 G2 z/2 A,/2 C/2 E/2 A2 | z/2 ^F,/2 A,/2 D/2 _G2 z/2 G,/2 B,/2 D/2 =G2 | [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 | [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 [CE]/2 z/2 |
+D/2 B/2 G/2 B/2 D/2 B/2 G/2 B/2 D/2 B/2 G/2 B/2 D/2 B/2 G/2 B/2 | D/2 c/2 ^F/2 c/2 D/2 c/2 F/2 c/2 D/2 c/2 F/2 c/2 D/2 c/2 F/2 c/2 | [GB]2 z4 [DAc]2 | [GB]2 z4 [D,A,C]2 |
+[G,B,]2 [G,,G,]2 [G,,G,]2 z2 :: [G,,G,]2 z4 [DAc]2 | [G_B]2 z4 [D,A,C]2 | z/2 G,/2 A,/2 ^A,/2 C/2 D/2 E/2 ^F/2 G z3 |
+z/2 A,/2 B,/2 C/2 D/2 E/2 ^F/2 ^G/2 A z3 | [D,,D,]2 z4 [A,EG]2 | [DF] z5 [A,,E,G,]2 | [D,F,] z7/2 D/2 F/2 E/2 D/2 C/2 B,/2 A,/2 |
+^G, z7/2 G,/2 B,/2 A,/2 _A,/2 F,/2 E,/2 D,/2 | C, z7/2 D/2 A/2 G/2 F/2 E/2 D/2 C/2 | B, z7/2 C/2 G/2 F/2 E/2 D/2 C/2 B,/2 | A, z7/2 B,/2 F/2 E/2 D/2 C/2 B,/2 A,/2 |
+^G, z7/2 A,/2 C/2 B,/2 A,/2 =G,/2 F,/2 E,/2 | D,4 [C,G,^A,]4 | F c A c F c A c | G c ^A c F c =A c |
+F d ^A d F c =A c | E c G c F c A c | _B2 z4 [_B,F] z | [A,F] z5 [A,F] z |
+[G,F] z5 [G,E] z | [F,F] z7 | F, G,/2 A,/2 ^A,/2 C/2 D/2 E/2 F/2 E/2 D/2 C/2 _B,/2 =A,/2 G,/2 F,/2 | E, F,/2 G,/2 A,/2 B,/2 C/2 D/2 E/2 D/2 C/2 B,/2 A,/2 G,/2 F,/2 E,/2 |
+D, E,/2 F,/2 G,/2 A,/2 B,/2 C/2 D/2 C/2 B,/2 A,/2 G,/2 F,/2 E,/2 D,/2 | C, D,/2 E,/2 F,/2 G,/2 A,/2 B,/2 C/2 B,/2 A,/2 G,/2 F,/2 E,/2 D,/2 C,/2 | [F,A,]8 | F,3 G, A,3 _G, |
+G,,/2 B,,/2 D,/2 G,/2 G,,/2 C,/2 E,/2 G,/2 G,,/2 B,,/2 D,/2 G,/2 G,,/2 C,/2 E,/2 G,/2 | G,, z G, z G,, z3 | ^F/2 G/2 F/2 G/2 F/2 G/2 F/2 G/2 =F/2 G/2 F/2 G/2 F/2 G/2 F/2 G/2 | E/2 G/2 E/2 G/2 E/2 G/2 E/2 G/2 E/2 G/2 E/2 G/2 E/2 G/2 E/2 G/2 |
+F/2 G/2 E/2 G/2 D/2 G/2 E/2 G/2 F/2 G/2 E/2 G/2 F/2 G/2 D/2 G/2 | E/2 G/2 E/2 G/2 E/2 G/2 E/2 G/2 E/2 G/2 E/2 G/2 E/2 G/2 E/2 G/2 | F/2 G/2 E/2 G/2 D/2 G/2 E/2 G/2 F/2 G/2 E/2 G/2 F/2 G/2 D/2 G/2 | z/2 E,/2 G,/2 C/2 E2 z/2 F,/2 A,/2 C/2 F2 |
+z/2 D,/2 F,/2 B,/2 D2 z/2 E,/2 G,/2 B,/2 E2 | z/2 C/2 E/2 A/2 c2 z/2 D/2 F/2 A/2 d2 | z/2 B,/2 D/2 G/2 B2 z/2 C/2 E/2 G/2 c2 | z [FA]/2 z/2 [FA]/2 z/2 [FA]/2 z/2 [FA]/2 z/2 [FA]/2 z/2 [FA]/2 z/2 [FA]/2 z/2 |
+z [^F,C_E]/2 z/2 [F,CE]/2 z/2 [F,CE]/2 z/2 [F,CE]/2 z/2 [_G,CE]/2 z/2 [G,CE]/2 z/2 [G,CE]/2 z/2 | G,/2 E/2 C/2 E/2 G,/2 E/2 C/2 E/2 G,/2 E/2 C/2 E/2 G,/2 E/2 C/2 E/2 | G,/2 F/2 B,/2 F/2 G,/2 F/2 B,/2 F/2 G,/2 F/2 B,/2 F/2 G,/2 F/2 B,/2 F/2 | [CE] z5 [G,DF]2 |
+[CE] z5 [G,,D,F,]2 | [C,E,]2 [C,C] z [C,,C,]2 z2 :|

@@ -1,0 +1,38 @@
+X:1
+T:Melodious Piece No. 20
+T:Melodische Übungsstücke, Op. 149 No. 20
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Hongroise
+%%duets slug: diabelli-op149-20
+M:2/4
+L:1/8
+Q:1/4=70
+K:F
+V:S
+|: d' d'2 d' | f'/4 z/4 e'/4 z/4 d'/2 z/2 f'/4 z/4 e'/4 z/4 d'/2 z/2 | e' a'2 a' |
+e' a'2 g'/2 e'/2 | d' d'2 d' | f'/4 z/4 e'/4 z/4 d'/2 z/2 f'/4 z/4 e'/4 z/4 d'/2 z/2 | e'/2 z/2 e'/2 f'/2 g' a'/2 g'/2 |
+f' f'/4 z/4 e'/4 z/4 f'/2 z3/2 :: e'/4 z/4 f'/4 z/4 g'2 g' | e'/4 z/4 f'/4 z/4 g'/4 z/4 f'/4 z/4 e'/4 z/4 f'/4 z/4 g'/4 z/4 f'/4 z/4 | f'/4 z/4 g'/4 z/4 a'2 a' |
+f'/4 z/4 g'/4 z/4 a'/4 z/4 g'/4 z/4 f'/4 z/4 g'/4 z/4 a'/4 z/4 g'/4 z/4 | g'/4 z/4 a'/4 z/4 f'/4 z/4 g'/4 z/4 e'/4 z/4 f'/4 z/4 g'/4 z/4 e'/4 z/4 | f'/4 z/4 g'/4 z/4 e'/4 z/4 f'/4 z/4 d'/4 z/4 e'/4 z/4 f'/4 z/4 d'/4 z/4 | e' e'/2 d'/2 e' f'/2 e'/2 |
+d' z3 :|
+V:plh
+|: [dfa]2 [dfa]2 | [dfa]2 [dfa]2 | e a2 a |
+e a2 g/2 e/2 | d2 [dfa]2 | [dfa]2 [dfa]2 | e/2 z/2 e/2 f/2 g a/2 g/2 |
+f f/4 z/4 e/4 z/4 f/2 z3/2 :: e/4 z/4 f/4 z/4 g2 g | [eg] z [eg] z | f/4 z/4 g/4 z/4 a2 a |
+[fa] z [fa] z | g/2 z/2 f/2 z/2 e/2 z3/2 | f/2 z/2 e/2 z/2 d/2 z3/2 | e e/2 d/2 e f/2 e/2 |
+d z3 :|
+V:srh
+|: z [A,DF]2 [A,DF] | z [A,DF]2 [A,DF] | z [A,EG]2 [A,EG] |
+z [A,EG]2 [A,EG] | z [A,DF]2 [A,DF] | z [A,DF]2 [A,DF] | z [B,EG]2 [B,EG] |
+[A,F] [A,CF] [A,CF] z :: B,/2 E/2 C/2 E/2 B,/2 E/2 C/2 E/2 | B, [B,CE]2 [B,CE] | A,/2 F/2 C/2 F/2 A,/2 F/2 C/2 F/2 |
+A, [A,CF]2 [A,CF] | z [A,EG]2 [A,EG] | z [A,DF]2 [A,DF] | z [B,DE] z [A,_DEG] |
+[A,DF] D/2 ^C/2 D/2 z3/2 :|
+V:slh
+|: [D,,D,] z [D,,D,] z | [D,,D,] z [D,,D,] z | [_D,,_D,] z [A,,,A,,] z |
+[_D,,_D,] z [A,,,A,,] z | [D,,D,] z [D,,D,] z | [D,,D,] z [D,,D,] z | [C,,C,] z [C,,C,] z |
+[F,,F,] [F,,F,] [F,,F,] z :: C,, z C, z | C,, [C,,C,]2 [C,,C,] | F,, z F, z |
+F,, [F,,F,]2 [F,,F,] | _D, z A,, z | D, z F,, z | G,, z A,, z |
+D,,/2 z/2 [D,,F,,A,,D,]/2 z/2 [D,,F,,A,,D,] z :|

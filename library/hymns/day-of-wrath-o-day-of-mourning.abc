@@ -1,0 +1,38 @@
+X:1
+T:Day of Wrath, O Day of Mourning
+T:DIES IRAE (DYKES)
+C:John Bacchus Dykes, 1861
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: end-times
+%%duets tune: DIES IRAE (DYKES)
+%%duets year: 1861
+%%duets credit: Tune and setting: public domain ("Hymns Ancient and Modern", 1869), via the Open Hymnal Project.
+%%duets lyricist: Thomas of Celano, 13th Century. Translated by William J. Irons, 1848
+%%duets notes: intro 11-13
+%%duets slug: day-of-wrath-o-day-of-mourning
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"Dm"F3 E D2 "Em7/D"E2 | "Dm"F2 "Gm/D"G2 "Dm/F"A2 D2 | "Gm"B2 "Edim/G"B2 "Dm/F"A2 D2 | "Em7b5"G2 "Dm/F"F2 "A"E2 "D"^F2 |
+"Gm"G2 "Em/G"G2 "A7"G2 "Dm/A"F2 | "A"E2 "Dm/F"F2 "A7"E2 "Dm"!fermata!D2 | "Dm"F2- "Bb"F B "F7"B3 A | "Eb"G2 "F7"A2 "Eb/Bb"B2 "Bb"F2 |
+"Bb/F"F2 B2 "F7"B3 A | "Eb"G2 "F7"A2 "Bb"B2 F2 | "Bb"d2 "Gm6"d2 "Dm/F"d3 D | "Gm6"E2 "Gm"G2 "Dm/A"F4- |
+"A7"F2 E2 "Dm"D4 |]
+V:A
+D3 D D2 D2 | D2 D2 D2 D2 | D2 E2 A,2 D2 | D ^C D2 C2 D2 |
+D2 E D ^C2 D2 | ^C2 D2 D C D2 | D2 D2 _E3 E | _E2 E2 E2 D2 |
+B,2 D2 _E3 E | _E2 E2 D2 F2 | F2 E2 D3 D | D2 D2 D4 |
+^C4 D4 |]
+V:T
+A,3 G, F,2 G,2 | A,2 B,2 A,2 A,2 | B,2 B,2 D2 A,2 | B,2 A,2 A,2 A,2 |
+B,2 G, F, E,2 F, G, | A,2 A,2 G, E, F,2 | A,2 B,2 C3 C | B,2 C2 B,2 B,2 |
+D2 B,2 C3 C | B,2 C2 B,2 D2 | D2 B,2 A,3 A, | B,2 B,2 A,2 F,2 |
+G,4 F,4 |]
+V:B
+D,3 D, D,2 D,2 | D,2 D,2 F,2 F,2 | G,2 G,2 F,2 F,2 | E,2 F, G, A,2 D,2 |
+G,2 G,,2 A,,2 A,,2 | A,,2 F,, G,, A,,2 D,2 | D,2 B,,2 F,,3 F, | F,2 F,2 B,,2 B,,2 |
+F,2 F,2 F,,3 F, | F,2 F,2 B,,2 B,,2 | B,2 G,2 F,3 F, | G,2 G,,2 A,,4- |
+A,,4 D,4 |]

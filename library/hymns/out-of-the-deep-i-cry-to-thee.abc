@@ -1,0 +1,42 @@
+X:1
+T:Out of the Deep I Cry to Thee
+T:AUS TIEFER NOT (LUTHER)
+C:or 'Af Dybsens Nød' Martin Luther from Erfurt Enchiridion, 1524
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: confession
+%%duets tune: AUS TIEFER NOT (LUTHER)
+%%duets year: 1524
+%%duets credit: Tune and setting: public domain (Johann Sebastian Bach, 1725), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1524. Translated by Arthur Tozer Russell (1806-1874)
+%%duets notes: intro 16-18
+%%duets slug: out-of-the-deep-i-cry-to-thee
+M:4/4
+L:1/8
+Q:1/4=110
+K:C
+V:S
+"E"B4 "Am/C"E2 "G#dim/B"B2 | "Am"c2 "G7/B"B A "C"G2 "F#dim/A"A2 | "E"B4 B4 | "Am"c2 "G7"d2 "C/E"c B "F"A2 |
+"C"G2 "Dm"F2 "E"E4 | "E"B4 "Am/C"E2 "G#dim/B"B2 | "Am"c2 "G7/B"B A "C"G2 "F#dim/A"A2 | "E"B4 B4 |
+"Am"c2 "G7"d2 "C/E"c B "F"A2 | "C"G2 "Dm"F2 "E"E4 | "Am"A4 "G/B"G2 "Am"c2 | "G"B2 "Dm/F"A2 "Dm"d c "E"B2 |
+"Am"A4 c4 | "Em"B2 "C"c2 "G7/B"d2 "C"G2 | "Bm/D"B2 "D7"A2 "G"G4 | "C"G4 "Am"c2 "E7"B2 |
+"F"A2 "C"E2 "Gm/Bb"G2 "Dm/A"F2 | "E7/G#"E2- "Am"E2- "E"E4 |]
+V:A
+E4 E2 ^G2 | A2 G F E2 ^F2 | ^G4 G4 | A2 B2 c2 F2 |
+E2 D C B,4 | E4 E2 ^G2 | A2 G F E2 ^F2 | ^G4 G4 |
+A2 B2 c2 F2 | E2 D C B,4 | E4 D2 E ^F | G2 A2 B A ^G2 |
+E4 A4 | G2 G2 G F E2 | D2 C2 B,4 | E4 E2 E D |
+C2 C2 D4 | D2 C2 B,4 |]
+V:T
+^G,4 A,2 D2 | E2 D2 E D C2 | B,4 E4 | E2 F2 G2 C2 |
+C B, A,2 ^G,4 | ^G,4 A,2 D2 | E2 D2 E D C2 | B,4 E4 |
+E2 F2 G2 C2 | C B, A,2 ^G,4 | A,4 B,2 C2 | D2 D E F2 B,2 |
+C4 E4 | E2 E2 D2 C2 | ^F, G,2 F, G,4 | G,4 A,2 ^G,2 |
+A,2 G,2 G,2 A,2 | B,2 A,2 ^G,4 |]
+V:B
+E,4 C,2 B,,2 | A,,2 B,,2 C, B,, A,,2 | E,4 E,4 | A,2 G, F, E,2 F,2 |
+C,2 D,2 E,4 | E,4 C,2 B,,2 | A,,2 B,,2 C, B,, A,,2 | E,4 E,4 |
+A,2 G, F, E,2 F,2 | C,2 D,2 E,4 | C4 B,2 A,2 | G,2 F, E, D,2 E,2 |
+A,,4 A,4 | E,2 D, C, B,,2 C,2 | D,2 D,,2 G,,4 | C,4 A,,2 E,2 |
+F,2 C,2 _B,,2 A,,2 | ^G,,2 A,,2 E,,4 |]

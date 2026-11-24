@@ -1,0 +1,30 @@
+X:1
+T:Minuet in F, K. 2
+T:written at the age of six
+C:Wolfgang Amadeus Mozart
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, mozart
+%%duets credit: Wolfgang Amadeus Mozart. Source edition: Nicolas Morant for the Mutopia Project (Public Domain).
+%%duets tempo-text: Tempo di menuetto
+%%duets slug: minuet-in-f-k-2-mozart
+M:3/4
+L:1/8
+Q:1/4=112
+K:F
+V:S
+|: f a c2 c2 | d f B2 B2 | A c F2 E2 |
+E4 F2 | C E G2 G2 | C F A2 A2 | (3CEG B2 A2 |
+A4 G2 :| c _e A2 A2 | B d G2 G2 | A c ^F2 F2 |
+^F4 G2 | B d G2 G2 | A c F2 F2 | G B E2 E2 |
+E4 F2 | f a c2 c2 | d f B2 B2 | A c F2 E2 |
+E4 F2 | f a c2 c2 | d f B2 B2 | A c F2 E2 |
+E4 F2 |]
+V:lh
+|: F,4 A,2 | B,4 B,2 | C4 C,2 |
+F,2 C,2 F,,2 | C,6 | C,6 | C,2 E,2 F,2 |
+C2 G,2 C,2 :| ^F,6 | G,6 | C2 D2 D,2 |
+G,2 D,2 G,,2 | E,6 | F,6 | B,2 C2 C,2 |
+F,2 C,2 F,,2 | A,6 | B,6 | C4 C,2 |
+D,6 | A,6 | B,6 | C4 C,2 |
+F,2 C,2 F,,2 |]

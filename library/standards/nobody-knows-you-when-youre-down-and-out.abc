@@ -1,0 +1,21 @@
+X:1
+T:Nobody Knows You When You're Down and Out
+C:Jimmie Cox, 1923
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets year: 1923
+%%duets credit: Melody and chords: public domain in the United States (published 1923); lead sheet from OpenEWLD.
+%%duets slug: nobody-knows-you-when-youre-down-and-out
+M:4/4
+L:1/8
+K:F
+"F"A A A A "A7"(3G4AG | "D7"^F F D6 | "Gm"z d d d "D7"c c2 c | "Gm"B B G4 z G |
+"Bb"d d d e- "E7"e d3 | "F"z c ^c d "D7"A3 D/2 D/2 | "G9"A A2 A2 A3 | "Gm9"(3A2A2F2 "C7"A G3 |
+"F"z A A A "A7"G3 G | "D7"^F2 F D3 z d | "Gm"d d d d "D7"c3 c | "Gm"B B B G3 z G/2 G/2 |
+"Bb"d d d e- "E7"(3e4dA | "F"c ^c d A- "D7"A3 D/2 D/2 | "G9"A A3 A (3A5/2dA | "Gm7"d2 d c- "C7"c2 z2 ||
+"F"z A- "A7"(3A7GA | "D7"^F3 D5 | "Gm"z d d c- "D7"c2 B G- | "Gm"G8 |
+"Bb"z d d e- "E7"e d3 | "F"(3z2c2d2 "D7"A D3 | "G9"z A A A2 D3 | "Gm9"z A D A- "C7"A G z C/2 C/2 |
+"F"A A A G- "A7"(3G4AG | "D7"^F2 F D5 | "Gm"z B B A- "D7"A3 A | "Gm"G2 A B5 |
+"Bb"z F d d "E7"e d3 | "F"z c ^c d "D7"A D3 | "G9"z A F D A G F D | "C7"z A2 d "F"A F "D7"d d- |
+"G7"d d d c- "C7"c (3d5/2_AG | "F"F6 z2 |]

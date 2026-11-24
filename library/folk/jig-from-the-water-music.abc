@@ -1,0 +1,22 @@
+X:1
+T:Jig from the Water Music
+C:George Frideric Handel, 1717
+S:Nottingham Music Database
+R:jig
+%%duets category: classical
+%%duets tags: classical, baroque
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: jig-from-the-water-music
+M:6/8
+L:1/8
+K:G
+|: [P:A]D | "G"G2 B "D7"A2 c | "G"B c d "D7"G2 A |
+"G"B c d "C"c d e | "D"d3 d2 d | "C"e2 A "D7"A B c | "G"d2 G G A B |
+"C"c d c "G"B A B | "D"A3 A2 :: [P:B]A | "Am"A2 A A2 B |
+"Am"c d e A2 c | "Am"e2 e "D7"e2 f | "G"g2 G "D7"G2 A | "G"B A G "C"c3- |
+"Am"c B A "D7"d2 c | "G"B c B "D7"A G A | "G"G3 G2 :: [P:C][K:Bb]d |
+"Gm"g2 G g2 G | "Gm"g a b g2 f | "Cm"e d c "D7"B c A | "Gm"B c d G A B |
+"Cm"c d e "F"A B c | "Bb"F2 b "Eb"a2 g | "Cm"f e d "F7"c B c | "Bb"B3 B2 ::
+[P:D]f | "Bb"b2 B b2 B | "F"A B c F2 d | "Gm"g2 G g2 G |
+"D7"^F G A D2 d | "Cm"e d c "Gm"B A G | "D"^f =e f "Cm"g =f _e | "D7"d c B A G A |
+"Gm"G3 G2 :|

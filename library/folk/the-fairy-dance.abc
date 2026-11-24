@@ -1,0 +1,17 @@
+X:1
+T:The Fairy Dance
+C:Nathaniel Gow, 1809
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: scottish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-fairy-dance
+M:4/4
+L:1/8
+K:D
+[P:A]d e |: "D"f2 f d f2 f d | "D"f2 f d "A7"c e c A | "D"f2 f d "G"g f e d |
+"A7"c A B c "D"d e f g :| [P:B]"D"a2 a f "B7"b2 b a | "Em"g f g e "A7"a2 a g | "D"f2 f d "G"g f e d |
+"A7"c A B c "D"d e f g :| [P:C]"D"f ^e f d f e f d | "D"f ^e f d "A7"c =e c A | "D"f ^e f d "G"g f =e d |
+"A7"c A B c "D"d e f g || [P:D]"D"a ^g a f "B7"b ^a b =a | "Em"g f g e "A7"a ^g a =g | "D"f2 f d "G"g f e d |
+"A7"c A B c "D"d e f g |]

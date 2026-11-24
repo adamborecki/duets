@@ -1,0 +1,30 @@
+X:1
+T:Come, Follow Me, the Savior Spake
+T:Machs mit mir, Gott, nach deiner Güt · BWV 377
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trust
+%%duets tune: Machs mit mir, Gott, nach deiner Güt
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 377), public domain; score from the music21 corpus.
+%%duets slug: bach-come-follow-me-the-savior-spake
+M:4/4
+L:1/8
+K:D
+V:S
+"D"D E | "D"F2 "G/B"G2 "A/C#"A2 "D"A2 | "Em"G2 "D/F#"F2 "A"!fermata!E2 A2 | "Bm"B2 "A"c2 "E7/G#"d2 "A"c2 |
+"D6"B2- "E7"B2 "A"!fermata!A2 :| "A7"A2 | "D/F#"d2 "A7/E"c2 "G"B2 "B7"A2 | "Em"G2 "D/F#"F2 "F#m7/A"!fermata!E2 A2 |
+"G/B"G2 "D"F2 "A"E F "G/B"G2 | "D/A"F2 "A7"E2 "D"!fermata!D2 |]
+V:A
+A,2 | D2 D2 E2 D C | B, C D2 !fermata!C2 E2 | F ^G A2 B2 A2- |
+A2 ^G2 !fermata!E2 :| E2 | F2 E2 D E F2 | E2 A, B, !fermata!C2 F E |
+D E2 D2 C D2 | D2 C2 !fermata!A,2 |]
+V:T
+F, G, | A,2 G, F, E,2 F,2 | G,2 A,2 !fermata!A,2 A,2 | D2 E2 E2 E2 |
+F2 E D !fermata!C2 :| C B, | A, F, G, A, B,2 B,2 | B, C D2 !fermata!A,2 C2 |
+B, A, A,2 A,2 G,2 | A,3 G, !fermata!F,2 |]
+V:B
+D,2 | D, C, B,,2 C,2 D,2 | E,2 F, G, !fermata!A,2 C2 | B,2 A,2 ^G,2 A,2 |
+D,2 E,2 !fermata!A,,2 :| A, G, | F, D, E, F, G, F, E, ^D, | E,2 F, ^G, !fermata!A,2 F,2 |
+B,, C, D,2 A,,2 B,,2 | A,, G,, A,,2 !fermata!D,,2 |]

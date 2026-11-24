@@ -1,0 +1,51 @@
+X:1
+T:Christ Is Arisen
+T:Christ ist erstanden · BWV 276
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, easter
+%%duets tune: Christ ist erstanden
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 276), public domain; score from the music21 corpus.
+%%duets slug: bach-christ-is-arisen
+%%duets free-meter: yes
+M:4/4
+L:1/8
+K:C
+V:S
+"Dm"A2 | "Em"G2 "Am/C"A B "Am"c2 "Gm/Bb"d2 | "Dm"!fermata!A4 "A/C#"A2 "Dm"F G | "F"A G "Dm/F"F2 "Gm"E D "A7"E2 |
+"Dm"!fermata!D4 z2 F2 | "Em7"G2 "C/E"G2 "G"D2 "Am"C2 | "F/A"F2 "Edim"G2 "F"!fermata!A2 "A7/C#"A G | "Dm"F2 "Em7b5"G2 "Dm/F"A G "Dm"F2 |
+"Em7b5/D"E2 "Dm"D2 "A"!fermata!E4 | "D/F#"D2 "D7/F#"D2 "Gsus4"D2- "Gm/Bb"D2 | "Gm/D"!fermata!D2- "D"D6 | "Dm"A2 "Fmaj7"A2 "C7"G2 "F"A _B |
+"F/A"c2 "Bb"d2 "F"!fermata!A2 A2 | "A/C#"A3/2 G/2 "Dm"F G A G "Dm/F"F2 | "Asus4"E D "A7"E2 "Bb"!fermata!D2 "F/A"F2 | "Em"G2 "C/E"G2 "Gm"D2 "Am"C2 |
+"F/A"F2 "C"G2 "F"!fermata!A2 A2 | "Dm"A G F3/2 G/2 A2 "Dm/F"F2 | "Am"E2 "Dm7"D2 "C"!fermata!E4 | "D7/F#"D2 "D7/C"D2 "Gm"D2- "Gm/Bb"D2 |
+"Dsus4"!fermata!D2- "D"D6 | "A/C#"A2 | "Dm"F2 "Am/E"c2 "F"!fermata!A2 "F/A"c _B | "Am/C"A2 "C7"G2 "F"!fermata!F2 "A7/C#"A G |
+"Dm"F2 "C/E"E2 "Gm"!fermata!D2 "F/A"F2 | "G7/B"G2 "C"G2 "D7/C"D2 "Am"C2 | "Dm/A"F2 "Gm7/Bb"G2 "F"!fermata!A2 | "F"A G |
+"Bb"F2 "Ebmaj7"G2 "A7/C#"A2 "Dm"F2 | "E7/D"E2 "Bm7"D2 "A"!fermata!E4 | "Bb"D2 "D7"D2 "Gm"D2- "Gm/Bb"D2 | "G/D"!fermata!D2- "Gm/D"D2- "D"D4 |]
+V:A
+F2 | F E E ^G A3 =G- | G F/2 E/2 !fermata!F2 E2 D2 | C ^C D2 C D2 C |
+!fermata!A,4 z2 D2- | D C/2 B,/2 C3 B,2 A,/2 _B,/2 | C D E2 !fermata!F2 E2 | E D2 ^C D3 =C |
+_B, A,2 =B, !fermata!^C4 | D2 C2 C2 _B,2- | _B,2 A, G, !fermata!A,4 | F2 E D G _B A G |
+F4 !fermata!F2 F2 | E2 D E F ^C D2- | D2 ^C2 !fermata!D2 =C2 | C B, C3 _B,2 A,/2 G,/2 |
+C2 C2 !fermata!C2 C ^C | D2 A,2 D2 D2- | D C2 B, !fermata!C4 | C _B, A,2 G,3 B, |
+!fermata!A,8 | E2 | D2 C2 C2 C D | E F2 E !fermata!C2 E2- |
+E D2 C C !fermata!_B, C2 | D2 C B, A, B, C _B, | A,/2 G,/2 A, D C !fermata!C2 | F E |
+D3 C/2 _B,/2 A,3 D/2 C/2 | B, A,2 ^G, !fermata!^C4 | D2 C2 _B, A, G,/2 A,/2 B, | B, A, _B, G, !fermata!A,4 |]
+V:T
+D C | B,2 C D E F/2 E/2 D2 | !fermata!D4 A,2 A,2 | A,2 A,2 _B, F, G, A,/2 G,/2 |
+!fermata!F,4 z2 A,2 | E, F, G,5/2 D,/2 E,2 F,/2 G,/2 | A, F, _B,2 !fermata!C2 A,2 | A,2 G, _B, A,5/2 G,/2 A, |
+G,/2 F,/2 G, F,/2 E,/2 F, !fermata!E,4 | A, G, A, ^F, G, D, G,2- | G,2 ^F, E, !fermata!F,4 | D2 C B, C2 C2 |
+C3 _B, !fermata!C2 C D | E A,2 G, F, G, A,2 | A,3 G, !fermata!F,2 A,2 | G, F, G,2 G,3/2 F,/2 E,2 |
+A,2 G,2 !fermata!F,2 A, G, | F, E, D, E, F, G, A,2 | A, E, F,2 !fermata!G,4 | A, G,2 ^F, G, D, G,2- |
+G,2 ^F, E, !fermata!F,4 | A,2 | A, _B, A, G, F,2 F,2 | C3 _B, !fermata!A,2 A,2 |
+A,2 G, A, !fermata!D,2 A, F, | D,/2 E,/2 F,2 E, ^F, ^G, A, =G, | F,/2 E,/2 F,2 E, !fermata!F,2 | C2 |
+C _B,/2 A,/2 G,3 F,/2 E,/2 F, B,/2 A,/2 | ^G, A, D D, !fermata!A,4 | F, G, A,3 G,/2 ^F,/2 G,2- | G, ^F, G, E, !fermata!F,4 |]
+V:B
+D,2 | E,3/2 D,/2 C, B,, A,,2 _B,,3/2 C,/2 | !fermata!D,4 ^C,2 D, E, | F,3 F,, G,, _B,, A,,2 |
+!fermata!D,4 z2 D,,2 | E,,3 F,, G,, ^G,, A,,2- | A,, _B,, A,, G,, !fermata!F,,2 ^C,2 | D,2 E,2 F, E, D,2- |
+D, ^C, D,2 !fermata!A,,4 | ^F,, E,, F,, D,, G,, A,, _B,, G,, | D,4 !fermata!D,,4 | D, E, F,3 E, F, G, |
+A, F, _B,2 !fermata!F,2 F,2 | ^C,2 D,3 E, F, G, | A,2 A,,2 !fermata!_B,,2 A,,2 | E,, D,, E,, F,, G,,2 A,,2- |
+A,, G,, F,, E,, !fermata!F,,2 F, E, | D,5 E, F, G, | A, A,, D,2 !fermata!C,4 | ^F,, G,, C,3 _B,,/2 A,,/2 B,, G,, |
+D,4 !fermata!D,,4 | ^C,2 | D,2 E,2 !fermata!F,2 A,, _B,, | C,2 C,,2 !fermata!F,,2 ^C,2 |
+D, D,, E,, ^F,, !fermata!G,,2 A,,2 | B,,2 C,3 B,, A,,2- | A,, D, _B,, C, !fermata!F,2 | F,,2 |
+_B,,2 _E, D, ^C,2 D,2- | D, C, B,,2 !fermata!A,,4 | _B,, A,, G,, ^F,, G,, A,, B,, G,, | !fermata!D,,8 |]

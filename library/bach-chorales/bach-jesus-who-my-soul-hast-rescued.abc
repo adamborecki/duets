@@ -1,0 +1,30 @@
+X:1
+T:Jesus, Who My Soul Hast Rescued
+T:Jesu, der du meine Seele · BWV 352
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, redeemer
+%%duets tune: Jesu, der du meine Seele
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 352), public domain; score from the music21 corpus.
+%%duets slug: bach-jesus-who-my-soul-hast-rescued
+M:4/4
+L:1/8
+K:Am
+V:S
+"Am"e2 e2 "E/G#"B2 "F#m7b5"c2 | "Bm7/F#"d2 "Am"c B "E"B2 "Am"!fermata!A2 | "Am"c2 "F"c2 "E7/D"B2 "Dm/F"A2 | "E7/B"^G2 "Am/C"A2 "E"!fermata!B4 :|
+"E"B2 "Am"c2 "D7/F#"d c "G"B2 | "C/E"c2 "Em7/D"B A "D7"A2 "G"!fermata!G2 | "Am"c2 "G7"d2 "Em"e d "F"c2 | "Dm"f2 "C/E"e2 "G7"d2 "C"!fermata!c2 |
+"G"B2 "Am"c2 "G7/B"d2 "C"e2 | "Bm7b5/A"d2 "Am"c2 "E"!fermata!B4 | "Am/C"A2 "Bm7b5/A"B2 "Am"c B "E7"d2 | "Am/E"c2 "E"B A "A"!fermata!A4 |]
+V:A
+A B c2 B2 A ^G | A B A3 ^G E2 | E2 A G F E2 D | D E/2 F/2 E ^F ^G4 :|
+^G2 A2 A2 =G2 | G ^F G2 F2 D2 | C2 G2 G2 A G | A B c2 B2 G2 |
+G2 F E D2 G A | B2 A2 ^G4 | A G F E E F E D | E7/2 D/2 ^C4 |]
+V:T
+C B, A,2 E2 E2 | D B, C D E2 C2 | C B, A,3 ^G, A,2 | B, C/2 D/2 C E/2 ^D/2 E4 :|
+E2 E2 D2 D2 | C D E2 D C B,2 | E2 B,2 C B, A,2 | D2 G,2 G F E2 |
+D2 C2 G F E2 | F2 E2 E4 | E2 D2 C D ^G, A, | A,2 ^G,2 E,4 |]
+V:B
+A,,2 A,2 ^G,2 ^F, E, | ^F, ^G, A,2 E,2 !fermata!A,,2 | A, G, F, E, D, E, F,2 | B,,2 C, A,, !fermata!E,4 :|
+E,2 A, G, ^F, D, G, F, | E,2 D, C, D,2 !fermata!G,,2 | A,2 G, F, E,2 F, E, | D,2 E, F, G,2 !fermata!C,2 |
+G,2 A,2 B,2 C B, | A, ^G, A,2 !fermata!E,4 | C, B,, A,, ^G,, A,, D, E, F, | E, D, E,2 !fermata!A,,4 |]

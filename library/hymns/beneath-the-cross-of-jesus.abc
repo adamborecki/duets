@@ -1,0 +1,42 @@
+X:1
+T:Beneath the Cross of Jesus
+T:ST. CHRISTOPHER
+C:Frederick C. Maker, 1881
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: comfort
+%%duets tune: ST. CHRISTOPHER
+%%duets year: 1881
+%%duets credit: Tune and setting: public domain ("Bristol Tune-Book", 1891), via the Open Hymnal Project.
+%%duets lyricist: Elizabeth C. Clephane, 1868
+%%duets notes: intro 16-17
+%%duets slug: beneath-the-cross-of-jesus
+M:4/4
+L:1/8
+Q:1/4=100
+K:Db
+V:S
+"Db"A2 | "Db"A3 A "Dbdim7"=G2 B2 | "Db"A4 F2 D2 | "Ab7/Gb"E3 F "Ebm7"G2 "Ab7"G2 |
+"Db"F6 "F7/C"F2 | "Bbm"d3 d d2 "Adim/C"c2 | "Bbm/Db"B2 "Bb7/D"A2 "Ebm"G2 "Bbm/F"F2 | "Ebm7/Gb"E3 E "Gb7"=E2 E2 |
+"F"F6 "Db"F2 | "Db"F3 E D2 "Ebm7/Db"E2 | "Db"F2 "Gb/Db"G2 "Db7"A2 A2 | "Gb"B3 B "Bb/F"B2 F2 |
+"Ebm"G6 G2 | "Ab7"c3 B A2 G2 | "Db"F2 F2 "Db7/F"A2 "Gb"G2 | "Db/Ab"F3 D "Fm/Ab"F2 "Ab7"E2 |
+"Db"D6 |]
+V:A
+F2 | F3 F =E2 E2 | F4 D2 D2 | C3 D D2 C2 |
+D6 E2 | D3 D D2 E2 | F2 F2 E2 D2 | D3 D D2 B,2 |
+C6 D2 | D3 C D2 D2 | D2 D2 D2 D2 | D3 D =D2 D2 |
+E6 E2 | G3 G G2 C2 | D2 D2 D2 D2 | D3 D C2 C2 |
+D6 |]
+V:T
+A,2 | A,3 A, B,2 =G,2 | A,4 A,2 A,2 | A,3 A, B,2 A,2 |
+A,6 =A,2 | B,3 B, B,2 =A,2 | B,2 B,2 B,2 B,2 | B,3 B, B,2 B,2 |
+=A,6 _A,2 | A,3 G, F,2 G,2 | A,2 B,2 _C2 C2 | B,3 B, B,2 B,2 |
+B,6 B,2 | E3 D C2 A,2 | A,2 A,2 _C2 B,2 | A,3 F, A,2 G,2 |
+F,6 |]
+V:B
+D,2 | D,3 D, D,2 D,2 | D,4 D,2 F,2 | G,3 F, E,2 A,,2 |
+D,6 C,2 | B,,3 B,, B,,2 C,2 | D,2 =D,2 E,2 F,2 | G,3 G, G,2 G,2 |
+F,6 D,2 | D,3 D, D,2 D,2 | D,2 D,2 D,2 F,2 | G,3 G, F,2 B,,2 |
+E,6 E,2 | A,,3 A,, A,,2 A,,2 | D,2 D,2 F,,2 G,,2 | A,,3 A,, A,,2 A,,2 |
+D,6 |]

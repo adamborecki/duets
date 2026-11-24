@@ -1,0 +1,86 @@
+X:1
+T:Minuet in E-flat
+T:WoO 82
+C:Ludwig van Beethoven
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, beethoven
+%%duets credit: Ludwig van Beethoven. Source edition: Stelios Samelis for the Mutopia Project (Public Domain).
+%%duets tempo-text: Tempo di menuetto
+%%duets slug: minuet-in-e-flat-beethoven
+M:3/4
+L:1/8
+Q:1/4=108
+K:Eb
+V:S
+B,2 |: [GB]2 [FA]2 [EG]2 | [B,EG]4 A G | G F [CEF]2 [CEF]2 |
+[CEF]2 z4 | [FA]2 [EG]2 [DF]2 | [B,B]4 [B,FA]2 | A G [B,EG]2 [B,EG]2 |
+[B,EG]2 (3:2:6z7/2B,/2C/2D/2E/2F/2 | [EG]2 [FA]2 [GB]2 | [CF=Ac]4 [DFBd]2 | [EF=Ae]2 [EFAe]2 [DFBd]2 |
+[GBeg]2 z4 | [Gg]4 [Ff]2 | [Ee]4 [DBd]2 | [EGc]2 z4 |
+[DFB]2 z2 B,2 :: B6- | B2 A4- | A2 G3 E |
+E D C z B B | b6- | b2 a4- | a2 g3 e |
+e d c z3 | z6 | z4 B,2 | [GB]2 [FA]2 [EG]2 |
+[B,EG]4 A G | G F [CEF]2 [CEF]2 | [CEF]2 z4 | [FA]2 [EG]2 [DF]2 |
+[B,B]4 [A,B,]2 | [G,E]2 [G,B,E]2 [G,B,E]2 | [1 [G,B,E]2 z2 B,2 :| [2 [G,B,E]2 z2 E G |:
+A z3 A c | e z3 e g | a z3 a c' | e' d' f' e' _d' b |
+a2 a2 a b | a g f e z2 | z C E A e z | z G B e _d' z |
+z c e a c' z | e' d' f' e' _d' b | a2 a2 b c' | [1 a2 z2 E G :|
+[2 a2 z2 [ee']2 |: [_f_f']3 [ee'] [_d_d'] [_c_c'] | [Bb]4 [cc'] [_d_d'] | [ee']3 [_d_d'] [cc'] [Bb] |
+[Aa] [Gg] [Ff] [Ee] [Dd] [B,B] | [Ee]2 z4 | z2 B, D E2 | z2 B, D E2 |
+z4 E G | A z3 A c | e z3 e g | a z3 a c' |
+e' d' f' e' d' e' | d' e' f' e' _d' c' | b2 b2 b c' | [1 a2 z2 [ee']2 :|
+[2 a2 z4 |]
+V:lh
+z2 |: [E,,E,]6 | [E,,E,]2 [F,,F,]2 [G,,G,]2 | [A,,A,]2 [A,,A,]2 [A,,A,]2 |
+[A,,A,]2 z4 | [B,,B,]6 | [B,,,B,,]2 [C,,C,]2 [D,,D,]2 | [E,,E,]2 [E,,E,]2 [E,,E,]2 |
+[E,,E,]2 z4 | [E,,E,]6- | [E,,E,]2 [E,,E,]2 [D,,D,]2 | [C,,C,]2 [F,,F,]2 [B,,,B,,]2 |
+[E,,E,]2 z4 | [E,E]4 [D,D]2 | [C,C]4 [B,,B,]2 | E,2 F,2 F,,2 |
+[B,,B,]2 z4 :: B,,6 | C,4 D,2 | E,4 C,2 |
+[B,,B,]4 z2 | z B,5- | B,6 | B,6 |
+z4 =A,2 | B,3 B, =A, B, | =A, B, C B, _A, F, | E,6 |
+[E,,E,]2 [F,,F,]2 [G,,G,]2 | [A,,A,]2 [A,,A,]2 [A,,A,]2 | [A,,A,]2 z4 | [B,,B,]6 |
+[B,,,B,,]2 [C,,C,]2 [D,,D,]2 | [E,,E,]2 [E,,E,]2 [E,,E,]2 | [1 [E,,E,]2 z4 :| [2 [E,,E,]2 z4 |:
+z A,, A, C E z | z E, B, _D E z | z A, C E A z | [G,B,_DE]6 |
+[A,CE]2 [A,CE]2 [F,A,B,D]2 | [E,G,B,E]4 E, G, | A, z3 A, C | E z3 E G |
+A z3 A c | [EG_d]6 | [FAc]2 [_DFAB]2 [EGB]2 | [1 [A,A]2 z4 :|
+[2 [A,A]2 z2 [E,E]2 |: [_F,_F]3 [E,E] [_D,_D] [_C,_C] | [B,,B,]4 [C,C] [_D,_D] | [E,E]3 [_D,_D] [C,C] [B,,B,] |
+[A,,A,] [G,,G,] [F,,F,] [E,,E,] [D,,D,] [B,,,B,,] | [E,,E,]2 z2 B,, D, | E,2 z2 B,, D, | E,2 z2 B,, D, |
+E,2 z4 | z A,, A, C E z | z E, B, _D E z | z A, C E A z |
+[G,B,_DE]6 | [A,CE]6 | [E,G,_DE]2 [E,G,DE]2 [E,G,DE]2 | [1 [A,CE]2 z2 [E,E]2 :|
+[2 [A,CE]2 z4 |]
+V:rh2
+z2 |: B,6 | z4 [B,E]2 | [CE]2 z4 |
+z6 | z6 | D2 E2 z2 | [B,E]2 z4 |
+z6 | z6 | z6 | z6 |
+z6 | z2 =A2 B2- | B2 =A2 z2 | z2 [DFB]2 [CEF=A]2 |
+z6 :: z2 B,2 C2 | A,4 B,2 | G,4 =A,2 |
+z3 B, z2 | z3 B c2- | c A4 B- | B G3 =A2 |
+B3 B z2 | z6 | z6 | B,6 |
+z4 [B,E]2 | [CE]2 z4 | z6 | z6 |
+z6 | z6 | [1 z6 :| [2 z6 |:
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | [1 z6 :|
+[2 z6 |: z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | [1 z6 :|
+[2 z6 |]
+V:lh2
+z2 |: z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 :: z4 E,2 | B,,6 | B,,6 |
+z6 | z2 D3 E | C3 C D2 | E3 E C2 |
+[B,D]4 G E | E D C z3 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | [1 z6 :| [2 z6 |:
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | [1 z6 :|
+[2 z6 |: z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | z6 | z6 | [1 z6 :|
+[2 z6 |]

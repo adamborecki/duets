@@ -1,0 +1,29 @@
+X:1
+T:Come, Josephine, in My Flying Machine
+C:Fred Fisher, 1910
+S:OpenEWLD
+R:waltz
+%%duets category: oldies
+%%duets year: 1910
+%%duets credit: Melody and chords: public domain in the United States (published 1910); lead sheet from OpenEWLD.
+%%duets slug: come-josephine-in-my-flying-machine
+M:3/4
+L:1/8
+K:C
+"C"G6 | "C#dim7"G6 | "G7/D"z2 A2 "Bdim"B2 | "G7"A4 G2 |
+"C"G6 | "C#dim7"G6 | "G7/D"z2 A2 "Bdim"B2 | "G7"A4 G2 |
+"C"c6 | "E"^G6 | "F"B2 A2 "Fm"^G2 | "Dm"A6 |
+"D7/A"d2 z4 | "D7"A2 z4 | "G7"c2 B2 ^A2 | "G/D"B2 "Dm"A2 "D+"_A2 |
+"C"G6 | "C#dim7"G6 | "G7/D"G2 A2 B2 | "G7"A4 G2 |
+"C"G6 | "C#dim7"G6 | "G7/D"z2 A2 B2 | "G7"A4 G2 |
+"C"c6 | "E"^G6 | "F"B2 A2 "Fm"^G2 | "Dm"A2 B2 c2 |
+"D7/A"d6 | "D7b5"d6 | "G7"d6- | "G7"d2 "Dm"z2 "D+"z2 |:
+"C"G2 E2 F2 | "Em/G"G2 A2 B2 | "C/E"c2 B2 c2 | "Em/G"e2 d2 c2 |
+"G7/D"B2 z2 d2 | "G7"F6 | "G7/D"B2 z2 d2 | "G7"F6 |
+"G7"F2 D2 E2 | F2 G2 A2 | B2 ^A2 B2 | d2 c2 B2 |
+"C6"A2 z2 c2 | "C/G"E6 | "C6"A2 z2 c2 | "C/G"E6 |
+"C/E"G2 z4 | "Cdim/Eb"c2 z2 A2 | "G7/D"B2 d2 B2 | "G7"A4 _A2 |
+"C/E"G2 z4 | "Cdim/Eb"c2 z2 A2 | "G7/D"B2 d2 B2 | "G7"A4 _A2 |
+"C"G2 E2 F2 | "C/G"G2 A2 B2 | "C/E"c2 B2 c2 | "C/G"e2 d2 c2 |
+"G7"B2 z2 A2 | G2 z2 e2 | [1 "C"c2- "G"c2- "C"c2 | "G7/D"z2 "Dm"z2 "D+"z2 :|
+[2 "C"c2- "G"c4- | "C"c z5 |]

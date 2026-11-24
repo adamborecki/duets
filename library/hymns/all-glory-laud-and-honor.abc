@@ -1,0 +1,42 @@
+X:1
+T:All Glory, Laud, and Honor
+T:VALET WILL ICH DIR GEBEN
+C:or 'St. Theodulph' Melchior Teschner, 1615
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: palm-sunday
+%%duets tune: VALET WILL ICH DIR GEBEN
+%%duets year: 1615
+%%duets credit: Tune and setting: public domain (Presbyterian Hymnal, 1911), via the Open Hymnal Project.
+%%duets lyricist: Theodulf of Orleans, circa 820. Translated by John Mason Neale, 1851
+%%duets notes: intro 17-18
+%%duets slug: all-glory-laud-and-honor
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+V:S
+"C"C2 | "C"G2 G2 "F"A2 "G7/D"B2 | "Csus4"c2- "C"c2 c2 e2 | "G"d2 "C/E"c2 "F"A2 "G"B2 |
+"C"c6 C2 | "C"G2 G2 "F"A2 "G7/D"B2 | "Csus4"c2- "C"c2 c2 e2 | "G"d2 "C/E"c2 "F"A2 "G"B2 |
+"C"c6 || "F"c2 | "Am/C"e2 e2 "G/B"d2 "C/E"c2 | "D6"B4 "Em7/G"B2 B2 |
+"Am"c2 "G/B"B2 "Am/C"A2 "D7"A2 | "G"G6 G2 | "C"E2 "Em"G2 "F"A2 "C/E"G2 | "G7/B"G2 F2 "C"E2 G2 |
+"F"F2 "C"E2 "Gsus4"D2 "G7"D2 | "C"C6 |]
+V:A
+C2 | C D E2 C2 F2 | F2 E D E2 G2 | G2 G2 F2 D2 |
+E6 C2 | C D E2 C2 F2 | F2 E D E2 G2 | G2 G2 F2 D2 |
+E6 || F2 | E2 E2 G2 G2 | ^F2 A2 G2 G2 |
+E2 G2 E2 ^F2 | G6 D2 | C2 B,2 A,2 C2 | D2 B,2 C2 C2 |
+C2 C2 C2 B,2 | C6 |]
+V:T
+E,2 | E, F, G,2 F,2 G,2 | G,4 G,2 C2 | B,2 C2 A,2 G,2 |
+G,6 E,2 | E, F, G,2 F,2 G,2 | G,4 G,2 C2 | B,2 C2 A,2 G,2 |
+G,6 || A,2 | C2 C2 D2 G,2 | A,2 D2 D2 E2 |
+E2 D2 A, B, C2 | B,6 G,2 | G,2 G,2 C2 G,2 | G,4 G,2 G,2 |
+A,2 G,2 G,3 F, | E,6 |]
+V:B
+C,2 | C,2 C,2 F,2 D,2 | C,4 C,2 C,2 | G,2 E,2 F,2 G,2 |
+C,6 C,2 | C,2 C,2 F,2 D,2 | C,4 C,2 C,2 | G,2 E,2 F,2 G,2 |
+C,6 || F,2 | C,2 A,,2 B,,2 E,2 | D,2 ^F,2 G,2 E,2 |
+A,,2 B,,2 C,2 D,2 | G,,6 B,,2 | C,2 E,2 F,2 E,2 | B,,2 G,,2 C,2 E,2 |
+F,2 C,2 G,,2 G,,2 | C,6 |]

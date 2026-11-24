@@ -1,0 +1,26 @@
+X:1
+T:It Had to Be You
+C:Isham Jones, 1924
+S:OpenEWLD
+R:swing
+%%duets category: standard
+%%duets tags: sinatra
+%%duets year: 1924
+%%duets credit: Melody and chords: public domain in the United States (published 1924); lead sheet from OpenEWLD.
+%%duets slug: it-had-to-be-you
+M:4/4
+L:1/8
+K:G
+"Gmaj7"d2 B2 d2 B2 | "G7"d e d B5 | "C6"A2 G2 "Cm6"A2 G2 | "Bm7"A B A G- "Em"G4 |
+"A7"E G A B5 | "Am7"E G A B- "D7"B d B2 | "G"G6 z2 | "D7sus4"z2 B2 "D7"c2 "Gdim"^c2 |
+"G"d2 B2 "Gmaj7"d2 B2 | "G7"d e d B5 | "C6"A2 G2 "Cm6"A2 G2 | "G"A B A G- "Em"G4 |
+"A7"E G A B5 | "Am7"E G A B- "D7"B e d2 | A8- || A2 D2 "D+"E D E F- |
+"Gmaj7"F4- "D7"F4- |: "Gmaj7"F2 F2 "F9"G F G ^G- | "E7"^G4- "Bm"G4- | "E7"^G2 G2 A G A B- |
+"A9"B3 G "Em7"A ^G A B- | "A9"B3 G "Em7"A ^G A B- | "A9"B4- "Em7"B4- | "A9"B2 A2 B A B d- |
+"D7"d8- | d2 B2 "D#dim"A B A G- | "Em7"G8- | "Em7"G2 G2 "Bb7"G F G A- |
+"A7"A4 "Em7"G F G A- | "A7"A4 B e B A- | "Am7"A8- | "D7"A2 "D"D2 "D+"E D E F- |
+"G"F4- "Gmaj7"F4- | "D+"F2 F2 "F9"G F G ^G- | "E7"^G2- "Bm"G2- "Bm"G4- | ^G2 G2 A G A "A9"B- |
+B3 G "Em7"A ^G A B- | "A9"B3 G "Em7"A ^G A B- | "A9"B4- "Em7"B4- | "C#dim"B2 B2 B c d e- |
+"Am"e4 "C"E F G A- | "Adim7"A4 "D7"A B c d- | "G"d4 "D#dim"A B A "Em"G- | G2 F2 "C#dim"E D E F- |
+"D7"F4 "Abdim7"E D E F- | [1 "D7"F4 "Bm"B d B G- | "G"G4- "Bb7"G4 | "D7"z2 D2 "D+"E D E F- :|
+[2 "D7"F4 "Bm"B d B G | "G"G4- "D7"G4- | "Gmaj7"G6 z2 |]

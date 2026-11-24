@@ -1,0 +1,43 @@
+X:1
+T:Were You There?
+T:WERE YOU THERE
+C:African-American Spiritual, before 1899
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: good-friday
+%%duets tune: WERE YOU THERE
+%%duets year: 1899
+%%duets credit: Tune and setting: public domain (attr. Charles Winfred Douglas, 1940), via the Open Hymnal Project.
+%%duets lyricist: African-American Spiritual, before 1899
+%%duets notes: intro 17-18
+%%duets slug: were-you-there
+%%duets free-meter: yes
+M:4/4
+L:1/8
+Q:1/4=100
+K:E
+V:S
+"E/B"B,2 E2 | "E"G4 G2 G2 | "B"F2 "C#m"E2 "G#m/B"G2- "B7"G F | "E"!fermata!E4 E2 G2 |
+"G#m"B2- "B7/F#"B2 "E"B2 "B/D#"B2 | "C#m"c2 "B/D#"B2 "E"B3 G | "B"F8 | "E/G#"B2- "B7/F#"B2 "E/G#"e2- "A"e c |
+"G#m/B"B2- "B7/A"B2- "E7/G#"B4 | "A"c2 "E"B4 "G#m/B"G2 | "G#/B#"G2- "B#dim7"G F "C#m"E2 E2 | "F#m/A"F2 "Am"!fermata!E4 |
+"Am"E2 "E/G#"!fermata!E4 | "B7/A"B,2 B,6 | "A/C#"E2 A2 | "E/B"G4 "C#m7/B"G2 "G#m/B"G2 |
+"B7"F2 "C#m"E2 "G#m"G3 F | "E"E8 |]
+V:A
+B,2 B,2 | E4 E2 E2 | D2 C2 D3 D | E4 B,2 E2 |
+D4 E2 F2 | E2 F2 G3 E | D8 | E2 D2 E2 A2 |
+G2 F2 E4 | E2 E4 D2 | D3 D D2 C2 | C2 =C4 |
+=C2 B,4 | A,2 F,6 | A,2 C2 | B,2 E2 E2 D2 |
+D2 E2 D3 D | B,8 |]
+V:T
+B,2 B,2 | B,4 B,2 B,2 | B,2 G,2 B,3 A, | G,4 G,2 B,2 |
+B,2 A,2 G,2 F,2 | G,2 B,2 B,3 B, | B,8 | B,2 A,2 B,2 C2 |
+D4 E2 =D2 | C2 G,4 B,2 | A,3 A, G,2 G,2 | A,2 A,4 |
+E,2 E,4 | E,2 D,6 | E,2 E,2 | E,2 G,2 C2 B,2 |
+A,2 G,2 B,3 A, | [E,G,]8 |]
+V:B
+B,2 G,2 | E,4 E,2 E,2 | B,,2 C,2 B,,3 B,, | E,4 E,2 E,2 |
+G,2 F,2 E,2 D,2 | C,2 D,2 E,3 G, | B,8 | G,2 F,2 G,2 A,2 |
+B,2 A,2 G,4 | A,2 E,4 B,,2 | ^B,,3 B,, C,2 C, =B,, | A,,2 A,,4 |
+A,,2 G,,4 | A,,2 B,,6 | C,2 A,,2 | B,,4 B,,2 B,,2 |
+B,,2 C,2 G,,3 B,, | E,,8 |]

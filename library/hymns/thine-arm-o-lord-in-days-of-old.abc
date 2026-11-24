@@ -1,0 +1,40 @@
+X:1
+T:Thine Arm, O Lord, in Days of Old
+T:KINGSFOLD
+C:traditional English
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trust
+%%duets tune: KINGSFOLD
+%%duets credit: Tune and setting: public domain (Ralph Vaughan Williams, 1906), via the Open Hymnal Project.
+%%duets notes: intro 14-17
+%%duets slug: thine-arm-o-lord-in-days-of-old
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+V:S
+"Em"G F | "Em"E2 E2 "C"E2 "D7/C"D2 | "Em7/B"G2 G2 "D"A2 "G/B"G A | "G"B2 B2 "Am7"A G E2 |
+"Dsus4"D4- "D"D2 "G/B"G F | "C"E2 E2 "Am7"E2 "D"D2 | "G/B"G2 "C#dim/E"G2 "D7"A2 "G/B"G A | "G"B2 B2 "C"A G "Am"E2 |
+"Em"E6 B c | "Bm"d2 B2 "Em7"B A "G"G2 | "Am/C"A2 "D"A2 "G"B2 "G/B"G A | "G"B2 B A "G/B"G2 "C"E2 |
+"Dsus4"D4- "D"D2 "G/B"G F | "C"E2 E2 "Am"E D E F | "G"G2 "Em7"G2 "D"A2 "G/B"G A | "G"B2 "Bm"B2 "C"A G "Am"E2 |
+"Em"E6 |]
+V:A
+E2 | B,2 B,2 C2 A,2 | D2 B,2 D2 D F | G2 G2 E2 C2 |
+A,6 D2 | D2 C2 C B, A,2 | D2 ^C2 D2 D =C | B,2 D2 C2 C2 |
+B,6 E2 | F2 F2 G D D2 | E2 D2 C2 D2 | G2 G F D2 C B, |
+A,6 D2 | D2 D2 C2 C2 | D2 D ^C D2 D =C | B,2 D2 E2 C2 |
+B,6 |]
+V:T
+B, A, | G,2 G,2 G,2 F,2 | G,2 G,2 F,2 G, C | B,2 D2 C2 G,2 |
+G,4 F,2 G,2 | G,2 G,2 G,2 F,2 | G,2 G,2 F,2 G, F, | G,2 G,2 E,2 E, F, |
+G,6 G,2 | B,2 D2 D C B,2 | A, G, F,2 G,2 G, F, | D2 D C B,2 G,2 |
+G,4 F,2 G,2 | G,2 G,2 A,2 C2 | B, A, G,2 F,2 G, F, | G,2 F,2 E,2 E, F, |
+G,6 |]
+V:B
+E,2 | E,2 E, D, C,2 C,2 | B,,2 E,2 D,2 B,, A,, | G,,2 G,,2 A,,2 C,2 |
+D,6 B,,2 | C,2 C, B,, A,,2 D,2 | B,,2 E,2 D, C, B,, A,, | G,,2 B,,2 C,2 A,,2 |
+E,6 E,2 | B,,2 B,2 E, F, G,2 | C,2 D,2 G,,2 B,, A,, | G,,2 G,, A,, B,,2 C,2 |
+D,6 B,,2 | C,2 C, B,, A,,2 A,2 | G, F, E,2 D,2 B,, A,, | G,,2 B,,2 C,2 A,,2 |
+E,6 |]

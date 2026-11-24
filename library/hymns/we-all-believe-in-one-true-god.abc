@@ -1,0 +1,35 @@
+X:1
+T:We All Believe in One True God
+T:WIR GLAUBEN ALL AN EINEN GOTT, SCHOEPFER
+C:or 'Apostolic Creed' Medieval tune altered by Martin Luther. Found in Walter's Geistliche Gesangbüchlein, 1524
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trinity
+%%duets tune: WIR GLAUBEN ALL AN EINEN GOTT, SCHOEPFER
+%%duets year: 1524
+%%duets credit: Tune and setting: public domain ("Eisenach Kirchenconserenz", G.v. Tucher et. al. , Stuttgart, 1854), via the Open Hymnal Project.
+%%duets lyricist: Medieval text expanded by Martin Luther, 1524. Translation composite
+%%duets notes: intro 11-11
+%%duets slug: we-all-believe-in-one-true-god
+%%duets free-meter: yes
+M:5/2
+L:1/8
+Q:1/2=60
+K:C
+V:S
+z4 "Dm"D4 "Dm7"A2 G2 "F"A2 E2 "Dm"F4 "Am7"E2 G2 "Dm7"F2 E2 "Bbmaj7"D2 ^C2 "Dm"D4 | "Dm"A4 "Am"A4 "Am7/G"d2 c2 "Am7/E"B2 A2 "C"c4 "F"A4 | "Bdim/D"z2 B2 "F/A"c2 A2 "Dm"A2 E2 F2 F2 "A"E4 | "Dm7"D2 E2 "Gm7/Bb"F2 G2 "Am7"F2 E2 "Dm"D2 ^C2 !fermata!D4 |
+"Dm"d4 "G"d4 "C6"e2 d2 "A7/G"e2 ^c2 "Dm"d4 d4 | "C"e2 B2 "F/A"c2 A2 "Dm"A2 E2 F4 "A"E4 | "F"A2 G2 "Dm7/F"A2 B2 "Am7"c2 B2 "Fmaj7"A2 ^G2 "Am"A4 | "Em"B3 c "Dm"d4 "F"A2 G2 "Am7"A2 E2 "Dm"F4 "C"E4 |
+"Gm"z2 G2 "F/A"F3 E "Dm"D2 ^C2 "Dm/F"D2 F2 "Gm"D4 | "Dm7"F2 G2 "Dm7/F"A2 B2 "C"c3 B "F"A3 G "Dm"F2 E2 | "Dm7"D2 E2 "Gm7/Bb"F2 G2 "Am7"F2 E2 "A7/G"D2 ^C2 "D"D8 |]
+V:A
+z4 D4 F2 G2 C4 A,2 D2 C2 D2 D2 C2 F, G, A,2 A,4 | F4 E4 G2 E2 E2 C2 E4 F4 | z2 F2 E2 F2 F2 E2 D2 D2 ^C4 | A,2 E2 D2 D2 C2 C2 A,4 A,4 |
+F4 G4 G2 A2 G2 E2 F4 F4 | G2 G2 E2 F2 F2 E2 D4 ^C4 | C2 E2 F2 F2 E2 E2 C D E2 E4 | G4 A4 F2 E2 E2 C2 A,2 B,2 C4 |
+z2 D2 C4 A,4 A,4 _B,4 | D2 E2 F4 E2 G2 F2 E2 D2 ^C2 | A,2 C2 D2 D2 C4 _B,2 A,2 A,8 |]
+V:T
+z4 F,4 A,2 C2 A,2 G,2 F,3 G, A,2 _B,2 A,4 D,2 E,2 F,4 | D6 C2 B,2 C2 G,2 A,2 G,2 C2 C4 | z2 D2 C2 C2 F,2 A,2 A,2 A,2 A,4 | F,2 A,2 D2 _B,2 A,2 G,2 F,2 E,2 F,4 |
+A,4 B,4 C2 A,2 _B,2 A,2 A,4 A,4 | C2 D2 C2 C2 F,2 A,2 A,4 A,4 | A,2 C2 C2 D2 C2 G,2 A,2 B,2 C4 | E4 F4 C2 C2 C2 G,2 F,4 G,4 |
+z2 _B,2 A,2 G,2 F,2 E,2 F,2 A,2 G,4 | A,2 C4 D2 G,2 G,2 C2 C2 A,4 | F,2 G,2 D2 _B,2 A,2 G,4 E,2 ^F,8 |]
+V:B
+z4 D,,4 D,,2 E,,2 F,,2 C,,2 D,,4 A,,2 G,,2 D,2 A,,2 _B,,2 A,,2 D,,4 | D,4 A,,4 G,,2 A,,2 E,2 F,2 C,4 F,,4 | z2 D,,2 A,,2 F,,2 D,,2 ^C,,2 D,,2 D,2 A,,4 | D,2 C,2 _B,,2 G,,2 A,, B,, C,2 D,2 A,,2 D,,4 |
+D,4 G,,4 C,2 F,,2 G,,2 A,,2 D,,4 D,,4 | C,,2 G,,2 A,,2 F,,2 D,,2 ^C,,2 D,,4 A,,4 | F,,2 C,2 F,2 D,2 A,,2 E,2 F,2 E,2 A,,4 | E,4 D,3 E, F,2 C,2 A,,2 C,2 D,4 C,4 |
+z2 G,,2 A,,2 C,2 D,2 A,,2 F,,2 D,,2 G,,4 | D,2 C,2 F,2 D,2 C,2 E,2 F,2 C,2 D,2 A,,2 | D,2 C,2 _B,,2 G,,2 A,,2 C,2 G,,2 A,,2 D,,8 |]

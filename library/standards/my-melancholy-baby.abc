@@ -1,0 +1,22 @@
+X:1
+T:My Melancholy Baby
+C:Ernie Burnett, 1912
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: ella, sinatra
+%%duets year: 1912
+%%duets credit: Melody and chords: public domain in the United States (published 1912); lead sheet from OpenEWLD.
+%%duets slug: my-melancholy-baby
+M:4/4
+L:1/8
+K:Eb
+"Eb"G B G ^F- "Bb+"F4 | "Eb"G B G ^F- "Bb+"F4 | "Eb"G B c d f d B G | "Eb/G"B2 "Cb7/Gb"=A2 "Fm7/Bb"_A4 |
+"Fm"A c A G- "Edim/C"G4 | "Fm"A c A G- "Edim/C"G4 | "F7"F G =A B c =B c d | "Fm7/Bb"c2 _c2 "Bb7"B4 |
+"Eb"G B G ^F- "Bb+"F4 | "Eb"G B G ^F- "Bb+"F4 | "Eb"G B c d f e B G | "Eb/G"B2 "Cb7/Gb"=A2 "Fm7/Bb"_A4 |
+"F7"=A B =B c5 | "Bb"B c ^c d- "G7"d4 | "C7"c d c d "F7"c =A G F | "Fm7"c2 "Fm7b5"_c2 "Bb7"B4 |:
+"Eb"G A =A B f e B A | "C+"A4 "C7"G4 | "Fm"G F =E F "C7#5"A2 d2 | "Fm7"c6 "C7"z2 |
+"Fm7/Bb"F G A B c e "Bb7"d c | "F9/C"G4 "Bb7"F4 | "Eb"F E D E "F7"F E F G | "Bb"B2- "Cm"B2- "C#dim7"B2 "Bb7/D"z2 |
+"Eb"G A =A B f e "Gm7b5"B A | "Db7"A4 "C7"G4 | "Fm7"G F =E F "C7#5"A2 d2 | "Fm7"c6 "C7"z2 |
+"Fm7"c =B c d "F#dim7"e2 d c | "Gm7"B =A B =B "C7"c3 G | "Fm"A B =B c "Bb7"G B G F | [1 "Eb"E2 B2 "Bb7#5"c2 B2 :|
+[2 "Eb"E2- "Ab7"E2- "Eb"E2 z2 |]

@@ -1,0 +1,30 @@
+X:1
+T:O Christ, Who Art the Light and Day
+T:Christ, der du bist der helle Tag · BWV 273
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, evening
+%%duets tune: Christ, der du bist der helle Tag
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 273), public domain; score from the music21 corpus.
+%%duets slug: bach-o-christ-who-art-the-light-and-day
+M:4/4
+L:1/8
+K:Gm
+V:S
+"Gm"G2 | "Gm"G2 "Bb/D"B2 "F7"A2 "Gm"G2 | "Eb"B2 "F7/C"c2 "Bb"!fermata!d2 d2 | "Bb"d2 "Gm"d e "F7"f e "Gm"d2 |
+"Cm7/Eb"c2 "F7"c2 "Bb"!fermata!B2 | "Gm"B2 | "Eb"B2 "Bb"d2 "F"c2 "F7"A2 | "Bb/D"B2 "F"c2 "Bb"!fermata!d2 d2 |
+"Bb"d2 "Bb/D"d2 "F"c2 "D7/F#"c2 | "Gm"B2- "C#dim7"B A/2 G/2 "Dm"!fermata!F2 "Bb"F2 | "Gm"B c d2 "C7/E"c2 "D/F#"d2 | "Gm"B2 "D"A2 "Gm"!fermata!G2 |]
+V:A
+D2 | D =E F G F _E D2 | G F E F !fermata!F2 F2 | F2 G2 A2 B2- |
+B A/2 G/2 A2 !fermata!F2 | G2 | G A B2 B A/2 G/2 F2 | F2 F2 !fermata!F2 F2 |
+F2 F2 F3/2 E/2 D2- | D2 =E2 !fermata!D2 D2 | G A B2 B2 A2 | A G2 ^F !fermata!D2 |]
+V:T
+B,2 | B,2 D C C2 B, A, | G,/2 A,/2 B,2 A, !fermata!B,2 B, C | D C B,2 C2 B, D |
+G2 F E !fermata!D2 | D2 | E2 F2 F2 C2 | B,3 A, !fermata!B,2 B,2 |
+B,2 B,3 A, A,2- | A, G, G, A,/2 B,/2 !fermata!A,2 B, C | D C B, A, G,2 D2 | D E A, D !fermata!B,2 |]
+V:B
+G,,2 | G,2 D, =E, F, ^F, G, =F, | E, D, C, F, !fermata!B,,2 B,,2 | B, A, G,2 F,2 G, F, |
+E,2 F,2 !fermata!B,,2 | G, F, | E, D, C, B,, F,3 E, | D, B,, F,2 !fermata!B,,2 B,,2 |
+B,, C, D, E, F,2 ^F, D, | G,2 ^C,2 !fermata!D,2 B,, A,, | G,,2 G, F, =E,2 ^F,2 | G, C, D,2 !fermata!G,,2 |]

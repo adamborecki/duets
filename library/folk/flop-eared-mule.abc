@@ -1,0 +1,17 @@
+X:1
+T:Flop-Eared Mule
+C:American traditional fiddle tune
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: american
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: flop-eared-mule
+M:4/4
+L:1/8
+K:G
+|: "G"b4 g4 | d e d B G2 G2 | "D7"F G A B c d c A |
+"G"G A B c d2 d2 | b2 b2 g2 g2 | "G"d e d B G2 G2 | "D7"F G A B c d e f |
+[1 "G"g4 g4 :| [2 "G"g4 g2 || [K:D]f g |: "D"a2 a f a2 a f |
+a b a f d2 d2 | "A7"c d e f g a g e | "D"d e f g a2 f g | "D"a2 a f a2 a f |
+a b a f d2 d2 | "A7"A c e f g a g e | "D"d2 f2 d4 :|

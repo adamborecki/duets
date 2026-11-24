@@ -1,0 +1,22 @@
+X:1
+T:Love Me or Leave Me
+C:Walter Donaldson, 1928
+S:OpenEWLD
+R:swing
+%%duets category: standard
+%%duets tags: ella
+%%duets year: 1928
+%%duets credit: Melody and chords: public domain in the United States (published 1928); lead sheet from OpenEWLD.
+%%duets slug: love-me-or-leave-me
+M:4/4
+L:1/8
+K:C
+"Am7"e e2 e E E2 E | "Bm7b5"^F F2 "E7"F ^G G3 | "Am7"e e2 e E E2 E | "Bm7b5"^F F2 F "G7"^G G2 e |
+"Cmaj7"g g2 g G G2 G | "Am6"A A2 A "G7"d c d c- | "Cmaj7"c8- | "Bm7b5"c2 z2 "E7"z2 d2 |
+"Am7"e e2 e E E2 E | "Bm7b5"^F F2 F "E7"^G G2 G | "Am7"e e2 e E E2 E | "Bm7b5"^F F2 F "G7"^G G2 e |
+"Cmaj7"g g2 g G G2 G | "Am6"A A2 A "G7"d c d c- | "Cmaj7"c8- | c4 z4 |
+"A7"e2 g e- "A7#5"e g e2 | "A7"^c2 A B2 c A2 | "Dm7"f4 "A7"e4 | "Dm7"f8 |
+"G7"d2 f d2 f d2 | "G7"B2 d A2 B G2 | "Cmaj7"g4 ^f4 | "Bm7b5"f4- "E7"f4 |
+"Am7"e e2 e E E2 E | "Bm7b5"^F F2 F "E7"^G G2 G | "Am7"e e2 e E E2 E | "Bm7b5"^F F2 F "G7"^G G2 e |
+"Cmaj7"g g2 g G G2 G | "Am6"A A2 A "G7"d c d c- | [1 "Cmaj7"c2 z6 | "Bm7b5"z4 "E7"z4 :|
+[2 "Cmaj7"c8- | "Fm6"c6 "Cmaj7"z2 |]

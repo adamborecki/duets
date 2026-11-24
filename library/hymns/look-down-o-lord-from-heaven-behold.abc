@@ -1,0 +1,38 @@
+X:1
+T:Look Down, O Lord, from Heaven Behold
+T:ACH GOTT VOM HIMMEL
+C:Erfurt Enchiridion, 1524
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: reformation
+%%duets tune: ACH GOTT VOM HIMMEL
+%%duets year: 1524
+%%duets credit: Tune and setting: public domain (Karl August Haupt, 1869), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1524. Translated by Frances Elizabeth Cox, 1864
+%%duets notes: intro 14-15
+%%duets slug: look-down-o-lord-from-heaven-behold
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"D"A2 | "Gm"B2 "D/F#"A2 "Gm"G2 "D"d2 | "Gm"d2 B2 "D"!fermata!A2 "Cm"c2 | "Gm"B2 "D"A2 "Cm7/Eb"G2 c2 |
+"Gm/D"B2 "D"A2 "Gm"!fermata!G2 "D"G2 | "Gm"B2 "D/F#"A2 "Gm"G2 "D"d2 | "Gm"d2 B2 "D"!fermata!A2 "Cm"c2 | "Gm"B2 "D"A2 "Cm7/Eb"G2 c2 |
+"Gm/D"B2 "D"A2 "C7/G"!fermata!G2 G2 | "Dm7/F"A2 F2 "Am"E2 "Bb"D2 | "Dm"F2 "Gm/Bb"G2 "A"!fermata!A2 "Dm"F2 | "C"G2 "Bb"B2 "F"A2 "Bb"B2 |
+"Eb"G2 "D"^F2 "Gm"!fermata!G2 G2 | "D/F#"d2 "Gm"B2 "F"c2 "Bb"d2 | "F"c2 "Gm"B2 "D"!fermata!A2 |]
+V:A
+D2 | D2 D2 D2 ^F2 | G2 G2 ^F2 G2 | G2 ^F2 G2 G2 |
+G2 ^F2 G2 D2 | D2 D2 D2 ^F2 | G2 G2 ^F2 G2 | G2 ^F2 G2 G2 |
+G2 ^F2 G2 E2 | C2 D2 C2 B,2 | A,2 D2 ^C2 A,2 | C2 D2 C2 D2 |
+B, C D2 D2 D2 | D2 D2 F2 F2 | F2 D2 D2 |]
+V:T
+^F,2 | G,2 A,2 B,2 A,2 | B,2 D2 D2 _E2 | D2 D2 B,2 _E2 |
+D4 B,2 ^F,2 | G,2 A,2 B,2 A,2 | B,2 D2 D2 _E2 | D2 D2 B,2 _E2 |
+D4 B,2 C2 | A,2 A,2 A,2 F,2 | F,2 D,2 E,2 F,2 | E,2 F,2 F,2 F,2 |
+G,2 A,2 B,2 B,2 | A,2 B,2 A,2 B,2 | A,2 G,2 ^F,2 |]
+V:B
+D,2 | G,2 ^F,2 G,2 D,2 | G,2 G,,2 D,2 C,2 | G,2 D,2 _E,2 C,2 |
+D,4 G,,2 D,2 | G,2 ^F,2 G,2 D,2 | G,2 G,,2 D,2 C,2 | G,2 D,2 _E,2 C,2 |
+D,4 G,,2 C,2 | F,2 D,2 A,,2 B,,2 | D,2 B,,2 A,,2 D,2 | C,2 B,,2 F,,2 B,,2 |
+_E,2 D,2 G,,2 G,2 | ^F,2 G,2 =F,2 B,,2 | F,2 G,2 D,2 |]

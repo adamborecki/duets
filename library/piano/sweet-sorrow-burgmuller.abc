@@ -1,0 +1,32 @@
+X:1
+T:Sweet Sorrow
+T:Op. 100 No. 16
+C:Friedrich Burgmüller
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, burgmuller
+%%duets credit: Friedrich Burgmüller. Source edition: Bas Wassink for the Mutopia Project (Public Domain).
+%%duets tempo-text: Allegro moderato
+%%duets slug: sweet-sorrow-burgmuller
+M:4/4
+L:1/8
+Q:1/4=112
+K:Gm
+V:S
+d5 c B A | G5 d g f | e5 e d c | d5 z3 |
+A/2 c/2 A/2 c/2 d/2 c/2 d/2 c/2 A z3 | G/2 B/2 G/2 B/2 d/2 B/2 d/2 B/2 G z3 | z2 g _f _d A G _F | D d A d G d ^F d |
+d5 c B A | G5 d g f | e5 e d c | d5 z3 |
+A/2 c/2 A/2 c/2 d/2 c/2 d/2 c/2 A z3 | G/2 B/2 G/2 B/2 d/2 B/2 d/2 B/2 G z3 | z2 g _f _d A G _F | D d ^F d A d ^c d |
+[ce]/2 z/2 [cd]/2 z/2 [ce]/2 z/2 [cd] [ce]/2 z/2 [cd]/2 z/2 [ce]/2 z/2 [cd] | d g f e d/2 z/2 d e =e | [eg]/2 z/2 [ef]/2 z/2 [eg]/2 z/2 [ef]/2 z/2 [eg]/2 z/2 [ef]/2 z/2 [eg]/2 z/2 [ef]/2 z/2 | f b a g f/2 z/2 b c' d' |
+d'3 a b3 g | ^f3 a g3 d | f e d c B G d ^F | G/2 B/2 d/2 B/2 G/4 z11/4 d ^c d |
+[ce]/2 z/2 [cd]/2 z/2 [ce]/2 z/2 [cd] [ce]/2 z/2 [cd]/2 z/2 [ce]/2 z/2 [cd] | d g f e d/2 z/2 d e =e | [eg]/2 z/2 [ef]/2 z/2 [eg]/2 z/2 [ef]/2 z/2 [eg]/2 z/2 [ef]/2 z/2 [eg]/2 z/2 [ef]/2 z/2 | f b a g f/2 z/2 b c' d' |
+d'3 a b3 g | ^f3 a g3 d | f e d c B G d ^F | G/2 B/2 d/2 B/2 G/4 z23/4 |]
+V:lh
+G,/2 B,/2 G,/2 B,/2 D/2 B,/2 D/2 B,/2 G, z3 | G,/2 B,/2 G,/2 B,/2 D/2 B,/2 D/2 B,/2 G, z3 | C/2 E/2 C/2 E/2 G/2 E/2 G/2 E/2 C z3 | G,/2 B,/2 G,/2 B,/2 D/2 B,/2 D/2 B,/2 G, D E D |
+^F,5 D E D | G,5 B, D G | B A z6 | D,2 C2 B,2 A,2 |
+D,2 z6 | [^FA] [FA] [FA] [FA] [FA] [FA] [FA] [FA] | [GB]5 z3 | [Ac] [Ac] [Ac] [Ac] [Ac] [Ac] [Ac] [Ac] |
+[Bd]5 z3 | ^F,/2 A,/2 F,/2 A,/2 F,/2 z3/2 G,/2 B,/2 G,/2 B,/2 G,/2 z3/2 | A,/2 C/2 A,/2 C/2 A,/2 z3/2 B,/2 D/2 B,/2 D/2 =B,/2 D/2 B,/2 D/2 | C2 D E D z [D,C]2 |
+[G,B,]2 z/2 ^C/2 D/2 B,/2 G, z3 | [G,B,]2 z/2 ^C/2 D/2 B,/2 G, z3 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |]

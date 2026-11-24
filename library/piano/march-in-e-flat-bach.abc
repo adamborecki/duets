@@ -1,0 +1,46 @@
+X:1
+T:March in E-flat
+T:Notebook for Anna Magdalena Bach, BWV Anh. 127
+C:Johann Sebastian Bach (attrib.)
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, bach
+%%duets credit: Johann Sebastian Bach (attrib.). Source edition: Steven McDougall for the Mutopia Project (Public Domain).
+%%duets tempo-text: Tempo di marcia
+%%duets slug: march-in-e-flat-bach
+M:2/2
+L:1/8
+Q:1/2=100
+K:Eb
+V:S
+E G | B2 c d e B g2 | g f e d e2 [Ac]2 | [Ac]2 [GB]4 [FA]2 |
+(3GFE E4 g2 | (3fed d d d f e d | (3edc c c c e d c | (3def [df] [df] [df] [df] b d |
+(3cde [ce] [ce] [ce] [ce] c' e | (3db=a (3gfe (3dcB c2 | B6 z2 | E G B2 c d e B |
+g2 g f e d e2 | [Ac]2 [Ac]2 [GB]4 | [FA]2 (3GFE E4 | g2 (3fed d d d f |
+e d (3edc c c c e | d c (3def [df] [df] [df] [df] | b d (3cde [ce] [ce] [ce] [ce] | c' e (3db=a (3gfe (3dcB |
+c2 B6 | z2 B d f2 e d | c B a2 a2 g2- | g2 G2 (3edc (3fed |
+(3gfe a c c2 _c2- | _c2 G G c G d G | G F F F _c G d F | F E c e g c (3fed |
+d4 c4- | c2 e d e B g2- | g2 _d2 d2 c2- | c2 d2 (3efg (3agf |
+(3gfe b e (3dcB B2- | B2 A2 (3GAB [GB] [GB] | [GB] [GB] e G (3FGA [FA] [FA] | [FA] [FA] f A (3GAB [GB] [GB] |
+g B A G (3FGA [FA] [FA] | f A G F (3Ged (3cBA | (3GFE F2 E4- | E2 z2 B d f2 |
+e d c B a2 a2 | g4 G2 (3edc | (3fed (3gfe a c c2 | _c4 G G c G |
+d G G F F F _c G | d F F E c e g c | (3fed d4 c2- | c4 e d e B |
+g4 _d2 d2 | c4 d2 (3efg | (3agf (3gfe b e (3dcB | B4 A2 (3GAB |
+[GB] [GB] [GB] [GB] e G (3FGA | [FA] [FA] [FA] [FA] f A (3GAB | [GB] [GB] g B A G (3FGA | [FA] [FA] f A G F (3Ged |
+(3cBA (3GFE F2 E2- | E4 z4 |]
+V:lh
+E,2 | G,2 A, F, G,2 E,2 | B,,2 B,2 E,2 A,2 | B,4 B,,4 |
+E,2 G, F, G,2 E,2 | D,2 B,2 B,,2 B,2 | F,,2 [F,=A,]2 [F,A,]2 [F,A,]2 | [F,B,]2 [F,B,]2 [F,B,]2 [F,B,]2 |
+[F,=A,]2 [F,A,]2 [F,A,]2 [F,A,]2 | B,2 E,2 F,2 F,,2 | B,,2 F,,2 B,,,2 z2 | E,2 G,2 A, F, G,2 |
+E,2 B,,2 B,2 E,2 | A,2 B,4 B,,2- | B,,2 E,2 G, F, G,2 | E,2 D,2 B,2 B,,2 |
+B,2 F,,2 [F,=A,]2 [F,A,]2 | [F,=A,]2 [F,B,]2 [F,B,]2 [F,B,]2 | [F,B,]2 [F,=A,]2 [F,A,]2 [F,A,]2 | [F,=A,]2 B,2 E,2 F,2 |
+F,,2 B,,2 F,,2 B,,,2 | z2 B,,2 B,,2 C,2 | D,2 B,,2 E,,2 E, D, | E, F, E, D, C,2 D,2 |
+E,2 F,2 G,,2 G, ^F, | G,2 G,,2 G,,2 G,,2 | G,,2 G,,2 G,,2 G,,2 | C,2 C,2 E,2 A,2 |
+G,2 G,,2 C,2 C2 | B, A, G, F, G,2 E, F, | G,2 E,2 A,,2 A, G, | A,2 F,2 G,2 D,2 |
+E,2 G,2 B,2 B,, C, | D,2 B,,2 E,2 E,2 | E,2 E,,2 B,,2 [B,,D,]2 | [B,,D,]2 [B,,D,]2 [B,,E,]2 [B,,E,]2 |
+[B,,E,]2 [B,,E,]2 [B,,D,]2 [B,,D,]2 | [B,,D,]2 [B,,D,]2 E,2 A,2 | B,2 B,,2 E,2 B,,2 | E,,2 z2 B,,2 B,,2 |
+C,2 D,2 B,,2 E,,2 | E, D, E, F, E, D, C,2 | D,2 E,2 F,2 G,,2 | G, ^F, G,2 G,,2 G,,2 |
+G,,2 G,,2 G,,2 G,,2 | G,,2 C,2 C,2 E,2 | A,2 G,2 G,,2 C,2 | C2 B, A, G, F, G,2 |
+E, F, G,2 E,2 A,,2 | A, G, A,2 F,2 G,2 | D,2 E,2 G,2 B,2 | B,, C, D,2 B,,2 E,2 |
+E,2 E,2 E,,2 B,,2 | [B,,D,]2 [B,,D,]2 [B,,D,]2 [B,,E,]2 | [B,,E,]2 [B,,E,]2 [B,,E,]2 [B,,D,]2 | [B,,D,]2 [B,,D,]2 [B,,D,]2 E,2 |
+A,2 B,2 B,,2 E,2 | B,,2 E,,2 z4 |]

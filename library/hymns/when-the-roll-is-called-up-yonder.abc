@@ -1,0 +1,42 @@
+X:1
+T:When the Roll Is Called Up Yonder
+T:WHEN THE ROLL IS CALLED UP YONDER
+C:James Milton Black, 1893
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: church
+%%duets tune: WHEN THE ROLL IS CALLED UP YONDER
+%%duets year: 1893
+%%duets credit: Tune and setting: public domain (Charles Hutchinson Gabriel, 1893), via the Open Hymnal Project.
+%%duets lyricist: James Milton Black, 1893
+%%duets notes: intro 16-17
+%%duets slug: when-the-roll-is-called-up-yonder
+M:4/4
+L:1/8
+Q:1/4=100
+K:Ab
+V:S
+"Ab"A3/2 B/2 | "Ab"c3/2 c/2 c3/2 c/2 c3/2 B/2 A3/2 A/2 | "Bbm/Db"B3/2 A/2 "Db"A3/2 F/2 "Ab"E2 A3/2 B/2 | "Ab"c3/2 c/2 c3/2 c/2 c3/2 c/2 "Eb/G"B3/2 A/2 |
+"Eb"B6 "Ab"A3/2 B/2 | "Ab"c3/2 c/2 c3/2 c/2 c3/2 B/2 A3/2 A/2 | "Bbm/Db"B3/2 A/2 "Db"A3/2 F/2 "Ab"E2 A3/2 B/2 | "Ab/Eb"c3/2 c/2 c3/2 A/2 "Eb7"B3/2 B/2 B3/2 G/2 |
+"Ab"A6 c3/2 d/2 | "Ab/C"e11/2 d/2 c3/2 d/2 | "Ab"e4 c2 c3/2 c/2 | "Eb7/Bb"d11/2 c/2 B3/2 c/2 |
+"Eb7"d4 "Eb"B2 "Ab"c3/2 d/2 | "Ab/C"e4- "Ab"e3/2 c/2 B3/2 A/2 | "Db"A4 d2 d3/2 B/2 | "Ab/Eb"c3/2 c/2 c3/2 A/2 "Eb7"B3/2 B/2 B3/2 G/2 |
+"Ab"A6 |]
+V:A
+C3/2 D/2 | E3/2 E/2 E3/2 E/2 E3/2 E/2 E3/2 E/2 | D3/2 D/2 D3/2 D/2 C2 C3/2 D/2 | E3/2 E/2 E3/2 E/2 E3/2 E/2 E3/2 =D/2 |
+E6 C3/2 D/2 | E3/2 E/2 E3/2 E/2 E3/2 E/2 E3/2 E/2 | D3/2 D/2 D3/2 D/2 C2 C3/2 D/2 | E3/2 E/2 E3/2 C/2 D3/2 D/2 D3/2 D/2 |
+C6 A3/2 B/2 | c11/2 B/2 A3/2 B/2 | c4 A2 A3/2 A/2 | B11/2 A/2 G3/2 A/2 |
+B4 G2 A3/2 B/2 | c11/2 A/2 E3/2 E/2 | F4 F2 F3/2 F/2 | E3/2 E/2 E3/2 C/2 D3/2 D/2 D3/2 D/2 |
+C6 |]
+V:T
+A,3/2 A,/2 | A,3/2 A,/2 A,3/2 A,/2 A,3/2 G,/2 A,3/2 A,/2 | F,3/2 F,/2 F,3/2 A,/2 A,2 A,3/2 A,/2 | A,3/2 A,/2 A,3/2 A,/2 A,3/2 A,/2 B,3/2 B,/2 |
+G,6 A,3/2 A,/2 | A,3/2 A,/2 A,3/2 A,/2 A,3/2 G,/2 A,3/2 A,/2 | F,3/2 F,/2 F,3/2 A,/2 A,2 A,3/2 A,/2 | A,3/2 A,/2 A,3/2 A,/2 G,3/2 G,/2 G,3/2 B,/2 |
+A,6 z2 | z2 E3/2 E/2 E3/2 E/2 E3/2 E/2 | E3/2 E/2 E3/2 E/2 E2 z2 | z2 E3/2 E/2 E3/2 E/2 E3/2 E/2 |
+E3/2 E/2 E3/2 E/2 E2 z2 | z2 E3/2 E/2 E3/2 E/2 D3/2 C/2 | D4 A,2 A,3/2 A,/2 | A,3/2 A,/2 A,3/2 A,/2 G,3/2 G,/2 G,3/2 B,/2 |
+A,6 |]
+V:B
+A,,3/2 A,,/2 | A,,3/2 A,,/2 A,,3/2 A,,/2 A,,3/2 B,,/2 C,3/2 C,/2 | D,3/2 D,/2 D,3/2 D,/2 A,,2 A,,3/2 A,,/2 | A,,3/2 A,,/2 A,,3/2 A,,/2 A,3/2 A,/2 G,3/2 F,/2 |
+E,6 A,,3/2 A,,/2 | A,,3/2 A,,/2 A,,3/2 A,,/2 A,,3/2 B,,/2 C,3/2 C,/2 | D,3/2 D,/2 D,3/2 D,/2 A,,2 A,,3/2 A,,/2 | E,3/2 E,/2 E,3/2 E,/2 E,3/2 E,/2 E,3/2 E,/2 |
+A,,6 z2 | z2 A,3/2 A,/2 A,3/2 A,/2 A,3/2 A,/2 | A,3/2 A,/2 A,3/2 A,/2 A,2 z2 | z2 E,3/2 E,/2 E,3/2 E,/2 E,3/2 E,/2 |
+E,3/2 E,/2 E,3/2 E,/2 E,2 z2 | z2 A,3/2 A,/2 A,3/2 A,/2 A,3/2 A,/2 | D,4 D,2 D,3/2 D,/2 | E,3/2 E,/2 E,3/2 E,/2 E,3/2 E,/2 E,3/2 E,/2 |
+A,,6 |]

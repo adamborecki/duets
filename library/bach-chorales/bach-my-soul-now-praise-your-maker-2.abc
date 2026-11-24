@@ -1,0 +1,62 @@
+X:1
+T:My Soul, Now Praise Your Maker (II)
+T:Nun lob, mein Seel, den Herren · BWV 29.8
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, praise
+%%duets tune: Nun lob, mein Seel, den Herren
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 29.8), public domain; score from the music21 corpus.
+%%duets slug: bach-my-soul-now-praise-your-maker-2
+M:3/4
+L:1/8
+K:D
+V:S
+"D"d2 | "Bm"d2- "D/F#"d2 "F#m7"c2 | "G"B2- "Em7"B2 "F#m"A2 | "Bm7"d2 "Em7/G"e2- "A"e2 |
+"D"!fermata!f4 f2 | "D"f e f2- "F#"f2 | "Bm7"f2- "Gmaj7"f2 "C#dim/G"e2 | "D/F#"d e "Em7/G"e2- "A"e2 |
+"D"!fermata!d4 :| "D/F#"d2 | "G"d2 "A7/G"e2 "D"f2 | "Asus4"e2- "A7"e2 "F#7/A#"f e |
+"Bm"d e "Em6"c2- "F#7"c2 | "Bm"!fermata!B4 "C#m"e2 | "E/G#"e2 "E7"d2 "A"c2 | "F#m7"d c "D6"B2- "E7"B2 |
+"A"!fermata!A4 | "A7"A2 | "D/F#"d2- "Bm7"d2 "G"d2 | "Em7/G"e2- "A7"e2 "F#m7"e2 |
+"D"f2 "A"e2 "D"f2 | "G"!fermata!d4 d2 | "Em"g2- "A7"g2 "Am7"g2 | "C"f e "Am6"f2- "B7"f2 |
+"Em"!fermata!e4 | "A"e2 | "D"f2- "Bm7"f2 "Gmaj7"f2 | "Em7"g2- "C"g2 "Am7"g2 |
+"F#m7"a2- "D/F#"a g "D7"f e | "G"!fermata!d4 "D"f2 | "E/G#"e2 "E7"d2 "A"c2 | "F#m7"d c "D6"B2- "E7"B2 |
+"A"!fermata!A4 | "A"A2 | "F#m7"d2- "Bm7/F#"d2 "A"c2 | "B7/D#"B2- "C#7"B2 "F#m7"A2 |
+"A"e2 "D"f4 | "A"!fermata!e4 "D"f2 | "G/B"g2 "Bm7"f2 "A7/C#"e2 | "D"f g "Em7/G"e2- "A"e2 |
+"D"!fermata!d4 |]
+V:A
+A2 | B2 A2 A2 | A2 G2 A G | F2 B2 A2 |
+!fermata!A4 A2 | A4 c2 | F2 B2 E2 | A2 B2 A E |
+!fermata!F4 :| A2 | B2 A2 A2 | A B A G F2 |
+F2 G F E F | !fermata!D4 E2 | E4 E2 | A4 ^G2 |
+!fermata!E4 | E2 | D E F2 B2 | B2 A2 A2 |
+A6- | !fermata!A2 G2 G A | B2 A G =c B | A G =c2 B A |
+!fermata!G4 | A2 | A2 B4- | B2 A G =c B |
+A G A4- | !fermata!A2 G2 A2 | B4 A2 | A4 ^G2 |
+!fermata!E4 | E2 | A ^G A B E2 | F2 C2 C D |
+E2 A4 | !fermata!A4 A2 | B2 A2 G2 | F2 G F E2 |
+!fermata!F4 |]
+V:T
+F2 | F4 F E | D2 E D C2 | D4 C2 |
+!fermata!D4 D2 | D4 C2 | D4 C2 | D4 C2 |
+!fermata!A,4 :| D2 | G2 C2 D2 | D2 C2 C2 |
+B,4 ^A,2 | !fermata!B,4 ^G, A, | B, ^G, A, B, C B, | A,2 F2 E D |
+!fermata!C4 | C B, | A,2 D4- | D2 C B, C2 |
+D2 A,2 D2 | !fermata!B,4 B,2 | E4 E2 | E4 ^D2 |
+!fermata!B,4 | C2 | D4 D2 | G,2 E4- |
+E2 D3 =C | !fermata!B,4 D C | B,2 E4 | D E F2 E D |
+!fermata!C4 | C2 | C2 B,2 A,2 | A,2 ^G,2 A,2 |
+A,4 D2 | !fermata!C4 D2 | D4 A,2 | D4 C2 |
+!fermata!A,4 |]
+V:B
+D C | B,2 F,4 | G, F, E,2 F,2 | B, A, G,2 A,2 |
+!fermata!D,4 D,2 | D3 C B, ^A, | B, A, G, F, G, E, | F,2 G,2 A,2 |
+!fermata!D,4 :| F,2 | G, A, G, F, E, D, | A,4 ^A,2 |
+B,2 E,2 F,2 | !fermata!B,,4 C,2 | ^G, E, F, G, A, G, | F, E, D,2 E,2 |
+!fermata!A,,4 | A, G, | F,2 B, A, G, F, | G, E, A, G, F, E, |
+D, E, D, C, D, F, | !fermata!G,4 G, F, | E,2 F, G, A, B, | =C2 A,2 B,2 |
+!fermata!E,4 | A,2 | D C B, A, G, F, | E, D =C B, A, G, |
+F, G, F, E, D,2 | !fermata!G,4 D2 | ^G, E, F, G, A, G, | F, E, D,2 E,2 |
+!fermata!A,,4 | A, ^G, | F, E, F, ^G, A,2 | ^D, C, D, ^E, F, =E, |
+D, C, D,4 | !fermata!A,,4 D, C, | B,, A,, B,, D, C, E, | D,2 G,,2 A,,2 |
+!fermata!D,4 |]

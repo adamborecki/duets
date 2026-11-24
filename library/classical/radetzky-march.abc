@@ -1,0 +1,23 @@
+X:1
+T:Radetzky March
+C:Johann Strauss I, 1848
+S:OpenEWLD
+R:march
+%%duets category: classical
+%%duets year: 1848
+%%duets credit: Melody and chords: public domain in the United States (published 1848); lead sheet from OpenEWLD.
+%%duets slug: radetzky-march
+M:2/2
+L:1/8
+K:D
+"D"d d d z d d d z | f2 e2 d3 c | "E7"B ^A B c d2 e2 | "A"A2 z4 F ^E |:
+"D"F2 F ^E F2 F E | F z E z D z F ^E | F2 F ^E F2 F E | F z B z A z A F ||
+[1 "A7"G z B z A z A E | "D"F z B z A z A F | "A/E"E z c2 "E7"D z B2 | "A"A z A ^G A B A =G :|
+[2 "E7"^G z f z e4 | "D/A"F z e z d4 || "A7"c3 B A G F E | "D"D2 D2 D2 d c ||
+"G/D"d z d c d z d c | d z g z B z d c | "D"d z d c d z d c | d z f z A z A z |
+"A7"A4 G z B z | "D/A"B4 A z d z | "A7"c z c B A z G z | "D"B z B A G z F z |
+"A7"A4 G z B z | "D"B4 A z d z | c z c ^A "Bm"B z d z | "D"c z c ^A "Bm"B z d z |
+"D"d2 "Bm"d d "D"d2 "Bm"d d | "D"d2 "Bm"F F "D"F2 "Bm"F F | "D"F2 F ^E F2 F E | F z F ^E F2 F E |:
+"D"F z F ^E F z F E | F z E z D z F ^E | F z F ^E F2 F E | F z B z A z A F ||
+[1 "A7"G z B z A z A E | "D"F z B z A z A F | "A/E"E z c2 "E7"D z B2 | "A"A z A ^G A B A =G :|
+[2 "E7"^G z f z e4 || "A7"c3 B A G F E | "D"D2 D2 D2 z2 |]

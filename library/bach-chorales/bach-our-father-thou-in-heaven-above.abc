@@ -1,0 +1,34 @@
+X:1
+T:Our Father, Thou in Heaven Above
+T:Vater unser im Himmelreich · BWV 416
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, prayer
+%%duets tune: Vater unser im Himmelreich
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 416), public domain; score from the music21 corpus.
+%%duets slug: bach-our-father-thou-in-heaven-above
+M:4/4
+L:1/8
+K:Dm
+V:S
+"Dm"A2 | "A/C#"A2 "Dm"F2 "C#dim/E"G2 "Dm/F"A2 | "Dm/A"F2 "A"E2 "Dm"!fermata!D2 A2 | "Am/C"A2 "Gm/Bb"G2 "Am"c2 "F"A2 |
+"Bb"F2 "Gm/Bb"G2 "A"!fermata!A2 | "Am"A =B | "F"c2 "G7/F"d e "Dm"f2 "Edim/G"e2 | "G#dim7"d2 "A"^c2 "Dm"!fermata!d2 "G7"d2 |
+"Am/C"e2 "Bm7"d2 "Am"c2 "E7"=B2 | "F"A2 "E"^G2 "Am"!fermata!A2 | "G7"d2 | "C/E"c2 "Bdim/D"=B2 "C"c2 "Dm"A2 |
+"Bbmaj7"A2 "C7"G2 "F"!fermata!F2 "D/F#"A2 | "Gm"B2 "A7/C#"A G "Dm"F2 "Gm/Bb"G2 | "G#dim7"F2 "A"E2 "D"!fermata!D2 |]
+V:A
+F2 | E2 D2 ^C2 D E | F2 ^C2 !fermata!A,2 F2 | E2 D2 E2 F2 |
+F2 E D !fermata!E2 | E2 | A2 G2 F2 G2 | F E E2 !fermata!F2 F2 |
+E2 =B2 E2 E D | C D E2 !fermata!E2 | G2 | G2 F2 G2 F2 |
+F2 E2 !fermata!C2 D2 | D2 E2 D2 D2 | D2 ^C2 !fermata!A,2 |]
+V:T
+D2 | A,2 A,2 G,2 D2 | D2 A,2 !fermata!F,2 D2 | A,2 B,2 C2 C2 |
+D ^C D2 !fermata!C2 | C2 | C A, =B, ^C D =C _B,2 | =B,2 A,2 !fermata!A,2 B,2- |
+=B, A,2 ^G, A,2 G,2 | A,2 =B,2 !fermata!C2 | =B,2 | C2 D2 E2 D2 |
+D C B,2 !fermata!A,2 A,2 | G, F, E,2 A,2 G, A, | =B,2 E, F,/2 G,/2 !fermata!^F,2 |]
+V:B
+D,2 | ^C,2 D,2 E,2 F, G, | A,2 A,,2 !fermata!D,2 D,2 | C,2 B,,2 A,, C, F,2 |
+B,2 B,2 !fermata!A,2 | A, G, | F,3 E, D,2 G,2 | ^G,2 A,2 !fermata!D,2 =G,2 |
+C,2 =B,,2 A,,2 E,2 | F,2 E,2 !fermata!A,,2 | G, F, | E,2 D,2 C,2 D, C, |
+B,,2 C,2 !fermata!F,,2 ^F,2 | G,2 ^C,2 D, =C, B,, A,, | ^G,,2 A,,2 !fermata!D,2 |]

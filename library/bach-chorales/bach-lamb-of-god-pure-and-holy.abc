@@ -1,0 +1,34 @@
+X:1
+T:Lamb of God, Pure and Holy
+T:O Lamm Gottes, unschuldig · BWV 401
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, lent
+%%duets tune: O Lamm Gottes, unschuldig
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 401), public domain; score from the music21 corpus.
+%%duets slug: bach-lamb-of-god-pure-and-holy
+M:4/4
+L:1/8
+K:F
+V:S
+"F"F2 | "F7/A"F2 "Bb"F2 "C7/Bb"c2 "Am"c2 | "Dm7/F"d2- "G7"d2 "C6"!fermata!c2 c2 | "Dm"F2 "C/E"G2 "F"A2 "Bb/D"B2 |
+"F/C"A2 "C"G F "F"!fermata!F2 :| "F"A2 | "Dm7/F"A2 A2 "G7/B"G2 "A/C#"A2 | "Dm"F E "Dm7/F"D2 "C"!fermata!C2 "F7/A"c2 |
+"Bb"d2 "F"c2 "C"c2 "F"A B | "F7"c2 "Gm"B2 "D"!fermata!A2 | "Gm/Bb"d2 | "C7"c B "Dm"A2 "C/E"G2 "F"A2 |
+"F/A"c2 "Dm"A2 "Gm7/Bb"G2- "C7"G2 | "F"!fermata!F6 |]
+V:A
+C2 | C/2 D/2 _E E D =E C F E | A2 G F !fermata!E2 E2- | E D2 C C D/2 E/2 F2- |
+F E/2 D/2 E2 !fermata!C2 :| F2 | F2 F2 F2 E2 | D C2 =B, !fermata!G,2 _E2 |
+D E F G/2 A/2 G2 F2 | A3 G2 !fermata!^F | G2 | G2 F2 G3 F/2 E/2 |
+F2 F4 E2 | !fermata!C6 |]
+V:T
+A, B, | C3 B,/2 A,/2 G,2 C2- | C2 =B,2 !fermata!G,2 A,2 | A,2 G,2 F,3 D |
+C2 C3/2 B,/2 !fermata!A,2 :| C2 | C2 D2 D2 A,2 | A, G, A, G,/2 F,/2 !fermata!E,2 F,2 |
+F, G, A, B, C3 D | _E2 D2 !fermata!D2 | D F | E3 D2 C C2 |
+C A, F, A, D2 C B, | !fermata!A,6 |]
+V:B
+F,, G,, | A,,2 B,,4 A,, G,, | F,,2 G,,2 !fermata!C,2 A,,2 | D,2 E,2 F, E, D, B,, |
+C,2 C,,2 !fermata!F,,2 :| F,2 | F, E, D, C, =B,,2 ^C,2 | D, E, F, G, !fermata!C,2 A,,2 |
+B,,2 F,3 E, F,2 | F, ^F, G, G,, !fermata!D,2 | B,, =B,, | C,2 D,2 E,2 F,2 |
+A,, B,,/2 C,/2 D, C, B,,2 C,2 | !fermata!F,,6 |]

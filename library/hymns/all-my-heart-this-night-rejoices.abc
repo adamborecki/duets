@@ -1,0 +1,38 @@
+X:1
+T:All My Heart This Night Rejoices
+T:EBELING
+C:or 'Bonn' or 'Warum Sollt Ich' or 'All My Heart This Night' Johann Georg Ebeling, 1666
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: EBELING
+%%duets year: 1666
+%%duets credit: Tune and setting: public domain ("Chorale Book For England", 1863), via the Open Hymnal Project.
+%%duets lyricist: Paul Gerhardt, 1656. Translated by Catherine Winkworth, 1858
+%%duets notes: intro 13-16
+%%duets slug: all-my-heart-this-night-rejoices
+M:4/4
+L:1/8
+Q:1/4=140
+K:G
+V:S
+"G"G4 "D"A4 | "G"B6 "D/F#"A2 | "G"B2 d2 "C"e4 | "G/B"d8 |
+"Em7/B"d2 e2 "Am"c4 | "Am"c2 "D/F#"d2 "G"B4 | "G"B2 d2 "C/E"c2 "G"B2 | "D"A4 "G"G4 |
+"Bm"d4 "Am"c2- "F#dim/A"c2 | "G"B6 "D/F#"A2 | "G"G2 "D"F2 "Asus4"E2- "A"E2 | "D"D8 |
+"D/F#"d2 "Em/G"e2 "Am"c4 | "C/E"c2 "D/F#"d2 "G"B4 | "G"B2 "D"A2 "C"c2 "G"B2 | "Dsus4"A2- "D"A2 "G"G4 |]
+V:A
+D4 F4 | G6 A2 | G2 G2 G4 | G8 |
+G2 B2 A4 | E2 A2 G4 | G2 G2 G2 G2 | F4 G4 |
+D4 E2 F2 | G6 A2 | D2 D2 D2 ^C2 | D8 |
+A2 B2 A4 | G2 A2 G4 | G2 F2 G2 G2 | G2 F2 G4 |]
+V:T
+B,4 D4 | D6 D2 | D2 D2 C4 | D8 |
+D2 B,2 E4 | C2 A,2 D4 | D2 B,2 C2 D2 | D4 B,4 |
+B,4 C4 | D6 D2 | B,2 A,2 A,4 | F,8 |
+D2 B,2 E4 | C2 A,2 D4 | D2 D2 E2 D2 | D4 B,4 |]
+V:B
+G,4 D,4 | G,6 F,2 | G,2 B,2 C4 | B,8 |
+B,2 G,2 A,4 | A,2 F,2 G,4 | G,2 G,2 E,2 G,2 | D,4 G,4 |
+B,4 A,4 | G,6 F,2 | G,2 D,2 A,,4 | D,8 |
+F,2 G,2 A,4 | E,2 F,2 G,4 | G,2 D,2 C,2 G,2 | D,4 G,4 |]

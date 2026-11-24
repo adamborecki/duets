@@ -1,0 +1,46 @@
+X:1
+T:Chorale
+T:Album for the Young, Op. 68 No. 4
+C:Robert Schumann
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schumann
+%%duets credit: Robert Schumann. Source edition: Philippe Hézaine for the Mutopia Project (Creative Commons Attribution-ShareAlike 2.5).
+%%duets tempo-text: Broadly
+%%duets slug: chorale-schumann
+M:4/4
+L:1/8
+Q:1/4=72
+K:G
+V:S
+|: [DG]4 [DA]4 | [DB]4 [DA]4 | [_DG]4 [=DF]4 |
+[_DE]4 =D4 | [B,G]4 [DA]4 | [DB]4 [Gc]4 | B4 A4 |
+[B,G]8 :| [GB]4 [Fc]4 | [Gd]4 [Fc]4 | [GB]4 A4 |
+[GB]8 | [Gd]4 [Gd]4 | [Ge]4 [Gd]4 | [Fc]4 [GB]4 |
+[FA]8 | B2 c2 [Gd]4 | [Gc]4 [GB]4 | [EG]4 [FA]4 |
+[GB]4 [EG]4 | B2 c2 [Gd]4 | [Fc]4 [GB]4 | [EA]4 [FA]4 |
+G8 |]
+V:lh
+|: [G,B,]4 [F,A,]4 | G,4 [F,A,]4 | [E,A,]4 [D,A,]4 |
+[A,,A,]4 [D,F,]4 | E,4 [D,F,]4 | G,4 [E,G,]4 | [D,G,]4 [D,F,]4 |
+[G,,G,]8 :| [G,D]4 [A,C]4 | B,4 [A,C]4 | [G,D]4 [CE]2 D2 |
+[G,D]8 | [G,B,]4 [B,D]4 | C4 [B,D]4 | [A,D]4 [G,D]4 |
+[D,D]8 | D4 [B,D]4 | [CE]4 [G,D]4 | C4 [A,C]4 |
+[G,D]4 [C,C]4 | D4 [B,D]4 | [A,D]4 [G,D]4 | [C,C]4 [D,C]4 |
+[G,B,]8 |]
+V:rh2
+|: z8 | z8 | z8 |
+z8 | z8 | z8 | D6 C2 |
+z8 :| z8 | z8 | z4 G2 F2 |
+z8 | z8 | z8 | z8 |
+z8 | G4 z4 | z8 | z8 |
+z8 | G4 z4 | z8 | z8 |
+z8 |]
+V:lh2
+|: z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 :| z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | G,2 A,2 z4 | z8 | z8 |
+z8 | G,2 A,2 z4 | z8 | z8 |
+z8 |]

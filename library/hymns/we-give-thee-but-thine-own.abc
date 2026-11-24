@@ -1,0 +1,34 @@
+X:1
+T:We Give Thee but Thine Own
+T:ENERGY
+C:William H. Monk (1823-1889)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: stewardship
+%%duets tune: ENERGY
+%%duets year: 1823
+%%duets credit: Tune and setting: public domain ("Evangelical Lutheran Hymn-Book", 1931), via the Open Hymnal Project.
+%%duets lyricist: William W. How, 1864
+%%duets notes: intro 8-9
+%%duets slug: we-give-thee-but-thine-own
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+V:S
+"G"d2 | "F#dim/A"c2 "G/B"B2 "C6"A2 "Bm/D"B c | "G"B6 B2 | "D"A2 "Bm"D2 "Em7/G"E2 "A"E2 |
+"D"D6 D2 | "C"E2 "F#dim/A"F2 "G/B"G2 B2 | "C6"A2 "Am/C"A2 "B"B2 "G"B2 | "Am"c2 "G/B"B2 "C6"A2 "D7"A2 |
+"G"G6 |]
+V:A
+G2 | F2 G2 G2 F2 | G6 D2 | D2 D2 D2 ^C2 |
+D6 A,2 | C2 C2 D2 D2 | E2 E2 ^D2 =D2 | C2 D2 E2 D C |
+B,6 |]
+V:T
+B,2 | C2 D2 E2 D2 | D6 G,2 | F,2 F,2 B,2 A,2 |
+F,6 F,2 | G,2 A,2 G,2 G,2 | G, F, E,2 F,2 G,2 | E, F, G,2 G,2 F,2 |
+B,6 |]
+V:B
+G,,2 | A,,2 B,,2 C,2 D,2 | G,6 G,,2 | D,2 B,,2 G,,2 A,,2 |
+D,6 D,2 | C,2 A,,2 B,,2 G,,2 | C,2 C,2 B,,2 G,,2 | A,,2 B,,2 C,2 D,2 |
+G,,6 |]

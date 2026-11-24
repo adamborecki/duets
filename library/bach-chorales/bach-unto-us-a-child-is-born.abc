@@ -1,0 +1,30 @@
+X:1
+T:Unto Us a Child Is Born
+T:Uns ist ein Kindlein heut geborn · BWV 414
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, christmas
+%%duets tune: Uns ist ein Kindlein heut geborn
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 414), public domain; score from the music21 corpus.
+%%duets slug: bach-unto-us-a-child-is-born
+M:4/4
+L:1/8
+K:G
+V:S
+"G"B2 | "G"B c "D/F#"d2 "G"B2 "C/E"G2 | "F"A2 "G"B2 "C"!fermata!c2 "G"B2 | "D7"A2 "Em"G2 "C"G2- "C/E"G A |
+"G"B2 "G/B"B2 "Dsus4"A G "D7"A2 | "G"!fermata!G6 :| "G"B2 | "D7"A2 "B/D#"B2 "Em"G2 "A7"E2 |
+"D/F#"F2 "Em7"G2 "D"!fermata!A2 "B"B2 | "Em"G2 "C/E"G2 "G"G2- "Em/G"G A | "Em7"B2 B2 "Dsus4"A G "D7"A2 | "G"!fermata!G6 |]
+V:A
+G2 | G2 A2 G2 G2 | =F E D2 !fermata!E2 D2- | D C B,2 E4 |
+D2 D2 D3 C | !fermata!B,6 :| G2 | F2 F2 E D ^C2 |
+D3 ^C !fermata!D2 ^D2 | B,2 E2 D2 E F | G2 D2 D3 C | !fermata!B,6 |]
+V:T
+D2 | D2 D2 D2 D C | C2 G,2 !fermata!G,2 G,2 | F,2 G,2 C4 |
+B, A, G,2 G,2 F,2 | !fermata!D,6 :| D2 | D C B,2 B,2 A,2 |
+A,2 G,2 !fermata!F,2 F,2 | G,2 C2 B, C B, A, | G,2 G,4 F,2 | !fermata!D,6 |]
+V:B
+G,,2 | G,2 F,2 G,2 E,2 | =F,2 G,2 !fermata!C,2 G,,2 | D,2 E, D, C, D, E, F, |
+G,2 B,, C, D,2 D,2 | !fermata!G,,6 :| G,,2 | D,2 ^D,2 E,2 A, G, |
+F,2 E,2 !fermata!D,2 B,,2 | E, D, E, F, G, A, G, F, | E,2 B,, C, D,4 | !fermata!G,,6 |]

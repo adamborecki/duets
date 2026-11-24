@@ -1,0 +1,37 @@
+X:1
+T:He Was Not Willing
+T:HE WAS NOT WILLING
+C:Meyer, Lucy Jane Rider (1849-1922)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: missions
+%%duets tune: HE WAS NOT WILLING
+%%duets credit: Tune and setting: public domain ('He Was Not Willing' Lucy R. Meyer, 1885), via the Open Hymnal Project.
+%%duets lyricist: Lucy R. Meyer, 1885. Music and
+%%duets notes: intro 15-16
+%%duets slug: he-was-not-willing
+M:6/8
+L:1/8
+Q:3/8=53
+K:Eb
+V:S
+"Eb"G3/2 G/2 G G G G | "Ab/Eb"A3/2 A/2 A "Eb"G2 E | "Eb"B3/2 B/2 B B B B | "Eb"c B G "Bb"F3 |
+"Eb"G3/2 G/2 G G G G | "Ab/Eb"A3/2 A/2 A "Eb"G2 E | "Eb"B3/2 B/2 B c B G | "Eb/G"E G F "Eb"E3 |
+"Eb"G3/2 G/2 G G G G | "Ab/Eb"A3/2 A/2 A "Eb"G2 E | "Eb"B3/2 B/2 B c B G | "Eb/G"E G F "Eb"E3 |
+"Cm"c3/2 c/2 c c c c | "Cm/G"G3/2 G/2 G G2 G | "Bb"B3/2 B/2 B B B B | "F7"F3/2 G/2 =A "Bb"B3 |]
+V:A
+E3/2 E/2 E E E E | E3/2 E/2 E E2 E | G3/2 G/2 G G G G | A G E D3 |
+E3/2 E/2 E E E E | E3/2 E/2 E E2 E | G3/2 G/2 G A G E | E E D E3 |
+E3/2 E/2 E E E E | E3/2 E/2 E E2 E | G3/2 G/2 G A G E | E E D E3 |
+E3/2 E/2 E E E E | E3/2 E/2 E E2 E | D3/2 D/2 D D D D | E3/2 E/2 E D3 |]
+V:T
+B,3/2 B,/2 B, B, B, B, | C3/2 C/2 C B,2 G, | E3/2 E/2 E E E E | E E B, B,3 |
+B,3/2 B,/2 B, B, B, B, | C3/2 C/2 C B,2 G, | E3/2 E/2 E E E B, | B, B, A, G,3 |
+B,3/2 B,/2 B, B, B, B, | C3/2 C/2 C B,2 G, | E3/2 E/2 E E E B, | B, B, A, G,3 |
+G,3/2 G,/2 G, G, G, G, | C3/2 C/2 C C2 C | B,3/2 B,/2 B, B, B, B, | =A,3/2 B,/2 C B,3 |]
+V:B
+E,3/2 E,/2 E, E, E, E, | E,3/2 E,/2 E, E,2 E, | E,3/2 E,/2 E, E, E, E, | E, E, E, B,,3 |
+E,3/2 E,/2 E, E, E, E, | E,3/2 E,/2 E, E,2 E, | E,3/2 E,/2 E, E, E, E, | G, B, B,, E,3 |
+E,3/2 E,/2 E, E, E, E, | E,3/2 E,/2 E, E,2 E, | E,3/2 E,/2 E, E, E, E, | G, B, B,, E,3 |
+C,3/2 C,/2 C, C, C, C, | G,3/2 G,/2 G, G,2 G, | B,,3/2 B,,/2 B,, B,, B,, B,, | F,3/2 F,/2 F, B,,3 |]

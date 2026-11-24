@@ -1,0 +1,30 @@
+X:1
+T:If Thou But Trust in God to Guide Thee
+T:Wer nur den lieben Gott lässt walten · BWV 197.10
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trust
+%%duets tune: Wer nur den lieben Gott lässt walten
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 197.10), public domain; score from the music21 corpus.
+%%duets slug: bach-if-thou-but-trust-in-god-to-guide-thee
+M:4/4
+L:1/8
+K:Bm
+V:S
+"Bm"F2 | "Bm"B2 "F#/A#"c2 "Bm"d2 "F#7"c2 | "G"B2 "Em"c B "F#"^A2 !fermata!F2 | "F#m"z2 A2 "Bm7"A2 "A7/C#"G2 |
+"D"F2 "G"B2 "Em"B2 "F#7"^A2 | "Bm"!fermata!B6 :| "F#"c2 | "Bm"d2 "A7"e2 "D/F#"f2 f2 |
+"Em7/G"e2- "A"e d "D"!fermata!d2 f2 | "A#dim/C#"e2 "Bm"d2 "F#7/E"c2 "Em/G"B c | "Bm/F#"d2 "F#7"c2 "B"!fermata!B2 |]
+V:A
+D E | F2 F2 F2 F E | D2 G2 F2 !fermata!C2 | z2 F2 F2 E2 |
+E D D2 G2 F2 | !fermata!F6 :| F2 | F2 A2 A2 A2 |
+B2 A2 !fermata!A2 A B | c2 F2 G F F E | F2 F E !fermata!^D2 |]
+V:T
+B, C | D2 C2 B,2 ^A,2 | B,2 E D C2 !fermata!^A,2 | z2 C2 D2 A,2 |
+A,2 B,2 C D E2 | !fermata!D6 :| ^A,2 | B,2 C2 D2 D2 |
+D2 C2 !fermata!F2 D2 | ^A,2 B,2 B, A, B,2 | B,2 ^A,2 !fermata!F,2 |]
+V:B
+B,,2 | B,2 ^A,2 B,2 F,2 | G, F, E,2 F,2 !fermata!F,,2 | z2 F,2 B,,2 C,2 |
+D,2 G, F, E,2 F,2 | !fermata!B,,6 :| F,2 | B,2 A, G, F, E, D,2 |
+G,2 A,2 !fermata!D,2 D,2 | C,2 B,,2 E, F, G,2 | F, E, F,2 !fermata!B,,2 |]

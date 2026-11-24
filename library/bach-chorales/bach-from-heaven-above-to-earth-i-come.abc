@@ -1,0 +1,34 @@
+X:1
+T:From Heaven Above to Earth I Come
+T:Vom Himmel hoch, da komm ich her · BWV 248.9-1
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, christmas
+%%duets tune: Vom Himmel hoch, da komm ich her
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 248.9-1), public domain; score from the music21 corpus.
+%%duets slug: bach-from-heaven-above-to-earth-i-come
+M:4/4
+L:1/8
+K:D
+V:S
+"D"d2 | "A"c2 "Bm7/A"B2 "A7"c2 "F#m"A2 | "G"B2 "C#dim/E"c2 "D"!fermata!d2 z2 | z8 |
+z2 "D"d2 "D/F#"d2 A2 | "A"A2 "D7/A"F G "D/F#"A2 "A7"G2 | "D"!fermata!F2 z6 | z6 "D"F2 |
+"B7/D#"B2 "E7"B2 "A/C#"A B "A"c2 | "F#m"d c "D6"B2 "A"!fermata!A2 z2 | z8 | z2 "Bm"d2 "A"c2 "D6"B2 |
+"F#m"A2 "G"B A "G/D"G F "A7"E2 | "D"!fermata!D2 z6 |]
+V:A
+A2 | A ^G F2 E2 F E | D2 E2 !fermata!F2 z2 | z8 |
+z2 F G A G F2 | E2 D2 D2 E2 | !fermata!D2 z6 | z6 D E |
+F2 E2 E ^G A2 | A3 ^G !fermata!E2 z2 | z8 | z2 F E E F F E |
+C D B, C D3 C | !fermata!A,2 z6 |]
+V:T
+F2 | E2 D2 C2 D C | B, A, G,2 !fermata!A,2 z2 | z8 |
+z2 A,2 D2 D2 | C2 =C B, A,2 A,2 | !fermata!A,2 z6 | z6 A,2 |
+A,2 ^G,2 A, D C B, | A, C F E !fermata!C2 z2 | z8 | z2 D B, B, A, A, G, |
+A,2 G, F, D,2 A, G, | !fermata!F,2 z6 |]
+V:B
+D,2 | A,3 ^G, A, =G, F,2 | G, F, E,2 !fermata!D,2 z2 | z8 |
+z2 D, E, F,2 F, G, | A,2 A, G, F, E, D, C, | !fermata!D,2 z6 | z6 D,2 |
+^D,2 E, =D, C, B,, A,,2 | F, E, D, E, !fermata!A,,2 z2 | z8 | z2 B, E, A,2 D, G, |
+G, F, G, A, B, G, A, A,, | !fermata!D,2 z6 |]

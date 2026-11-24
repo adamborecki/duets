@@ -1,0 +1,42 @@
+X:1
+T:Hark! the Herald Angels Sing
+T:MENDELSSOHN
+C:'Festgesang' Felix Mendelssohn, 1840
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: MENDELSSOHN
+%%duets year: 1840
+%%duets credit: Tune and setting: public domain (William H. Cummings, 1857), via the Open Hymnal Project.
+%%duets lyricist: Charles Wesley, 1739, alt
+%%duets notes: intro 19-20
+%%duets slug: hark-the-herald-angels-sing
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"F"C2 F2 F3 E | "F/A"F2 A2 "F/C"A2 "C"G2 | "F/A"c2 "Am"c2 "Bb"c2- "Gm/Bb"c B | "F/C"A2 "C"G2 "F"A4 |
+"F"C2 F2 F3 E | "Dm7"F2 A2 "Bm7b5"A2 "G7/B"G2 | "Am"c2 "G/B"G2 "C"G3 E | "Fmaj7"E2 "G7"D2 "C"C4 |
+"F/C"c2 c2 c2 F2 | "C7/E"B2 "F"A2 "F/C"A2 "C"G2 | "F/C"c2 c2 c2 F2 | "C7/E"B2 "F"A2 "F/C"A2 "C"G2 |
+"Bb"d2 d2 d2 "Bbmaj7"c2 | "Gm/Bb"B2 "D"A2 "Gm"B4 | "C7/Bb"G2 A B "F/A"c3 F | "F/C"F2 "C"G2 "F"A4 |
+"Bb"d3 d d2 "Am"c2 | "Gm"B2 "F#m"A2 "Gm7"B4 | "C7/E"G2 A B "F/A"c3 F | "F/C"F2 "C7"G2 "F"F4 |]
+V:A
+C2 C2 C3 C | C2 F2 F2 E2 | F2 E2 D2 G2 | F2 E2 F4 |
+C2 C2 C3 C | A,2 F2 F4 | E2 D2 E3 C | C2 =B,2 C4 |
+C2 C2 C2 F2 | G2 F2 F2 E2 | C2 C2 C2 F2 | G2 F2 F2 E2 |
+B2 B2 B2 A2 | G2 ^F2 G4 | E2 E2 F3 C | C2 E2 F4 |
+B2 B2 B2 A2 | G2 ^F2 G4 | C2 E2 F3 F | C2 C2 C4 |]
+V:T
+A,2 A,2 A,3 G, | F,2 C2 C4 | C2 C2 D2 D2 | C2 C2 C4 |
+A,2 A,2 A,3 G, | F,2 C2 D4 | C2 D2 C3 G, | A,2 F,2 E,4 |
+C2 C2 C2 C2 | C2 C2 C4 | C2 C2 C2 C2 | C2 C2 C4 |
+D2 D2 D2 D2 | D2 D2 D4 | C2 C2 C3 A, | A,2 C2 C4 |
+D2 D2 D2 C2 | B,2 A,2 B,4 | C2 C2 C3 A, | A,2 B,2 A,4 |]
+V:B
+F,2 F,2 F,2 C,2 | A,,2 F,,2 C,4 | A,,2 A,,2 B,,2 B,,2 | C,2 C,2 F,4 |
+F,2 F,2 F,2 C,2 | D,2 C,2 =B,,3 G,, | A,,2 =B,,2 C,2 E,2 | F,2 G,,2 C,4 |
+C2 C2 C2 A,2 | E,2 F,2 C,4 | C2 C2 C2 A,2 | E,2 F,2 C,4 |
+B,,2 B,,2 B,,2 B,,2 | B,,2 D,2 G,4 | B,2 B,2 A,2 F,2 | C,2 C,2 F,4 |
+B,2 B,2 B,2 A,2 | G,2 ^F,2 G,2 =F,2 | E,2 B,2 A,2 F,2 | C,2 C,2 F,4 |]

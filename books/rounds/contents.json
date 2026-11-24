@@ -1,0 +1,130 @@
+{
+ "id": "rounds",
+ "title": "Rounds",
+ "subtitle": "Canons for two players",
+ "blurb": "The Secondo chases the Primo.",
+ "pieces": 4,
+ "layouts": {
+  "facing": {
+   "path": "rounds-facing.pdf",
+   "pages": 13,
+   "bytes": 139382
+  },
+  "score": {
+   "path": "rounds-score.pdf",
+   "pages": 11,
+   "bytes": 118177
+  },
+  "screen": {
+   "path": "rounds-screen.pdf",
+   "pages": 10,
+   "bytes": 150426
+  },
+  "screen-score": {
+   "path": "rounds-screen-score.pdf",
+   "pages": 10,
+   "bytes": 100011
+  }
+ },
+ "items": [
+  {
+   "slug": "frere-jacques",
+   "title": "Fr\u00e8re Jacques",
+   "subtitle": "A round for four hands",
+   "composer": "French traditional round",
+   "levels": {
+    "p": 1.3,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "round",
+   "flavor_text": "Round: the Secondo follows the Primo 2 bars later",
+   "section": "",
+   "problems": [
+    "4 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 4,
+    "score": 4,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "londons-burning",
+   "title": "London's Burning",
+   "subtitle": "A round for four hands",
+   "composer": "English traditional round",
+   "levels": {
+    "p": 1.4,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "round",
+   "flavor_text": "Round: the Secondo follows the Primo 2 bars later",
+   "section": "",
+   "problems": [
+    "4 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 6,
+    "score": 6,
+    "screen": 5,
+    "screen-score": 5
+   }
+  },
+  {
+   "slug": "row-row-row-your-boat",
+   "title": "Row, Row, Row Your Boat",
+   "subtitle": "A round for four hands",
+   "composer": "American traditional round",
+   "levels": {
+    "p": 1.5,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 19,
+   "flavor": "round",
+   "flavor_text": "Round: the Secondo follows the Primo 2 bars later",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 8,
+    "screen": 7,
+    "screen-score": 7
+   }
+  },
+  {
+   "slug": "three-blind-mice",
+   "title": "Three Blind Mice",
+   "subtitle": "A round for four hands",
+   "composer": "English traditional round",
+   "levels": {
+    "p": 1.6,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 37,
+   "flavor": "round",
+   "flavor_text": "Round: the Secondo follows the Primo 4 bars later",
+   "section": "",
+   "problems": [
+    "4 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 10,
+    "score": 10,
+    "screen": 9,
+    "screen-score": 9
+   }
+  }
+ ],
+ "seconds": 7.1
+}

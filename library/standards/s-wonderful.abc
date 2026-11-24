@@ -1,0 +1,21 @@
+X:1
+T:'S Wonderful
+C:George Gershwin, 1927
+S:OpenEWLD
+R:swing
+%%duets category: standard
+%%duets tags: gershwin, ella, sinatra
+%%duets year: 1927
+%%duets credit: Melody and chords: public domain in the United States (published 1927); lead sheet from OpenEWLD.
+%%duets slug: s-wonderful
+M:4/4
+L:1/8
+K:Eb
+"Eb"B3 B G4- | G8 | "Edim"B3 B G4- | G8 |
+"Fm7"B3 B G4- | G4 "Bb7"B4 | "Eb"E4- "C7b9"E4- | "F9"E6 "Bb7b5"z2 |
+B3 B G4- | G8 | "Edim"B3 B G4- | G8 |
+"Fm7"B3 B G4- | G4 "Bb7"B4 | "Eb"c8- | c4 "Am7b5"e4 |
+"G/D"d8 | "D7/C"z2 d2 d2 d2 | "G/B"=e3 d d4- | "Am7"d4- "D7"d4 |
+"G9"z2 d2 d2 d2 | d2 d2 d2 d2 | "F9"d3 c c4- | "Bb13"c4 "Bb7b9"_c4 |
+"Eb"B3 B G4- | G8 | "Cm"e3 e "F9"c4- | "Cm"c4- "F7"c4 |
+"Fm7"z e3 "C7b9"A2 G2 | "Fm7"B4 "Bb13"G4 | "Eb"E8- | E6 z2 |]

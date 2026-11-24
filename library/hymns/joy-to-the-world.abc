@@ -1,0 +1,42 @@
+X:1
+T:Joy to the World
+T:ANTIOCH
+C:pieced together from "Messiah" George F. Handel, 1741
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: ANTIOCH
+%%duets year: 1741
+%%duets credit: Tune and setting: public domain (Lowell Mason, 1836), via the Open Hymnal Project.
+%%duets lyricist: Isaac Watts, 1719
+%%duets notes: intro 17-19
+%%duets slug: joy-to-the-world
+M:2/4
+L:1/8
+Q:1/4=80
+K:D
+V:S
+"D"d2 "Dmaj7"c3/2 B/2 | "D"A2- "Em7/D"A G | "D/A"F2 "A7"E2 | "D"D3 A |
+"G"B3 B | "A"c3 c | "D"d3 d | "D"d c B A |
+"D"A3/2 G/2 F d | "D"d c B A | "D"A3/2 G/2 F F | "D"F F F F/2 G/2 |
+"D"A3 G/2 F/2 | "A"E E E E/2 F/2 | "A7"G3 F/2 E/2 | "D"D d2 B |
+"D"A3/2 G/2 "Em7/D"F G | "D/A"F2 "A7"E2 | "D"D4 |]
+V:A
+F2 A3/2 G/2 | F3 E | D2 C2 | D3 D |
+G3 G | E3 E | F3 F | F A G F |
+F3/2 E/2 D F | F A G F | F3/2 E/2 D D | D D D D/2 E/2 |
+F3 E/2 D/2 | C C C C/2 D/2 | E3 D/2 C/2 | D F2 G |
+F3/2 E/2 D E | D2 C2 | D4 |]
+V:T
+D2 D3/2 D/2 | D3 B, | A,3 G, | F,3 D |
+D3 D | A,3 A, | A,3 A, | A,2 D2 |
+D3 A, | A,2 D2 | D3 z | z3 A, |
+A, A, A, A, | A,4 | A,3 A,/2 G,/2 | F, A,2 D |
+D3 B, | A,2 A, G, | F,4 |]
+V:B
+D,2 D,3/2 D,/2 | D,3 G,, | A,,2 A,,2 | D,3 F, |
+G,3 G, | A,3 A, | D,3 D, | D,2 D,2 |
+D,3 D, | D,2 D,2 | D,3 z | z3 D, |
+D, D, D, D, | A,3 A,, | A,, A,, A,, A,, | D,3 D, |
+D,3 G,, | A,,2 A,,2 | D,4 |]

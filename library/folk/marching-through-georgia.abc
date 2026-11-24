@@ -1,0 +1,20 @@
+X:1
+T:Marching Through Georgia
+C:Henry Clay Work, 1865
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: american, patriotic, song
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: marching-through-georgia
+M:2/4
+L:1/8
+K:C
+"C"e3/2 d/2 c d | e G G G | "F"A c "Fm"c d | "C"c4 |
+"C"E3/2 F/2 G G | "Am"A G A c | "D7"d3/2 ^c/2 d e | "G7"d4 |
+"C"c c d e | "F"f A A A | "C"G c "G7"c d | "C"e4 |
+"Dm"d2 d3/2 d/2 | "Dm"d2 "G7"e d | "C"c4 | c3 e ||
+"C"g3 e | g3 e | "F"c d c A | "C"c3 e |
+"C"g3 e | g3 e | "Dm"d3/2 d/2 d e | "G7"d4 |
+"C"c c d e | "F"f A A A | "C"G c "G7"c d | "C"e4 |
+"Dm"d2 d3/2 d/2 | "Dm"d e- "G7"e d | "C"c4 | c4 |]

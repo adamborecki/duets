@@ -1,0 +1,1425 @@
+{
+ "id": "ella-frank-nat",
+ "title": "Songs Ella, Frank & Nat Sang",
+ "subtitle": "Standards from 1912 to 1930 for piano four hands",
+ "blurb": "Gershwin, Kern, Rodgers, Youmans, Donaldson: songs recorded by Ella Fitzgerald, Frank Sinatra and Nat King Cole that are now in the public domain in the United States.",
+ "pieces": 60,
+ "layouts": {
+  "facing": {
+   "path": "ella-frank-nat-facing.pdf",
+   "pages": 179,
+   "bytes": 2382348
+  },
+  "score": {
+   "path": "ella-frank-nat-score.pdf",
+   "pages": 153,
+   "bytes": 1815278
+  },
+  "screen": {
+   "path": "ella-frank-nat-screen.pdf",
+   "pages": 153,
+   "bytes": 2361029
+  },
+  "screen-score": {
+   "path": "ella-frank-nat-screen-score.pdf",
+   "pages": 145,
+   "bytes": 1757938
+  }
+ },
+ "items": [
+  {
+   "slug": "after-youve-gone",
+   "title": "After You've Gone",
+   "subtitle": "",
+   "composer": "Turner Layton, 1918",
+   "levels": {
+    "p": 2.1,
+    "s": 3.5
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 21,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 5,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "aint-misbehavin",
+   "title": "Ain't Misbehavin'",
+   "subtitle": "",
+   "composer": "Fats Waller & Harry Brooks, 1929",
+   "levels": {
+    "p": 2.1,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 7,
+    "screen": 5,
+    "screen-score": 5
+   }
+  },
+  {
+   "slug": "at-sundown",
+   "title": "At Sundown",
+   "subtitle": "",
+   "composer": "Walter Donaldson, 1927",
+   "levels": {
+    "p": 2.6,
+    "s": 3.1
+   },
+   "key": "F",
+   "meter": "2/2",
+   "bars": 33,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 9,
+    "screen": 7,
+    "screen-score": 7
+   }
+  },
+  {
+   "slug": "avalon",
+   "title": "Avalon",
+   "subtitle": "",
+   "composer": "Vincent Rose & Al Jolson, 1920",
+   "levels": {
+    "p": 1.7,
+    "s": 2.8
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 12,
+    "score": 11,
+    "screen": 9,
+    "screen-score": 9
+   }
+  },
+  {
+   "slug": "bidin-my-time",
+   "title": "Bidin' My Time",
+   "subtitle": "",
+   "composer": "George Gershwin, 1930",
+   "levels": {
+    "p": 2.8,
+    "s": 2.6
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 13,
+    "screen": 11,
+    "screen-score": 10
+   }
+  },
+  {
+   "slug": "bill",
+   "title": "Bill",
+   "subtitle": "",
+   "composer": "Jerome Kern, 1927",
+   "levels": {
+    "p": 1.6,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 15,
+    "screen": 13,
+    "screen-score": 12
+   }
+  },
+  {
+   "slug": "the-blue-room",
+   "title": "The Blue Room",
+   "subtitle": "",
+   "composer": "Richard Rodgers, 1926",
+   "levels": {
+    "p": 3.5,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [
+    "4 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 20,
+    "score": 18,
+    "screen": 16,
+    "screen-score": 15
+   }
+  },
+  {
+   "slug": "but-not-for-me",
+   "title": "But Not for Me",
+   "subtitle": "",
+   "composer": "George Gershwin, 1930",
+   "levels": {
+    "p": 1.9,
+    "s": 2.7
+   },
+   "key": "Eb",
+   "meter": "2/2",
+   "bars": 32,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 21,
+    "screen": 19,
+    "screen-score": 18
+   }
+  },
+  {
+   "slug": "cant-help-lovin-dat-man",
+   "title": "Can't Help Lovin' Dat Man",
+   "subtitle": "",
+   "composer": "Jerome Kern, 1927",
+   "levels": {
+    "p": 1.6,
+    "s": 2.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 26,
+    "score": 23,
+    "screen": 21,
+    "screen-score": 20
+   }
+  },
+  {
+   "slug": "chicago-that-toddlin-town",
+   "title": "Chicago (That Toddlin' Town)",
+   "subtitle": "",
+   "composer": "Fred Fisher, 1922",
+   "levels": {
+    "p": 2.0,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 30,
+    "score": 26,
+    "screen": 24,
+    "screen-score": 23
+   }
+  },
+  {
+   "slug": "dancing-on-the-ceiling",
+   "title": "Dancing on the Ceiling",
+   "subtitle": "",
+   "composer": "Richard Rodgers, 1930",
+   "levels": {
+    "p": 3.3,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 32,
+    "score": 28,
+    "screen": 26,
+    "screen-score": 25
+   }
+  },
+  {
+   "slug": "embraceable-you",
+   "title": "Embraceable You",
+   "subtitle": "",
+   "composer": "George Gershwin, 1930",
+   "levels": {
+    "p": 1.3,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 34,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 36,
+    "score": 31,
+    "screen": 29,
+    "screen-score": 28
+   }
+  },
+  {
+   "slug": "fascinating-rhythm",
+   "title": "Fascinating Rhythm",
+   "subtitle": "",
+   "composer": "George Gershwin, 1924",
+   "levels": {
+    "p": 2.5,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 40,
+    "score": 34,
+    "screen": 32,
+    "screen-score": 31
+   }
+  },
+  {
+   "slug": "here-in-my-arms",
+   "title": "Here in My Arms",
+   "subtitle": "",
+   "composer": "Richard Rodgers, 1925",
+   "levels": {
+    "p": 2.0,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 44,
+    "score": 37,
+    "screen": 35,
+    "screen-score": 33
+   }
+  },
+  {
+   "slug": "honeysuckle-rose",
+   "title": "Honeysuckle Rose",
+   "subtitle": "",
+   "composer": "Fats Waller, 1929",
+   "levels": {
+    "p": 1.5,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 40,
+    "screen": 38,
+    "screen-score": 36
+   }
+  },
+  {
+   "slug": "how-long-has-this-been-going-on",
+   "title": "How Long Has This Been Going On?",
+   "subtitle": "",
+   "composer": "George Gershwin, 1927",
+   "levels": {
+    "p": 2.8,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 50,
+    "score": 42,
+    "screen": 40,
+    "screen-score": 38
+   }
+  },
+  {
+   "slug": "i-cant-believe-that-youre-in-love-with-me",
+   "title": "I Can't Believe That You're in Love with Me",
+   "subtitle": "",
+   "composer": "Jimmy McHugh, 1926",
+   "levels": {
+    "p": 1.7,
+    "s": 3.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 52,
+    "score": 44,
+    "screen": 42,
+    "screen-score": 40
+   }
+  },
+  {
+   "slug": "i-got-rhythm",
+   "title": "I Got Rhythm",
+   "subtitle": "",
+   "composer": "George Gershwin, 1930",
+   "levels": {
+    "p": 3.8,
+    "s": 2.9
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 63,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 54,
+    "score": 46,
+    "screen": 44,
+    "screen-score": 42
+   }
+  },
+  {
+   "slug": "i-know-that-you-know",
+   "title": "I Know That You Know",
+   "subtitle": "",
+   "composer": "Vincent Youmans, 1926",
+   "levels": {
+    "p": 1.6,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "2/2",
+   "bars": 33,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 62,
+    "score": 53,
+    "screen": 50,
+    "screen-score": 48
+   }
+  },
+  {
+   "slug": "i-want-to-be-happy",
+   "title": "I Want to Be Happy",
+   "subtitle": "",
+   "composer": "Vincent Youmans, 1924",
+   "levels": {
+    "p": 1.2,
+    "s": 3.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 34,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 55,
+    "screen": 52,
+    "screen-score": 50
+   }
+  },
+  {
+   "slug": "ill-see-you-in-my-dreams",
+   "title": "I'll See You in My Dreams",
+   "subtitle": "",
+   "composer": "Isham Jones, 1924",
+   "levels": {
+    "p": 2.0,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 57,
+    "screen": 54,
+    "screen-score": 52
+   }
+  },
+  {
+   "slug": "it-had-to-be-you",
+   "title": "It Had to Be You",
+   "subtitle": "",
+   "composer": "Isham Jones, 1924",
+   "levels": {
+    "p": 3.5,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 51,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [
+    "4 moments where Secondo reaches into the Primo's notes",
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 68,
+    "score": 59,
+    "screen": 56,
+    "screen-score": 54
+   }
+  },
+  {
+   "slug": "ive-got-a-crush-on-you",
+   "title": "I've Got a Crush on You",
+   "subtitle": "",
+   "composer": "George Gershwin, 1928",
+   "levels": {
+    "p": 1.7,
+    "s": 2.7
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 74,
+    "score": 64,
+    "screen": 61,
+    "screen-score": 59
+   }
+  },
+  {
+   "slug": "just-you-just-me",
+   "title": "Just You, Just Me",
+   "subtitle": "",
+   "composer": "Jesse Greer, 1929",
+   "levels": {
+    "p": 2.4,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "2/2",
+   "bars": 32,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 76,
+    "score": 66,
+    "screen": 63,
+    "screen-score": 61
+   }
+  },
+  {
+   "slug": "little-white-lies",
+   "title": "Little White Lies",
+   "subtitle": "",
+   "composer": "Walter Donaldson, 1930",
+   "levels": {
+    "p": 3.1,
+    "s": 4.2
+   },
+   "key": "C",
+   "meter": "2/2",
+   "bars": 34,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 78,
+    "score": 68,
+    "screen": 65,
+    "screen-score": 63
+   }
+  },
+  {
+   "slug": "love-me-or-leave-me",
+   "title": "Love Me or Leave Me",
+   "subtitle": "",
+   "composer": "Walter Donaldson, 1928",
+   "levels": {
+    "p": 2.0,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 34,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 80,
+    "score": 70,
+    "screen": 67,
+    "screen-score": 65
+   }
+  },
+  {
+   "slug": "makin-whoopee",
+   "title": "Makin' Whoopee!",
+   "subtitle": "",
+   "composer": "Walter Donaldson, 1928",
+   "levels": {
+    "p": 2.5,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 27,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 82,
+    "score": 72,
+    "screen": 69,
+    "screen-score": 67
+   }
+  },
+  {
+   "slug": "manhattan",
+   "title": "Manhattan",
+   "subtitle": "",
+   "composer": "Richard Rodgers, 1925",
+   "levels": {
+    "p": 2.6,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "2/2",
+   "bars": 34,
+   "flavor": "easy-primo",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 84,
+    "score": 74,
+    "screen": 71,
+    "screen-score": 69
+   }
+  },
+  {
+   "slug": "mean-to-me",
+   "title": "Mean to Me",
+   "subtitle": "",
+   "composer": "Fred E. Ahlert, 1929",
+   "levels": {
+    "p": 2.9,
+    "s": 2.8
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 35,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 86,
+    "score": 76,
+    "screen": 73,
+    "screen-score": 71
+   }
+  },
+  {
+   "slug": "more-than-you-know",
+   "title": "More Than You Know",
+   "subtitle": "",
+   "composer": "Vincent Youmans, 1929",
+   "levels": {
+    "p": 2.2,
+    "s": 2.8
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 35,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 90,
+    "score": 80,
+    "screen": 77,
+    "screen-score": 74
+   }
+  },
+  {
+   "slug": "mountain-greenery",
+   "title": "Mountain Greenery",
+   "subtitle": "",
+   "composer": "Richard Rodgers, 1926",
+   "levels": {
+    "p": 1.8,
+    "s": 3.0
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 92,
+    "score": 82,
+    "screen": 79,
+    "screen-score": 76
+   }
+  },
+  {
+   "slug": "my-baby-just-cares-for-me",
+   "title": "My Baby Just Cares for Me",
+   "subtitle": "",
+   "composer": "Walter Donaldson, 1930",
+   "levels": {
+    "p": 2.3,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "2/2",
+   "bars": 34,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 94,
+    "score": 84,
+    "screen": 81,
+    "screen-score": 78
+   }
+  },
+  {
+   "slug": "my-blue-heaven",
+   "title": "My Blue Heaven",
+   "subtitle": "",
+   "composer": "Walter Donaldson, 1927",
+   "levels": {
+    "p": 3.4,
+    "s": 2.3
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 96,
+    "score": 86,
+    "screen": 83,
+    "screen-score": 80
+   }
+  },
+  {
+   "slug": "my-buddy",
+   "title": "My Buddy",
+   "subtitle": "",
+   "composer": "Walter Donaldson, 1922",
+   "levels": {
+    "p": 1.3,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 19,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 100,
+    "score": 89,
+    "screen": 86,
+    "screen-score": 83
+   }
+  },
+  {
+   "slug": "my-heart-stood-still",
+   "title": "My Heart Stood Still",
+   "subtitle": "",
+   "composer": "Richard Rodgers, 1927",
+   "levels": {
+    "p": 1.9,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 34,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 102,
+    "score": 90,
+    "screen": 87,
+    "screen-score": 84
+   }
+  },
+  {
+   "slug": "my-ideal",
+   "title": "My Ideal",
+   "subtitle": "",
+   "composer": "Richard A. Whiting & Newell Chase, 1930",
+   "levels": {
+    "p": 2.1,
+    "s": 2.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 31,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 104,
+    "score": 92,
+    "screen": 89,
+    "screen-score": 86
+   }
+  },
+  {
+   "slug": "my-melancholy-baby",
+   "title": "My Melancholy Baby",
+   "subtitle": "",
+   "composer": "Ernie Burnett, 1912",
+   "levels": {
+    "p": 2.2,
+    "s": 2.6
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 108,
+    "score": 95,
+    "screen": 92,
+    "screen-score": 89
+   }
+  },
+  {
+   "slug": "oh-lady-be-good",
+   "title": "Oh, Lady Be Good!",
+   "subtitle": "",
+   "composer": "George Gershwin, 1924",
+   "levels": {
+    "p": 2.3,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 34,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 112,
+    "score": 98,
+    "screen": 95,
+    "screen-score": 92
+   }
+  },
+  {
+   "slug": "ol-man-river",
+   "title": "Ol' Man River",
+   "subtitle": "",
+   "composer": "Jerome Kern, 1927",
+   "levels": {
+    "p": 1.6,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 34,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 114,
+    "score": 100,
+    "screen": 97,
+    "screen-score": 94
+   }
+  },
+  {
+   "slug": "the-one-i-love-belongs-to-somebody-else",
+   "title": "The One I Love Belongs to Somebody Else",
+   "subtitle": "",
+   "composer": "Isham Jones, 1924",
+   "levels": {
+    "p": 2.9,
+    "s": 3.4
+   },
+   "key": "G",
+   "meter": "2/2",
+   "bars": 33,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 118,
+    "score": 103,
+    "screen": 100,
+    "screen-score": 97
+   }
+  },
+  {
+   "slug": "s-wonderful",
+   "title": "'S Wonderful",
+   "subtitle": "",
+   "composer": "George Gershwin, 1927",
+   "levels": {
+    "p": 1.8,
+    "s": 2.7
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 120,
+    "score": 105,
+    "screen": 102,
+    "screen-score": 99
+   }
+  },
+  {
+   "slug": "shes-funny-that-way",
+   "title": "She's Funny That Way",
+   "subtitle": "",
+   "composer": "Neil Moret, 1928",
+   "levels": {
+    "p": 2.8,
+    "s": 4.0
+   },
+   "key": "Eb",
+   "meter": "2/2",
+   "bars": 35,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 122,
+    "score": 107,
+    "screen": 104,
+    "screen-score": 101
+   }
+  },
+  {
+   "slug": "a-ship-without-a-sail",
+   "title": "A Ship Without a Sail",
+   "subtitle": "",
+   "composer": "Richard Rodgers, 1929",
+   "levels": {
+    "p": 1.9,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 58,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 126,
+    "score": 111,
+    "screen": 108,
+    "screen-score": 104
+   }
+  },
+  {
+   "slug": "somebody-loves-me",
+   "title": "Somebody Loves Me",
+   "subtitle": "",
+   "composer": "George Gershwin, 1924",
+   "levels": {
+    "p": 3.4,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [
+    "3 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 130,
+    "score": 114,
+    "screen": 111,
+    "screen-score": 107
+   }
+  },
+  {
+   "slug": "sometimes-im-happy",
+   "title": "Sometimes I'm Happy",
+   "subtitle": "",
+   "composer": "Vincent Youmans, 1927",
+   "levels": {
+    "p": 1.8,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "2/2",
+   "bars": 34,
+   "flavor": "easy-primo",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 134,
+    "score": 117,
+    "screen": 114,
+    "screen-score": 110
+   }
+  },
+  {
+   "slug": "soon",
+   "title": "Soon",
+   "subtitle": "",
+   "composer": "George Gershwin, 1930",
+   "levels": {
+    "p": 2.9,
+    "s": 2.8
+   },
+   "key": "Eb",
+   "meter": "2/2",
+   "bars": 34,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 136,
+    "score": 119,
+    "screen": 116,
+    "screen-score": 112
+   }
+  },
+  {
+   "slug": "tea-for-two",
+   "title": "Tea for Two",
+   "subtitle": "",
+   "composer": "Vincent Youmans, 1924",
+   "levels": {
+    "p": 2.6,
+    "s": 3.4
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 138,
+    "score": 121,
+    "screen": 118,
+    "screen-score": 114
+   }
+  },
+  {
+   "slug": "ten-cents-a-dance",
+   "title": "Ten Cents a Dance",
+   "subtitle": "",
+   "composer": "Richard Rodgers, 1930",
+   "levels": {
+    "p": 1.5,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 140,
+    "score": 123,
+    "screen": 120,
+    "screen-score": 116
+   }
+  },
+  {
+   "slug": "that-certain-feeling",
+   "title": "That Certain Feeling",
+   "subtitle": "",
+   "composer": "George Gershwin, 1925",
+   "levels": {
+    "p": 3.1,
+    "s": 3.0
+   },
+   "key": "Eb",
+   "meter": "2/2",
+   "bars": 49,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 142,
+    "score": 125,
+    "screen": 122,
+    "screen-score": 118
+   }
+  },
+  {
+   "slug": "thou-swell",
+   "title": "Thou Swell",
+   "subtitle": "",
+   "composer": "Richard Rodgers, 1927",
+   "levels": {
+    "p": 2.1,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "2/2",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 146,
+    "score": 128,
+    "screen": 125,
+    "screen-score": 121
+   }
+  },
+  {
+   "slug": "three-little-words",
+   "title": "Three Little Words",
+   "subtitle": "",
+   "composer": "Harry Ruby, 1930",
+   "levels": {
+    "p": 3.3,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 31,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 148,
+    "score": 130,
+    "screen": 127,
+    "screen-score": 123
+   }
+  },
+  {
+   "slug": "walkin-my-baby-back-home",
+   "title": "Walkin' My Baby Back Home",
+   "subtitle": "",
+   "composer": "Fred E. Ahlert, 1930",
+   "levels": {
+    "p": 2.2,
+    "s": 2.5
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 152,
+    "score": 133,
+    "screen": 130,
+    "screen-score": 126
+   }
+  },
+  {
+   "slug": "whos-sorry-now",
+   "title": "Who's Sorry Now?",
+   "subtitle": "",
+   "composer": "Ted Snyder, 1923",
+   "levels": {
+    "p": 1.8,
+    "s": 2.7
+   },
+   "key": "Bb",
+   "meter": "2/2",
+   "bars": 51,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 156,
+    "score": 135,
+    "screen": 132,
+    "screen-score": 128
+   }
+  },
+  {
+   "slug": "why-was-i-born",
+   "title": "Why Was I Born?",
+   "subtitle": "",
+   "composer": "Jerome Kern, 1929",
+   "levels": {
+    "p": 2.7,
+    "s": 3.1
+   },
+   "key": "Eb",
+   "meter": "2/2",
+   "bars": 32,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 160,
+    "score": 137,
+    "screen": 135,
+    "screen-score": 130
+   }
+  },
+  {
+   "slug": "with-a-song-in-my-heart",
+   "title": "With a Song in My Heart",
+   "subtitle": "",
+   "composer": "Richard Rodgers, 1929",
+   "levels": {
+    "p": 3.3,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "2/2",
+   "bars": 34,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 162,
+    "score": 139,
+    "screen": 137,
+    "screen-score": 132
+   }
+  },
+  {
+   "slug": "without-a-song",
+   "title": "Without a Song",
+   "subtitle": "",
+   "composer": "Vincent Youmans, 1929",
+   "levels": {
+    "p": 1.6,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 37,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 164,
+    "score": 141,
+    "screen": 139,
+    "screen-score": 134
+   }
+  },
+  {
+   "slug": "yes-sir-thats-my-baby",
+   "title": "Yes Sir, That's My Baby",
+   "subtitle": "",
+   "composer": "Walter Donaldson, 1925",
+   "levels": {
+    "p": 2.9,
+    "s": 2.6
+   },
+   "key": "Eb",
+   "meter": "2/2",
+   "bars": 34,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 168,
+    "score": 144,
+    "screen": 143,
+    "screen-score": 137
+   }
+  },
+  {
+   "slug": "you-brought-a-new-kind-of-love-to-me",
+   "title": "You Brought a New Kind of Love to Me",
+   "subtitle": "",
+   "composer": "Sammy Fain, Irving Kahal & Pierre Norman, 1930",
+   "levels": {
+    "p": 2.6,
+    "s": 3.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 35,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 170,
+    "score": 146,
+    "screen": 145,
+    "screen-score": 139
+   }
+  },
+  {
+   "slug": "you-took-advantage-of-me",
+   "title": "You Took Advantage of Me",
+   "subtitle": "",
+   "composer": "Richard Rodgers, 1928",
+   "levels": {
+    "p": 1.8,
+    "s": 2.7
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 174,
+    "score": 149,
+    "screen": 148,
+    "screen-score": 141
+   }
+  },
+  {
+   "slug": "youre-driving-me-crazy",
+   "title": "You're Driving Me Crazy",
+   "subtitle": "",
+   "composer": "Walter Donaldson, 1930",
+   "levels": {
+    "p": 3.0,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "2/2",
+   "bars": 50,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 176,
+    "score": 151,
+    "screen": 151,
+    "screen-score": 143
+   }
+  }
+ ],
+ "seconds": 28.5
+}

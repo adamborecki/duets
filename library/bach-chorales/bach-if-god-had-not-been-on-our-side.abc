@@ -1,0 +1,34 @@
+X:1
+T:If God Had Not Been on Our Side
+T:Wo Gott der Herr nicht bei uns hält · BWV 258
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, reformation
+%%duets tune: Wo Gott der Herr nicht bei uns hält
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 258), public domain; score from the music21 corpus.
+%%duets slug: bach-if-god-had-not-been-on-our-side
+M:4/4
+L:1/8
+K:Bm
+V:S
+"Bm"d2 | "D/F#"d2 "G"B c "D/F#"d e "D"f2 | "E7/G#"e2 "A7"e2 "D"!fermata!d2 "G#dim/B"d2 | "A7"c2 B c "Bm"d2 "Em/G"e d |
+"Em6"c2- "F#7"c2 "Bm"!fermata!B2 :| "A/C#"e2 | "D"f2 "F#m"f2 "A"c d "A#dim7"e2 | "Bm"d2 "E#dim7"d2 "F#"!fermata!c2 "Bm"d2 |
+"E/G#"e2 "E"B c "D/F#"d2 "A"c2 | "B7/D#"B2 "E7"B2 "A"!fermata!A2 | "G#dim/B"d2 | "A/C#"c2 "E"B c "Bm"d2 "Gmaj7"e d |
+"Em6"c2- "F#7"c2 "Bm"!fermata!B2 |]
+V:A
+F G | A2 G2 A2 A2 | B2 A G !fermata!F2 ^G2 | A2 G2 F2 E F |
+G2 F2 !fermata!F2 :| A2 | A2 A2 E F G2 | F2 ^G2 !fermata!^A2 B2 |
+B A ^G2 F2 E2 | A2 ^G2 !fermata!E2 | ^G2 | A2 ^G ^A B2 B F |
+G2 F E !fermata!D2 |]
+V:T
+D2 | D2 D2 D2 D2 | D2 C2 !fermata!A,2 B,2 | E2 E2 D C B,2 |
+B,2 ^A, E !fermata!D2 :| A,2 | A,2 A, B, C2 C2 | D C B,2 !fermata!F2 F2 |
+B,2 E2 A, B, C2 | F2 E D !fermata!C2 | D2 | E2 E2 F2 B,2 |
+B,2 ^A,2 !fermata!F,2 |]
+V:B
+B,2 | F,2 G,2 F, E, D,2 | ^G,2 A,2 !fermata!D,2 B,,2 | A,,2 E,2 B, A, G, F, |
+E,2 F,2 !fermata!B,,2 :| C,2 | D, E, F, G, A,2 ^A,2 | B,2 ^E,2 !fermata!F,2 B, A, |
+^G, F, E,2 F, G, A,2 | ^D,2 E,2 !fermata!A,,2 | B,,2 | C, D, E,2 B, A, G, F, |
+E,2 F,2 !fermata!B,,2 |]

@@ -1,0 +1,29 @@
+X:1
+T:Jesus, Tender Shepherd, Hear Me
+T:EVENING PRAYER
+C:Stainer, John (1840-1901)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: evening
+%%duets tune: EVENING PRAYER
+%%duets credit: Tune and setting: public domain ('Evening Prayer' John Stainer, 1898), via the Open Hymnal Project.
+%%duets lyricist: Mary L. Duncan, 1839. Music and
+%%duets notes: intro 7-8
+%%duets slug: jesus-tender-shepherd-hear-me
+M:4/4
+L:1/8
+Q:1/4=110
+K:F
+V:S
+"F"c2 c2 "Am/E"c2 "C7/E"B2 | "F"A2 A2 "F/C"A2 "C7/Bb"G2 | "F/A"F2 "C/G"G2 "F"A2 A2 | "C7/E"c B "F"A2 "C7"G4 |
+"F/A"c2 c2 "C7/E"c2 B2 | "Dm/F"A2 A2 "C#+"A2 "A7"G2 | "Dm"F2 "G7/D"G2 "F/C"A2 A2 | "C7"B2 E2 "F"F4 |]
+V:A
+A2 A2 A2 G2 | F2 F2 F2 E2 | F2 E2 F2 F2 | G2 F2 E4 |
+F4 G2 E2 | F6 E2 | F8 | E2 C2 C4 |]
+V:T
+C4 C4 | C8 | C8- | C6 B,2 |
+C2 A,2 G,4 | A,4 A,4 | A,2 =B,2 C2 F,2 | G,2 B,2 A,4 |]
+V:B
+F,4 E,4 | F,2 A,2 C2 B,2 | A,2 G,2 F,2 F,2 | E,2 F,2 C2 B,2 |
+A,2 F,2 E,2 C,2 | F,2 D,2 ^C,2 A,,2 | D,4 C,4 | C,4 F,4 |]

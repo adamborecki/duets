@@ -1,0 +1,16 @@
+X:1
+T:Good King Wenceslas
+C:Tempus adest floridum (Piae Cantiones, 1582)
+S:Nottingham Music Database
+R:march
+%%duets category: carol
+%%duets tags: christmas
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: good-king-wenceslas
+M:4/4
+L:1/8
+K:G
+|: [P:A]"G"G2 G2 G2 "D"A2 | "G"G2 "C"G2 "D"D4 | "C"E2 "G"D2 "C"E2 "D7"F2 |
+"G"G4 G4 :| [P:B]"G"d2 "D"c2 "G"B2 "D"A2 | "G"B2 "D"A2 "Em"G4 | "C"E2 "G"D2 "C"E2 "D7"F2 |
+"G"G4 G4 | "G"D2 D2 "C"E2 "D"F2 | "Em"G2 G2 "D7"A4 | "G/B"d2 "C"c2 "G"B2 "D"A2 |
+"Em"G4 "C"c4 | "G"G8 |]

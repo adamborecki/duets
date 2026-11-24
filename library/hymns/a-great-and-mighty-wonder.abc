@@ -1,0 +1,39 @@
+X:1
+T:A Great and Mighty Wonder
+T:ES IST EIN ROS ENTSPRUNGEN (RHYTHMIC)
+C:German from Köln, 1599
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: ES IST EIN ROS ENTSPRUNGEN (RHYTHMIC)
+%%duets year: 1599
+%%duets credit: Tune and setting: public domain (Michael Praetorius, 1609), via the Open Hymnal Project.
+%%duets lyricist: Germanus of Constantinople (634-734). Translated by John Mason Neale, 1862
+%%duets notes: intro 12-15
+%%duets slug: a-great-and-mighty-wonder
+%%duets free-meter: yes
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"F"c4 | "F"c2 c2 "Bb"d2 "F"c2 | "C"c4 "Dm"A4 "Bb"B4 | "F"A2 "C/E"G2- "Gm/D"G2 "Dm"F2- "F/C"F2 "C"E2 |
+"F"F6 c4 | "F"c2 c2 "Bb"d2 "F"c2 | "C"c4 "Dm"A4 "Bb"B4 | "F"A2 "C/E"G2- "Gm/D"G2 "Dm"F2- "F/C"F2 "C"E2 |
+"F"F6 A2 | "Gm"G2 "Am"E2 "F"F2 "G"D2 | "C"C6 c2 | "C/E"c2 "F"c2 "Bb"d2 "F"c2 |
+"C"c4 "D"A4 "Gm"B4 | "F/A"A2 "Gm/Bb"G2- "C6"G2 "F/C"F2- "Csus4"F2 "C"E2 | "F"F6 |]
+V:A
+A4 | A2 F2 F2 F2 | E4 D4 D4 | C4 D2 A,2 C4 |
+C6 A4 | A2 F2 F2 F2 | E4 D4 D4 | C4 D2 A,2 C4 |
+C6 F2 | D2 C2 C2 =B,2 | C6 E2 | G2 F2 F2 F2 |
+E4 D4 D4 | F2 D2 E2 F2 C4 | C6 |]
+V:T
+C4 | C2 A,2 B,2 A,2 | G,4 F,4 F,4 | A,2 C2 B,2 A,4 G,2 |
+A,6 C4 | C2 A,2 B,2 A,2 | G,4 F,4 F,4 | A,2 C2 B,2 A,4 G,2 |
+A,6 C2 | B,2 A,2 A,2 G,2 | E,6 G,2 | G,2 A,2 B,2 A,2 |
+G,4 ^F,4 G,4 | C2 B,2 A,4 G,4 | A,6 |]
+V:B
+F,4 | F,2 F,2 B,2 F,2 | C,4 D,4 B,,4 | F,2 E,2 D,4 C,4 |
+F,6 F,4 | F,2 F,2 B,2 F,2 | C,4 D,4 B,,4 | F,2 E,2 D,4 C,4 |
+F,6 F,2 | G,2 A,2 F,2 G,2 | C,6 C,2 | E,2 F,2 B,,2 F,2 |
+C,4 D,4 G,,4 | A,,2 B,,2 C,4 C,4 | F,,6 |]

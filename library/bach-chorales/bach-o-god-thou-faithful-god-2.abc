@@ -1,0 +1,38 @@
+X:1
+T:O God, Thou Faithful God (II)
+T:O Gott, du frommer Gott · BWV 398
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trust
+%%duets tune: O Gott, du frommer Gott
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 398), public domain; score from the music21 corpus.
+%%duets slug: bach-o-god-thou-faithful-god-2
+M:4/4
+L:1/8
+K:D
+V:S
+"D"A2 | "D"F2 "D/F#"D2 A2 A2 | "G"!fermata!B4 z2 B2 | "A7"E2 "F#m7"E2 "D/F#"A2 "A7"G2 |
+"D"F2 "A7"E2 "D"!fermata!D2 A2 | "G"B2 "Em"B2 "A/C#"A2 "A7/C#"G2 | "D"!fermata!F4 "A"z2 E2 | "D"F2 "E7/D"^G2 "A/C#"A2 "D"B c/2 d/2 |
+"A/E"c2 "E7"B2 "A"!fermata!A2 A2 | "D"A2 A2 "D/F#"d2 "D7/F#"=c B | "G"!fermata!B4 z2 B2 | "Em"B2 B2 "E/G#"e2 "E7/G#"d c |
+"A"!fermata!c4 "D/F#"z2 A2 | "G"B2 "D"A2 "Bm/D"B2 "F#"c2 | "Bm"!fermata!d4 z2 "F#m"A2 | "G"B A "G/B"G F "A"E2 E2 |
+"D"!fermata!D6 z2 |]
+V:A
+D2 | D2 D E F2 D2 | D4 z2 D2 | C2 C2 D2 E2 |
+D2 C2 A,2 F2 | G2 G F E D E2 | D4 z2 C2 | D2 E2 E2 F2 |
+E3 D C2 C2 | D2 D2 D2 D2 | D4 z2 G2 | G F G A B A B ^G |
+A4 z2 A2 | G2 F2 F2 F2 | F4 z2 F E | D2 D2 C2 C2 |
+A,6 z2 |]
+V:T
+F,2 | A,2 A,2 D2 A,2 | G,4 z2 B,2 | A,2 A,2 A,2 A,2 |
+A,3 G, F,2 D2 | D2 G,2 A,2 A,2 | A,4 z2 A,2 | A,2 B,2 A,2 A,2 |
+A,2 ^G,2 E,2 E,2 | F, E, F, G, A, G, A, F, | G,4 z2 D2 | E2 E2 B,2 E2 |
+E4 z2 D2 | D2 D2 D2 C2 | B,4 z2 D C | B,2 B, D A,3 G, |
+F,6 z2 |]
+V:B
+D,2 | D, E, F, G, F, E, F, D, | G,4 z2 G,2 | A, G, F, E, F, E, D, C, |
+D,2 A,,2 D,2 D,2 | G, F, E, D, C, B,, C, A,, | D,4 z2 A,,2 | D, C, D, B,, C,2 D,2 |
+E, D, E,2 A,,2 A,,2 | D, C, D, E, F, E, F, D, | G,4 z2 G, F, | E, ^D, E, F, ^G, F, G, E, |
+A,4 z2 F,2 | G, B, D E D C B, ^A, | B,4 z2 F,2 | G, A, B, G, A,2 A,,2 |
+D,6 z2 |]

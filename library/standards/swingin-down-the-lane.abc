@@ -1,0 +1,21 @@
+X:1
+T:Swingin' Down the Lane
+C:Isham Jones, 1923
+S:OpenEWLD
+R:swing
+%%duets category: standard
+%%duets year: 1923
+%%duets credit: Melody and chords: public domain in the United States (published 1923); lead sheet from OpenEWLD.
+%%duets slug: swingin-down-the-lane
+M:4/4
+L:1/8
+K:F
+z4 F G A F | "F"D4 "F+"_D4 | "F"C2 z2 "G7"=B, D F G | "G9"A8- |
+A2 z2 G A d A | "C7"G4 "C7b5"_G4 | "Gm7"F4 "C7"E G B c | "F"d4- "C+"d4- |
+"F"d2 z2 A B c ^c | "D"d4 "C"c4 | "D7#5"B4 "D7"A B c d | "G9"A8- |
+A2 z6 | "G"G4 "D7"^F4 | "G7"F4 E F G E | "C9"D8- |
+D2 z2 F G A F | "F"D4 "F+"_D4 | "F"C2 z2 "G7"=B, D F G | "G9"A8- |
+A2 z2 G A d A | "C7"G4 "C7b5"_G4 | "Gm7"F4 "C7"E G B c | "F"d4- "C+"d4- |
+"F"d2 z2 A B c d | "Cm6"_e4 "D7"d4 | "Cm6"c4 "D+"B c d B | "A"A4 "A7"G4 |
+"Dm"F2 z2 F G A F | "Gm"D4 "Bbm6"_D4 | "C7"C4 A4 | [1 "F"F8- |
+F2 z2 F G A F :| [2 "F"F8- | F4 z4 |]

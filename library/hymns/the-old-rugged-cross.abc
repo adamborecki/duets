@@ -1,0 +1,41 @@
+X:1
+T:The Old Rugged Cross
+T:OLD RUGGED CROSS
+C:Bennard, George (1873-1958)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: comfort
+%%duets tune: OLD RUGGED CROSS
+%%duets credit: Tune and setting: public domain ('The Old Rugged Cross' George Bennard, 1913), via the Open Hymnal Project.
+%%duets lyricist: George Bennard, 1913. Music and
+%%duets notes: intro 16-17
+%%duets slug: the-old-rugged-cross
+M:6/4
+L:1/8
+Q:3/4=47
+K:Bb
+V:S
+"Bb"D E | "Bb"F3 =E G2 F4 F F | "Eb"G3 ^F A2 G4 G G | "F7"A3 G F2 E2 F2 E2 |
+"Bb"D10 D E | "Bb"F3 =E G2 F4 F F | "Eb"G3 ^F A2 G4 G G | "F7"A3 G F2 e2 d2 c2 |
+"Bb"B10 A B | "F7"c3 c c2 c2 B2 A2 | "Bb"B10 B A | "Eb"G3 G G2 B2 A2 G2 |
+"Bb"F10 F B | "Bb"d3 d d2 d2 e2 d2 | "Eb"G10 e e | "Bb/F"d3 c B2 "F7"F2 A2 c2 |
+"Bb"B10 |]
+V:A
+B, C | D3 ^C C2 D4 D D | E3 E E2 E4 =E E | E3 E D2 C2 C2 C2 |
+B,10 B, C | D3 ^C C2 D4 D D | E3 E E2 E4 =E E | E3 E E2 G2 F2 E2 |
+D10 C D | E3 E E2 E4 E2 | D2 ^C2 E2 D4 F F | E3 E E2 G2 F2 E2 |
+D10 D D | F3 F F2 F2 G2 F2 | E2 E2 E2 E4 G G | F3 E D2 E2 E2 E2 |
+D10 |]
+V:T
+F, F, | B,3 B, G,2 B,4 B, B, | B,3 A, C2 B,4 C C | C3 A, B,2 A,2 A,2 F,2 |
+F,10 F, F, | B,3 B, G,2 B,4 B, B, | B,3 A, C2 B,4 C C | C3 B, A,2 A,2 B,2 A,2 |
+B,10 F, F, | A,3 A, A,2 A,4 F,2 | F,2 =E,2 G,2 F,4 B, B, | B,3 B, B,2 B,2 B,2 B,2 |
+B,10 B, B, | B,3 B, B,2 B,4 B,2 | B,2 B,2 B,2 B,4 B, B, | B,3 A, B,2 A,2 C2 F,2 |
+F,10 |]
+V:B
+B,, B,, | B,,3 B,, B,,2 B,,4 B,, B,, | E,3 E, E,2 E,4 C, C, | F,3 F, F,2 F,2 F,2 F,2 |
+B,,10 B,, B,, | B,,3 B,, B,,2 B,,4 B,, B,, | E,3 E, E,2 E,4 C, C, | F,3 F, F,2 F,2 F,2 F,2 |
+B,,10 F, F, | F,3 F, F,2 F,4 F,2 | B,,2 B,,2 B,,2 B,,4 D, D, | E,3 E, E,2 E,2 E,2 E,2 |
+B,,10 B,, B,, | B,,3 B,, B,,2 B,,4 B,,2 | E,2 E,2 E,2 E,4 E, E, | F,3 F, F,2 F,2 F,2 F,2 |
+B,,10 |]

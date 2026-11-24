@@ -1,0 +1,42 @@
+X:1
+T:How Firm a Foundation
+T:FOUNDATION (FUNK)
+C:or 'Protection' Joseph Funk, 1832
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trust
+%%duets tune: FOUNDATION (FUNK)
+%%duets year: 1832
+%%duets credit: Tune and setting: public domain ("Union Harmony", 1837), via the Open Hymnal Project.
+%%duets lyricist: John Rippon, 1787
+%%duets notes: intro 14-17
+%%duets slug: how-firm-a-foundation
+M:2/2
+L:1/8
+Q:1/2=62
+K:Ab
+V:S
+"Absus4"E2 F2 | "Ab"A4 "Db"F2 A2 | "Ab"E4 A2 B2 | "Ab"c4 "Cm7/Bb"B2 c2 |
+"Eb7"E4 E4 | "Ab"A4 "Db"F2 A2 | "Ab/C"E4 "Fm"A2 B2 | "Ab/Eb"c4 "Eb7"B2 B2 |
+"Ab"A4 c4 | "Ab"e4 c2 e2 | "Fm"A4 "Cm7"A2 B2 | "Ab"c4 "Cm7/Bb"B2 c2 |
+"Eb7"E4 E4 | "Dbmaj7/C"A4 F2 A2 | "Ab/C"E4 "Fm"A2 B2 | "Ab/Eb"c4 "Eb7"B2 B2 |
+"Ab"A4 |]
+V:A
+E2 D2 | C2 E2 D2 D2 | C4 C2 D2 | E4 E2 ^D2 |
+E4 D4 | C4 D2 F2 | E4 C2 D2 | E4 D2 D2 |
+C4 E4 | A4 E2 E2 | F4 E2 E2 | E4 E2 ^D2 |
+E4 D4 | C4 D2 F2 | E4 C2 D2 | E4 D2 D2 |
+C4 |]
+V:T
+A,4 | E,2 A,2 A,2 A,2 | A,4 E,2 E,2 | A,4 G,2 F,2 |
+G,4 E,4 | A,4 A,2 A,2 | A,4 A,2 A,2 | A,4 G,2 G,2 |
+A,4 A,4 | C4 A,2 B,2 | C4 A,2 G,2 | A,4 G,2 F,2 |
+G,4 E,4 | A,4 A,2 A,2 | A,4 A,2 A,2 | A,4 G,2 G,2 |
+A,4 |]
+V:B
+A,,4 | A,,2 C,2 D,2 F,2 | A,4 A,,2 A,,2 | A,,4 B,,2 B,,2 |
+E,4 E,4 | A,,4 D,2 D,2 | C,4 F,2 F,2 | E,4 E,2 E,2 |
+A,,4 A,4 | A,4 A,2 G,2 | F,4 C,2 B,,2 | A,,4 B,,2 B,,2 |
+E,4 E,4 | C,4 D,2 D,2 | C,4 F,2 F,2 | E,4 E,2 E,2 |
+A,,4 |]

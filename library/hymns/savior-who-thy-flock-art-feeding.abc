@@ -1,0 +1,31 @@
+X:1
+T:Savior, Who Thy Flock Art Feeding
+T:BATTY
+C:or 'Ringe recht' from Johann Thommen's Musicalischer Christenschatz, Basel, 1745
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: home
+%%duets tune: BATTY
+%%duets year: 1745
+%%duets credit: Tune and setting: public domain ("Kern des Deutschen Kirchengesangs Zum Gebrauch" Fridrich Layriz, 1854), via the Open Hymnal Project.
+%%duets lyricist: William Augustus Mühlenberg, 1826
+%%duets notes: intro 7-8
+%%duets slug: savior-who-thy-flock-art-feeding
+%%duets free-meter: yes
+M:4/4
+L:1/8
+Q:1/4=130
+K:F
+V:S
+"F"F2 "C/E"G2 "F"A2 "Edim/G"G2 | "F"A2 "Bb/D"B2 "C"c4 "F"A4 | "Bb"d2 "F"c2 "Gm"B2 "F/A"A2 | "Gm/Bb"G2 G2 "A"A8 |
+"Am"c2 "C7/G"c2 "F"c2 A B | "F"c2 "C7/E"c B "F"A4 "C"G4 | "Dm"F2 "C"G2 "F"A2 "Bb"B2 | "F/C"A2 "C7"G2 "F"F8 |]
+V:A
+C2 C2 F2 E2 | F2 F2 E4 C4 | F2 F2 D2 F2 | D2 D2 E8 |
+E2 E2 F2 A G | A2 G2 G2 F2 E4 | D2 E2 F2 F2 | F2 E2 F8 |]
+V:T
+A,2 G,2 C2 B,2 | C2 F,2 G,4 A,4 | B,2 A,2 B,2 C2 | D2 D2 ^C8 |
+A,2 B,2 A,2 C B, | A,2 C2 C4 C4 | A,2 C2 C2 D2 | C2 B,2 A,8 |]
+V:B
+F,2 E,2 F,2 G,2 | F,2 D,2 C,4 F,4 | B,,2 F,,2 G,,2 A,,2 | B,,2 B,,2 A,,8 |
+A,,2 G,,2 F,,2 F,2 | F,2 E,2 F,4 C,4 | D,2 C,2 F,2 B,,2 | C,2 C,2 F,,8 |]

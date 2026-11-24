@@ -1,0 +1,17 @@
+X:1
+T:Old Joe Clark
+C:American traditional
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: american, song
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: old-joe-clark
+M:4/4
+L:1/8
+K:A
+[P:A]e2 | "A"e2 f2 =g2 f2 | "A"e2 d2 c2 A2 | "A"e2 f2 =g2 f2 |
+"G"e8 | "A"e2 f2 =g2 f2 | "A"e2 d2 c4 | "A"A B c A "G"B2 =G2 |
+"A"A6 :| [P:B]E2 | "A"A2 A B c2 A2 | "A"e2 d2 c4 |
+"A"A2 A B c2 A2 | "G"B4 E4 | "A"A2 A B c2 A2 | "A"e2 d2 c4 |
+"A"A B c A "G"B2 =G2 | "A"A6 :|

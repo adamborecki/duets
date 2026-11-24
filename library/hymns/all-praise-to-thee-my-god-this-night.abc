@@ -1,0 +1,34 @@
+X:1
+T:All Praise to Thee, My God, This Night
+T:TALLIS` CANON
+C:Thomas Tallis, circa 1567
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: evening
+%%duets tune: TALLIS` CANON
+%%duets year: 1567
+%%duets credit: Tune and setting: public domain ("A Hymnal" (Episcopal), 1916), via the Open Hymnal Project.
+%%duets lyricist: Thomas Ken, circa 1674
+%%duets notes: intro 8-9
+%%duets slug: all-praise-to-thee-my-god-this-night
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+V:S
+"G"G2 | "Dsus4"G2 "D"F2 "Em7"G2 G2 | "C6"A2 "D"A2 "G"B2 G2 | "Am"c2 "F#dim/A"c2 "G"B2 B2 |
+"Am7/G"A2 "D7/F#"A2 "G"G2 d2 | "Am"c2 "D/F#"A2 "G"B2 B2 | "Am/C"A2 "D"A2 "G"G2 D2 | "Am/C"E2 "D"F2 "Em7"G2 B2 |
+"Am/C"A2 "D"A2 "G"G2 |]
+V:A
+D2 | D2 D2 B,2 D2 | E2 D2 D2 G2 | E2 F2 G2 D2 |
+E2 D2 D2 G2 | E2 D2 D2 D2 | E2 F2 G2 G,2 | E2 D2 B,2 D2 |
+C2 A,2 B,2 |]
+V:T
+B,2 | A,2 A,2 G,2 G,2 | G,2 F,2 G,2 G,2 | A,2 A,2 B,2 G,2 |
+C2 C2 B,2 B,2 | A,2 A,2 G,2 D2 | C2 A,2 B,2 B,2 | A,2 A,2 G,2 D,2 |
+E,2 F,2 G,2 |]
+V:B
+G,2 | D,2 D,2 E,2 B,,2 | C,2 D,2 G,,2 B,,2 | A,,2 A,,2 G,,2 G,2 |
+G,2 F,2 G,2 G,2 | A,2 F,2 G,2 G,,2 | C,2 D,2 G,,2 B,,2 | C,2 D,2 E,2 B,,2 |
+C,2 D,2 G,,2 |]

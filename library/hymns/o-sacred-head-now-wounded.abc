@@ -1,0 +1,42 @@
+X:1
+T:O Sacred Head, Now Wounded
+T:PASSION CHORALE
+C:or 'Herzlich Tut Mich Verlangen' Hans Leo Hassler, 1601. Adapted by J.S. Bach, 1729
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: good-friday
+%%duets tune: PASSION CHORALE
+%%duets year: 1601
+%%duets credit: Tune and setting: public domain (Johann Sebastian Bach, 1729), via the Open Hymnal Project.
+%%duets lyricist: Bernard of Clairvaux, 1153. Translated by James W. Alexander, 1830
+%%duets notes: intro 16-17
+%%duets slug: o-sacred-head-now-wounded
+M:4/4
+L:1/8
+Q:1/4=100
+K:C
+V:S
+"C"E2 | "F"A2 "C/E"G2 "F/A"F2 "C"E2 | "Dm7/F"D2- "G"D2 "C"E2 "G#dim/B"B2 | "Am"c2 "Am/C"c2 "Esus4"B A "E7"B2 |
+"Am"A6 E2 | "F"A2 "C/E"G2 "F/A"F2 "C"E2 | "Dm7/F"D2- "G"D2 "C"E2 "G#dim/B"B2 | "Am"c2 "Am/C"c2 "Esus4"B A "E7"B2 |
+"Am"A6 c2 | "Dm"B A "Em"G2 "F"A2 "G7/D"B2 | "F/C"c2- "C"c2 c2 G2 | "F"A2 "Em7b5/D"G2 "Dm"F2 "Dm/F"F2 |
+"A"E6 "D7/F#"c2 | "G"B c "D/F#"d2 "C/E"c2 "G/D"B2 | "A7/C#"A2- "D"A2 "G"B2 "C"E2 | "Dm"F2 "C/E"E2 "Gsus4"D2 "G"G2 |
+"C"E6 |]
+V:A
+C2 | C2 C2 C D D C | C2 B,2 C2 D2 | C D E2 E3 D |
+C6 C2 | C2 C2 C D D C | C2 B,2 C2 D2 | C D E2 E3 D |
+C6 E2 | D F E D C2 F2 | F2 E D E2 E2 | F2 E2 E2 D2 |
+^C6 D2 | D2 D2 E ^F G2 | G2 ^F2 G2 C B, | A, B, C2 C A, B,2 |
+C6 |]
+V:T
+G,2 | F,2 G,2 A, G, G,2 | A,2 G,2 G,2 ^G,2 | A,2 A,2 A,2 ^G,2 |
+A,6 G,2 | F,2 G,2 A, G, G,2 | A,2 G,2 G,2 ^G,2 | A,2 A,2 A,2 ^G,2 |
+A,6 A, G, | F, A, C B, A, G, F, G, | A,2 G, F, G,2 C2 | C2 _B,2 A,2 A,2 |
+A,6 A,2 | G,2 A,2 G, A, B, G, | E2 D2 D2 G,2 | F,2 G,2 G,2 G,2 |
+G,6 |]
+V:B
+C,2 | F,2 E,2 A,, B,, C,2 | F,,2 G,,2 C,2 B,,2 | A,, B,, C, D, E,2 E,,2 |
+A,,6 C,2 | F,2 E,2 A,, B,, C,2 | F,,2 G,,2 C,2 B,,2 | A,, B,, C, D, E,2 E,,2 |
+A,,6 A,,2 | D,2 E,2 F, E, D,2 | C,4 C,2 C,2 | F, E, D, ^C, D, E, F, G, |
+A,6 ^F,2 | G,2 ^F,2 E,2 D,2 | ^C,2 D,2 G,,2 =C,2 | D,2 E, F, G,2 G,,2 |
+C,6 |]

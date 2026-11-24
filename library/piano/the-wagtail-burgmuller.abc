@@ -1,0 +1,40 @@
+X:1
+T:The Wagtail
+T:Op. 100 No. 11
+C:Friedrich Burgmüller
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, burgmuller
+%%duets credit: Friedrich Burgmüller. Source edition: Bas Wassink for the Mutopia Project (Public Domain).
+%%duets tempo-text: Allegretto
+%%duets slug: the-wagtail-burgmuller
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+V:S
+g'/2 e'/2 c'/2 z/2 e'/2 c'/2 g/2 z/2 | c'/2 g/2 e/2 z/2 g/2 e/2 c/2 z/2 | [c_g]/2 z3/2 [cf]/2 z3/2 | [ce]/2 z3/2 [c_ea]/2 z3/2 |
+[cd] z3 | [Bg] z3 | c/2 e/2 g/2 z/2 g/2 z/2 g/2 z/2 | e/2 g/2 c'/2 z/2 c'/2 z/2 c'/2 z/2 |
+c'/2 a/2 f/2 z/2 c'/2 _a/2 f/2 z/2 | c'/2 g/2 e/2 z/2 e/2 z/2 e/2 z/2 | g/2 f/2 d/2 z/2 g/2 f/2 d/2 z/2 | a/2 g/2 c/2 z/2 c/2 z/2 c/2 z/2 |
+e/2 d/2 A/2 z/2 c/2 B/2 G/2 z/2 | c2 z2 | c/2 e/2 g/2 z/2 g/2 z/2 g/2 z/2 | e/2 g/2 c'/2 z/2 c'/2 z/2 c'/2 z/2 |
+c'/2 a/2 f/2 z/2 c'/2 _a/2 f/2 z/2 | c'/2 g/2 e/2 z/2 e/2 z/2 e/2 z/2 | g/2 f/2 d/2 z/2 g/2 f/2 d/2 z/2 | a/2 g/2 c/2 z/2 c/2 z/2 c/2 z/2 |
+e/2 d/2 A/2 z/2 c/2 B/2 G/2 z/2 | c2 z2 | [ce]2 [Ac]2 | [ce]2 [Ac]2 |
+[fa]2 [df]2 | [ce]4 | e/2 c/2 G/2 z/2 g/2 e/2 c/2 z/2 | c'/2 g/2 e/2 z/2 e'/2 c'/2 g/2 z/2 |
+g'/2 f'/2 e'/2 d'/2 e'/2 d'/2 c'/2 b/2 | c'2 z2 | [ce]2 [Ac]2 | [ce]2 [Ac]2 |
+[fa]2 [df]2 | [ce]4 | e/2 c/2 G/2 z/2 g/2 e/2 c/2 z/2 | c'/2 g/2 e/2 z/2 e'/2 c'/2 g/2 z/2 |
+g'/2 f'/2 e'/2 d'/2 e'/2 d'/2 c'/2 b/2 | c'/2 e'/2 g'/2 z/2 g'/2 z/2 g'/2 z/2 | g'2 b2 | c'/2 e'/2 g'/2 z/2 g'/2 z/2 g'/2 z/2 |
+g'2 b2 | c'/2 e'/2 g'/2 z/2 b/2 d'/2 g'/2 z/2 | c'/2 e'/2 g'/2 z/2 b/2 d'/2 g'/2 z/2 | c' z [Ec]2 |
+[Ec]2 z2 |]
+V:lh
+c/2 e/2 g/2 z/2 G/2 c/2 e/2 z/2 | E/2 G/2 c/2 z/2 C/2 E/2 G/2 z/2 | A/2 z3/2 _A/2 z3/2 | G/2 z3/2 ^F/2 z3/2 |
+G z3 | [G,F] z3 | [CE]/2 z7/2 | [CEG]/2 z7/2 |
+[CFA]/2 z3/2 [CF_A]/2 z3/2 | [CEG]2 z2 | [B,G]/2 z3/2 [B,G]/2 z3/2 | [CE]2 z2 |
+[C_G]/2 z3/2 [CF]/2 z3/2 | [CE]/2 z3/2 C, z | A,/2 C/2 E/2 z/2 E/2 z/2 E/2 z/2 | A,/2 C/2 E/2 z/2 E/2 z/2 E/2 z/2 |
+D/2 F/2 A/2 z/2 D/2 F/2 A/2 z/2 | A,/2 C/2 E/2 z/2 E/2 z/2 E/2 z/2 | G,/2 C/2 E/2 z/2 C/2 E/2 G/2 z/2 | E/2 G/2 c/2 z/2 G/2 c/2 e/2 z/2 |
+G z [G,F]2 | [CE] z C, z | [CE]2 z2 | G,/2 B,/2 D/2 z/2 D/2 z/2 D/2 z/2 |
+[CE]2 z2 | G,/2 B,/2 D/2 z/2 D/2 z/2 D/2 z/2 | [CE] z D/2 B,/2 G,/2 z/2 | E/2 C/2 G,/2 z/2 D/2 B,/2 G,/2 z/2 |
+[CE] z [C,G,]2 | [C,G,]2 z2 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 |]

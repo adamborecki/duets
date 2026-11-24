@@ -1,0 +1,42 @@
+X:1
+T:Twas in the Moon of Wintertime
+T:HURON CAROL
+C:or 'Jesous Ahatonia' or 'Une Jeunne Pucelle' traditional French, 1557
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: HURON CAROL
+%%duets year: 1557
+%%duets credit: Tune and setting: public domain (John Murphy, 2008), via the Open Hymnal Project.
+%%duets lyricist: Jean de Brébeuf, 1642. Translated by Jesse Edgar Middleton, 1926
+%%duets notes: intro 14-19
+%%duets slug: twas-in-the-moon-of-wintertime
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+V:S
+"B/F#"F2 B2 "A"c2 "Bm/F#"d2 | "Em/G"e2 "Bm/F#"d2 "F#m7"c2 "Bm/D"B2 | "F#m"A2 "G"B2 B2 "F#m"c2 | "Bm7/F#"A2 B6 |
+"B/F#"F2 B2 "A"c2 "Bm/F#"d2 | "Em/G"e2 "Bm/F#"d2 "F#m7"c2 "Bm/D"B2 | "F#m"A2 "G"B2 B2 "F#m"c2 | "Bm7/F#"A2 B6 |
+"Em"B2 "Bm/D"f2 f2 "F#m"c2 | "Bm/F#"d2 "Em/G"e2- "G"e d "A"c2 | "A7/G"c2 "Bm/F#"d2 "F#m7"c2 "Bm/D"B2 | "G"B2 "F#m"c3 B "Bm/D"B2 |
+"F#m/C#"A4 z4 | "Bm"F2 B2 B4 | "F#m/C#"A2 "C#dim"G2 "D"F4 | "Bm"B4 "F#m/C#"A2 F2 |
+"D6"B2- "F#sus4/C#"B2 "Bm/D"B2 "F#m"c2 | "Bm/F#"d2 "Em/G"e2 "Bm/F#"f2 "D/F#"F2 | "Bm"B4 z4 |]
+V:A
+F2 B2 c2 B2 | B2 B2 A2 F2 | A2 B2 B2 A2 | A2 F6 |
+F2 B2 c2 B2 | B2 B2 A2 F2 | A2 B2 B2 A2 | A2 F6 |
+G A B2 B2 A2 | B2 B3 B A2 | A2 B2 A2 F2 | G2 A3 G F2 |
+F4 z4 | D2 F2 F4 | F2 E2 D4 | D4 F2 F2 |
+F4 F2 A2 | B2 B2 B2 F E | D4 z4 |]
+V:T
+F,2 B,2 A,2 F,2 | G,2 F,2 F, E, D,2 | F,2 G,2 G,2 F,2 | F, E, D,6 |
+F,2 B,2 A,2 F,2 | G,2 F,2 F, E, D,2 | F,2 G,2 G,2 F,2 | F, E, D,6 |
+E,2 D,2 D, E, F,2 | F,2 G,3 G, A,2 | G,2 F,2 F, E, D,2 | G,2 F,3 D, D,2 |
+C,4 z4 | B,2 D2 D4 | C2 C2 A,4 | B,4 C2 A,2 |
+A,2 G,2 D2 C2 | C2 B,2 D2 D C | B,6 z2 |]
+V:B
+F,2 B,2 A,2 F,2 | G,2 F,2 F, E, D,2 | F,2 G,2 G,2 F,2 | F, E, D,6 |
+F,2 B,2 A,2 F,2 | G,2 F,2 F, E, D,2 | F,2 G,2 G,2 F,2 | F, E, D,6 |
+E,2 D,2 D, E, F,2 | F,2 G,3 G, A,2 | G,2 F,2 F, E, D,2 | G,2 F,3 D, D,2 |
+C,4 z4 | B,,2 B,,2 B,,4 | C,2 C,2 D,4 | B,,4 C,2 C,2 |
+D,2 C,2 D,2 F,2 | F,2 G,2 F,2 F,2 | B,,4 z4 |]

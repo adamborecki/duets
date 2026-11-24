@@ -1,0 +1,17 @@
+X:1
+T:Rufty Tufty
+C:Playford's Dancing Master, 1651
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: english, baroque
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: rufty-tufty
+M:4/4
+L:1/8
+K:D
+|: A2 | "D"d4 "A7"d2 e2 | "D"f4 e2 f2 |
+"G"g2 g2 "A7"f2 e2 | "D"d6 :: [K:G]e f | "C"g2 f2 e2 d2 |
+"G"d2 c2 B2 B c | "G"d2 d2 c2 B2 | [1 "D7"A4 "G"G2 :| [2 "D7"A4 "G"G4 ||:
+"G"B3 c d2 d2 | "C"e2 c2 "D7"d4 | "G"B3 c d2 d2 | "G"e2 c2 "D7"d2 B c |
+"G"d2 d2 c2 B2 | "D7"A4 "G"G4 :|

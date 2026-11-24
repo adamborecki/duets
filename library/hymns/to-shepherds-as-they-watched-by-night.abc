@@ -1,0 +1,34 @@
+X:1
+T:To Shepherds as They Watched by Night
+T:VOM HIMMEL HOCH
+C:traditional German from Schumann's Geistliche Lieder, Leipzig, 1539
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: VOM HIMMEL HOCH
+%%duets year: 1539
+%%duets credit: Tune and setting: public domain ("Common Service Book" (ULCA), 1917), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1543. translated by Richard Massie, 1854
+%%duets notes: intro 8-9
+%%duets slug: to-shepherds-as-they-watched-by-night
+M:4/4
+L:1/8
+Q:1/4=100
+K:D
+V:S
+"D"d | "A"c2 "E"B2 "A"c2 "D"A2 | "G"B2 "C#dim/E"c2 "D"d2 z d | "Bm"d2 "F#m"A2 "A/C#"A2 "D"F2 |
+"D"A2 "Em"G2 "Bm7"F2 z F | "Bm"B2 "G"B2 "A"A2 c2 | "Bm"d2 "E"B2 "A"A2 "Bm"z d | "F#m"c2 "G"B2 "D"A2 "A/C#"A2 |
+"Bm"G F "A"E2 "D"!fermata!D2 z |]
+V:A
+F | E2 E2 E2 F2 | D2 G2 F2 z F | F2 F2 E2 D2 |
+D2 B,2 D2 z D | F2 G2 E2 E2 | D2 E2 C2 z D | A2 G2 F2 E2 |
+D3 C D2 z |]
+V:T
+A, | A,2 ^G,2 A,2 A,2 | G,2 G,2 A,2 z A, | B,2 C2 A,2 A,2 |
+F,2 G,2 A,2 z B, | D2 D2 C2 A,2 | F,2 ^G,2 A,2 z F, | A,2 D2 D2 A,2 |
+B, A, A,2 F,2 z |]
+V:B
+D, | A,,2 E,2 A,,2 D,2 | G,2 E,2 D,2 z D, | B,,2 F,2 C,2 D,2 |
+D,2 E,2 B,,2 z B,, | B,,2 G,,2 A,,2 A,,2 | B,,2 E,2 A,,2 z B,, | F,2 G,2 D,2 C,2 |
+B,, D, A,,2 D,2 z |]

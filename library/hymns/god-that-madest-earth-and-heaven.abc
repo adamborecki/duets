@@ -1,0 +1,37 @@
+X:1
+T:God, That Madest Earth and Heaven
+T:AR HYD Y NOS
+C:traditional Welsh
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: evening
+%%duets tune: AR HYD Y NOS
+%%duets credit: Tune and setting: public domain ("The English Hymnal", 1906), via the Open Hymnal Project.
+%%duets lyricist: verse 1, Reginald Heber, 1827. verse 2, William Mercer, 1864. verse 3, Richard Whately, 1838
+%%duets notes: intro 15-16
+%%duets slug: god-that-madest-earth-and-heaven
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+V:S
+"G"G3 F "C"E2 "G/B"G2 | "Am"A2- "C"A G "D"F2 "Bm"D2 | "C"E4 "Bm/D"F2- "D7"F F | "G"G8 |
+"G"G3 F "C"E2 "G/B"G2 | "Am"A2- "C"A G "D"F2 "Bm"D2 | "C"E4 "Bm/D"F2- "D7"F F | "G"G8 |
+"C/E"c2 "G"B2 "C/E"c2 "G/B"d2 | "C"e2 "Dm"d2 "C/E"c2 "G"B2 | "Am"c2 "G/B"B2 "Am/C"A2 "Em"G2 | "Am"B3 A "Dsus4"G2 "D"F2 |
+"G/B"G3 F "C"E2 "G/B"G2 | "Am"A2- "C"A G "D"F2 "Bm"D2 | "C"E4 "Bm/D"F2- "D7"F F | "G"G8 |]
+V:A
+B,2 D2 E2 D2 | E2 E2 D2 D2 | G,4 D2 C2 | B,8 |
+B,2 D2 E2 D2 | E2 E2 D2 D2 | G,4 D2 C2 | B,8 |
+C2 D2 C2 G2 | G2 =F2 E2 D2 | E2 G2 E2 E2 | E3 E D2 D2 |
+D3 D C2 D2 | E2 E2 D2 D2 | G,4 D2 C2 | B,8 |]
+V:T
+G,2 G,2 G,2 G,2 | C3 B, A,2 D2 | D2 C2 B,2 A,2 | G,8 |
+G,2 G,2 G,2 G,2 | C3 B, A,2 D2 | D2 C2 B,2 A,2 | G,8 |
+G,2 G,2 G,2 G,2 | C2 A,2 G,2 B,2 | A,2 D2 C2 B,2 | C3 C A,2 A,2 |
+G,3 G, G,2 G,2 | C3 B, A,2 D2 | D2 C2 B,2 A,2 | G,8 |]
+V:B
+G,,2 B,,2 C,2 B,,2 | A,,2 C,2 D,2 B,,2 | C,4 D,3 D, | G,,8 |
+G,,2 B,,2 C,2 B,,2 | A,,2 C,2 D,2 B,,2 | C,4 D,3 D, | G,,8 |
+E,2 G,2 E,2 B,,2 | C,2 D,2 E,2 G,2 | A,,2 B,,2 C,2 E,2 | A,,3 C, D,2 D,2 |
+B,,3 B,, C,2 B,,2 | A,,2 C,2 D,2 B,,2 | C,4 D,3 D, | G,,8 |]

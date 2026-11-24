@@ -1,0 +1,26 @@
+X:1
+T:That Certain Feeling
+C:George Gershwin, 1925
+S:OpenEWLD
+R:swing
+%%duets category: standard
+%%duets tags: gershwin, ella
+%%duets year: 1925
+%%duets credit: Melody and chords: public domain in the United States (published 1925); lead sheet from OpenEWLD.
+%%duets slug: that-certain-feeling
+M:2/2
+L:1/8
+K:Eb
+"Eb6"B2 B2 "Bb7"B2 A2 | "Eb6"B8 | B2 B2 "Bb7"B2 A2 | "Eb6"B4- "Eb7"B4 |
+"Abmaj7"c2 c2 c2 B2 | "Fm7"c2 c2 "Bb9"c2 B2 | "Eb6"d2 e2 B2 G2 | "Fm7"A4- "Bb7"A4 |
+"Eb6"B2 B2 "Bb7"B2 A2 | "Eb6"B6 B2 | "Ab9"B2 B2 B2 A2 | B6 B2 |
+"Bb/F"f4 "Gm7"B2 c d | "Cm7"e4 "F13"d4 | "Bb6"B2 "Eb6"!fermata!G2 "Bb7/F"!fermata!A2 "Gdim7"!fermata!B2 |: "Fm6"z2 c2 c2 c2 |
+"Edim7"c2 B6 | "Fm9"z G G2 G2 G2 | "Bb7"G2 F6 | "Ebmaj7"z2 d2 d2 d2 |
+d2 "Eb6"c6 | "C7#5"z A A2 A2 A2 | A2 "C7"G6 | "F9"z2 G2 G2 G2 |
+"Fm9"G2 F2 "Bb7"A2 G2 | "Eb"B2 B2 B2 B2- | "Ebm6"B8 | "Bb"z2 d2 "Gm"d2 d2 |
+"Bb"d2 "Gm"B4 d2 | "Bb"d2 d2 "Gm"d2 B2- | "Bb"B4- "C7"B4 || "Bb9"z2 c2 c2 c2 |
+"Bbdim7"c2 B6 | "Bb11"z G G2 G2 "Bb13"G2 | "Bb7"G2 F6 | "Ebmaj7"z2 d2 d2 d2 |
+d2 "Eb6"c6 | "G7"z e e2 e2 e2 | e2 d6 | "C9"z2 =e2 e2 e2 |
+=e2 c4 e2 | "F9"e2 e2 e2 c2- | c6 z2 | "Fm7"c4 B2 A2 |
+"Bb13"z2 G2 B2 c2 | [1 "Eb6"e4- "Cm"e4- | "Eb"e z "Eb6"!fermata!G2 "Bb7"!fermata!A2 "Gdim"!fermata!B2 :| [2 "Eb"e4- "Cm"e4- |
+"Eb"e5 z3 |]

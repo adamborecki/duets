@@ -1,0 +1,22 @@
+X:1
+T:The Japanese Sandman
+C:Richard A. Whiting, 1920
+S:OpenEWLD
+R:swing
+%%duets category: standard
+%%duets year: 1920
+%%duets credit: Melody and chords: public domain in the United States (published 1920); lead sheet from OpenEWLD.
+%%duets slug: the-japanese-sandman
+M:2/2
+L:1/8
+K:F
+z2 c A c A c2 |: "F"A4 A4- | A2 c A c A c2 | "D7"A2 E D E2 E D |
+E2 c A c A c2 | "G7"d4 "C"c4- | c A c A c A G2 | "F"F2 a f d c A F |
+"F"C2 c A c A c2 | A4 A4- | A2 c A c A c2 | "A"^c2 e c e2 e c |
+e2 e ^c e c e2 | "E7"^c4 =B4- | =B2 B ^G B G B2 | "A"A2 A ^F "Adim"A2 A F |
+"Gm"A z "C7"c A c A c2 | "F"A4 A4- | "F7"A2 c d c A G2 | "Bb"F2 D ^C D2 D C |
+D2 A F A F A2 | "Bbm"F4 F4 | F2 A F A F A2 | "Gm"G2 D E D2 D E |
+"C7"C2 c A c A c2 | "F"A4 A4- | A2 c A c A c2 | "Dm"f2 f d "Bb"f2 f d |
+"G7"f z d A d A d2 | "F"A4 "G7"A4- | "C7"A z c A c A G2 | [1 "F"F2 c A c2 c A |
+F2 c A c A c2 :| [2 "Fm"F G _A B "Bbm"c B A G | "Fm"F E F _E- "Db7"E2 "B7"^C2 | "F"C8- |
+C2 z6 |]

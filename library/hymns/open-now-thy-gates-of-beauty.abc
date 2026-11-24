@@ -1,0 +1,34 @@
+X:1
+T:Open Now Thy Gates of Beauty
+T:UNSER HERRSCHER
+C:or 'Neander' Joachim Neander, 1680
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: opening
+%%duets tune: UNSER HERRSCHER
+%%duets year: 1680
+%%duets credit: Tune and setting: public domain ("Chorale Book for England", 1863), via the Open Hymnal Project.
+%%duets lyricist: Benjamin Schmolck, 1730. Translated by Catherine Winkworth, 1863
+%%duets notes: intro 11-12
+%%duets slug: open-now-thy-gates-of-beauty
+M:4/4
+L:1/8
+Q:1/4=100
+K:Bb
+V:S
+"Bb"B,3 C D2 B,2 | "Bb"D2 "Eb/G"E2 "F"F2 F2 | "Gm7"B2 A G F2 d2 | "Cm7/Eb"c2 "F7"c2 "Bb"B4 |
+"Bb"B,3 C D2 B,2 | "Bb"D2 "Eb/G"E2 "F"F2 F2 | "Gm7"B2 A G F2 d2 | "Cm7/Eb"c2 "F7"c2 "Bb"B4 |
+"Bb"d3 d "F"c2 c2 | "Gm"B2 B2 "D"A4 | "Eb"G3 G "Bb"F2 "Gm"B2 | "Cm/Eb"c2 "F"A2 "Bb"B4 |]
+V:A
+B,3 A, B,2 B,2 | B,2 B,2 C2 C2 | B,2 B,2 B,2 F2 | G2 F E D4 |
+B,3 A, B,2 B,2 | B,2 B,2 C2 C2 | B,2 B,2 B,2 F2 | G2 F E D4 |
+F3 F F2 F2 | D2 D2 D4 | B,3 E D2 D2 | C2 C2 D4 |]
+V:T
+D,3 F, F,2 F,2 | F,2 G,2 A,2 A,2 | B,2 B,2 B,2 B,2 | B,2 A,2 F,4 |
+D,3 F, F,2 F,2 | F,2 G,2 A,2 A,2 | B,2 B,2 B,2 B,2 | B,2 A,2 F,4 |
+B,3 B, A,2 A,2 | G,2 G,2 ^F,4 | G,3 B, B,2 B,2 | G,2 F,2 F,4 |]
+V:B
+B,,3 F,, B,,2 D,2 | B,,2 G,,2 F,,2 F,2 | G,2 F, E, D,2 B,,2 | E,2 F,2 B,,4 |
+B,,3 F,, B,,2 D,2 | B,,2 G,,2 F,,2 F,2 | G,2 F, E, D,2 B,,2 | E,2 F,2 B,,4 |
+B,,3 D, F,2 F,2 | G,2 B,, C, D,4 | E,3 E, B,,2 G,2 | E,2 F,2 B,,4 |]

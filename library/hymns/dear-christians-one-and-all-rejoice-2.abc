@@ -1,0 +1,42 @@
+X:1
+T:Dear Christians, One and All Rejoice
+T:NUN FREUT EUCH
+C:attr. Martin Luther from Etlich Christlich Lider, Wittenberg, 1524
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: justification
+%%duets tune: NUN FREUT EUCH
+%%duets year: 1524
+%%duets credit: Tune and setting: public domain (Johann Hermann Schein, 1627), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1523. Translated by Richard Massie, 1854, alt
+%%duets notes: intro 17-18
+%%duets slug: dear-christians-one-and-all-rejoice-2
+M:4/4
+L:1/8
+Q:1/4=140
+K:G
+V:S
+"G"G4 G2 "D/F#"D2 | "Em"G2 "C"c2 "G/D"B2 "D"A2 | "G"G4 z2 G2 | "D"A2 "Am"c2 "G/B"B2 "D"A2 |
+"Am/C"E2 "D"F2 "G"G4 | "G"G4 G2 "D/F#"D2 | "Em"G2 "C"c2 "G/D"B2 "D"A2 | "G"G4 z2 G2 |
+"D"A2 "Am"c2 "G/B"B2 "D"A2 | "Am/C"E2 "D"F2 "G"G4 | "G"z2 G2 "C"c2 "G"B2 | "C/E"c2 "D/F#"d2 "Em7/G"d2 "A"^c2 |
+"D"d4 "G"z2 d2 | "C"e2 "F"c2 "Bdim/D"d2- "C/E"d c | "G"B2 "D"A2 "G"G4 | "G"z2 B2 "D"A2 "G/B"D2 |
+"C6"G2 A2 "G"B2 "D"A2 | "G"G8 |]
+V:A
+D4 D2 A,2 | B,2 E2 D2 D2 | [B,D]4 z2 D2 | F2 A2 G2 F2 |
+E2 D2 D4 | D4 D2 A,2 | B,2 E2 D2 D2 | [B,D]4 z2 D2 |
+F2 A2 G2 F2 | E2 D2 D4 | z2 D2 E2 D2 | G2 F2 E2 E2 |
+F4 z2 G2 | G2 =F2 F2 E2 | D2 D2 [B,D]4 | z2 D2 D2 D2 |
+E2 C2 D4 | [B,D]8 |]
+V:T
+B,4 B,2 A,2 | G,2 G,2 G,2 F,2 | G,4 z2 B,2 | D2 E2 D2 A,2 |
+A,4 B,4 | B,4 B,2 A,2 | G,2 G,2 G,2 F,2 | G,4 z2 B,2 |
+D2 E2 D2 A,2 | A,4 B,4 | z2 B,2 G,2 G,2 | G,2 A,2 B,2 A,2 |
+A,4 z2 B,2 | C2 A,2 B,2 G,2 | G,2 F,2 G,4 | z2 G,2 F,2 G,2 |
+E,2 E,2 G,2 F,2 | G,8 |]
+V:B
+G,4 G,2 F,2 | E,2 C,2 D,2 D,2 | G,,4 z2 G,2 | D,2 A,,2 B,,2 D,2 |
+C,2 D,2 G,,4 | G,4 G,2 F,2 | E,2 C,2 D,2 D,2 | G,,4 z2 G,2 |
+D,2 A,,2 B,,2 D,2 | C,2 D,2 G,,4 | z2 G,2 C,2 G,2 | E,2 F,2 G,2 A,2 |
+D,4 z2 G,2 | C,2 =F,2 D,2 E,2 | G,2 D,2 G,,4 | z2 G,2 D,2 B,,2 |
+C,2 A,,2 G,,2 D,2 | G,,8 |]

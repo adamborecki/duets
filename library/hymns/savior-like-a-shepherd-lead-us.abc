@@ -1,0 +1,38 @@
+X:1
+T:Savior, Like a Shepherd Lead Us
+T:BRADBURY
+C:Bradbury, William Batchelder (1816-1868)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: consecration
+%%duets tune: BRADBURY
+%%duets credit: Tune and setting: public domain ('Bradbury' William B. Bradbury, 1859), via the Open Hymnal Project.
+%%duets lyricist: attr. Dorothy Ann Thrupp, 1836. Music and
+%%duets notes: intro 15-16
+%%duets slug: savior-like-a-shepherd-lead-us
+%%duets free-meter: yes
+M:4/4
+L:1/8
+Q:1/4=100
+K:Eb
+V:S
+"Eb"G2 G2 G F "Eb/G"G A | "Eb"B2 e2 B2 G2 | "Bb"F2 "Eb/Bb"G2 "Bb7"A c "Gm/Bb"B A | "Eb"G6 z2 |
+"Eb"G2 G2 G F "Eb/G"G A | "Eb"B2 e2 B2 G2 | "Bb"F2 "Eb/Bb"G2 "Bb7"A c "Gm/Bb"B A | "Eb"G6 B B |
+"Ab"c2 e4 d c | "Eb"B2 G4 G G | "Bb"F2 "Bb7"c2 "Gm/Bb"B2 "Bb7"A2 | "Eb"G6 B B |
+"Ab"c2 e4 d c | "Eb"B2 !fermata!e4 E F | "Eb"G2 B2 "Bb7"A3 F | "Eb"E6 |]
+V:A
+E2 E2 E D E F | G4 G2 E2 | D2 E2 F A G F | E6 z2 |
+E2 E2 E D E F | G4 G2 E2 | D2 E2 F A G F | E6 G G |
+A2 c4 B A | G2 E4 E E | D2 A2 G2 F2 | E6 G G |
+A2 c4 B A | G2 G4 E E | E2 G2 F3 D | E6 |]
+V:T
+B,2 B,2 B, B, B, B, | B,4 E2 B,2 | B,2 B,2 B, B, B, B, | B,6 z2 |
+B,2 B,2 B, B, B, B, | B,4 E2 B,2 | B,2 B,2 B, B, B, B, | B,6 E E |
+E2 E4 E E | E2 B,4 B, B, | B,2 B,2 B,2 B,2 | B,6 E E |
+E2 E4 E E | E2 B,4 G, A, | B,2 B,2 B,3 A, | G,6 |]
+V:B
+E,2 E,2 E, A, G, F, | E,4 E,4 | B,,2 B,,2 B,, B,, B,, B,, | E,6 z2 |
+E,2 E,2 E, A, G, F, | E,4 E,4 | B,,2 B,,2 B,, B,, B,, B,, | E,6 E, E, |
+A,2 A,4 A, A, | E,2 E,4 E, E, | B,,2 B,,2 B,,2 B,,2 | E,6 E, E, |
+A,2 A,4 A, A, | E,2 E,4 E, E, | E,2 E,2 B,,3 B,, | E,6 |]

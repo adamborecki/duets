@@ -1,0 +1,24 @@
+X:1
+T:Air in F
+T:Notebook for Anna Magdalena Bach, BWV Anh. 131
+C:Johann Sebastian Bach (attrib.)
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, bach
+%%duets credit: Johann Sebastian Bach (attrib.). Source edition: Anonymous for the Mutopia Project (Creative Commons Attribution-ShareAlike 2.5).
+%%duets tempo-text: Andante
+%%duets slug: air-in-f-bach
+M:4/4
+L:1/8
+Q:1/4=80
+K:F
+V:S
+z6 c2 | f4 e4 | f2 A2 B2 c2 | A4 G2 c2 |
+A4 d4 | _c2 A G g2 f2 | e2 d c d2 c =B | c/2 =B/2 c5 E F |
+G6 A2 | B6 c2 | A2 G F d2 B A | G6 c2 |
+d4 e4 | f2 e d c2 B2 | A4 A/2 G/2 A/2 G/2 A/2 G/2 F/2 G/2 | F6 z2 |]
+V:lh
+z8 | z2 F,2 C2 C,2 | A,2 F,2 G,2 E,2 | F,2 A,,2 E,2 z2 |
+F,4 D,4 | G,4 E,2 F,2 | G,4 G,,4 | C,2 G,,2 C,,2 z2 |
+z2 C, z C,,4 | z2 C, z C,,4 | F,4 B,,2 B,,2 | C,2 G,,2 C,,2 A,,2 |
+B,,4 G,,4 | A,,4 z2 B,,2 | C,4 C,,4 | F,,2 C,2 F,2 z2 |]

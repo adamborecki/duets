@@ -1,0 +1,42 @@
+X:1
+T:Jerusalem the Golden
+T:EWING
+C:Alexander C. Ewing, 1853
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: heaven
+%%duets tune: EWING
+%%duets year: 1853
+%%duets credit: Tune and setting: public domain ("Hymns Ancient and Modern", 1861), via the Open Hymnal Project.
+%%duets lyricist: Bernard of Cluny, 1146. Translated by John Mason Neale, 1858
+%%duets notes: intro 16-17
+%%duets slug: jerusalem-the-golden
+M:4/4
+L:1/8
+Q:1/4=110
+K:C
+V:S
+"C"C2 | "Csus4"D2 "C"C2 "F/C"F2 "C"E2 | "Gsus4"D2- "G"D2 "C"C2 E2 | "G/B"G2 "C"c2 "E7"B2 ^G2 |
+"F/A"A6 A2 | "C"G2 E2 "E7"E2 D2 | "Am"C4 "G"D2 "C"E2 | "C"E2 E2 "Dm/F"D2 "Am"C2 |
+"G"D6 D2 | "F"F2 "C"E2 "F"A2 "E"B2 | "Am"c4 "G"d2 G2 | "C"e3 e "Dm/F"d2 "F/A"c2 |
+"G7"B6 A2 | "C/E"G2 E2 "E7"E2 D2 | "Am"C4 "G"D2 "C"E2 | "C"E2 E2 "G7"D3 C |
+"C"C6 |]
+V:A
+G,2 | G,2 G,2 C2 C2 | C2 B,2 C2 C2 | D2 E2 E2 D2 |
+C6 F2 | E2 C2 B,2 B,2 | A,4 B,2 C2 | C2 C2 A,2 A,2 |
+B,6 B,2 | C2 C2 C2 E2 | E4 G2 G2 | G3 G A2 F2 |
+G6 D2 | C2 C2 B,2 B,2 | A,4 B,2 C2 | C2 C2 B,3 C |
+C6 |]
+V:T
+E,2 | F,2 E,2 A,2 G,2 | G,4 E,2 G,2 | G,2 G,2 ^G,2 B,2 |
+A,6 C2 | C2 G,2 ^G,2 E,2 | E,4 G,2 G,2 | G,2 G,2 F,2 E,2 |
+G,6 G,2 | A,2 G,2 A,2 ^G,2 | A,4 B,2 B,2 | C3 C A,2 C2 |
+D6 B,2 | C2 G,2 ^G,2 E,2 | E,4 G,2 G,2 | G,2 G,2 F,3 E, |
+E,6 |]
+V:B
+C,2 | C,2 C,2 C,2 C,2 | G,,4 C,2 C,2 | B,,2 C,2 E,2 E,2 |
+A,,6 F,,2 | C,2 C,2 E,2 ^G,,2 | A,,4 G,,2 C,2 | C,2 E,,2 F,,2 A,,2 |
+G,,6 G,2 | F,2 C,2 F,2 E,2 | A,4 G,2 G,2 | C,3 C, F,2 A,2 |
+G,6 F,2 | E,2 C,2 E,2 ^G,,2 | A,,4 G,,2 C,2 | C,2 E,,2 G,,3 C, |
+C,6 |]

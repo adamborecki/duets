@@ -1,0 +1,53 @@
+X:1
+T:Come, Thou Long-Expected Jesus
+T:JEFFERSON
+C:from Southern Harmony, 1835
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: advent
+%%duets tune: JEFFERSON
+%%duets credit: Tune and setting: public domain ('Jefferson' from "Southern Harmony", 1835, alt), via the Open Hymnal Project.
+%%duets lyricist: Charles Wesley, 1745. Music and
+%%duets notes: intro 29-32
+%%duets slug: come-thou-long-expected-jesus
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+V:S
+"A/E"A2 "Em"A G | "Am"E2 "A7"G A | "C/G"c2 "Esus4"B A | "G7"B2 "A/E"A2 |
+"Am7/C"A G "Em7"E D | "A"E2 "Dsus4"G A | "Cmaj7/E"c2 B2 | "A"A4 |
+"A/E"A2 "Em"A G | "Am"E2 "A7"G A | "C/G"c2 "Esus4"B A | "G7"B2 "A/E"A2 |
+"Am7/C"A G "Em7"E D | "A"E2 "Dsus4"G A | "Cmaj7/E"c2 B2 | "A"A4 |
+"C/E"c2 "G"d2 | "A"e2 e2 | "Gsus4"c2 "Asus4"B A | "Esus4"B2 A2 |
+"C"c2 "D"d2 | "C/E"e2 "Asus4"e d | "C/G"c2 "D7"B A | "E"B4 |
+"A"A2 "Am7/G"c d | "E/B"e2 "Am"e2 | "Am"c2 "Esus4"B A | "Bm/D"B2 "A/E"A2 |
+"Am7"A G "Bm"E D | "A"E2 "Dsus4"G A | "C/E"c2 "E"B2 | "A"A4 |]
+V:A
+A,2 A, B, | C2 A,2 | E2 B2 | G F E2 |
+C2 B,2 | A,2 B, A, | C2 B,2 | A,4 |
+A,2 A, B, | C2 A,2 | E2 B2 | G F E2 |
+C2 B,2 | A,2 B, A, | C2 B,2 | A,4 |
+C2 B,2 | A,2 A,2 | C D E D | E2 E2 |
+E2 D2 | C2 A,2 | C2 D C | B,4 |
+E2 E D | B,2 C B, | C2 B, C | D2 E2 |
+C2 B,2 | A,2 B, A, | G,2 B,2 | A,4 |]
+V:T
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |]
+V:B
+E,2 E, G, | A,2 A,2 | G,2 E, F, | G,2 E,2 |
+C, D, E, G, | A,2 D,2 | E,2 E,2 | A,,4 |
+E,2 E, G, | A,2 A,2 | G,2 E, F, | G,2 E,2 |
+C, D, E, G, | A,2 D,2 | E,2 E,2 | A,,4 |
+E,2 G,2 | A,2 A,2 | G,2 A,2 | E,2 E,2 |
+C,2 D,2 | E,2 A,2 | G,2 D,2 | E,4 |
+A,2 G, A, | B,2 A,2 | A,2 E,2 | D,2 E,2 |
+A,2 B,2 | A,2 D,2 | E,2 E,2 | A,,4 |]

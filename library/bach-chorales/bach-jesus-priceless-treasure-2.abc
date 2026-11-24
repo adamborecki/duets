@@ -1,0 +1,34 @@
+X:1
+T:Jesus, Priceless Treasure (II)
+T:Jesu, meine Freude · BWV 64.8
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trust
+%%duets tune: Jesu, meine Freude
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 64.8), public domain; score from the music21 corpus.
+%%duets slug: bach-jesus-priceless-treasure-2
+M:4/4
+L:1/8
+K:Em
+V:S
+"Em"B2 "G"B2 "Am/C"A2 "Em"G2 | "Am6"F2- "B7"F2 "Em"!fermata!E4 | "Em7"B2 B2 "F#m"^c2 "Adim7"^d2 | "E/G#"e2- "F#7/A#"e2 "B"!fermata!^d4 |
+"Em/G"e2 "Em"g2 "Bsus4"f2- "B7"f f | "Em"!fermata!e8 :| "Em"B2 "Em/G"B2 "Am/C"c2 "Em"B2 | "A7/C#"A2- "D"A G "G"!fermata!G4 |
+"G"B2 "C#dim/E"^c2 "F#+"d2 "Bm/D"B2 | "C#dim7"e2 "Bm/D"d2 "F#sus4"^c2- "F#7"c2 | "B"!fermata!B4 "E7/B"B2 "Ddim7"B2 | "A/C#"A2 "Em"G2 "F#7/A#"F2- "B7"F2 |
+"E"!fermata!E8 |]
+V:A
+G2 G F E2 E2 | E2 ^D2 !fermata!B,4 | G2 G2 A G F2 | E2 F2 !fermata!F4 |
+G A B2 B2 A2 | !fermata!G8 :| G F E ^D E F G2 | G2 F2 !fermata!D4 |
+G2 G2 F2 F2 | G2 F2 F3 E | !fermata!^D4 =D E =F2 | E F G E E2 ^D2 |
+!fermata!B,8 |]
+V:T
+E2 D2 C2 B,2 | C2 B, A, !fermata!G,4 | E2 D2 A, B, C2 | B,2 ^C2 !fermata!B,4 |
+B,2 E2 E2 ^D2 | !fermata!B,8 :| E2 B,2 A,2 G,2 | E2 D2 !fermata!B,4 |
+D2 E2 ^A,2 B,2 | ^A,2 B,2 B,2 A,2 | !fermata!F,4 ^G,2 G,2 | A, C B,2 ^C2 B, A, |
+!fermata!^G,8 |]
+V:B
+E, F, G,2 C, D, E,2 | A,,2 B,,2 !fermata!E,4 | E, F, G,2 F, G, A,2 | ^G,2 ^A,2 !fermata!B,4 |
+G, F, E,2 B,2 B,,2 | !fermata!E,8 :| E, F, G,2 C, D, E,2 | ^C,2 D,2 !fermata!G,,4 |
+G, F, E,2 F, E, D,2 | ^C,2 D, E, F,4 | !fermata!B,,4 B,, ^C, D,2 | ^C, ^D, E,2 ^A,,2 B,,2 |
+!fermata!E,,8 |]

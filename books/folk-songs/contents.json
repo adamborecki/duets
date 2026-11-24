@@ -1,0 +1,2217 @@
+{
+ "id": "folk-songs",
+ "title": "Folk Songs & Shanties",
+ "subtitle": "Songs from the British Isles, America and beyond, for piano four hands",
+ "blurb": "Traditional songs, Stephen Foster, sea shanties and patriotic airs.",
+ "pieces": 95,
+ "layouts": {
+  "facing": {
+   "path": "folk-songs-facing.pdf",
+   "pages": 225,
+   "bytes": 2585729
+  },
+  "score": {
+   "path": "folk-songs-score.pdf",
+   "pages": 184,
+   "bytes": 1934897
+  },
+  "screen": {
+   "path": "folk-songs-screen.pdf",
+   "pages": 195,
+   "bytes": 2503480
+  },
+  "screen-score": {
+   "path": "folk-songs-screen-score.pdf",
+   "pages": 165,
+   "bytes": 1792628
+  }
+ },
+ "items": [
+  {
+   "slug": "aiken-drum",
+   "title": "Aiken Drum",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 2.0,
+    "s": 2.9
+   },
+   "key": "A",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 6,
+    "screen": 4,
+    "screen-score": 4
+   }
+  },
+  {
+   "slug": "alouette",
+   "title": "Alouette",
+   "subtitle": "",
+   "composer": "French-Canadian traditional",
+   "levels": {
+    "p": 2.4,
+    "s": 1.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 7,
+    "screen": 6,
+    "screen-score": 5
+   }
+  },
+  {
+   "slug": "america-the-beautiful",
+   "title": "America the Beautiful",
+   "subtitle": "",
+   "composer": "Samuel A. Ward, 1882",
+   "levels": {
+    "p": 1.9,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 8,
+    "screen": 7,
+    "screen-score": 6
+   }
+  },
+  {
+   "slug": "angeline-the-baker",
+   "title": "Angeline the Baker",
+   "subtitle": "",
+   "composer": "Stephen Foster, 1850",
+   "levels": {
+    "p": 1.5,
+    "s": 1.8
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 12,
+    "score": 10,
+    "screen": 9,
+    "screen-score": 7
+   }
+  },
+  {
+   "slug": "annie-laurie",
+   "title": "Annie Laurie",
+   "subtitle": "",
+   "composer": "Alicia Scott, 1838",
+   "levels": {
+    "p": 2.4,
+    "s": 2.4
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 11,
+    "screen": 11,
+    "screen-score": 8
+   }
+  },
+  {
+   "slug": "the-ash-grove",
+   "title": "The Ash Grove",
+   "subtitle": "",
+   "composer": "Welsh traditional (Llwyn Onn)",
+   "levels": {
+    "p": 2.3,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 12,
+    "screen": 12,
+    "screen-score": 9
+   }
+  },
+  {
+   "slug": "auld-lang-syne",
+   "title": "Auld Lang Syne",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 2.7,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 18,
+    "score": 14,
+    "screen": 14,
+    "screen-score": 11
+   }
+  },
+  {
+   "slug": "banks-of-the-ohio",
+   "title": "Banks of the Ohio",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 1.6,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 40,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 22,
+    "score": 17,
+    "screen": 17,
+    "screen-score": 14
+   }
+  },
+  {
+   "slug": "the-battle-cry-of-freedom",
+   "title": "The Battle Cry of Freedom",
+   "subtitle": "",
+   "composer": "George F. Root, 1862",
+   "levels": {
+    "p": 2.4,
+    "s": 2.8
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 19,
+    "screen": 19,
+    "screen-score": 16
+   }
+  },
+  {
+   "slug": "battle-hymn-of-the-republic",
+   "title": "Battle Hymn of the Republic",
+   "subtitle": "",
+   "composer": "William Steffe, 1856",
+   "levels": {
+    "p": 2.2,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 21,
+    "screen": 21,
+    "screen-score": 18
+   }
+  },
+  {
+   "slug": "beautiful-dreamer",
+   "title": "Beautiful Dreamer",
+   "subtitle": "",
+   "composer": "Stephen Foster, 1864",
+   "levels": {
+    "p": 3.6,
+    "s": 2.0
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 36,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 30,
+    "score": 24,
+    "screen": 24,
+    "screen-score": 20
+   }
+  },
+  {
+   "slug": "believe-me-if-all-those-endearing-young-charms",
+   "title": "Believe Me, If All Those Endearing Young Charms",
+   "subtitle": "",
+   "composer": "Irish traditional air",
+   "levels": {
+    "p": 1.5,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 34,
+    "score": 27,
+    "screen": 27,
+    "screen-score": 23
+   }
+  },
+  {
+   "slug": "bile-em-cabbage-down",
+   "title": "Bile 'Em Cabbage Down",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 3.5,
+    "s": 2.1
+   },
+   "key": "D",
+   "meter": "2/4",
+   "bars": 18,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 36,
+    "score": 29,
+    "screen": 29,
+    "screen-score": 25
+   }
+  },
+  {
+   "slug": "the-black-velvet-band",
+   "title": "The Black Velvet Band",
+   "subtitle": "",
+   "composer": "Irish traditional",
+   "levels": {
+    "p": 1.7,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 30,
+    "screen": 31,
+    "screen-score": 26
+   }
+  },
+  {
+   "slug": "the-blaydon-races",
+   "title": "The Blaydon Races",
+   "subtitle": "",
+   "composer": "Tyneside song (George Ridley, 1862)",
+   "levels": {
+    "p": 2.0,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 33,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 40,
+    "score": 31,
+    "screen": 32,
+    "screen-score": 27
+   }
+  },
+  {
+   "slug": "blow-the-wind-southerly",
+   "title": "Blow the Wind Southerly",
+   "subtitle": "",
+   "composer": "Northumbrian traditional",
+   "levels": {
+    "p": 2.4,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 26,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 33,
+    "screen": 34,
+    "screen-score": 29
+   }
+  },
+  {
+   "slug": "bonnie-dundee",
+   "title": "Bonnie Dundee",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 1.4,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 44,
+    "score": 34,
+    "screen": 36,
+    "screen-score": 31
+   }
+  },
+  {
+   "slug": "buffalo-gals",
+   "title": "Buffalo Gals",
+   "subtitle": "",
+   "composer": "American traditional (1844)",
+   "levels": {
+    "p": 3.0,
+    "s": 2.3
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 36,
+    "screen": 38,
+    "screen-score": 33
+   }
+  },
+  {
+   "slug": "camptown-races",
+   "title": "Camptown Races",
+   "subtitle": "",
+   "composer": "Stephen Foster, 1850",
+   "levels": {
+    "p": 1.2,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 38,
+    "screen": 40,
+    "screen-score": 35
+   }
+  },
+  {
+   "slug": "careless-love",
+   "title": "Careless Love",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 1.4,
+    "s": 2.3
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 50,
+    "score": 39,
+    "screen": 42,
+    "screen-score": 36
+   }
+  },
+  {
+   "slug": "carry-me-back-to-old-virginny",
+   "title": "Carry Me Back to Old Virginny",
+   "subtitle": "",
+   "composer": "James A. Bland, 1878",
+   "levels": {
+    "p": 1.9,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 54,
+    "score": 42,
+    "screen": 45,
+    "screen-score": 39
+   }
+  },
+  {
+   "slug": "castles-in-the-air",
+   "title": "Castles in the Air",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 4.1,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 56,
+    "score": 44,
+    "screen": 47,
+    "screen-score": 41
+   }
+  },
+  {
+   "slug": "dixie",
+   "title": "Dixie",
+   "subtitle": "",
+   "composer": "Daniel Decatur Emmett, 1859",
+   "levels": {
+    "p": 1.6,
+    "s": 2.7
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 34,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 58,
+    "score": 46,
+    "screen": 49,
+    "screen-score": 43
+   }
+  },
+  {
+   "slug": "drink-to-me-only-with-thine-eyes",
+   "title": "Drink to Me Only with Thine Eyes",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 2.0,
+    "s": 2.1
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 30,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 60,
+    "score": 48,
+    "screen": 51,
+    "screen-score": 45
+   }
+  },
+  {
+   "slug": "dye-ken-john-peel",
+   "title": "D'ye Ken John Peel",
+   "subtitle": "",
+   "composer": "English traditional (Cumberland)",
+   "levels": {
+    "p": 1.9,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 62,
+    "score": 49,
+    "screen": 53,
+    "screen-score": 46
+   }
+  },
+  {
+   "slug": "for-hes-a-jolly-good-fellow",
+   "title": "For He's a Jolly Good Fellow",
+   "subtitle": "",
+   "composer": "Traditional",
+   "levels": {
+    "p": 2.4,
+    "s": 2.0
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 21,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 50,
+    "screen": 54,
+    "screen-score": 47
+   }
+  },
+  {
+   "slug": "frankie-and-johnny",
+   "title": "Frankie and Johnny",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 2.6,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 52,
+    "screen": 56,
+    "screen-score": 48
+   }
+  },
+  {
+   "slug": "the-girl-i-left-behind-me",
+   "title": "The Girl I Left Behind Me",
+   "subtitle": "",
+   "composer": "English/Irish traditional (Brighton Camp)",
+   "levels": {
+    "p": 2.1,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 36,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 68,
+    "score": 54,
+    "screen": 58,
+    "screen-score": 50
+   }
+  },
+  {
+   "slug": "the-grand-old-duke-of-york",
+   "title": "The Grand Old Duke of York",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 3.5,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 72,
+    "score": 57,
+    "screen": 61,
+    "screen-score": 52
+   }
+  },
+  {
+   "slug": "great-is-thy-faithfulness",
+   "title": "Great Is Thy Faithfulness",
+   "subtitle": "",
+   "composer": "William M. Runyan, 1923",
+   "levels": {
+    "p": 1.7,
+    "s": 2.4
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 74,
+    "score": 59,
+    "screen": 63,
+    "screen-score": 54
+   }
+  },
+  {
+   "slug": "green-grow-the-rushes-o",
+   "title": "Green Grow the Rushes, O",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 2.6,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 10,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 76,
+    "score": 61,
+    "screen": 65,
+    "screen-score": 56
+   }
+  },
+  {
+   "slug": "happy-birthday-to-you",
+   "title": "Happy Birthday to You",
+   "subtitle": "",
+   "composer": "Mildred J. Hill & Patty Hill, 1893",
+   "levels": {
+    "p": 2.5,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 78,
+    "score": 63,
+    "screen": 67,
+    "screen-score": 57
+   }
+  },
+  {
+   "slug": "hard-times-come-again-no-more",
+   "title": "Hard Times Come Again No More",
+   "subtitle": "",
+   "composer": "Stephen Foster, 1854",
+   "levels": {
+    "p": 3.1,
+    "s": 2.2
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 80,
+    "score": 64,
+    "screen": 68,
+    "screen-score": 58
+   }
+  },
+  {
+   "slug": "hector-the-hero",
+   "title": "Hector the Hero",
+   "subtitle": "",
+   "composer": "James Scott Skinner, 1903",
+   "levels": {
+    "p": 1.6,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 65,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 82,
+    "score": 66,
+    "screen": 70,
+    "screen-score": 60
+   }
+  },
+  {
+   "slug": "ho-ro-my-nut-brown-maiden",
+   "title": "Ho Ro, My Nut-Brown Maiden",
+   "subtitle": "",
+   "composer": "Scottish Gaelic traditional",
+   "levels": {
+    "p": 2.3,
+    "s": 1.9
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 86,
+    "score": 69,
+    "screen": 73,
+    "screen-score": 62
+   }
+  },
+  {
+   "slug": "home-on-the-range",
+   "title": "Home on the Range",
+   "subtitle": "",
+   "composer": "Daniel E. Kelley, 1873",
+   "levels": {
+    "p": 2.0,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 42,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 88,
+    "score": 71,
+    "screen": 75,
+    "screen-score": 63
+   }
+  },
+  {
+   "slug": "home-sweet-home",
+   "title": "Home, Sweet Home",
+   "subtitle": "",
+   "composer": "Henry Bishop, 1823",
+   "levels": {
+    "p": 1.1,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 90,
+    "score": 73,
+    "screen": 77,
+    "screen-score": 65
+   }
+  },
+  {
+   "slug": "the-hundred-pipers",
+   "title": "The Hundred Pipers",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 3.1,
+    "s": 3.2
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 92,
+    "score": 74,
+    "screen": 79,
+    "screen-score": 66
+   }
+  },
+  {
+   "slug": "jeanie-with-the-light-brown-hair",
+   "title": "Jeanie with the Light Brown Hair",
+   "subtitle": "",
+   "composer": "Stephen Foster, 1854",
+   "levels": {
+    "p": 1.4,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 35,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 94,
+    "score": 76,
+    "screen": 81,
+    "screen-score": 67
+   }
+  },
+  {
+   "slug": "john-browns-body-in-jig-time",
+   "title": "John Brown's Body (in Jig Time)",
+   "subtitle": "",
+   "composer": "William Steffe, c. 1856",
+   "levels": {
+    "p": 3.6,
+    "s": 3.6
+   },
+   "key": "D",
+   "meter": "6/8",
+   "bars": 17,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 98,
+    "score": 79,
+    "screen": 85,
+    "screen-score": 70
+   }
+  },
+  {
+   "slug": "the-keel-row",
+   "title": "The Keel Row",
+   "subtitle": "",
+   "composer": "Northumbrian traditional",
+   "levels": {
+    "p": 3.0,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 10,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 100,
+    "score": 81,
+    "screen": 87,
+    "screen-score": 71
+   }
+  },
+  {
+   "slug": "kelvingrove",
+   "title": "Kelvingrove",
+   "subtitle": "",
+   "composer": "Scottish traditional air",
+   "levels": {
+    "p": 1.2,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 102,
+    "score": 82,
+    "screen": 88,
+    "screen-score": 72
+   }
+  },
+  {
+   "slug": "korobushka",
+   "title": "Korobushka",
+   "subtitle": "",
+   "composer": "Russian traditional",
+   "levels": {
+    "p": 1.9,
+    "s": 2.2
+   },
+   "key": "Am",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 104,
+    "score": 84,
+    "screen": 90,
+    "screen-score": 74
+   }
+  },
+  {
+   "slug": "la-marseillaise",
+   "title": "La Marseillaise",
+   "subtitle": "",
+   "composer": "Claude Joseph Rouget de Lisle, 1792",
+   "levels": {
+    "p": 4.2,
+    "s": 1.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 29,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 106,
+    "score": 85,
+    "screen": 91,
+    "screen-score": 75
+   }
+  },
+  {
+   "slug": "le-temps-des-cerises",
+   "title": "Le temps des cerises",
+   "subtitle": "",
+   "composer": "Antoine Renard, 1866",
+   "levels": {
+    "p": 1.4,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 31,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 110,
+    "score": 88,
+    "screen": 95,
+    "screen-score": 78
+   }
+  },
+  {
+   "slug": "the-leaving-of-liverpool",
+   "title": "The Leaving of Liverpool",
+   "subtitle": "",
+   "composer": "Sea song (traditional)",
+   "levels": {
+    "p": 3.3,
+    "s": 2.3
+   },
+   "key": "D",
+   "meter": "2/4",
+   "bars": 33,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 112,
+    "score": 90,
+    "screen": 97,
+    "screen-score": 80
+   }
+  },
+  {
+   "slug": "little-liza-jane",
+   "title": "Little Liza Jane",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 1.9,
+    "s": 3.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 114,
+    "score": 92,
+    "screen": 99,
+    "screen-score": 82
+   }
+  },
+  {
+   "slug": "liza-jane",
+   "title": "Liza Jane",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 1.3,
+    "s": 2.4
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 116,
+    "score": 93,
+    "screen": 101,
+    "screen-score": 83
+   }
+  },
+  {
+   "slug": "loch-lomond",
+   "title": "Loch Lomond",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 2.2,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 118,
+    "score": 95,
+    "screen": 103,
+    "screen-score": 84
+   }
+  },
+  {
+   "slug": "mademoiselle-from-armentieres",
+   "title": "Mademoiselle from Armenti\u00e8res",
+   "subtitle": "",
+   "composer": "Traditional (World War I), 1915",
+   "levels": {
+    "p": 2.5,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 120,
+    "score": 97,
+    "screen": 105,
+    "screen-score": 85
+   }
+  },
+  {
+   "slug": "marching-through-georgia",
+   "title": "Marching Through Georgia",
+   "subtitle": "",
+   "composer": "Henry Clay Work, 1865",
+   "levels": {
+    "p": 3.4,
+    "s": 3.4
+   },
+   "key": "C",
+   "meter": "2/4",
+   "bars": 32,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 122,
+    "score": 99,
+    "screen": 107,
+    "screen-score": 86
+   }
+  },
+  {
+   "slug": "megans-daughter-merch-megan",
+   "title": "Megan's Daughter (Merch Megan)",
+   "subtitle": "",
+   "composer": "Welsh traditional",
+   "levels": {
+    "p": 2.7,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 26,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 124,
+    "score": 101,
+    "screen": 109,
+    "screen-score": 88
+   }
+  },
+  {
+   "slug": "the-minstrel-boy",
+   "title": "The Minstrel Boy",
+   "subtitle": "",
+   "composer": "Irish traditional air (The Moreen)",
+   "levels": {
+    "p": 1.3,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 126,
+    "score": 103,
+    "screen": 111,
+    "screen-score": 90
+   }
+  },
+  {
+   "slug": "molly-malone",
+   "title": "Molly Malone",
+   "subtitle": "",
+   "composer": "Irish traditional",
+   "levels": {
+    "p": 1.8,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 27,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 128,
+    "score": 105,
+    "screen": 113,
+    "screen-score": 92
+   }
+  },
+  {
+   "slug": "my-love-shes-but-a-lassie-yet",
+   "title": "My Love She's But a Lassie Yet",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 4.2,
+    "s": 2.3
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 27,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 130,
+    "score": 107,
+    "screen": 115,
+    "screen-score": 93
+   }
+  },
+  {
+   "slug": "my-old-kentucky-home",
+   "title": "My Old Kentucky Home",
+   "subtitle": "",
+   "composer": "Stephen Foster, 1853",
+   "levels": {
+    "p": 1.4,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 134,
+    "score": 110,
+    "screen": 118,
+    "screen-score": 96
+   }
+  },
+  {
+   "slug": "nancy-dawson-here-we-go-round-the-mulberry-bush",
+   "title": "Nancy Dawson (Here We Go Round the Mulberry Bush)",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 3.3,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 17,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 136,
+    "score": 112,
+    "screen": 120,
+    "screen-score": 98
+   }
+  },
+  {
+   "slug": "oh-dear-what-can-the-matter-be",
+   "title": "Oh Dear! What Can the Matter Be?",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 3.7,
+    "s": 4.1
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 72,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 138,
+    "score": 113,
+    "screen": 121,
+    "screen-score": 99
+   }
+  },
+  {
+   "slug": "oh-dem-golden-slippers",
+   "title": "Oh, Dem Golden Slippers",
+   "subtitle": "",
+   "composer": "James A. Bland, 1879",
+   "levels": {
+    "p": 1.7,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 21,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 146,
+    "score": 119,
+    "screen": 128,
+    "screen-score": 106
+   }
+  },
+  {
+   "slug": "oh-susanna",
+   "title": "Oh! Susanna",
+   "subtitle": "",
+   "composer": "Stephen Foster, 1848",
+   "levels": {
+    "p": 2.2,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "2/4",
+   "bars": 17,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 148,
+    "score": 121,
+    "screen": 130,
+    "screen-score": 107
+   }
+  },
+  {
+   "slug": "old-folks-at-home-swanee-river",
+   "title": "Old Folks at Home (Swanee River)",
+   "subtitle": "",
+   "composer": "Stephen Foster, 1851",
+   "levels": {
+    "p": 1.3,
+    "s": 2.1
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 150,
+    "score": 122,
+    "screen": 131,
+    "screen-score": 108
+   }
+  },
+  {
+   "slug": "old-joe-clark",
+   "title": "Old Joe Clark",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 3.5,
+    "s": 2.5
+   },
+   "key": "A",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 154,
+    "score": 125,
+    "screen": 134,
+    "screen-score": 111
+   }
+  },
+  {
+   "slug": "on-top-of-old-smoky",
+   "title": "On Top of Old Smoky",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 1.4,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 156,
+    "score": 127,
+    "screen": 136,
+    "screen-score": 113
+   }
+  },
+  {
+   "slug": "planxty-irwin",
+   "title": "Planxty Irwin",
+   "subtitle": "",
+   "composer": "Turlough O'Carolan (1670-1738)",
+   "levels": {
+    "p": 1.6,
+    "s": 2.9
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 158,
+    "score": 128,
+    "screen": 137,
+    "screen-score": 114
+   }
+  },
+  {
+   "slug": "polly-put-the-kettle-on",
+   "title": "Polly Put the Kettle On",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 2.1,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 160,
+    "score": 130,
+    "screen": 139,
+    "screen-score": 116
+   }
+  },
+  {
+   "slug": "polly-wolly-doodle",
+   "title": "Polly Wolly Doodle",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 3.4,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 162,
+    "score": 132,
+    "screen": 141,
+    "screen-score": 118
+   }
+  },
+  {
+   "slug": "pop-goes-the-weasel",
+   "title": "Pop! Goes the Weasel",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 2.3,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 17,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 164,
+    "score": 134,
+    "screen": 143,
+    "screen-score": 120
+   }
+  },
+  {
+   "slug": "the-rattlin-bog",
+   "title": "The Rattlin' Bog",
+   "subtitle": "",
+   "composer": "Irish traditional",
+   "levels": {
+    "p": 2.2,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 166,
+    "score": 136,
+    "screen": 145,
+    "screen-score": 121
+   }
+  },
+  {
+   "slug": "red-river-valley",
+   "title": "Red River Valley",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 1.8,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 168,
+    "score": 138,
+    "screen": 147,
+    "screen-score": 122
+   }
+  },
+  {
+   "slug": "the-road-to-dundee",
+   "title": "The Road to Dundee",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 1.6,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 170,
+    "score": 140,
+    "screen": 149,
+    "screen-score": 124
+   }
+  },
+  {
+   "slug": "the-road-to-the-isles",
+   "title": "The Road to the Isles",
+   "subtitle": "",
+   "composer": "Scottish traditional pipe tune, 1917",
+   "levels": {
+    "p": 2.2,
+    "s": 3.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 21,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 172,
+    "score": 142,
+    "screen": 151,
+    "screen-score": 126
+   }
+  },
+  {
+   "slug": "roddy-mccorley",
+   "title": "Roddy McCorley",
+   "subtitle": "",
+   "composer": "Irish traditional",
+   "levels": {
+    "p": 1.2,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 174,
+    "score": 144,
+    "screen": 153,
+    "screen-score": 128
+   }
+  },
+  {
+   "slug": "rosin-the-bow",
+   "title": "Rosin the Bow",
+   "subtitle": "",
+   "composer": "Irish/American traditional",
+   "levels": {
+    "p": 3.3,
+    "s": 3.8
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 176,
+    "score": 146,
+    "screen": 155,
+    "screen-score": 130
+   }
+  },
+  {
+   "slug": "santa-lucia",
+   "title": "Santa Lucia",
+   "subtitle": "",
+   "composer": "Neapolitan traditional, 1849",
+   "levels": {
+    "p": 1.9,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 178,
+    "score": 148,
+    "screen": 157,
+    "screen-score": 131
+   }
+  },
+  {
+   "slug": "scarborough-fair",
+   "title": "Scarborough Fair",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 1.5,
+    "s": 2.7
+   },
+   "key": "Dm",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 180,
+    "score": 150,
+    "screen": 159,
+    "screen-score": 133
+   }
+  },
+  {
+   "slug": "scotland-the-brave",
+   "title": "Scotland the Brave",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 1.9,
+    "s": 2.2
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 182,
+    "score": 152,
+    "screen": 161,
+    "screen-score": 135
+   }
+  },
+  {
+   "slug": "scots-wha-hae",
+   "title": "Scots Wha Hae",
+   "subtitle": "",
+   "composer": "Scottish traditional (Hey Tuttie Tatie)",
+   "levels": {
+    "p": 3.7,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 184,
+    "score": 154,
+    "screen": 163,
+    "screen-score": 137
+   }
+  },
+  {
+   "slug": "shady-grove",
+   "title": "Shady Grove",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 3.0,
+    "s": 2.2
+   },
+   "key": "Am",
+   "meter": "2/4",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 188,
+    "score": 156,
+    "screen": 166,
+    "screen-score": 139
+   }
+  },
+  {
+   "slug": "shell-be-coming-round-the-mountain",
+   "title": "She'll Be Coming 'Round the Mountain",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 2.0,
+    "s": 1.9
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 190,
+    "score": 157,
+    "screen": 167,
+    "screen-score": 140
+   }
+  },
+  {
+   "slug": "shenandoah",
+   "title": "Shenandoah",
+   "subtitle": "",
+   "composer": "American traditional (river shanty)",
+   "levels": {
+    "p": 2.0,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 21,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 192,
+    "score": 158,
+    "screen": 168,
+    "screen-score": 141
+   }
+  },
+  {
+   "slug": "simple-gifts",
+   "title": "Simple Gifts",
+   "subtitle": "",
+   "composer": "Joseph Brackett (Shaker song), 1848",
+   "levels": {
+    "p": 1.8,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 194,
+    "score": 160,
+    "screen": 170,
+    "screen-score": 143
+   }
+  },
+  {
+   "slug": "the-skye-boat-song",
+   "title": "The Skye Boat Song",
+   "subtitle": "",
+   "composer": "Scottish traditional air",
+   "levels": {
+    "p": 2.3,
+    "s": 1.8
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 196,
+    "score": 162,
+    "screen": 172,
+    "screen-score": 144
+   }
+  },
+  {
+   "slug": "slane-be-thou-my-vision",
+   "title": "Slane (Be Thou My Vision)",
+   "subtitle": "",
+   "composer": "Irish traditional melody",
+   "levels": {
+    "p": 1.9,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 198,
+    "score": 164,
+    "screen": 174,
+    "screen-score": 146
+   }
+  },
+  {
+   "slug": "the-swiss-boy",
+   "title": "The Swiss Boy",
+   "subtitle": "",
+   "composer": "Swiss/Tyrolean traditional",
+   "levels": {
+    "p": 3.3,
+    "s": 2.8
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 200,
+    "score": 165,
+    "screen": 175,
+    "screen-score": 147
+   }
+  },
+  {
+   "slug": "there-is-a-tavern-in-the-town",
+   "title": "There Is a Tavern in the Town",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 2.5,
+    "s": 2.3
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 21,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 202,
+    "score": 167,
+    "screen": 177,
+    "screen-score": 149
+   }
+  },
+  {
+   "slug": "this-old-man",
+   "title": "This Old Man",
+   "subtitle": "",
+   "composer": "English traditional children's song",
+   "levels": {
+    "p": 1.4,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 204,
+    "score": 169,
+    "screen": 179,
+    "screen-score": 151
+   }
+  },
+  {
+   "slug": "turkey-in-the-straw",
+   "title": "Turkey in the Straw",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 2.6,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 206,
+    "score": 170,
+    "screen": 180,
+    "screen-score": 152
+   }
+  },
+  {
+   "slug": "waltzing-matilda",
+   "title": "Waltzing Matilda",
+   "subtitle": "",
+   "composer": "Christina Macpherson / Marie Cowan, 1895",
+   "levels": {
+    "p": 3.7,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 208,
+    "score": 172,
+    "screen": 182,
+    "screen-score": 153
+   }
+  },
+  {
+   "slug": "the-waters-of-tyne",
+   "title": "The Waters of Tyne",
+   "subtitle": "",
+   "composer": "Northumbrian traditional",
+   "levels": {
+    "p": 1.7,
+    "s": 2.6
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 210,
+    "score": 174,
+    "screen": 184,
+    "screen-score": 155
+   }
+  },
+  {
+   "slug": "what-shall-we-do-with-a-drunken-sailor",
+   "title": "What Shall We Do with a Drunken Sailor?",
+   "subtitle": "",
+   "composer": "Sea shanty (traditional)",
+   "levels": {
+    "p": 3.6,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 212,
+    "score": 175,
+    "screen": 185,
+    "screen-score": 156
+   }
+  },
+  {
+   "slug": "when-the-saints-go-marching-in",
+   "title": "When the Saints Go Marching In",
+   "subtitle": "",
+   "composer": "American traditional spiritual",
+   "levels": {
+    "p": 1.8,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 214,
+    "score": 176,
+    "screen": 186,
+    "screen-score": 157
+   }
+  },
+  {
+   "slug": "the-wild-colonial-boy",
+   "title": "The Wild Colonial Boy",
+   "subtitle": "",
+   "composer": "Irish/Australian traditional",
+   "levels": {
+    "p": 2.6,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 17,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 216,
+    "score": 177,
+    "screen": 187,
+    "screen-score": 158
+   }
+  },
+  {
+   "slug": "the-wild-rover",
+   "title": "The Wild Rover",
+   "subtitle": "",
+   "composer": "Irish traditional",
+   "levels": {
+    "p": 2.2,
+    "s": 1.8
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 38,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 218,
+    "score": 178,
+    "screen": 188,
+    "screen-score": 159
+   }
+  },
+  {
+   "slug": "ye-banks-and-braes-o-bonnie-doon",
+   "title": "Ye Banks and Braes o' Bonnie Doon",
+   "subtitle": "",
+   "composer": "Scottish traditional air",
+   "levels": {
+    "p": 1.5,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 220,
+    "score": 180,
+    "screen": 190,
+    "screen-score": 161
+   }
+  },
+  {
+   "slug": "the-yellow-rose-of-texas",
+   "title": "The Yellow Rose of Texas",
+   "subtitle": "",
+   "composer": "American traditional, 1858",
+   "levels": {
+    "p": 3.2,
+    "s": 2.4
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 35,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 222,
+    "score": 182,
+    "screen": 192,
+    "screen-score": 163
+   }
+  }
+ ],
+ "seconds": 37.7
+}

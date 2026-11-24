@@ -1,0 +1,17 @@
+X:1
+T:The Grand Old Duke of York
+C:English traditional
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: english, children, song
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-grand-old-duke-of-york
+M:4/4
+L:1/8
+K:D
+[P:A]f e | "D"d2 A2 F2 A2 | "D"d3 d d2 d2 | "A7"c2 e2 e2 e2 |
+"A7"e3 A B c d e | "D"f3 f f2 a2 | "G"g2 f2 "E7"e2 d2 | "A7"c2 A2 d c B c |
+"D"d6 :| [P:B]d c | "Bm"B2 B2 c2 d2 | "F#7"e3 e d2 c2 |
+"Bm"B2 B2 c2 d2 | "F#7"e2 f e d2 c2 | "Bm"B2 B2 c2 d2 | "F#7"e2 f e "Bm"d2 e d |
+"E7"c2 d c B2 c B | "A7"A2 A2 B2 |]

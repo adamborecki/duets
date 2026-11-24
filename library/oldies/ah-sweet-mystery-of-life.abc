@@ -1,0 +1,17 @@
+X:1
+T:Ah! Sweet Mystery of Life
+C:Victor Herbert, 1910
+S:OpenEWLD
+R:ballad
+%%duets category: oldies
+%%duets year: 1910
+%%duets credit: Melody and chords: public domain in the United States (published 1910); lead sheet from OpenEWLD.
+%%duets slug: ah-sweet-mystery-of-life
+M:4/4
+L:1/8
+K:Bb
+!fermata!d7/4 c/4 | "Bb"c7/4 B/4 B7/4 A/4 A7/4 G/4 G7/4 F/4 | "Cm7"G2 G4 !fermata!e7/4 d/4 | "F7"d7/4 c/4 c7/4 A/4 A7/4 G/4 G7/4 F/4 |
+"Bb"G6 !fermata!d7/4 c/4 | c7/4 B/4 B7/4 A/4 "Bbm"A7/4 G/4 G7/4 F/4 | "F/C"A2 A3 c d =e | "C"c G c d "C7"c G c3/2 G/2 |
+"F7"c5 z d7/4 c/4 |: "Bb"c7/4 B/4 B7/4 A/4 A7/4 G/4 G7/4 F/4 | "Cm7"G2 G4 !fermata!e7/4 d/4 | "F7"d7/4 c/4 c7/4 A/4 A7/4 G/4 G7/4 F/4 |
+"Bb"f6 !fermata!f7/4 e/4 | "G7"e7/4 d/4 d7/4 =B/4 B7/4 _A/4 A7/4 G/4 | "Cm"e2 e2- "Ebm"e B B c | "Bb/F"d F G B "Cm/Eb"c2 "Dm"!fermata!d2 |
+[1 "Bb"B2 z4 !fermata!d7/4 c/4 :| [2 "Bb"B5 z3 |]

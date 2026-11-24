@@ -1,0 +1,62 @@
+X:1
+T:Sonatina No. 2: III
+T:Jugendfreuden (Pleasures of Youth), Op. 163 No. 2
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Andantino cantabile
+%%duets slug: diabelli-op163-2-3
+M:3/4
+L:1/8
+Q:1/4=100
+K:C
+V:S
+|: [e'g']2 [c'e']2 z2 | [e'g']2 [c'e']2 z2 | g'3 f' d' g' |
+e'2 c'2 z2 | [e'g']2 [c'e']2 z2 | [e'g']2 [c'e']2 z2 | g'2 ^f'2 g' _g' |
+[1 e'2 z4 :| [2 e'2 z4 |: f'2 d'2 z g' | e'2 c'2 z e' |
+f'2 d'2 z g' | e'2 c'2 z c' | e' z e' z e' z | g'3 f' e'/2 z/2 d'/2 z/2 |
+c'3/2 d'/2 e' f' d' e' | c'2 z4 :| d'2 d'2 f' e' | c'2 z4 |
+d' z d' f' e' d' | c' z f'3 d' | c' z f'3 d' | c'2 z2 [e'g']2 |
+[c'e']2 z2 [e'g']2 | [c'e']6 |]
+V:plh
+|: [eg]2 [ce]2 z2 | [eg]2 [ce]2 z2 | g3 f d g |
+e2 c2 z2 | [eg]2 [ce]2 z2 | [eg]2 [ce]2 z2 | g2 ^f2 g _g |
+[1 e2 z4 :| [2 e2 z4 |: f2 d2 z g | e2 c2 z e |
+f2 d2 z g | e2 c2 z c | e z e z e z | g3 f e/2 z/2 d/2 z/2 |
+c3/2 d/2 e f d e | c2 z4 :| d2 d2 f e | c2 z4 |
+d z d f e d | c z f3 d | c z f3 d | c2 z2 [eg]2 |
+[ce]2 z2 [eg]2 | [ce]6 |]
+V:srh
+|: z2 [EG]2 [CE]2 | z2 [EG] z [CE]2 | B, D F D B, D |
+C E G E C G, | C z [EG]2 [CE]2 | z2 [EG]2 [CE]2 | [EG] B, [_EA] B, [EA] B, |
+[1 [EG] B, E G F B, :| [2 [EG] B, [EG] B, [EG] B, |: [B,D] G, [B,F] G, [B,F] G, | [CE] G, [EG] G, [CE] G, |
+[B,D] G, [B,F] G, [B,F] G, | [CE] G, [EG] G, [CE] G, | [_B,G] C [B,G] C [B,G] C | E3 D E F |
+E z G z [B,F] z | [CE] z G E C z :| [B,F] z [B,F] z [B,F] z | [CE] z G E C z |
+[B,F] z [B,F] z [B,F] z | [CE] z [DF] B, [DF] B, | [CE] z [DF] B, [DF] B, | [CE] z C E G E |
+C G, C E G E | [G,CE]6 |]
+V:slh
+|: C,,6 | C,,6 | [C,,G,,C,]6 |
+[C,,G,,C,]6 | C,,6 | C,,6 | B,,,4 z2 |
+[1 [E,,E,]2 z2 D, G,, :| [2 E,,2 G,, z3 |: G,,,6 | G,,,6 |
+G,,,6 | C,,6 | C,,6 | F,,6 |
+G,,4 [G,,,G,,]2 | C,,4 E,,2 :| G,,2 G,,,2 G,,2 | C,,4 E,,2 |
+G,,2 G,,,2 G,,2 | C,,6 | C,,6 | [C,,G,,C,]4 [C,,G,,C,]2 |
+[C,,G,,C,]4 [C,,G,,C,]2 | [C,,G,,C,]6 |]
+V:slh2
+|: z C, G,, C, G,, C, | z C, G,, C, G,, C, | z6 |
+z6 | z C, G,, C, G,, C, | z C, G,, C, G,, C, | z2 B,,2 [B,,,B,,]2 |
+[1 z6 :| [2 z3 B,, C, z |: z2 G,,2 G,,2 | z2 G,,2 G,,2 |
+z2 G,,2 G,,2 | z2 C,2 C,2 | z2 C,2 C,2 | z2 F,2 F,2 |
+z6 | z6 :| z6 | z6 |
+z6 | z2 C,2 C,2 | z2 C,2 C,2 | z6 |
+z6 | z6 |]
+V:srh2
+|: z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+[1 z6 :| [2 z6 |: z6 | z6 |
+z6 | z6 | z6 | ^A, _D =A, z3 |
+z G, z G, z G, | z G, z3 G, :| z G, z G, z G, | z G, z3 G, |
+z G, z G, z G, | z G, _A,2 A,2 | z G, _A,2 A,2 | z G, z4 |
+z6 | z6 |]

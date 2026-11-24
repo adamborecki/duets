@@ -1,0 +1,27 @@
+X:1
+T:Funiculì funiculà
+C:Luigi Denza, 1880
+S:OpenEWLD
+R:jig
+%%duets category: oldies
+%%duets tags: italian
+%%duets year: 1880
+%%duets credit: Melody and chords: public domain in the United States (published 1880); lead sheet from OpenEWLD.
+%%duets slug: funiculi-funicula
+M:6/8
+L:1/8
+K:C
+z5 c | f6- | "F"f2 f e2 e | c2 c d2 d |
+A3 A3- | A2 A "C7"G2 F | "F"F6- | F2 z A "C7"G F |
+"F"F6- | F z4 c | f6- | f2 f e2 e |
+c2 c d2 d | A3 A3- | A2 A "C7"G2 F | "F"F6- |
+F z A "C7"G2 F | "F"F6- | F z4 A | "Am"A6- |
+A2 A "E7"B2 B | "Am"A2 A "E7"B2 B | "Am"A z2 A3- | A E "E7"E2 E2 |
+"Am"E6- | E z E "E7"E2 E | "Am"E6- | E z4 c |
+"C"c6- | c2 c "G7"d2 d | "C"c2 c "G7"d2 d | "C"c z2 c3- |
+c z G "G7"G2 G | "C"G6- | G z G "G7"G2 G | "C"G6- |
+G z A B c d | "C7"e3 d z2 | e3 d z2 | f z e d z f |
+e5 z | e3 d z2 | e3 d z2 | f z e d z f |
+"F"c z A A2 A | "A7"A2 A A2 A | "Dm"A2 A A2 A | "A7"A2 A A2 A |
+"Dm"f6 | z6 | "Bb"g z f d z f | "F"c z A A z _B |
+"C7"c z _B A z G | "F"F z3 f z |]

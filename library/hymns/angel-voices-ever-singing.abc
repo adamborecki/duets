@@ -1,0 +1,38 @@
+X:1
+T:Angel Voices, Ever Singing
+T:ANGEL VOICES (MONK)
+C:Edwin G. Monk, 1861
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: praise
+%%duets tune: ANGEL VOICES (MONK)
+%%duets year: 1861
+%%duets credit: Tune and setting: public domain (Presbyterian Hymnal, 1911), via the Open Hymnal Project.
+%%duets lyricist: Francis Pott, 1861
+%%duets notes: intro 11-13
+%%duets slug: angel-voices-ever-singing
+M:4/4
+L:1/8
+Q:1/4=100
+K:C
+V:S
+"C"E2 G2 "F/C"A2 "C"G2 | "F/C"c2 A2 "Em7/B"G2 E2 | "Am"C2 "Dm7/A"D2 "C/G"E2 "F"F2 | "Gsus4"D4- "G"D4 |
+"C6"E2 G2 c2 A2 | "D/F#"d3 c "G"B2 G2 | "Am/C"A2 E2 "Am7"G2 "D"^F2 | "C/G"G2- "G"G6 |
+"Em"G2 "Gmaj7/D"G2 "C#m7b5"G2 "A/C#"A2 | "Dm"F2 "Fmaj7/C"F2 "Bm7b5"F2 "G/B"G2 | "C"E2 G2 "F"A2 "Am"c2 | "Gsus4"d4- "G"d2 B2 |
+"C"c8 |]
+V:A
+C2 E2 F2 F E | F2 F2 D2 B,2 | C2 C2 C2 A,2 | C4 B,4 |
+C2 C2 C2 E2 | D2 ^F2 G2 D2 | C2 E2 C2 D2 | C2 B, A, B,4 |
+G2 ^F2 E2 E2 | F2 E2 D2 D2 | E2 C2 F2 E2 | G6 D2 |
+E8 |]
+V:T
+G,2 C2 B,2 C2 | A,2 F,2 G,2 G,2 | E,2 F,2 G,2 F,2 | G,8 |
+G,2 G,2 A,3 G, | A,2 A,2 G,2 G,2 | A,2 A,2 A,2 A,2 | G,8 |
+B,2 B,2 B,2 A,2 | A,2 A,2 A,2 G,2 | G,2 G,2 C2 C2 | C4 B,2 G,2 |
+C8 |]
+V:B
+C,2 C,2 C,2 C,2 | C,2 C,2 B,,2 G,,2 | A,,2 A,,2 G,,2 F,,2 | G,,8 |
+C,2 E,2 A,3 G, | ^F,2 D,2 G,2 B,,2 | C,2 C, B,, A,,2 D,2 | G,,8 |
+E,2 D,2 ^C,2 C,2 | D,2 C,2 B,,2 B,,2 | C,2 E,2 F,2 A,2 | G,6 G,,2 |
+C,8 |]

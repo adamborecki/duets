@@ -1,0 +1,22 @@
+X:1
+T:You Brought a New Kind of Love to Me
+C:Sammy Fain, Irving Kahal & Pierre Norman, 1930
+S:OpenEWLD
+R:swing
+%%duets category: standard
+%%duets tags: sinatra
+%%duets year: 1930
+%%duets credit: Melody and chords: public domain in the United States (published 1930); lead sheet from OpenEWLD.
+%%duets slug: you-brought-a-new-kind-of-love-to-me
+M:4/4
+L:1/8
+K:Ab
+z4 "Eb7"z2 E =E |: "Bbm7"F d2 F4 _G | "Eb7"G e2 G4 B | "Ab"A2 c2 "Ab7"e2 "G7"=d2 |
+"Gb7"d c2 =A4 F | "Bb7"(3A2F2A2 (3F2A2F2 | "Eb7sus4"c4 "Eb7"G4 | "Ab"F8 |
+"Eb7sus4"z4 "Eb7"z2 E =E | "Bbm7"F d2 F4 _G | "Eb7"G e2 G4 B | "Ab"A2 c2 "Ab7"e2 "G7"=d2 |
+"Gb7"d "F7"c2 =A4 F | "Bb7"(3A2F2A2 (3F2A2F2 | "Eb7sus4"c4 "Eb7"c4 | "Ab"A4- "Dbm"A4- |
+"Ab"A2 A2 B2 =B2 | "Fm"c c3 "C/E"c4 | "Ab7/Eb"c2 c2 "Bb7/D"c3 B | "Db7"A F A c- "C7"c2 c2 |
+"Fm"F5 G A =A | "Eb"B B3 "Bb+"B4 | B2 B2 "Fdim"B4 | "Bb7"B F G A2 B c2 |
+"Eb7"B6 E =E | "Bbm7"F d2 F4 _G | "Eb7"G e2 G4 B | "Ab"A2 c2 "Ab7"e2 "G7"=d2 |
+"Gb7"d "F7"c2 =A4 F | "Bb7"(3A2F2A2 (3F2A2F2 | "Eb7sus4"c4 "Eb7"c4 | [1 "Ab"A4 "Adim"z4 |
+"Eb7"z6 E =E :| [2 "Ab"A4- "Dbm"A4- | "Ab"A2 z6 |]

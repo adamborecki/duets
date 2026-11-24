@@ -1,0 +1,72 @@
+X:1
+T:Ballade
+T:Op. 100 No. 15
+C:Friedrich Burgmüller
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, burgmuller
+%%duets credit: Friedrich Burgmüller. Source edition: Bas Wassink for the Mutopia Project (Public Domain).
+%%duets tempo-text: Allegro con brio
+%%duets slug: ballade-burgmuller
+M:3/8
+L:1/8
+Q:1/8=96
+K:Cm
+V:S
+[CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] |
+[CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CE^F]/2 z/2 [CEF]/2 z/2 [CEF]/2 z/2 |
+[CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CE^F]/2 z/2 [CEF]/2 z/2 [CEF]/2 z/2 | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] |
+[CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CE^F]/2 z/2 [CEF]/2 z/2 [CEF]/2 z/2 |
+[CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CE^F]/2 z/2 [CEF]/2 z/2 [CEF]/2 z/2 | [CEG]/2 z/2 [CEG]/2 z3/2 | [Gc]/2 z/2 [Gc]/2 z3/2 |
+[G=B]/2 z/2 [GB]/2 z3/2 | [Gf]/2 z/2 [Gf]/2 z3/2 | [Ge]/2 z/2 [Ge]/2 z3/2 | g/2 z/2 e/2 z/2 c/2 z/2 |
+G/2 z/2 E/2 z/2 C/2 z/2 | z3 | z3 | [EG]2 z |
+G,2 z | [DG]2 z | G3 | c3 |
+=B3 | g3 | G3 | c3 |
+=B3 | =a2 g | g3 | f2 =e |
+g2 f | =e2 d | c3 | =e2 d |
+c/2 z/2 c/2 z/2 =B/2 z/2 | B/2 z/2 =A/2 z/2 _A/2 z/2 | G3 | c3 |
+=B3 | g3 | G3 | c3 |
+=B3 | =a2 g | g3 | f2 =e |
+g2 f | _f2 d | c3 | _f2 d |
+c/2 z/2 c/2 z/2 _c/2 z/2 | B/2 z/2 =A/2 z/2 _A/2 z/2 | A2 G | A2 G |
+G c _c/2 z/2 | B/2 z/2 =A/2 z/2 _A/2 z/2 | A2 G | A2 G |
+A3 | F3 | D3 | G3 |
+[CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] |
+[CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CE^F]/2 z/2 [CEF]/2 z/2 [CEF]/2 z/2 |
+[CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CE^F]/2 z/2 [CEF]/2 z/2 [CEF]/2 z/2 | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] |
+[CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CE^F]/2 z/2 [CEF]/2 z/2 [CEF]/2 z/2 |
+[CEG]/2 z/2 [CEG]/2 z/2 [CEG] | [CE^F]/2 z/2 [CEF]/2 z/2 [CEF]/2 z/2 | [CEG]/2 z/2 [CEG]/2 z3/2 | [Gc]/2 z/2 [Gc]/2 z3/2 |
+[G=B]/2 z/2 [GB]/2 z3/2 | [Gf]/2 z/2 [Gf]/2 z3/2 | [Ge]/2 z/2 [Ge]/2 z3/2 | g/2 z/2 e/2 z/2 c/2 z/2 |
+G/2 z/2 E/2 z/2 C/2 z/2 | z3 | z3 | [EG]2 z |
+G,2 z | [DG]2 z | C/2 =B,/2 C/2 G,/2 =A,/2 B,/2 | C/2 =B,/2 C/2 G,/2 =A,/2 B,/2 |
+C/2 =B,/2 C/2 G,/2 =A,/2 B,/2 | C/2 =B,/2 C/2 G,/2 =A,/2 B,/2 | C2 z | [Gc]/2 z/2 [Gc]/2 z3/2 |
+[gc']/2 z/2 [gc']/2 z3/2 | [g'c'']/2 z/2 [g'c'']/2 z3/2 | [CE]3- | [CE]2 z |]
+V:lh
+z3 | z3 | C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 | C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 |
+C,/2 z3/2 E,/2 z/2 | G,/2 z3/2 C,/2 z/2 | =A,3- | =A,2 C,/2 z/2 |
+=A,3- | =A,2 z | C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 | C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 |
+C,/2 z3/2 E, | G,/2 z3/2 C,/2 z/2 | =A,3- | =A,2 C,/2 z/2 |
+=A,3- | =A,2 z | G, G, z | [E,G,] [E,G,] z |
+[D,G,] [D,G,] z | [=B,,G,] [B,,G,] z | [C,G,] [C,G,] z | z3 |
+z3 | G,/2 z/2 E,/2 z/2 C,/2 z/2 | G,,2 z | [G,C]2 z |
+G,,2 z | [G,=B,]2 z | z [=E,G,C] [E,G,C] | z [=E,G,C] [E,G,C] |
+z [F,G,D] [F,G,D] | z [F,G,D] [F,G,D] | z [=E,G,C] [E,G,C] | z [=E,G,C] [E,G,C] |
+z [F,G,D] [F,G,D] | z [F,G,D] [F,G,D] | z [=E,G,C] [E,G,C] | z [=A,_D] [A,D] |
+z [D,F,=A,] [D,F,A,] | z [F,=A,D] [F,A,D] | z [G,C=E] [G,CE] | z [G,=B,F] [G,B,F] |
+[C=E] z2 | z3 | z [G,=B,D] [G,B,D] | z [G,=B,D] [G,B,D] |
+[C=E] z2 | z3 | z [G,=B,D] [G,B,D] | z [G,=B,D] [G,B,D] |
+A,3 | F,3 | D,3 | G,3 |
+C,2 z | z3 | C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 | C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 |
+C,/2 z3/2 E,/2 z/2 | G,/2 z3/2 C,/2 z/2 | =A,3- | =A,2 C,/2 z/2 |
+=A,3- | =A,2 z | C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 | C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 |
+C,/2 z3/2 E, | G,/2 z3/2 C,/2 z/2 | =A,3- | =A,2 C,/2 z/2 |
+=A,3- | =A,2 z | G, G, z | [E,G,] [E,G,] z |
+[D,G,] [D,G,] z | [=B,,G,] [B,,G,] z | [C,G,] [C,G,] z | z3 |
+z3 | G,/2 z/2 E,/2 z/2 C,/2 z/2 | G,,2 z | [G,C]2 z |
+G,,2 z | [G,_C]2 z | C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 | C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 |
+C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 | C,/2 =B,,/2 C,/2 G,,/2 =A,,/2 B,,/2 | C,2 z | [CE]/2 z/2 [CE]/2 z3/2 |
+[ce]/2 z/2 [ce]/2 z3/2 | [c'e']/2 z/2 [c'e']/2 z3/2 | [C,G,]3- | [C,G,]2 z |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |]

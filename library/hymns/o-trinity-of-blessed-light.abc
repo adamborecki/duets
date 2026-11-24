@@ -1,0 +1,26 @@
+X:1
+T:O Trinity of Blessed Light
+T:O LUX BEATA TRINITAS
+C:ancient Latin
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: evening
+%%duets tune: O LUX BEATA TRINITAS
+%%duets credit: Tune and setting: public domain ("A Hymnal" (Episcopal), 1916), via the Open Hymnal Project.
+%%duets lyricist: Ambrose of Milan, 4th Century. German version by M. Luther, 1543. English translation by John Mason Neale, 1852
+%%duets notes: intro 4-4
+%%duets slug: o-trinity-of-blessed-light
+%%duets free-meter: yes
+M:15/8
+L:1/8
+Q:1/8=120
+K:D
+V:S
+"D"A "Bm/D"B "A/C#"A "Dsus4"G "D"F "Em"G E "B"F "Gmaj7/B"G "F#m/A"A "B7/A"B "G"B "A7/G"A "D"A2 | "D"A "Bm/D"B "A/C#"A "Dsus4"G "D"F "Em"G E "D"F "G/D"G "A/C#"A "C#7"B "Bm"B "Bm7"A "F#m"A2 | "D"A "Bm/D"B "Bm"d "F#m/A"c "D/A"d "G"B "A7/G"A "G/B"G "Dsus4"A "G/D"B "D"A "G/D"G "D"F F2 | "Em"G "Esus4"A "A/C#"A "Dsus4"G "D"F "Em"G E "B"F "Gmaj7/B"G "F#m/A"A "B7/A"B "G"B "F#m"A "A"!fermata!A2 |]
+V:A
+A B A G F G E F G A B B A A2 | A B A G F G E F G A B B A A2 | A B d c d B A G A B A G F F2 | G A A G F G E F G A B B A !fermata!A2 |]
+V:T
+F,2 A,3 G,2 F,4 G,2 F,2 | F,2 A,3 G,2 A, B, C2 D2 C2 | F,5 G,5 F, G, A,3 | B,2 A,3 G,2 F,4 G, F, E,2 |]
+V:B
+D,2 C, D,2 E,2 B,,2 A,,2 G,,2 D,2 | D,2 C, D,2 E,2 D,2 C,2 B,,2 F,2 | D,2 B,, A,,2 G,,2 B,, D,5 F,2 | E,2 C, D,2 E,2 B,,2 A,,2 G,,2 A,,2 |]

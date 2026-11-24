@@ -1,0 +1,19 @@
+X:1
+T:The Sweets of May
+C:Irish traditional
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-sweets-of-may
+M:6/8
+L:1/8
+K:G
+|: [P:A]d/2 c/2 | "G"B2 G "D7"A F D | "G"G A G "D7"G d c |
+"G"B2 G G A B | "C"c B c "D7"d2 c | "G"B2 G "D7"A F D | "G"G A G "D7"G d c |
+"G"B2 G "D7"A F D | "G"G5 :: [P:B]A | "Am"A B A A2 G |
+"Em"E2 F G2 "E"^G | "Am"A B A c2 d | "Dm"e2 d "E7"c2 B | "Am"A B A A2 G |
+"Em"E2 F G2 "E"^G | "Am"A2 A "G"B A G | "Am"A5 :: [P:C](3A/2B/2c/2 |
+"D"d3 d c d | "D"D3 D E D | "Am"c3 c B c | "D7"D3 D E F |
+"G"G2 D "D7/A"G2 A | "G/B"B2 G "C"B2 c | "D7"d2 D D E F | "G"G5 :|

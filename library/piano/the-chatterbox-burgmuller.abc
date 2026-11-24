@@ -1,0 +1,62 @@
+X:1
+T:The Chatterbox
+T:Op. 100 No. 17
+C:Friedrich Burgmüller
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, burgmuller
+%%duets credit: Friedrich Burgmüller. Source edition: Bas Wassink for the Mutopia Project (Public Domain).
+%%duets tempo-text: Allegretto
+%%duets slug: the-chatterbox-burgmuller
+M:3/8
+L:1/8
+Q:1/8=76
+K:F
+V:S
+[EG]3- | [EG] G B | [FA]3- | [FA] A d |
+c3- | c B G | z c/2 c/2 c/2 a/2 | g/2 z/2 c/2 c/2 c/2 g/2 |
+f/2 z/2 A/2 A/2 A/2 d/2 | c/2 E/2 ^D/2 E/2 d/2 c/2 | z c/2 c/2 c/2 a/2 | g/2 z/2 G/2 G/2 G/2 e/2 |
+d/2 z/2 G/2 G/2 G/2 d/2 | c =B/2 c/2 d/2 c/2 | z c/2 c/2 c/2 a/2 | g/2 z/2 c/2 c/2 c/2 g/2 |
+f/2 z/2 A/2 A/2 A/2 d/2 | c/2 E/2 ^D/2 E/2 d/2 c/2 | z c/2 c/2 c/2 a/2 | g/2 z/2 G/2 G/2 G/2 e/2 |
+d/2 z/2 G/2 G/2 G/2 d/2 | c =B/2 c/2 d/2 c/2 | [EG]2 [FA] | [GB]2 [EG] |
+[Bd]2 [Ac] | [Bd]2 [Ac] | [GB]2 [GB] | [FA]2 [FA] |
+[EG] G/2 ^F/2 G/2 A/2 | B/2 A/2 B/2 =B/2 d/2 c/2 | z c/2 c/2 c/2 a/2 | g/2 z/2 c/2 c/2 c/2 g/2 |
+f/2 z/2 A/2 A/2 A/2 d/2 | c/2 E/2 ^D/2 E/2 d/2 c/2 | z c/2 c/2 c/2 a/2 | g/2 z/2 G/2 G/2 G/2 d/2 |
+E/2 z/2 E/2 E/2 E/2 c/2 | F2 z | [EG]2 [FA] | [GB]2 [EG] |
+[Bd]2 [Ac] | [Bd]2 [Ac] | [GB]2 [GB] | [FA]2 [FA] |
+[EG] G/2 ^F/2 G/2 A/2 | B/2 A/2 B/2 =B/2 d/2 c/2 | z c/2 c/2 c/2 a/2 | g/2 z/2 c/2 c/2 c/2 g/2 |
+f/2 z/2 A/2 A/2 A/2 d/2 | c/2 E/2 ^D/2 E/2 d/2 c/2 | z c/2 c/2 c/2 a/2 | g/2 z/2 G/2 G/2 G/2 d/2 |
+E/2 z/2 E/2 E/2 E/2 c/2 | F A/2 A/2 A/2 c/2 | f/2 z/2 c/2 c/2 c/2 f/2 | a/2 z/2 f/2 f/2 f/2 a/2 |
+c'/2 z/2 a/2 a/2 a/2 c'/2 | f'2 z |]
+V:lh
+z C,,/2 z/2 C,/2 z/2 | C2 z | z C,,/2 z/2 C, | C2 z |
+z C,,/2 z/2 C,/2 z/2 | C2 z | [F,A,C] z [F,A,C] | [E,B,C] z [E,B,C] |
+[F,A,C] z [F,A,C] | [G,B,C]3 | [F,A,C] z [F,A,C] | [G,CE] z [G,CE] |
+[G,_CF] z [G,CF] | [CE] z2 | C,/2 C/2 C/2 C/2 C/2 C/2 | C,/2 C/2 C/2 C/2 C/2 C/2 |
+C,/2 C/2 C/2 C/2 C/2 C/2 | C,/2 C/2 C/2 C/2 C/2 C/2 | E,/2 C/2 =B,/2 C/2 E,/2 C/2 | F,/2 C/2 =B,/2 C/2 F,/2 C/2 |
+C, z2 | z3 | [F,A,C] z [F,A,C] | [E,B,C] z [E,B,C] |
+[F,A,C] z [F,A,C] | [G,B,C]3 | [F,A,C] z [F,A,C] | [F,_CD] z [F,CD] |
+[F,B,C] z [F,B,C] | [F,A,C]2 z | [F,A,C]3 | [F,A,C]3 |
+[F,A,C]3 | [F,A,C]3 | F,,2 z | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 |]
+V:rh2
+z3 | z E2 | z3 | z F2 |
+E3- | E2 z | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 | z3 | z3 |
+z3 | z3 |]

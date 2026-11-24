@@ -1,0 +1,18 @@
+X:1
+T:Hard Times Come Again No More
+C:Stephen Foster, 1854
+S:OpenEWLD
+R:ballad
+%%duets category: folk
+%%duets tags: american, foster
+%%duets year: 1854
+%%duets credit: Melody and chords: public domain in the United States (published 1854); lead sheet from OpenEWLD.
+%%duets slug: hard-times-come-again-no-more
+M:4/4
+L:1/8
+K:C
+z6 C D | "C"E2 E E E G2 E | "F"D C "G"C D "C"E2 A3/2 G/2 | G2 E2 "G"E C D3/2 D/2 |
+"C"C4 z2 C D | E2 E E E G2 E | "F"D C "G"C D "C"E2 A2 | G2 E2 "G"E C D3/2 D/2 |
+"C"C4 z2 E F | G2 z G G2 ^F G | "F"A4 "C"G2 z2 | c2 G2 "F"A2 "C"G2 |
+E E D3/2 C/2 "G"D2 C D | "C"E2 E E E G2 E | "F"D3/2 C/2 "G"C D "C"E2 A2 | G2 E2 "G"E C D3/2 C/2 |
+"C"C4 z4 |]

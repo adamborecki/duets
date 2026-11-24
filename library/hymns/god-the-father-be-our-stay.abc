@@ -1,0 +1,51 @@
+X:1
+T:God the Father Be Our Stay
+T:GOTT DER VATER, WOHN UNS BEI
+C:Walter's Geistliche Gesangbüchlein, 1524
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: trinity
+%%duets tune: GOTT DER VATER, WOHN UNS BEI
+%%duets year: 1524
+%%duets credit: Tune and setting: public domain (composite from Landgraf Moritz, 1612 and "Evangelical Lutheran Hymn-Book", 1931), via the Open Hymnal Project.
+%%duets lyricist: 15th Century Litany, adapted by Martin Luther, 1524. Translated by Richard Massie, 1854, alt
+%%duets notes: intro 25-26
+%%duets slug: god-the-father-be-our-stay
+%%duets free-meter: yes
+M:4/4
+L:1/8
+Q:1/4=100
+K:D
+V:S
+"D"A2 A2 "Bm"B2 "A"c2 | "G"d2 "Bm"d2 "A"c2 "Em"B2 | "Bm7"d2 A2 "D"F2 "G"G2 | "D/A"F2 "A"E2 "D"D4 |
+"D"A2 A2 "Bm"B2 "A"c2 | "G"d2 "Bm"d2 "A"c2 "Em"B2 | "Bm7"d2 A2 "D"F2 "G"G2 | "D/A"F2 "A"E2 "D"D4 |
+"D"D2 "A/C#"E2 "D6"F2 F2 | "Bm"D2 "A"E2 "D"F3 d "A"c2 "D/F#"d2 | "Em"e2- "Em7"e d "A/C#"c2 "E"B2 "A"A2- "Dmaj7/A"A D | "D6"A2 d2 "F#m"c2 A2 |
+"Em"B3/2 A/2 G2 "B"F3 E "D6"F2 F2 | "A7"A3 G "Bm"F2 "C#m"E2 | "D"D4 z2 | "Bm"D2 "Em"E2 "D"F2 F2 |
+"Bm"D2 "Em"E2 "D"F3 d "A"c2 "Bm"d2 | "Em"e3 d "A"c2 "C#m7/E"B2 "A"A3 D | "D6"A2 d2 "Dmaj7/F#"c2 A2 | "E"B3/2 A/2 "C#dim/E"G2 "D"F3 E "D6"F2 F2 |
+"F#m"A2- "D/F#"A G "D/A"F2 "A"E2 | "D"D4 z2 | "D"D2 "A/C#"E2 "D6"F2 F2 | "Bm"D2 "A"E2 "D"F3 G "F#m"A3 G |
+"D"F2 "G"G2 "D"F2 "A"E2 | "D"D8 |]
+V:A
+F2 F2 F2 A2 | D2 B,2 C2 E2 | F2 F2 D2 D2 | D2 C2 D4 |
+F2 F2 F2 A2 | D2 B,2 C2 E2 | F2 F2 D2 D2 | D2 C2 D4 |
+A,2 A,2 A,2 B,2 | B,2 C2 D3 F A2 A2 | G3 D E4 C3 A, | D2 F2 F2 C2 |
+E4 ^D3 B, =D2 D2 | C3 E D2 C2 | A,4 z2 | B,2 B,2 D2 A,2 |
+B,2 B,2 D3 A A2 F2 | G3/2 A/2 B2 A3 ^G E3 D | F2 D2 A,2 D2 | E2 C2 D3 C D2 D2 |
+C2 A,2 A,4 | A,4 z2 | A,2 A,2 A,2 B,2 | B,2 C2 D3 B, A,2 A,2 |
+A,2 B,2 A,2 A,2 | A,8 |]
+V:T
+D2 D2 D2 C2 | B,2 F,2 A,2 G,2 | F,2 F,2 A,2 B,2 | A,4 F,4 |
+D2 D2 D2 C2 | B,2 F,2 A,2 G,2 | F,2 F,2 A,2 B,2 | A,4 F,4 |
+F,2 E,2 D,2 D,2 | F,2 A,2 A,3 D E2 F2 | B,2 B,2 A,2 ^G,2 A,3 F, | F,2 B,2 A,2 F,2 |
+B,4 B,3 G, A,2 B,2 | E,3 G, B,2 E,2 | F,4 z2 | F,2 G,2 A,2 F,2 |
+F,2 G,2 A,3 F E2 D2 | B,2 B,2 C4 C3 F, | A,2 B,2 C2 D2 | B,2 E2 A,3 A, A,2 B,2 |
+A,2 D4 C2 | D4 z2 | F,2 A,2 F,2 D,2 | F,2 A,2 A,3 E C2 C2 |
+D2 D2 D2 C2 | F,8 |]
+V:B
+D,2 D,2 B,,2 A,,2 | G,,2 B,,2 A,,2 E,2 | B,,2 D,2 D,2 G,,2 | A,,4 D,4 |
+D,2 D,2 B,,2 A,,2 | G,,2 B,,2 A,,2 E,2 | B,,2 D,2 D,2 G,,2 | A,,4 D,4 |
+D,2 C,2 D,2 B,,2 | B,,2 A,,2 D,3 D, A,2 F,2 | E,3 B,, C,2 E,2 A,,3 D, | D,2 B,,2 F,2 F,2 |
+E,4 B,,3 E, D,2 B,,2 | A,,3 E, B,,2 C,2 | D,4 z2 | B,,2 E,2 D,2 D,2 |
+B,,2 E,2 D,3 D, A,2 B,2 | E,3 G, A,2 E,2 A,,3 D, | D,2 B,,2 F,2 F,2 | E,4 D,3 A,, D,2 B,,2 |
+F,,3 G,, A,,4 | D,4 z2 | D,2 C,2 D,2 B,,2 | B,,2 A,,2 D,3 E, F,3 E, |
+D,2 G,,2 D,2 A,,2 | D,8 |]

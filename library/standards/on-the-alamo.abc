@@ -1,0 +1,21 @@
+X:1
+T:On the Alamo
+C:Isham Jones, 1922
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets year: 1922
+%%duets credit: Melody and chords: public domain in the United States (published 1922); lead sheet from OpenEWLD.
+%%duets slug: on-the-alamo
+M:4/4
+L:1/8
+K:Eb
+z2 "Eb"E D F2 E2 |: G8- | G2 E D F2 E2 | "F7"G8- |
+G2 F E G2 F2 | "Dm7b5/F"c6 c2 | "Bb"d6 d2 | "Eb"B8- |
+B2 E D F2 E2 | G8- | G2 B =A c2 B2 | "Gm7"d8- |
+d2 d c e2 d2 | "Bb"f6 d2 | "F7"c6 d2 | "Bb7"B8- |
+"Eb"B2 E D F2 E2 | G8- | G2 E D F2 E2 | "F7"G8- |
+G2 F E G2 F2 | "Dm7b5/F"c6 c2 | "Bb"d6 d2 | "Eb"B8- |
+"Ebdim"B2 c d "Eb"e2 "Dm7"c2 | "Cm"G6 G2 | "Cm7"e6 e2 | "Cdim/Ab"c8- |
+c2 "Eb"E D F2 E2 | "F7"G8 | "Bb7"G6 G2 | [1 "Eb"G F E6- |
+E2 E D F2 E2 :| [2 "Eb"G F E6- | E2 z6 |]

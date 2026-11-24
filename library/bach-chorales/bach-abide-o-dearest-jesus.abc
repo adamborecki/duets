@@ -1,0 +1,30 @@
+X:1
+T:Abide, O Dearest Jesus
+T:Christus, der ist mein Leben · BWV 281
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trust
+%%duets tune: Christus, der ist mein Leben
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 281), public domain; score from the music21 corpus.
+%%duets slug: bach-abide-o-dearest-jesus
+M:4/4
+L:1/8
+K:F
+V:S
+"F"F2 | "F"A2 "C/E"G2 "F7/Eb"A2 "Bb/D"B2 | "C"c2- "C/E"c2 "F"!fermata!A2 "Bb"d2 | "F/A"c2 "Gm7"B2 "F"A2 "C"G2 |
+"F"!fermata!A4 z2 c2 | "Bm7b5"d2 "C"e2 "Dm"f2 "Am"e2 | "Dm7/F"d2- "G"d2 "C"!fermata!c2 "F"A2 | "Gm7"B2 "F/A"A2 "Gm7/Bb"G2 "C"G2 |
+"F"!fermata!F6 |]
+V:A
+C2 | F2 G2 F2 F2 | E F G E F2 F2 | F3 E F3 E |
+F4 z2 A2- | A G2 c/2 B/2 A2 A2 | A2 G2 G2 F2- | F E F2 F2 E2 |
+C6 |]
+V:T
+A,2 | C2 C2 C2 D2 | G,2 C2 C2 B,2 | C2 D B, C2 C2 |
+C4 z2 F2 | F2 E3 D C2- | C2 =B,2 E2 C2 | B,2 C2 D2 C3/2 B,/2 |
+A,6 |]
+V:B
+F,,2 | F,2 E,2 _E,2 D,2 | C, D, E, C, F,2 B,,2 | A,,2 G,,2 F,, A,, C,2 |
+F,,4 z2 A,2 | =B,,2 C,2 D, F, A, G, | F, D, G,2 C,2 F,,2 | G,,2 A,,2 B,,2 C,2 |
+F,,6 |]

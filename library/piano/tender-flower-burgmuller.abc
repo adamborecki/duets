@@ -1,0 +1,40 @@
+X:1
+T:Tender Flower
+T:Op. 100 No. 10
+C:Friedrich Burgmüller
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, burgmuller
+%%duets credit: Friedrich Burgmüller. Source edition: Bas Wassink for the Mutopia Project (Public Domain).
+%%duets tempo-text: Moderato
+%%duets slug: tender-flower-burgmuller
+M:4/4
+L:1/8
+Q:1/4=108
+K:D
+V:S
+D E/2 z/2 F A/2 z/2 A d/2 z/2 d f/2 z/2 | f e c A a4 | a f'/2 z/2 f' d'/2 z/2 d' a/2 z/2 a f/2 z/2 | f e c A a4 |
+a g f e d2 e f | g f e d c e a c' | d' b a g f g f e | d B A G [Fd]2 z2 |
+D E/2 z/2 F A/2 z/2 A d/2 z/2 d f/2 z/2 | f e c A a4 | a f'/2 z/2 f' d'/2 z/2 d' a/2 z/2 a f/2 z/2 | f e c A a4 |
+a g f e d2 e f | g f e d c e a c' | d' b a g f g f e | d B A G [Fd]2 z2 |
+c5 c e a | _a5 f e d | c5 c e a | _a5 f e d |
+c e d c B d c B | A e c A _A E F ^G | A ^G B A =G F A G | F E G F A/2 z/2 G/2 z/2 F/2 z/2 E/2 z/2 |
+D F/2 z/2 F A/2 z/2 A d/2 z/2 d f/2 z/2 | f e c A a4 | a f'/2 z/2 f' d'/2 z/2 d' a/2 z/2 a f/2 z/2 | f e c A a4 |
+a g f e d2 e f | g f e d c e a c' | d' b a g f g f e | d B A G [Fd]2 z2 |
+c5 c e a | _a5 f e d | c5 c e a | _a5 f e d |
+c e d c B d c B | A e c A _A E F ^G | A ^G B A =G F A G | F E G F A/2 z/2 G/2 z/2 F/2 z/2 E/2 z/2 |
+D F/2 z/2 F A/2 z/2 A d/2 z/2 d f/2 z/2 | f e c A a4 | a f'/2 z/2 f' d'/2 z/2 d' a/2 z/2 a f/2 z/2 | f e c A a4 |
+a g f e d2 e f | g f e d c e a c' | d' b a g f g f e | d B A G [Fd]2 z2 |]
+V:lh
+z8 | [A,G]4 G E C A, | [DF]2 z6 | [A,G]4 G E C A, |
+[DF]2 z2 B A G F | E F G ^G A3 =G | F G F B A B A G | F G F E D2 z2 |
+A, C C E E4 | B, D D E E4 | A, C C E E4 | B, D D E E4 |
+A,2 z2 [DF]2 z2 | [E,C]2 z2 [E,D]2 z2 | [A,C]2 z6 | z8 |
+z8 | [A,G]4 G E C A, | [DF]2 z6 | [A,G]4 G E C A, |
+[DF]2 z2 B A G F | E F G ^G A3 =G | F G F B A B A G | F G F E D2 z2 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |]

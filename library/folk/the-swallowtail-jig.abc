@@ -1,0 +1,17 @@
+X:1
+T:The Swallowtail Jig
+C:Irish traditional jig
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: irish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-swallowtail-jig
+M:6/8
+L:1/8
+K:Em
+[P:A]E/2 F/2 | "Em"G E E B E E | "Em"G E E B A G | "D"F D D A D D |
+"D"d ^c d A G F | "Em"G E E B E E | "Em"G E E B2 ^c | "D"d ^c d A G F |
+"Em"G E E E2 :| [P:B]B | "Bm"B ^c d "Em"e2 f | "Em"e2 f e d B |
+"Bm"B ^c d "Em"e2 f | "Em"e d B "D"d3 | "Bm"B ^c d "Em"e2 f | "Em"e2 f e d B |
+"D"d ^c d A G F | "Em"G E E E2 :|

@@ -1,0 +1,70 @@
+X:1
+T:Melodious Piece No. 6
+T:Melodische Übungsstücke, Op. 149 No. 6
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli, dacapo
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Allegro
+%%duets slug: diabelli-op149-06
+M:3/4
+L:1/8
+Q:1/4=120
+K:C
+V:S
+|: e' f' g' z g' z | g' z g' z g' z | g'4 e'2 |
+e'4 c'2 | d' e' f' z f' z | f' z e' z d' z | c' d' e' z e' z |
+e'4 c'2 | e' f' g' z g' z | g' z g' z g' z | g'4 f'2 |
+f'4 e'2 | d' e' d' z d' z | f' z e' z d' z | c'3 c' c'2 |
+c'4 z2 :: d' e' d' z d' z | g' z5 | ^d' f' d' z d' z |
+g' z5 | f' g' f'2 z2 | ^d' f' _e' z3 | d'2 g'2 g' z |
+g'2 f'2 d'2 | e' f' g' z g' z | g' z g' z g' z | g'4 f'2 |
+f'4 e'2 | d' e' d' z d' z | f' z e' z d' z | c'3 c' c'2 |
+c'4 z2 :: [P:Trio][K:Eb]e'4 f' e' | d'4 e' d' | c'4 e' f' |
+g'6 | g'4 ^f'2 | g'4 ^f'2 | g'4 ^f'2 |
+g'4 z2 | e'4 d' e' | f'4 e' f' | g'6 |
+f' z e' z d' z | e' z d' z c' z | d'3 g' g'2 | c'6- |
+c'2 z4 :|
+V:plh
+|: e f g z g z | g z g z g z | g4 e2 |
+e4 c2 | d e f z f z | f z e z d z | c d e z e z |
+e4 c2 | e f g z g z | g z g z g z | g4 f2 |
+f4 e2 | d e d z d z | f z e z d z | c3 c c2 |
+c4 z2 :: d e d z d z | g z5 | ^d f d z d z |
+g z5 | f g f2 z2 | ^d f _e z3 | d2 g2 g z |
+g2 f2 d2 | e f g z g z | g z g z g z | g4 f2 |
+f4 e2 | d e d z d z | f z e z d z | c3 c c2 |
+c4 z2 :: [K:Eb]e4 f e | d4 e d | c4 e f |
+g6 | g4 ^f2 | g4 ^f2 | g4 ^f2 |
+g4 z2 | e4 d e | f4 e f | g6 |
+f z e z d z | e z d z c z | d3 g g2 | c6- |
+c2 z4 :|
+V:srh
+|: z2 [CEG]2 [CEG]2 | z2 [DFG]2 [DFG]2 | z2 [CEG]2 [CEG]2 |
+z2 [CEG]2 [CEG]2 | z2 [CDA]2 [CDA]2 | z2 [B,DG]2 [B,DG]2 | z2 [CEG]2 [CEG]2 |
+z2 [CEG]2 [CEG]2 | z2 [CEG]2 [CEG]2 | z2 [DG]2 [DG]2 | z2 [CFc]2 [CFc]2 |
+z2 [CEc]2 [CEc]2 | z2 [CDA]2 [CDA]2 | z2 [B,DFG]2 [B,DFG]2 | z2 [CEG]2 [CEG]2 |
+[CEG]4 z2 :: z2 [B,DG]2 [B,DG]2 | z2 [B,DG]2 [B,DG]2 | z2 [C_EG]2 [CEG]2 |
+z2 [C_EG]2 [CEG]2 | z2 [DFG]2 [DFG]2 | z2 [C_EG]2 [CEG]2 | z2 [B,DG]2 [C_EG]2 |
+[DFG]6 | z2 [CEG]2 [CEG]2 | z2 [DG]2 [DG]2 | z2 [CFc]2 [CFc]2 |
+z2 [CEc]2 [CEc]2 | z2 [CDA]2 [CDA]2 | z2 [B,DFG]2 [B,DFG]2 | z2 [CEG]2 [CEG]2 |
+[CEG]4 z2 :: [K:Eb]z2 [CEG]2 [CEG]2 | z2 [=B,FG]2 [B,FG]2 | z2 [CEG]2 [CEG]2 |
+z2 [CEG]2 [CEG]2 | z2 [=B,DG]2 [CE_G=A]2 | z2 [=B,DG]2 [CE_G=A]2 | z2 [=B,DG]2 [CE_G=A]2 |
+z2 [_CDG]2 [DF]2 | z2 [G,CE]2 [G,CE]2 | z2 [B,DF]2 [B,DF]2 | z2 [B,EG]2 [B,EG]2 |
+z2 [CDA]2 [CDA]2 | z2 [CEG]2 [CEG]2 | z2 [=B,DFG]2 [B,DFG]2 | z2 [CEG]2 [CEG]2 |
+[CEG]4 z2 :|
+V:slh
+|: C,2 z4 | B,,2 z4 | C,2 z4 |
+C,2 z4 | F,,2 z4 | G,,2 z4 | C,2 z4 |
+C,2 z4 | [C,,C,]2 z4 | [B,,,B,,]2 z4 | [A,,,A,,]2 z4 |
+[G,,,G,,]2 z4 | [^F,,,^F,,]2 z4 | [G,,,G,,]2 z4 | [C,,C,]2 z2 [C,,C,]2 |
+[C,,C,]4 z2 :: [G,,G,]2 z4 | [G,,G,]2 z4 | [G,,G,]2 z4 |
+[G,,G,]2 z4 | B,,2 z4 | C,2 z4 | [G,,G,]6- |
+[G,,G,]6 | [C,,C,]2 z4 | [B,,,B,,]2 z4 | [A,,,A,,]2 z4 |
+[G,,,G,,]2 z4 | [^F,,,^F,,]2 z4 | [G,,,G,,]2 z4 | [C,,C,]2 z2 [C,,C,]2 |
+[C,,C,]4 z2 :: [K:Eb][C,,C,]2 z4 | [C,,C,]2 z4 | [C,,C,]2 z4 |
+[C,,C,]2 z4 | [G,,,G,,]6 | [G,,,G,,]6 | [G,,,G,,]6 |
+[G,,,G,,]2 z4 | C,2 z4 | B,,2 z4 | [E,,E,]2 z4 |
+F,,2 z4 | G,,2 z4 | [G,,,G,,]2 z2 [G,,,G,,]2 | [C,,C,]2 z2 [C,,C,]2 |
+[C,,C,]4 z2 :|

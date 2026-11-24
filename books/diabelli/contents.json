@@ -1,0 +1,849 @@
+{
+ "id": "diabelli",
+ "title": "Diabelli: Melodious Pieces",
+ "subtitle": "Original duets by Anton Diabelli, Op. 149 and Op. 163",
+ "blurb": "The classic teacher-and-pupil duets: the Primo stays within five notes, the Secondo supplies the harmony. Newly engraved with chord symbols.",
+ "pieces": 35,
+ "layouts": {
+  "facing": {
+   "path": "diabelli-facing.pdf",
+   "pages": 149,
+   "bytes": 1829007
+  },
+  "score": {
+   "path": "diabelli-score.pdf",
+   "pages": 128,
+   "bytes": 1502397
+  },
+  "screen": {
+   "path": "diabelli-screen.pdf",
+   "pages": 132,
+   "bytes": 1799272
+  },
+  "screen-score": {
+   "path": "diabelli-screen-score.pdf",
+   "pages": 113,
+   "bytes": 1353908
+  }
+ },
+ "items": [
+  {
+   "slug": "diabelli-op149-01",
+   "title": "Melodious Piece No. 1",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 1",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 1.0,
+    "s": 3.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 4,
+    "score": 4,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "diabelli-op149-02",
+   "title": "Melodious Piece No. 2",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 2",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 1.0,
+    "s": 3.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 6,
+    "screen": 6,
+    "screen-score": 6
+   }
+  },
+  {
+   "slug": "diabelli-op149-03",
+   "title": "Melodious Piece No. 3",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 3",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 1.6,
+    "s": 4.1
+   },
+   "key": "C",
+   "meter": "2/4",
+   "bars": 56,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 8,
+    "screen": 8,
+    "screen-score": 8
+   }
+  },
+  {
+   "slug": "diabelli-op149-04",
+   "title": "Melodious Piece No. 4",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 4",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.7,
+    "s": 3.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 11,
+    "screen": 11,
+    "screen-score": 11
+   }
+  },
+  {
+   "slug": "diabelli-op149-05",
+   "title": "Melodious Piece No. 5",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 5",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 1.5,
+    "s": 4.5
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 29,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 18,
+    "score": 13,
+    "screen": 14,
+    "screen-score": 13
+   }
+  },
+  {
+   "slug": "diabelli-op149-06",
+   "title": "Melodious Piece No. 6",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 6",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 1.5,
+    "s": 2.9
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 48,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 20,
+    "score": 15,
+    "screen": 17,
+    "screen-score": 15
+   }
+  },
+  {
+   "slug": "diabelli-op149-07",
+   "title": "Melodious Piece No. 7",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 7",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 3.3,
+    "s": 4.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 36,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 18,
+    "screen": 20,
+    "screen-score": 18
+   }
+  },
+  {
+   "slug": "diabelli-op149-08",
+   "title": "Melodious Piece No. 8",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 8",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 1.3,
+    "s": 3.6
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 37,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 30,
+    "score": 23,
+    "screen": 25,
+    "screen-score": 23
+   }
+  },
+  {
+   "slug": "diabelli-op149-09",
+   "title": "Melodious Piece No. 9",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 9",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 1.7,
+    "s": 4.6
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 44,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 34,
+    "score": 25,
+    "screen": 28,
+    "screen-score": 26
+   }
+  },
+  {
+   "slug": "diabelli-op149-10",
+   "title": "Melodious Piece No. 10",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 10",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.6,
+    "s": 3.3
+   },
+   "key": "G",
+   "meter": "2/2",
+   "bars": 44,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [
+    "2 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 38,
+    "score": 28,
+    "screen": 31,
+    "screen-score": 29
+   }
+  },
+  {
+   "slug": "diabelli-op149-11",
+   "title": "Melodious Piece No. 11",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 11",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.0,
+    "s": 4.8
+   },
+   "key": "Bb",
+   "meter": "6/8",
+   "bars": 22,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 31,
+    "screen": 34,
+    "screen-score": 32
+   }
+  },
+  {
+   "slug": "diabelli-op149-12",
+   "title": "Melodious Piece No. 12",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 12",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.7,
+    "s": 5.0
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 44,
+    "score": 33,
+    "screen": 36,
+    "screen-score": 34
+   }
+  },
+  {
+   "slug": "diabelli-op149-13",
+   "title": "Melodious Piece No. 13",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 13",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.7,
+    "s": 4.1
+   },
+   "key": "F",
+   "meter": "2/4",
+   "bars": 36,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 35,
+    "screen": 38,
+    "screen-score": 37
+   }
+  },
+  {
+   "slug": "diabelli-op149-14",
+   "title": "Melodious Piece No. 14",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 14",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 3.3,
+    "s": 5.0
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 37,
+    "screen": 40,
+    "screen-score": 39
+   }
+  },
+  {
+   "slug": "diabelli-op149-15",
+   "title": "Melodious Piece No. 15",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 15",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.1,
+    "s": 5.0
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 30,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 52,
+    "score": 41,
+    "screen": 44,
+    "screen-score": 42
+   }
+  },
+  {
+   "slug": "diabelli-op149-16",
+   "title": "Melodious Piece No. 16",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 16",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 1.2,
+    "s": 4.2
+   },
+   "key": "D",
+   "meter": "3/8",
+   "bars": 81,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [
+    "bar 75 slh: stretch of 15 semitones"
+   ],
+   "pages": {
+    "facing": 58,
+    "score": 46,
+    "screen": 49,
+    "screen-score": 46
+   }
+  },
+  {
+   "slug": "diabelli-op149-17",
+   "title": "Melodious Piece No. 17",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 17",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 3.4,
+    "s": 4.6
+   },
+   "key": "D",
+   "meter": "2/4",
+   "bars": 37,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 51,
+    "screen": 55,
+    "screen-score": 51
+   }
+  },
+  {
+   "slug": "diabelli-op149-18",
+   "title": "Melodious Piece No. 18",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 18",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 1.4,
+    "s": 2.9
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 22,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 68,
+    "score": 55,
+    "screen": 58,
+    "screen-score": 54
+   }
+  },
+  {
+   "slug": "diabelli-op149-19",
+   "title": "Melodious Piece No. 19",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 19",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.3,
+    "s": 4.1
+   },
+   "key": "F",
+   "meter": "2/4",
+   "bars": 25,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 72,
+    "score": 57,
+    "screen": 60,
+    "screen-score": 56
+   }
+  },
+  {
+   "slug": "diabelli-op149-20",
+   "title": "Melodious Piece No. 20",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 20",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 3.4,
+    "s": 3.4
+   },
+   "key": "F",
+   "meter": "2/4",
+   "bars": 16,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 76,
+    "score": 60,
+    "screen": 63,
+    "screen-score": 58
+   }
+  },
+  {
+   "slug": "diabelli-op149-21",
+   "title": "Melodious Piece No. 21",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 21",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.1,
+    "s": 4.8
+   },
+   "key": "A",
+   "meter": "4/4",
+   "bars": 22,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 78,
+    "score": 62,
+    "screen": 66,
+    "screen-score": 60
+   }
+  },
+  {
+   "slug": "diabelli-op149-22",
+   "title": "Melodious Piece No. 22",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 22",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.4,
+    "s": 3.6
+   },
+   "key": "A",
+   "meter": "2/4",
+   "bars": 25,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 84,
+    "score": 67,
+    "screen": 72,
+    "screen-score": 64
+   }
+  },
+  {
+   "slug": "diabelli-op149-23",
+   "title": "Melodious Piece No. 23",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 23",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.9,
+    "s": 3.8
+   },
+   "key": "A",
+   "meter": "3/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 86,
+    "score": 69,
+    "screen": 74,
+    "screen-score": 66
+   }
+  },
+  {
+   "slug": "diabelli-op149-24",
+   "title": "Melodious Piece No. 24",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 24",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 1.8,
+    "s": 3.4
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [
+    "bar 1 slh: stretch of 15 semitones",
+    "bar 1 slh: stretch of 15 semitones",
+    "bar 1 slh: stretch of 15 semitones",
+    "bar 1 slh: stretch of 15 semitones",
+    "4 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 90,
+    "score": 72,
+    "screen": 77,
+    "screen-score": 69
+   }
+  },
+  {
+   "slug": "diabelli-op149-25",
+   "title": "Melodious Piece No. 25",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 25",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 4.0,
+    "s": 4.8
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 94,
+    "score": 74,
+    "screen": 80,
+    "screen-score": 72
+   }
+  },
+  {
+   "slug": "diabelli-op149-26",
+   "title": "Melodious Piece No. 26",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 26",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.0,
+    "s": 3.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 98,
+    "score": 78,
+    "screen": 84,
+    "screen-score": 75
+   }
+  },
+  {
+   "slug": "diabelli-op149-27",
+   "title": "Melodious Piece No. 27",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 27",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.8,
+    "s": 5.0
+   },
+   "key": "E",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 102,
+    "score": 81,
+    "screen": 87,
+    "screen-score": 77
+   }
+  },
+  {
+   "slug": "diabelli-op149-28",
+   "title": "Melodious Piece No. 28",
+   "subtitle": "Melodische \u00dcbungsst\u00fccke, Op. 149 No. 28",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 3.1,
+    "s": 3.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Melodious Pieces, Op. 149",
+   "problems": [],
+   "pages": {
+    "facing": 106,
+    "score": 85,
+    "screen": 92,
+    "screen-score": 80
+   }
+  },
+  {
+   "slug": "diabelli-op163-1-1",
+   "title": "Sonatina No. 1: I",
+   "subtitle": "Jugendfreuden (Pleasures of Youth), Op. 163 No. 1",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.9,
+    "s": 5.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Pleasures of Youth, Op. 163",
+   "problems": [],
+   "pages": {
+    "facing": 110,
+    "score": 88,
+    "screen": 96,
+    "screen-score": 83
+   }
+  },
+  {
+   "slug": "diabelli-op163-1-2",
+   "title": "Sonatina No. 1: II",
+   "subtitle": "Jugendfreuden (Pleasures of Youth), Op. 163 No. 1",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.2,
+    "s": 4.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 52,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Pleasures of Youth, Op. 163",
+   "problems": [],
+   "pages": {
+    "facing": 116,
+    "score": 96,
+    "screen": 103,
+    "screen-score": 88
+   }
+  },
+  {
+   "slug": "diabelli-op163-1-3",
+   "title": "Sonatina No. 1: III",
+   "subtitle": "Jugendfreuden (Pleasures of Youth), Op. 163 No. 1",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.4,
+    "s": 5.0
+   },
+   "key": "C",
+   "meter": "2/2",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Pleasures of Youth, Op. 163",
+   "problems": [],
+   "pages": {
+    "facing": 124,
+    "score": 103,
+    "screen": 109,
+    "screen-score": 94
+   }
+  },
+  {
+   "slug": "diabelli-op163-2-1",
+   "title": "Sonatina No. 2: I",
+   "subtitle": "Jugendfreuden (Pleasures of Youth), Op. 163 No. 2",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 3.3,
+    "s": 5.0
+   },
+   "key": "G",
+   "meter": "2/2",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Pleasures of Youth, Op. 163",
+   "problems": [],
+   "pages": {
+    "facing": 128,
+    "score": 105,
+    "screen": 112,
+    "screen-score": 96
+   }
+  },
+  {
+   "slug": "diabelli-op163-2-2",
+   "title": "Sonatina No. 2: II",
+   "subtitle": "Jugendfreuden (Pleasures of Youth), Op. 163 No. 2",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 2.4,
+    "s": 4.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 42,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Pleasures of Youth, Op. 163",
+   "problems": [],
+   "pages": {
+    "facing": 132,
+    "score": 109,
+    "screen": 115,
+    "screen-score": 99
+   }
+  },
+  {
+   "slug": "diabelli-op163-2-3",
+   "title": "Sonatina No. 2: III",
+   "subtitle": "Jugendfreuden (Pleasures of Youth), Op. 163 No. 2",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 1.3,
+    "s": 4.5
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 25,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Pleasures of Youth, Op. 163",
+   "problems": [],
+   "pages": {
+    "facing": 138,
+    "score": 114,
+    "screen": 119,
+    "screen-score": 103
+   }
+  },
+  {
+   "slug": "diabelli-op163-2-4",
+   "title": "Sonatina No. 2: IV",
+   "subtitle": "Jugendfreuden (Pleasures of Youth), Op. 163 No. 2",
+   "composer": "Anton Diabelli (1781\u20131858)",
+   "levels": {
+    "p": 3.1,
+    "s": 5.0
+   },
+   "key": "G",
+   "meter": "2/2",
+   "bars": 51,
+   "flavor": "original",
+   "flavor_text": "Original duet, as the composer wrote it",
+   "section": "Pleasures of Youth, Op. 163",
+   "problems": [],
+   "pages": {
+    "facing": 140,
+    "score": 116,
+    "screen": 121,
+    "screen-score": 105
+   }
+  }
+ ],
+ "seconds": 21.5
+}

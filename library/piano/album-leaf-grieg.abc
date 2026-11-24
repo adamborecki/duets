@@ -1,0 +1,54 @@
+X:1
+T:Album Leaf
+T:Lyric Pieces, Op. 12 No. 7
+C:Edvard Grieg
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, grieg
+%%duets credit: Edvard Grieg. Source edition: Knute Snortum for the Mutopia Project (Creative Commons Attribution-ShareAlike 4.0).
+%%duets tempo-text: Allegretto e dolce
+%%duets slug: album-leaf-grieg
+M:2/4
+L:1/8
+Q:1/4=88
+K:Em
+V:S
+B |: e3/2 f/2 g f | b/2 z/2 b e2 | f/2 z/2 f B2 |
+e/2 z/2 e E B | e3/2 f/2 a/2 _a/2 g/2 f/2 | b/2 z/2 b e2 | f/2 z/2 f B b |
+[1 e2 e' B :| [2 e2 e' z |: z [B,G] z [B,G] | z [B,G] z [DG] |
+z [CF] d2 | z2 d2 | z [B,G] z [B,G] | z [B,G] z [DG] |
+z [EF] z [EF] | z _E D z | z [B,G] z [B,G] | z [B,G] z [DG] |
+z3 [CF] | z [A,^D] z [A,D] | z [G,E] z [G,E] | z [G,E] z [B,E] |
+z A,2 ^A, | z [F,B,]2 B | e3/2 f/2 g f | b/2 z/2 b e2 |
+f/2 z/2 f B2 | e/2 z/2 e E B | e3/2 f/2 a/2 _a/2 g/2 f/2 | b/2 z/2 b e2 |
+f/2 z/2 f B b | e2 e' z :|
+V:lh
+z |: E, [B,G] E, [C_EA] | E, [B,G] E, [B,G] | E, [B,_EA] E, [B,EA] |
+E, [B,G] E, [B,G] | E, [B,G] E, [C_EA] | E, [B,G] E, [B,G] | E, [B,_EA] E, [B,EA] |
+[1 E, [B,G] E,, z :| [2 E, [B,G] E,, z |: D,3/2 ^C,/2 D, E, | F, G, A, B, |
+B, A,3 | B, A,3 | G,,4- | G,,2 z2 |
+B, ^A, D C | C2 B, [D,A,] | D,3/2 ^C,/2 D, E, | F, G, A, B, |
+B, A,3 | G, F,3 | E,,4- | E,,2 z2 |
+C,4 | B,,4 | z2 E, z | E, z E, z |
+E, z E, z | E, z E, z | E, z E, z | E, z E, z |
+E, z E, z | E, z E,, z :|
+V:lh2
+z |: z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+[1 z4 :| [2 z4 |: G,,4- | G,,2 z2 |
+z2 D,2 | z2 D,2 | D,3/2 ^C,/2 D, E, | F, G, A, B, |
+z4 | z4 | G,,4- | G,,2 z2 |
+z2 D,2 | z2 B,,2 | B,,3/2 ^A,,/2 B,, ^C, | ^D, E, F, G, |
+G, F, F, E, | E,2 ^D, z | E, [B,G] z [C_EA] | z [B,G] z [B,G] |
+z [B,_EA] z [B,EA] | z [B,G] z [B,G] | z [B,G] z [C_EA] | z [B,G] z [B,G] |
+z [B,_EA] z [B,EA] | z [B,G] z2 :|
+V:rh2
+z |: z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+[1 z4 :| [2 z4 |: z4 | z4 |
+z3 [CF] | z [CF] z [CF] | z4 | z4 |
+z4 | z F2 [CF] | z4 | z4 |
+z [CF] d2 | z2 B2 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 :|

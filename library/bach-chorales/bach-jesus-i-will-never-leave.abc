@@ -1,0 +1,30 @@
+X:1
+T:Jesus I Will Never Leave
+T:Meinen Jesum lass ich nicht · BWV 379
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trust
+%%duets tune: Meinen Jesum lass ich nicht
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 379), public domain; score from the music21 corpus.
+%%duets slug: bach-jesus-i-will-never-leave
+M:4/4
+L:1/8
+K:G
+V:S
+"G"B2 "Em"B2 "Em7"B2 d2 | "Am7"c2 "D7"c2 "G"!fermata!B4 | "G"B2 "G/B"B2 "D"A2 "G"B2 | "Am7/G"c2 "G"B2 "C6"A2- "D7"A2 |
+"G"!fermata!G8 :| "G"B2 "G/B"B2 "Dsus4"A2 "D7/F#"A2 | "Em"G2 "Em/G"G2 "B"!fermata!F4 | "C"e2 "G"d2 "Am7"c2 "G"B2 |
+"C6"A2 "D7"A2 "G"!fermata!G4 |]
+V:A
+G2 G A G2 G2- | G F/2 E/2 F2 !fermata!G4 | G2 G3 F G2 | A3 G2 F/2 E/2 F2 |
+!fermata!D8 :| G2 G2 G2 F2- | F2 E2 !fermata!^D4 | E F G3 F G2- |
+G F/2 E/2 F2 !fermata!D4 |]
+V:T
+D2 E F E2 D2 | E C A, D !fermata!D4 | D2 D2 D2 D2 | E D D2 E A, D C |
+!fermata!B,8 :| D2 D2 D3 C | B,2 B,2 !fermata!B,4 | G A D2 E C D2 |
+E A, D C !fermata!B,4 |]
+V:B
+G, F, E, ^D, E, =D, C, B,, | A,,2 D,2 !fermata!G,,4 | G,, A,, B,, C, D,2 G,2- | G, F, G, B,, C,2 D,2 |
+!fermata!G,,8 :| G,, A,, B,, C, D, E, F, ^D, | E, F, G, A, !fermata!B,4 | C, C2 B, A,, A,2 G, |
+C,2 D,2 !fermata!G,,4 |]

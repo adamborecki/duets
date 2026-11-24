@@ -1,0 +1,28 @@
+X:1
+T:A Ship Without a Sail
+C:Richard Rodgers, 1929
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: rodgers, ella
+%%duets year: 1929
+%%duets credit: Melody and chords: public domain in the United States (published 1929); lead sheet from OpenEWLD.
+%%duets slug: a-ship-without-a-sail
+M:4/4
+L:1/8
+K:Eb
+"Eb"B2 c2 d2 c2 | "Fm"B2 B2 B2 B2 | "Eb"G2 A2 B2 A2 | "Bb9"G6 G2 |
+"Cm"E2 F2 G2 F2 | "F7"E2 E2 E2 E2 | "Fm7"c4 c4 | "Bb7"D4 D4 |
+"Eb"E8- | E4 z2 B2 | "Eb"B2 c2 d2 c2 | "Fm"B2 B4 B2 |
+"Eb"G2 A2 B2 A2 | "Bb9"G6 G2 | "Cm"E2 F2 G2 F2 | "F7"E2 E4 E2 |
+"Ab6"c4 c4 | "G7"d4 d4 | "Ab"e8- | "Fm"e z c2 B2 A2 |
+"Eb"G4 "Eb+"G4 | "Ab"G4 "Bb7"F4 | "Eb"E8- | E6 z2 ||
+"Eb7"c2 c2 "Ab"E4 | "Bb7"G2 G2 "Eb"B,4 | "Eb7"c2 c2 "Ab"E E2 E | "Bb7"G2 G2 "Eb"B,4 |
+"Ab"C2 D E "G7"G2 G2 | "Cm"(3FGF E2 "Abm"A4 | "Eb"G2 B c "Bbm6"_d B d2 | "C7"c8 |
+"Fm"e z A2 G2 A2 | F4 "Bb7"G4 | "Eb"E8- | E2 z2 G A2 G |
+"Bb7"F4 F4 | F G2 F E2 F2 | "Eb"E8- | E2 z2 G A2 G |
+"Bb7"F4 F4 | F G2 F "Fm7"E2 "Bb7"F2 | "Eb"B6 E2 | "G7"=B8 |
+"Eb7"c2 c2 "Ab"E4 | "Bb7"G2 G2 "Eb"B,4 | "Eb7"c2 c2 "Ab"E E2 E | "Bb7"G2 G2 "Eb"B,4 |
+"Ab"C2 D E "G7"G2 G2 | "Cm"(3FGF E2 "Abm"A4 | "Eb"G2 B c "Bbm6"_d B d2 | "C7"c8 |
+"Fm"e z A2 G2 A2 | c4 "Bb7"D4 | "Eb"E8- | E2 z6 :|
+"Eb"E8- | E2 z6 |]

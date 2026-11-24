@@ -1,0 +1,34 @@
+X:1
+T:Now Thank We All Our God
+T:Nun danket alle Gott · BWV 386
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, thanksgiving, praise
+%%duets tune: Nun danket alle Gott
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 386), public domain; score from the music21 corpus.
+%%duets slug: bach-now-thank-we-all-our-god
+M:4/4
+L:1/8
+K:A
+V:S
+"A"e2 | "A"e2 e2 "D"f2 f2 | "A"!fermata!e4 "F#m/A"z2 c2 | "E7/G#"d2 "A"c2 "E7"B2 "A/C#"c3/2 d/2 |
+"Esus4"B2- "E7"B2 "A"!fermata!A2 :| "E"B2 | "E"B2 "E/G#"B2 "A"c2 "A/C#"c2 | "E"!fermata!B4 z2 B2 |
+"A"c ^d "C#m"e2 "F#m7/A"e2 "B"d2 | "E"!fermata!e4 z2 | "A"e2 | "D"f2 "C#m7/B"e2 "Bm"d2 "F#7/E"c2 |
+"Bm"!fermata!d4 z2 "A/C#"c2 | "E"B2 "A"c3/2 d/2 "D6"B2- "E"B A | "A"!fermata!A6 |]
+V:A
+A2 | A2 A2 A2 A2 | !fermata!A4 z2 A2 | B2 A2 G2 A2- |
+A F G2 !fermata!E2 :| G F | E2 E2 E2 E2 | !fermata!E4 z2 G2 |
+A2 G2 F2 F2 | !fermata!G4 z2 | A2 | A B c3 B2 ^A |
+!fermata!B4 z2 A2 | G2 A2 A2 G2 | !fermata!E6 |]
+V:T
+C2 | C2 C2 D2 D2 | !fermata!C4 z2 F2 | E2 E2 E2 E2 |
+E D/2 C/2 D2 !fermata!C2 :| B, A, | G, A, B,3 A,/2 G,/2 A,2 | !fermata!G,4 z2 E2 |
+E2 E2 C2 B,2 | !fermata!B,4 z2 | C2 | D2 C2 F2 =G F |
+!fermata!F4 z2 E2 | E2 E F F D B,3/2 E/2 | !fermata!C6 |]
+V:B
+A,,2 | A, B, C A, D, E, F, D, | !fermata!A,4 z2 A,2 | G,2 A,2 E, D, C, A,, |
+E,4 !fermata!A,,2 :| E,2 | E, F, G, E, A,, B,, C, A,, | !fermata!E,,4 z2 E,2 |
+A, B, C G, A, F, B, B,, | !fermata!E,4 z2 | A,,2 | D, C, B,, ^A,, B,, D, E, F, |
+!fermata!B,,4 z2 C, D, | E,2 A, F, D, B,, E, E,, | !fermata!A,,6 |]

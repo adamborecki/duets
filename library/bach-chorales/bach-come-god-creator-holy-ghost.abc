@@ -1,0 +1,30 @@
+X:1
+T:Come, God Creator, Holy Ghost
+T:Komm, Gott Schöpfer, heiliger Geist · BWV 370
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, pentecost
+%%duets tune: Komm, Gott Schöpfer, heiliger Geist
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 370), public domain; score from the music21 corpus.
+%%duets slug: bach-come-god-creator-holy-ghost
+M:4/4
+L:1/8
+K:C
+V:S
+"G"G2 | "F"A2 "C"G2 "Dm"F2 "Em"G2 | "Am"c2 "G7"d2 "C"!fermata!c2 "F"c2 | "Em"G2 "Bdim/D"B2 "C"c2 "G"d2 |
+"C"e2 e2 "G"!fermata!d2 | "G"d2 | "C"e d "C/E"c2 "F"A2 "C"G2 | "G7"B2 "C#dim/E"^c2 "Dm"!fermata!d2 "Em"G2 |
+"Am"c2 "Am/C"A2 "Dm"F2 "F/A"A2 | "G7/B"G2- "C"G2 "G"!fermata!G2 |]
+V:A
+D E | F3 E2 D/2 C/2 B, E- | E C G F !fermata!E2 C D | E2 F2 G2 G2 |
+G3 ^F !fermata!G2 | G2 | G2 G3 F2 E | G2 G2 !fermata!A2 E2 |
+E D E3 D/2 E/2 F2- | F2 E2 !fermata!D2 |]
+V:T
+B,2 | C2 C2 A,2 G, C/2 B,/2 | C F B,2 !fermata!G,2 A,2 | B, C D2 E2 D2- |
+D C/2 B,/2 C A, !fermata!B,2 | B,2 | C B, C2 C2 C2 | D2 E2 !fermata!F2 B,2 |
+A,2 A,2 A, _B, C2 | D3 C2 !fermata!B, |]
+V:B
+G,2 | F,2 C,2 D,2 E,2 | A,,2 G,,2 !fermata!C,2 F,2 | E,2 D,2 C,3 B,, |
+C,2 C,,2 !fermata!G,,2 | G,2 | C,2 E,2 F,2 C2 | G, F, E,2 !fermata!D,2 E,2 |
+A,, B,, C,2 D,2 A,,2 | B,,2 C,2 !fermata!G,,2 |]

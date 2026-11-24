@@ -1,0 +1,38 @@
+X:1
+T:Rejoice, O Pilgrim Throng
+T:MARION
+C:Arthur H. Messiter, 1883
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: praise
+%%duets tune: MARION
+%%duets year: 1883
+%%duets credit: Tune and setting: public domain ("The Church Hymnal, Revised and Enlarged", 1893 (Messiter Edition)), via the Open Hymnal Project.
+%%duets lyricist: Edward H. Plumptre, 1865, alt
+%%duets notes: intro 10-13
+%%duets slug: rejoice-o-pilgrim-throng
+M:4/4
+L:1/8
+Q:1/4=130
+K:F
+V:S
+"F"F2 | "C/E"c2 "C7"A G "Dm"F2 "C"G2 | "F"A6 "Am7/E"A2 | "Dm"A2 "Dm/F"F G "Dm"A2 "G7/D"=B2 |
+"C"c6 "F7"c2 | "Bb"d2 "Gm/Bb"c B "Dsus4"A2 "Dm"A2 | "Em7"A G "F/A"F G "Dm7"A2 D2 | "Gm/Bb"G2 "Asus4"A2 "C7/G"B2 "Am"A2 |
+"C"G6 c2 | "C"c6 c2 | "C"c2- "Dm7"c2- "F7"c2 c2 | "Bb/D"B2 "F/C"A G A2 "C7"G2 |
+"F"F6 |]
+V:A
+C2 | C2 E2 F2 C2 | C6 C2 | D2 D E F2 F2 |
+E6 _E2 | D2 D2 D2 D2 | D2 C2 D2 D2 | D2 D2 D C C2 |
+C6 C2 | C6 C2 | C6 F2 | F2 F2 F2 E2 |
+F6 |]
+V:T
+A,2 | G,2 C B, A,2 E,2 | F,6 G,2 | F,2 A, G, F,2 G,2 |
+G,6 A,2 | B,2 A, G, G,2 F,2 | G,2 A, G, F,2 F,2 | G,2 _F,2 F, E, F,2 |
+E,6 z2 | z2 E, F, G,4 | z2 F, G, A,2 A,2 | B,2 C D C2 B,2 |
+A,6 |]
+V:B
+F,2 | E,2 C,2 D,2 C,2 | F,6 E,2 | D,2 F, E, D,2 D,2 |
+C,6 F,2 | B,,2 B,,2 D,2 D,2 | E,2 A,,2 D,2 C,2 | B,,2 A,,2 G,,2 A,, B,, |
+C,6 z2 | z2 C, D, E,4 | z2 D, E, F,2 _E,2 | D,2 C, B,, C,2 C,2 |
+F,6 |]

@@ -1,0 +1,34 @@
+X:1
+T:O Enter, Lord, Thy Temple
+T:Zeuch ein zu deinen Toren · BWV 28.6
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, pentecost
+%%duets tune: Zeuch ein zu deinen Toren
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 28.6), public domain; score from the music21 corpus.
+%%duets slug: bach-o-enter-lord-thy-temple
+M:4/4
+L:1/8
+K:Am
+V:S
+"Am"A2 | "Am"A2 "E/G#"B2 "Am"c2 "D/F#"d2 | "G"B3 c !fermata!d2 "E/G#"e2 | "Am"c2 "F"A2 "Dm6"B2 "E7"B2 |
+"Am"!fermata!A6 :| "Am"e2 | "Bm7"d2 "Am/C"c2 "E7/D"B2 "Dm/F"A2 | "E"!fermata!B6 B2 |
+"Am"c2 "G/B"d2 "C"e2 "Am"c2 | "D/F#"d2- "D7"d c "G"!fermata!B2 | "G7/F"B2 | "C/E"c2 "Dm"d2 "C"e2 "Am"c2 |
+"G/B"d2- "D7"d c "G"!fermata!B2 "E/G#"e2 | "Am"c B "F"A2 "Dm6"B2 "E7"B2 | "A"!fermata!A6 |]
+V:A
+E2 | E2 E2 E2 D2 | D2 G ^F !fermata!G2 E2 | E2 A2 A2 ^G2 |
+!fermata!E6 :| A2 | A ^G A2 A G A A, | !fermata!E6 ^G2 |
+A2 G2 G2 A2 | A2 G ^F !fermata!G2 | G2 | G2 F2 E2 A2 |
+A G ^F E !fermata!D2 E2 | E2 A2 A2 ^G2 | !fermata!E6 |]
+V:T
+C2 | C2 B,2 A,2 A,2 | G, ^F, G, A, !fermata!B,2 B,2 | A, B, C2 F2 E D |
+!fermata!C6 :| C2 | D2 E2 F E E D | !fermata!^G,6 E2 |
+E2 D2 C D E2 | A,2 D2 !fermata!D2 | D2 | G,2 A, B, C D E2 |
+D2 A,2 !fermata!B,2 B,2 | A, B, C2 F2 E D | !fermata!^C6 |]
+V:B
+A,,2 | A,2 ^G,2 A,2 ^F,2 | G,4 !fermata!G,,2 ^G,2 | A, G, F, E, D,2 E,2 |
+!fermata!A,,6 :| A,,2 | B,,2 C,2 D, E, F,2 | !fermata!E,6 E,2 |
+A,2 B,2 C B, A, G, | ^F, E, D,2 !fermata!G,2 | F,2 | E,2 D,2 C,2 B,, A,, |
+B,, C, D,2 !fermata!G,,2 ^G,2 | A, G, F, E, D,2 E,2 | !fermata!A,,6 |]

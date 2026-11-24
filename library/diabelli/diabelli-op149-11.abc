@@ -1,0 +1,49 @@
+X:1
+T:Melodious Piece No. 11
+T:Melodische Übungsstücke, Op. 149 No. 11
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Romanze. Andantino
+%%duets slug: diabelli-op149-11
+M:6/8
+L:1/8
+Q:3/8=80
+K:Bb
+V:S
+|: g2 g b a g | d'3 a3 | b2 b b a g |
+a2 c'/2 b/2 a2 z | b2 b b c' b | b2 g b2 b/2 c'/2 | d'2 d' c' d' c' |
+[1 b2 z4 :| [2 b4 z d' |: d'2 g g2 g | g2 c' c'3 |
+b2 b b a g | a5 z | g2 g b a g | d'3 a3 |
+b2 b a b a | [1 g4 z d' :| [2 g3 a b a | g3 a b a |
+g2 b d'2 b | g2 z g2 z | g6 |]
+V:plh
+|: G2 G B A G | d3 A3 | B2 B B A G |
+A2 c/2 B/2 A2 z | B2 B B c B | B2 G B2 B/2 c/2 | d2 d c d c |
+[1 B2 z4 :| [2 B4 z d |: d2 G G2 G | G2 c c3 |
+B2 B B A G | A5 z | G2 G B A G | d3 A3 |
+B2 B A B A | [1 G4 z d :| [2 G3 A B A | G3 A B A |
+G2 B d2 B | G2 z [GB]2 z | [GB]6 |]
+V:srh
+|: G, B, D G, B, D | A, C D A, C D | G, B, D G, A, C |
+^F, A, D F, A, D | G, B, D ^G, B, D | G, B, E G, B, _D | F, B, D F, A, E |
+[1 F, B, C D C A, :| [2 z B, D [D,B,] z2 |: F, G, D F, G, D | E, G, E E, G, E |
+G, B, _F G, B, F | [_G,D]4 C A, | G, B, D G, B, D | A, C D A, C D |
+G, B, D ^F, C D | [1 G, B, D [G,B,] z2 :| [2 G, B, D ^F, C D | G, B, D ^F, C D |
+G, B, D G, B, D | [G,B,]2 z [G,B,]2 z | [G,B,]6 |]
+V:slh
+|: G,,,2 z G,,2 z | ^F,,,2 z ^F,,2 z | [G,,,G,,]2 z [E,,E,]2 z |
+[D,,D,]5 z | G,,2 z F,,2 z | E,,2 z =E,,2 z | F,,2 z [F,,,F,,]3 |
+[1 [B,,,B,,]2 z [A,,,A,,]2 D,, :| [2 [B,,,B,,]4 z2 |: =B,,,2 z _C,2 z | C,,2 z C,2 z |
+^C,,2 z ^C,2 z | D, A,, _G,, D,,2 z | G,,,2 z G,,2 z | ^F,,,2 z ^F,,2 z |
+[G,,,G,,]2 z [D,,D,]2 z | [1 [D,,G,,]4 z2 :| [2 [G,,,G,,]6 | [G,,,G,,]6 |
+[G,,,G,,]6 | G,,, D,, G,, G,,, D,, G,, | [G,,,D,,G,,]6 |]
+V:srh2
+|: z6 | z6 | z6 |
+z6 | z6 | z6 | z6 |
+[1 z3 ^F,3 :| [2 F, z5 |: z6 | z6 |
+z6 | z6 | z6 | z6 |
+z6 | [1 z6 :| [2 z6 | z6 |
+z6 | z6 | z6 |]

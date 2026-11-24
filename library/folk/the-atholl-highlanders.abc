@@ -1,0 +1,22 @@
+X:1
+T:The Atholl Highlanders
+C:Scottish traditional pipe march
+S:Nottingham Music Database
+R:jig
+%%duets category: folk
+%%duets tags: scottish
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: the-atholl-highlanders
+M:6/8
+L:1/8
+K:A
+|: [P:A]c/2 d/2 | "A"e3 e c A | "A"e c A "E7"B c d |
+"A"e3 e c A | "D"B c d "E7"c B A | "A"e3 e c A | "A"e c A "E7"B c d |
+"A"e/2 a3/2 e "D"f e d | "E7"c d B "A"A2 :: [P:B]e | "A"A c e A c e |
+"D"A d f A d f | "A"A c e A c e | "Bm"B c d "E7"c2 B | "A"A c e A c e |
+"D"A d f A d f | "A"e/2 a3/2 e "D"f e d | "E7"c d B "A"A2 :: [P:C]e |
+"A"a e e e d c | "A"a e e e d c | "A"a e e e d c | "D"B c d "E7"c B A |
+"A"a e e e d c | "A"a e e e d c | "A"a e e f e d | "E7"c d B "A"A2 ::
+[P:D]A/2 B/2 | "A"c A c c A c | "D"d B d d B d | "A"c A c c A c |
+"G"B =G B B G B | "A"c A c c A c | "E7"d B d d B d | "A"e/2 a3/2 e "D"f e d |
+"E7"c d B "A"A2 :|

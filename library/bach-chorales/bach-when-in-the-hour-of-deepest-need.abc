@@ -1,0 +1,30 @@
+X:1
+T:When in the Hour of Deepest Need
+T:Wenn wir in höchsten Nöten sein · BWV 431
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trust
+%%duets tune: Wenn wir in höchsten Nöten sein
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 431), public domain; score from the music21 corpus.
+%%duets slug: bach-when-in-the-hour-of-deepest-need
+M:4/4
+L:1/8
+K:F
+V:S
+"F"F2 | "Dm7"F2 "C7/E"G2 "F"A2 "C"G A | "Bb/D"B2 "F"A2 "Gm7/Bb"G2- "C"G G | "F"!fermata!F4 z2 A2 |
+"Bb/D"B2 "F"A2 "G7/B"G2 "Dm7"F2 | "C7"E2 "F/A"F2 "C6"!fermata!G2 c2 | "Gm"B2 "Dm"A2 "G7/B"G F "C"E2 | "F"F2 "G7"D2 "C"!fermata!C2 "F7"A2 |
+"Gm"B2 "F/A"A2 "C"G2 "Dm"F2 | "F/A"A2 "C"G2 "F"!fermata!F2 |]
+V:A
+C2 | C =B, C3 D E2 | F G2 F2 E/2 D/2 E2 | !fermata!C4 z2 F2 |
+F G2 F2 E D2 | G,2 C2 !fermata!C2 E ^F | G E F E D3 C- | C D/2 C/2 =B,2 !fermata!G,2 F _E |
+D E F3 E2 D/2 E/2 | F3 E !fermata!C2 |]
+V:T
+A, G, | F,2 C B, A, B, C2 | F, C C2 D B, G, C/2 B,/2 | !fermata!A,4 z2 C2 |
+D C C2 D C2 =B, | C2 F,2 !fermata!E,2 A,2 | D ^C D2 G,2 G,2 | A,2 G, F, !fermata!E,2 C2 |
+B,2 C7/2 B,/2 A, B, | C2 C3/2 B,/2 !fermata!A,2 |]
+V:B
+F, E, | D,2 E, C, F,2 C,2 | D, E, F,2 B,,2 C,2 | !fermata!F,,4 z2 F, _E, |
+D, E, F,2 =B,, C, D,2 | C, B,, A,, F,, !fermata!C,2 A,,2 | G,,2 D, C, =B,,2 C,2 | F,,2 G,,2 !fermata!C,2 F,,2 |
+G,,2 A,, B,, C,2 D,2 | A,, B,, C,2 !fermata!F,,2 |]

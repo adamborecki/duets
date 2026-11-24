@@ -1,0 +1,360 @@
+{
+ "id": "rags-marches",
+ "title": "Rags & Marches",
+ "subtitle": "for piano four hands",
+ "blurb": "Joplin, Sousa and friends.",
+ "pieces": 14,
+ "layouts": {
+  "facing": {
+   "path": "rags-marches-facing.pdf",
+   "pages": 49,
+   "bytes": 662955
+  },
+  "score": {
+   "path": "rags-marches-score.pdf",
+   "pages": 40,
+   "bytes": 513108
+  },
+  "screen": {
+   "path": "rags-marches-screen.pdf",
+   "pages": 40,
+   "bytes": 653265
+  },
+  "screen-score": {
+   "path": "rags-marches-screen-score.pdf",
+   "pages": 37,
+   "bytes": 486156
+  }
+ },
+ "items": [
+  {
+   "slug": "alabama-jubilee",
+   "title": "Alabama Jubilee",
+   "subtitle": "",
+   "composer": "George L. Cobb, 1915",
+   "levels": {
+    "p": 1.5,
+    "s": 2.9
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 4,
+    "score": 4,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "american-patrol",
+   "title": "American Patrol",
+   "subtitle": "",
+   "composer": "F. W. Meacham, 1885",
+   "levels": {
+    "p": 2.9,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [
+    "6 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 6,
+    "score": 6,
+    "screen": 5,
+    "screen-score": 5
+   }
+  },
+  {
+   "slug": "original-20-barefoot-march",
+   "title": "Barefoot March",
+   "subtitle": "Original No. 20",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.8,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 8,
+    "screen": 7,
+    "screen-score": 7
+   }
+  },
+  {
+   "slug": "colonel-bogey-march",
+   "title": "Colonel Bogey March",
+   "subtitle": "",
+   "composer": "Kenneth J. Alford, 1914",
+   "levels": {
+    "p": 1.6,
+    "s": 3.0
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 81,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 10,
+    "screen": 9,
+    "screen-score": 9
+   }
+  },
+  {
+   "slug": "dill-pickles-rag",
+   "title": "Dill Pickles Rag",
+   "subtitle": "",
+   "composer": "Charles L. Johnson, 1906",
+   "levels": {
+    "p": 2.1,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 38,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 14,
+    "screen": 13,
+    "screen-score": 13
+   }
+  },
+  {
+   "slug": "the-entertainer",
+   "title": "The Entertainer",
+   "subtitle": "",
+   "composer": "Scott Joplin, 1902",
+   "levels": {
+    "p": 2.6,
+    "s": 2.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 41,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 20,
+    "score": 17,
+    "screen": 16,
+    "screen-score": 16
+   }
+  },
+  {
+   "slug": "original-11-evening-march",
+   "title": "Evening March",
+   "subtitle": "Original No. 11",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.8,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 20,
+    "screen": 19,
+    "screen-score": 19
+   }
+  },
+  {
+   "slug": "original-29-hilltop-march",
+   "title": "Hilltop March",
+   "subtitle": "Original No. 29",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.6,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 22,
+    "screen": 21,
+    "screen-score": 21
+   }
+  },
+  {
+   "slug": "maple-leaf-rag",
+   "title": "Maple Leaf Rag",
+   "subtitle": "",
+   "composer": "Scott Joplin, 1899",
+   "levels": {
+    "p": 3.0,
+    "s": 3.3
+   },
+   "key": "G",
+   "meter": "2/4",
+   "bars": 34,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 28,
+    "score": 24,
+    "screen": 23,
+    "screen-score": 23
+   }
+  },
+  {
+   "slug": "the-parade-of-the-wooden-soldiers",
+   "title": "The Parade of the Wooden Soldiers",
+   "subtitle": "",
+   "composer": "Leon Jessel, 1905",
+   "levels": {
+    "p": 2.4,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 44,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 32,
+    "score": 27,
+    "screen": 26,
+    "screen-score": 25
+   }
+  },
+  {
+   "slug": "ragtime-annie",
+   "title": "Ragtime Annie",
+   "subtitle": "",
+   "composer": "American traditional fiddle tune",
+   "levels": {
+    "p": 4.1,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "2/4",
+   "bars": 36,
+   "flavor": "trade",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 36,
+    "score": 30,
+    "screen": 29,
+    "screen-score": 28
+   }
+  },
+  {
+   "slug": "original-02-rainy-day-march",
+   "title": "Rainy-Day March",
+   "subtitle": "Original No. 2",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.9,
+    "s": 2.9
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 40,
+    "score": 32,
+    "screen": 32,
+    "screen-score": 30
+   }
+  },
+  {
+   "slug": "the-stars-and-stripes-forever",
+   "title": "The Stars and Stripes Forever",
+   "subtitle": "",
+   "composer": "John Philip Sousa, 1897",
+   "levels": {
+    "p": 1.7,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 34,
+    "screen": 34,
+    "screen-score": 32
+   }
+  },
+  {
+   "slug": "the-teddy-bears-picnic",
+   "title": "The Teddy Bears' Picnic",
+   "subtitle": "",
+   "composer": "John W. Bratton, 1907",
+   "levels": {
+    "p": 3.8,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 74,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [
+    "5 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 44,
+    "score": 36,
+    "screen": 36,
+    "screen-score": 34
+   }
+  }
+ ],
+ "seconds": 18.6
+}

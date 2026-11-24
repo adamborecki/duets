@@ -1,0 +1,42 @@
+X:1
+T:Did You Think to Pray?
+T:STOCKBRIDGE
+C:or 'Did You Think To Pray' William Oscar Perkins, 1876
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: prayer
+%%duets tune: STOCKBRIDGE
+%%duets year: 1876
+%%duets credit: Tune and setting: public domain (William Oscar Perkins, 1876), via the Open Hymnal Project.
+%%duets lyricist: Mary A. Pepper Kidder, 1876
+%%duets notes: intro 17-18
+%%duets slug: did-you-think-to-pray
+M:4/4
+L:1/8
+Q:1/4=120
+K:F
+V:S
+"F"A3 A "Bb/F"B A "F"G F | "F"C4 F4 | "C"G3 G "C7/E"B2 "F"A2 | "C"G8 |
+"C"G3 G G G "Am7"F G | "F"A4 c4 | "F"A3 A "Bb/F"B A "F"G F | "Bb"D4 F4 |
+"C7"E3 F G3 A | "F"F8 | "F"c3 c "Bb/F"d c "Fm"=B c | "F"f4 c4 |
+"F"A3 c "Bb/F"d c "F"B A | "C"G8 | "F"A3 A "Bb/F"B A "F"G F | "Bb"D4 F4 |
+"C"E3 F "C7"G3 A | "F"F8 |]
+V:A
+F3 F F F C C | z4 C4 | E3 E G2 F2 | E8 |
+E3 E E E z E | F4 F4 | F3 F F F C C | z4 D4 |
+C3 C E3 E | z8 | A3 A B A ^G A | A4 A4 |
+F3 A B A G F | E8 | F3 F F F C C | z4 D4 |
+C3 C E3 F | z8 |]
+V:T
+C3 C D C B, A, | A,4 A,4 | C3 C C2 C2 | C8 |
+C3 C C C C C | C4 A,4 | C3 C D C B, A, | B,4 B,4 |
+G,3 A, B,3 C | A,8 | C3 F F F F F | C4 F4 |
+C3 F F F C C | C8 | C3 C D C B, A, | B,4 B,4 |
+G,3 A, B,3 C | A,8 |]
+V:B
+F,3 F, F, F, F, F, | F,4 F,4 | C,3 C, E,2 F,2 | C,8 |
+C,3 C, C, C, A,, C, | F,4 F,4 | F,3 F, F, F, F, F, | B,,4 B,,4 |
+C,3 C, C,3 C, | F,8 | F,3 F, F, F, F, F, | F,4 F,4 |
+F,3 F, F, F, F, F, | C,8 | F,3 F, F, F, F, F, | B,,4 B,,4 |
+C,3 C, C,3 C, | F,8 |]

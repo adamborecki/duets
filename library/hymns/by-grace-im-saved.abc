@@ -1,0 +1,43 @@
+X:1
+T:By Grace I'm Saved
+T:O DASS ICH TANSEND ZUNGEN
+C:Johann Balthasar König, 1738
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: justification
+%%duets tune: O DASS ICH TANSEND ZUNGEN
+%%duets year: 1738
+%%duets credit: Tune and setting: public domain ("The Evangelical Lutheran Hymnal" (Ohio Synod), 1908), via the Open Hymnal Project.
+%%duets lyricist: Christian L. Scheidt, 1742. Translated by Matthias Loy, (1828-1915)
+%%duets notes: intro 16-18
+%%duets slug: by-grace-im-saved
+%%duets free-meter: yes
+M:4/4
+L:1/8
+Q:1/4=120
+K:F
+V:S
+"F"z2 c2 A2 c2 | "Bb"d2 "C"c2 "Bb/D"B2 "F"A2 | "Csus4"G2- "C"G2 "F"F4 | "F"A2 "C"G2 "Dm"F2 |
+"Edim/G"G2 "F"A2 "Bb"B2 "F"A2 | "C"G4 | "F"c2 A2 c2 | "Bb"d2 "C"c2 "Bb/D"B2 "F"A2 |
+"Csus4"G2- "C"G2 "F"F4 | "F"A2 "C"G2 "Dm"F2 | "Edim/G"G2 "F"A2 "Bb"B2 "F"A2 | "C"G4 |
+"C"G2 "G/D"G2 "C/E"G2 | "F"A2 "C/E"c2 "F"c2 "G"=B2 | "C"c4 c2 | "F"A2 F2 "Bb"d2 "Gm"B2 |
+"Am7/C"A2- "F/C"A2 "C7"G4 | "F"F8 |]
+V:A
+z2 F2 F2 F2 | F2 E2 F2 F2 | F2 E2 F4 | F2 E2 D2 |
+E2 F2 F2 F2 | E4 | F2 F2 F2 | F2 E2 F2 F2 |
+F2 E2 F4 | F2 E2 D2 | E2 F2 F2 F2 | E4 |
+E2 D2 C2 | C2 G2 F2 D2 | E4 G2 | F2 F2 F2 G2 |
+G2 F2 F2 E2 | C8 |]
+V:T
+z2 A,2 C2 C2 | B,2 G,2 D2 C2 | C4 A,4 | C2 C2 A,2 |
+B,2 C2 D2 C2 | C4 | A,2 C2 C2 | B,2 G,2 D2 C2 |
+C4 A,4 | C2 C2 A,2 | B,2 C2 D2 C2 | C4 |
+C2 =B,2 G,2 | F,2 G,2 A,2 G,2 | G,4 C2 | C2 C2 B,2 D2 |
+C4 B,4 | A,8 |]
+V:B
+z2 F,,2 F,2 A,,2 | B,,2 C,2 D,2 F,2 | C,4 F,,4 | F,2 C,2 D,2 |
+G,2 F,2 B,,2 F,2 | C,4 | F,,2 F,2 A,,2 | B,,2 C,2 D,2 F,2 |
+C,4 F,,4 | F,2 C,2 D,2 | G,2 F,2 B,,2 F,2 | C,4 |
+C,2 D,2 E,2 | F,2 E,2 F,2 G,2 | C,4 E,2 | F,2 A,,2 B,,2 A,,2 |
+C,4 C,,4 | F,,8 |]

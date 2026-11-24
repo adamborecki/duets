@@ -1,0 +1,41 @@
+X:1
+T:Christ Arose
+T:CHRIST AROSE
+C:Lowry, Robert (1826-1899)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: easter
+%%duets tune: CHRIST AROSE
+%%duets credit: Tune and setting: public domain ('Christ Arose' Robert Lowry, 1874), via the Open Hymnal Project.
+%%duets lyricist: Robert Lowry, 1874. Music and
+%%duets notes: intro 19-20
+%%duets slug: christ-arose
+M:4/4
+L:1/8
+Q:1/4=100
+K:C
+V:S
+"C"G4 G2 "F/C"A2 | "F/C"A2 "C"G2 G4 | "G7"G4 F2 A2 | "F/C"A4 "C"G4 |
+"F"A4 "G7/F"B2 "F"c2 | "C/E"c2 G2 G4 | "Am/C"A4 "G/D"G2 "D7"^F2 | "G"G8 |
+"C"C2 C3/2 C/2 E2 G3/2 G/2 | "C"c6 c3/2 d/2 | "C"e2 c2 "Dm7/F"d3/2 c/2 "F"B3/2 A/2 | "C"G6 "G"B3/2 c/2 |
+"G7"d2 d2 d3/2 c/2 d3/2 e/2 | "Am"c2 "F"A2 "C"G2 G3/2 G/2 | "F"A2 A2 "D7"A3/2 d/2 d3/2 c/2 | "G7"B2 "Am"c2 "G7"d2 G3/2 G/2 |
+"C/G"e4- "C"e2 "Dm/F"d3/2 c/2 | "F/A"f4- "F"f2 "Fmaj7"e3/2 d/2 | "C/G"c2 G2 e2 "G7"d2 | "C"c8 |]
+V:A
+E4 E2 F2 | F2 E2 E4 | D4 D2 F2 | F4 E4 |
+F4 G2 A2 | G2 E2 E4 | E4 D2 C2 | B,8 |
+C2 C3/2 C/2 E2 G3/2 G/2 | E6 E3/2 F/2 | G2 G2 A3/2 A/2 G3/2 F/2 | E6 D3/2 E/2 |
+F2 F2 F3/2 E/2 F3/2 G/2 | E2 F2 E2 E3/2 E/2 | F2 F2 ^F3/2 F/2 F3/2 A/2 | G F E2 F2 G3/2 G/2 |
+G6 F3/2 E/2 | A6 G3/2 F/2 | E2 E2 G2 F2 | E8 |]
+V:T
+C4 C2 C2 | C2 C2 C4 | B,4 B,2 B,2 | C4 C4 |
+C4 C2 C2 | C2 C2 C4 | C4 B,2 A,2 | G,8 |
+C,2 C,3/2 C,/2 E,2 G,3/2 G,/2 | G,2 G,3/2 G,/2 G,2 C3/2 C/2 | C2 C2 C3/2 C/2 C3/2 C/2 | C2 C3/2 C/2 C2 G,3/2 G,/2 |
+G,2 G,2 G,3/2 G,/2 G,3/2 G,/2 | C2 C2 C2 C3/2 C/2 | C2 C2 C3/2 A,/2 A,3/2 D/2 | D2 C2 B,2 z2 |
+z2 C3/2 C/2 C2 z2 | z2 C3/2 C/2 C2 C3/2 A,/2 | G,2 C2 C2 B,2 | C8 |]
+V:B
+C,4 C,2 C,2 | C,2 C,2 C,4 | G,,4 G,,2 G,,2 | C,4 C,4 |
+F,4 F,2 F,2 | E,2 C,2 C,4 | C,4 D,2 D,2 | G,,8 |
+C,2 C,3/2 C,/2 E,2 G,3/2 G,/2 | C,2 C,3/2 C,/2 C,2 C,3/2 C,/2 | C,2 E,2 F,3/2 F,/2 F,3/2 F,/2 | C,2 C,3/2 C,/2 C,2 G,3/2 G,/2 |
+G,2 G,2 G,3/2 G,/2 G,3/2 G,/2 | A,2 F,2 C,2 C,3/2 C,/2 | F,2 F,2 D,3/2 D,/2 D,3/2 D,/2 | G,2 A,2 G,2 z2 |
+z2 C3/2 C/2 C2 z2 | z2 F,3/2 F,/2 F,2 F,3/2 F,/2 | G,2 G,2 G,2 G,2 | C,8 |]

@@ -1,0 +1,50 @@
+X:1
+T:Whiter Than Snow
+T:WHITER THAN SNOW
+C:William Gustavus Fischer, 1872
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: consecration
+%%duets tune: WHITER THAN SNOW
+%%duets year: 1872
+%%duets credit: Tune and setting: public domain ("Pentecostal Hymns, No. 2", 1898), via the Open Hymnal Project.
+%%duets lyricist: James Nicholson, 1872
+%%duets notes: intro 22-25
+%%duets slug: whiter-than-snow
+M:3/4
+L:1/8
+Q:1/4=80
+K:A
+V:S
+"A"E2 | "A"E2 "A/C#"A2 "E"B2 | "A"c3 B A2 | "E7"B2 "C#m/E"c2 "E7"B2 |
+"A"A4 E2 | "A"E2 "A/C#"A2 "E"B2 | "A"c3 B A2 | "E7"B2 "C#m/E"c2 "E7"B2 |
+"A"A4 c2 | "A"e2 c2 A2 | "D"F A A2 A2 | "D"d2 d2 d2 |
+"A"c4 E2 | "A"E2 A2 c2 | "A/E"c2- "E7"c B "A/E"A2 | "E"B3 A "E7"B2 |
+"A"A6 || "E7"B2 B2 B2 | "E7"B4 "F#m"A2 | "F#m"c2 A2 "D"F2 |
+"A"E4 E2 | "D"F2 A2 d2 | "A/E"c2- "E7"c B "A/E"A2 | "E"B3 A "E7"B2 |
+"A"A4 |]
+V:A
+C2 | C2 E2 E2 | E3 D C2 | D2 E2 D2 |
+C4 C2 | C2 E2 E2 | E3 D C2 | D2 E2 D2 |
+C4 E2 | E2 E2 E2 | D F F2 F2 | F2 F2 F2 |
+E4 C2 | C2 E2 E2 | E3 D C2 | E3 E D2 |
+C6 || D2 D2 D2 | D4 C2 | C2 C2 D2 |
+C4 C2 | D2 F2 F2 | E3 D C2 | E3 E D2 |
+C4 |]
+V:T
+A,2 | A,2 A,2 G,2 | A,3 A, A,2 | G,2 G,2 G,2 |
+A,4 A,2 | A,2 A,2 G,2 | A,3 A, A,2 | G,2 G,2 G,2 |
+A,4 A,2 | C2 A,2 A,2 | A,2 A,2 A,2 | A,2 A,2 A,2 |
+A,4 A,2 | A,2 A,2 A,2 | A,3 G, A,2 | G,3 F, G,2 |
+A,6 || G,2 G,2 G,2 | G,4 A,2 | A,2 A,2 A,2 |
+A,4 A,2 | A,2 A,2 A,2 | A,3 G, A,2 | G,3 F, G,2 |
+A,4 |]
+V:B
+A,,2 | A,,2 C,2 E,2 | A,3 A, A,2 | E,2 E,2 E,2 |
+A,,4 A,,2 | A,,2 C,2 E,2 | A,3 A, A,2 | E,2 E,2 E,2 |
+A,,4 A,2 | A,2 A,2 C,2 | D,2 D,2 D,2 | D,2 D,2 D,2 |
+A,,4 A,,2 | A,,2 C,2 A,,2 | E,3 E, E,2 | E,3 E, E,2 |
+A,,6 || E,2 E,2 E,2 | E,4 F,2 | F,2 F,2 D,2 |
+A,,4 A,,2 | D,2 D,2 D,2 | E,3 E, E,2 | E,3 E, E,2 |
+A,,4 |]

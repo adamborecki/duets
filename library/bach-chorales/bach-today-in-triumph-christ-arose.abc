@@ -1,0 +1,42 @@
+X:1
+T:Today in Triumph Christ Arose
+T:Heut triumphieret Gottes Sohn · BWV 342
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, easter
+%%duets tune: Heut triumphieret Gottes Sohn
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 342), public domain; score from the music21 corpus.
+%%duets slug: bach-today-in-triumph-christ-arose
+M:3/4
+L:1/8
+K:Am
+V:S
+"Am"c2 "C/E"c2 "G"d2 | "C"e2- "Cmaj7"e2 "Dm"d2 | "C/E"c2- "Dm7/F"c2 "G"B2 | "C"!fermata!c6 |
+"F"c2 "C/E"c2 "F"c2 | "Bdim7"d2 "Am/C"c2 "Bm/D"B2 | "Am/C"A2- "Dm6"A2 "E"^G2 | "Am"!fermata!A4 "E"B2 |
+"Am"c4 "G"d2 | "C"e3 f "G/B"g2 | "F/A"f2 "Em/G"e2 "Dm/F"d2 | "E"!fermata!e6 |
+"Am"e2 "C/E"e2 "C"e2 | "G"d2- "Em7/B"d2 "Dm/A"d2 | "E/G#"e2 "E7/G#"d2 "Am"c2 | "E"!fermata!B6 |
+"Em7"B2 "Em"B2 "A7/G"^c2 | "Dm/F"d2 "Am/E"c2 "Ddim7"B2 | "Am/C"A2- "Dm"A2 "E"^G2 | "Am"!fermata!A4 "E"B2 |
+"Am"c2- "F/A"c2 "G/B"d2 | "C"e2- "Cmaj7/B"e2 "Am6"e2 | "Bsus4"e2 "B+"^d2- "B7"d2 | "E"!fermata!e6 |]
+V:A
+E F G2 G2 | G4 F2 | E2 D4 | !fermata!E6 |
+F2 G2 F2 | F2 E2 D2 | E2 F2 E2 | !fermata!E4 E2 |
+E4 G2 | G4 G2 | c2 B2 A2 | !fermata!^G6 |
+A2 G F G A | B2 G2 A2 | B4 A2 | !fermata!^G6 |
+G A G F E2 | D2 E2 F2 | E2 F2 E2 | !fermata!E4 ^G2 |
+A4 G2 | G4 ^F2 | ^F2 G2 A2 | !fermata!^G6 |]
+V:T
+C2 C2 B,2 | C2 B,2 A,2 | G,2 A,2 G,2 | !fermata!G,6 |
+A,2 G,2 A,2 | ^G,2 A,2 B,2 | C2 B,4 | !fermata!C4 ^G,2 |
+A, B, C2 B,2 | C4 D2 | C2 E2 F2 | !fermata!B,6 |
+C2 C2 C2 | D C D E F2 | E4 E2 | !fermata!E6 |
+E2 E2 A,2 | A,4 ^G,2 | A,2 D2 B,2 | !fermata!C4 E2 |
+E2 F2 D2 | C4 C2 | B,4 B,2 | !fermata!B,6 |]
+V:B
+A,2 E,2 G,2 | C,4 D,2 | E,2 F,2 G,2 | !fermata!C,6 |
+F,2 E,2 F,2 | B,,2 C,2 D,2 | C,2 D,2 E,2 | !fermata!A,,4 E,2 |
+A,4 G,2 | C4 B,2 | A,2 G,2 F,2 | !fermata!E,6 |
+A,2 E,2 C,2 | G,2 B,2 A,2 | ^G,4 A,2 | !fermata!E,6 |
+E, D, E, F, G,2 | F,2 E,2 D,2 | C,2 D,2 E,2 | !fermata!A,,4 E,2 |
+A,4 B,2 | C2 B,2 A,2 | B,4 B,,2 | !fermata!E,6 |]

@@ -1,0 +1,866 @@
+{
+ "id": "originals",
+ "title": "New Pieces",
+ "subtitle": "Thirty-six original duets composed by the generator",
+ "blurb": "Waltzes, marches, minuets, jigs, lullabies and songs that nobody has ever played before. Run 'python -m duets new' for more.",
+ "pieces": 36,
+ "layouts": {
+  "facing": {
+   "path": "originals-facing.pdf",
+   "pages": 75,
+   "bytes": 1037144
+  },
+  "score": {
+   "path": "originals-score.pdf",
+   "pages": 66,
+   "bytes": 752660
+  },
+  "screen": {
+   "path": "originals-screen.pdf",
+   "pages": 71,
+   "bytes": 967883
+  },
+  "screen-score": {
+   "path": "originals-screen-score.pdf",
+   "pages": 76,
+   "bytes": 688102
+  }
+ },
+ "items": [
+  {
+   "slug": "original-01-meadow-waltz",
+   "title": "Meadow Waltz",
+   "subtitle": "Original No. 1",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.3,
+    "s": 2.6
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 4,
+    "score": 4,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "original-02-rainy-day-march",
+   "title": "Rainy-Day March",
+   "subtitle": "Original No. 2",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.8,
+    "s": 2.2
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 6,
+    "screen": 5,
+    "screen-score": 5
+   }
+  },
+  {
+   "slug": "original-03-hilltop-song",
+   "title": "Hilltop Song",
+   "subtitle": "Original No. 3",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.7,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 8,
+    "screen": 7,
+    "screen-score": 7
+   }
+  },
+  {
+   "slug": "original-04-rainy-day-minuet",
+   "title": "Rainy-Day Minuet",
+   "subtitle": "Original No. 4",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.7,
+    "s": 2.1
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 10,
+    "screen": 9,
+    "screen-score": 9
+   }
+  },
+  {
+   "slug": "original-05-autumn-jig",
+   "title": "Autumn Jig",
+   "subtitle": "Original No. 5",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 3.2,
+    "s": 3.0
+   },
+   "key": "Em",
+   "meter": "6/8",
+   "bars": 20,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 12,
+    "score": 12,
+    "screen": 11,
+    "screen-score": 11
+   }
+  },
+  {
+   "slug": "original-06-morning-lullaby",
+   "title": "Morning Lullaby",
+   "subtitle": "Original No. 6",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.2,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 20,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 14,
+    "screen": 13,
+    "screen-score": 13
+   }
+  },
+  {
+   "slug": "original-07-lantern-polka",
+   "title": "Lantern Polka",
+   "subtitle": "Original No. 7",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.7,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "2/4",
+   "bars": 20,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 16,
+    "screen": 15,
+    "screen-score": 15
+   }
+  },
+  {
+   "slug": "original-08-evening-sonatina",
+   "title": "Evening Sonatina",
+   "subtitle": "Original No. 8",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.8,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 18,
+    "score": 17,
+    "screen": 16,
+    "screen-score": 17
+   }
+  },
+  {
+   "slug": "original-09-lakeside-elegy",
+   "title": "Lakeside Elegy",
+   "subtitle": "Original No. 9",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.3,
+    "s": 2.3
+   },
+   "key": "Gm",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 20,
+    "score": 19,
+    "screen": 18,
+    "screen-score": 19
+   }
+  },
+  {
+   "slug": "original-10-fireside-waltz",
+   "title": "Fireside Waltz",
+   "subtitle": "Original No. 10",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.9,
+    "s": 2.1
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 22,
+    "score": 21,
+    "screen": 20,
+    "screen-score": 22
+   }
+  },
+  {
+   "slug": "original-11-evening-march",
+   "title": "Evening March",
+   "subtitle": "Original No. 11",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.8,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 23,
+    "screen": 22,
+    "screen-score": 24
+   }
+  },
+  {
+   "slug": "original-12-paper-boat-song",
+   "title": "Paper-Boat Song",
+   "subtitle": "Original No. 12",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.3,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 25,
+    "screen": 24,
+    "screen-score": 26
+   }
+  },
+  {
+   "slug": "original-13-bluebird-minuet",
+   "title": "Bluebird Minuet",
+   "subtitle": "Original No. 13",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.6,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 28,
+    "score": 27,
+    "screen": 26,
+    "screen-score": 28
+   }
+  },
+  {
+   "slug": "original-14-kitchen-jig",
+   "title": "Kitchen Jig",
+   "subtitle": "Original No. 14",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.5,
+    "s": 2.5
+   },
+   "key": "Em",
+   "meter": "6/8",
+   "bars": 20,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 30,
+    "score": 28,
+    "screen": 28,
+    "screen-score": 30
+   }
+  },
+  {
+   "slug": "original-15-little-lullaby",
+   "title": "Little Lullaby",
+   "subtitle": "Original No. 15",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.7,
+    "s": 2.2
+   },
+   "key": "D",
+   "meter": "6/8",
+   "bars": 20,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 32,
+    "score": 30,
+    "screen": 30,
+    "screen-score": 32
+   }
+  },
+  {
+   "slug": "original-16-summer-polka",
+   "title": "Summer Polka",
+   "subtitle": "Original No. 16",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.2,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "2/4",
+   "bars": 20,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 34,
+    "score": 32,
+    "screen": 32,
+    "screen-score": 34
+   }
+  },
+  {
+   "slug": "original-17-hilltop-sonatina",
+   "title": "Hilltop Sonatina",
+   "subtitle": "Original No. 17",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.5,
+    "s": 3.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 36,
+    "score": 33,
+    "screen": 33,
+    "screen-score": 36
+   }
+  },
+  {
+   "slug": "original-18-paper-boat-elegy",
+   "title": "Paper-Boat Elegy",
+   "subtitle": "Original No. 18",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.1,
+    "s": 2.4
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 35,
+    "screen": 35,
+    "screen-score": 39
+   }
+  },
+  {
+   "slug": "original-19-willow-waltz",
+   "title": "Willow Waltz",
+   "subtitle": "Original No. 19",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.3,
+    "s": 3.1
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 40,
+    "score": 36,
+    "screen": 37,
+    "screen-score": 41
+   }
+  },
+  {
+   "slug": "original-20-barefoot-march",
+   "title": "Barefoot March",
+   "subtitle": "Original No. 20",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.6,
+    "s": 2.0
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 37,
+    "screen": 39,
+    "screen-score": 43
+   }
+  },
+  {
+   "slug": "original-21-fireside-song",
+   "title": "Fireside Song",
+   "subtitle": "Original No. 21",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.4,
+    "s": 2.1
+   },
+   "key": "Dm",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 44,
+    "score": 39,
+    "screen": 41,
+    "screen-score": 45
+   }
+  },
+  {
+   "slug": "original-22-fireside-minuet",
+   "title": "Fireside Minuet",
+   "subtitle": "Original No. 22",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.8,
+    "s": 2.1
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 41,
+    "screen": 43,
+    "screen-score": 47
+   }
+  },
+  {
+   "slug": "original-23-fireside-jig",
+   "title": "Fireside Jig",
+   "subtitle": "Original No. 23",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.2,
+    "s": 3.5
+   },
+   "key": "Em",
+   "meter": "6/8",
+   "bars": 20,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 42,
+    "screen": 45,
+    "screen-score": 49
+   }
+  },
+  {
+   "slug": "original-24-bluebird-lullaby",
+   "title": "Bluebird Lullaby",
+   "subtitle": "Original No. 24",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.1,
+    "s": 2.3
+   },
+   "key": "D",
+   "meter": "6/8",
+   "bars": 20,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 50,
+    "score": 44,
+    "screen": 47,
+    "screen-score": 51
+   }
+  },
+  {
+   "slug": "original-25-maple-polka",
+   "title": "Maple Polka",
+   "subtitle": "Original No. 25",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.1,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "2/4",
+   "bars": 20,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 52,
+    "score": 46,
+    "screen": 49,
+    "screen-score": 53
+   }
+  },
+  {
+   "slug": "original-26-paper-boat-sonatina",
+   "title": "Paper-Boat Sonatina",
+   "subtitle": "Original No. 26",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.4,
+    "s": 2.3
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 54,
+    "score": 47,
+    "screen": 51,
+    "screen-score": 55
+   }
+  },
+  {
+   "slug": "original-27-starlight-elegy",
+   "title": "Starlight Elegy",
+   "subtitle": "Original No. 27",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.8,
+    "s": 2.4
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 56,
+    "score": 49,
+    "screen": 53,
+    "screen-score": 57
+   }
+  },
+  {
+   "slug": "original-28-snowy-waltz",
+   "title": "Snowy Waltz",
+   "subtitle": "Original No. 28",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.9,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 58,
+    "score": 51,
+    "screen": 55,
+    "screen-score": 59
+   }
+  },
+  {
+   "slug": "original-29-hilltop-march",
+   "title": "Hilltop March",
+   "subtitle": "Original No. 29",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.3,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 60,
+    "score": 52,
+    "screen": 57,
+    "screen-score": 61
+   }
+  },
+  {
+   "slug": "original-30-bluebird-song",
+   "title": "Bluebird Song",
+   "subtitle": "Original No. 30",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.8,
+    "s": 2.6
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 62,
+    "score": 54,
+    "screen": 59,
+    "screen-score": 63
+   }
+  },
+  {
+   "slug": "original-31-kitchen-minuet",
+   "title": "Kitchen Minuet",
+   "subtitle": "Original No. 31",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.5,
+    "s": 3.2
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 56,
+    "screen": 61,
+    "screen-score": 65
+   }
+  },
+  {
+   "slug": "original-32-lakeside-jig",
+   "title": "Lakeside Jig",
+   "subtitle": "Original No. 32",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.6,
+    "s": 2.7
+   },
+   "key": "Em",
+   "meter": "6/8",
+   "bars": 20,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 58,
+    "screen": 63,
+    "screen-score": 67
+   }
+  },
+  {
+   "slug": "original-33-paper-boat-lullaby",
+   "title": "Paper-Boat Lullaby",
+   "subtitle": "Original No. 33",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.6,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 20,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 68,
+    "score": 60,
+    "screen": 65,
+    "screen-score": 69
+   }
+  },
+  {
+   "slug": "original-34-hilltop-polka",
+   "title": "Hilltop Polka",
+   "subtitle": "Original No. 34",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.7,
+    "s": 2.2
+   },
+   "key": "F",
+   "meter": "2/4",
+   "bars": 20,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 70,
+    "score": 62,
+    "screen": 67,
+    "screen-score": 71
+   }
+  },
+  {
+   "slug": "original-35-summer-sonatina",
+   "title": "Summer Sonatina",
+   "subtitle": "Original No. 35",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 2.0,
+    "s": 3.4
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 72,
+    "score": 63,
+    "screen": 68,
+    "screen-score": 73
+   }
+  },
+  {
+   "slug": "original-36-hilltop-elegy",
+   "title": "Hilltop Elegy",
+   "subtitle": "Original No. 36",
+   "composer": "composed by the duets generator",
+   "levels": {
+    "p": 1.3,
+    "s": 2.5
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 74,
+    "score": 65,
+    "screen": 70,
+    "screen-score": 75
+   }
+  }
+ ],
+ "seconds": 15.1
+}

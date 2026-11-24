@@ -1,0 +1,17 @@
+X:1
+T:Huntsmen's Chorus
+C:Carl Maria von Weber (Der Freischütz, 1821)
+S:Nottingham Music Database
+R:march
+%%duets category: classical
+%%duets tags: classical, opera
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: huntsmens-chorus
+M:4/4
+L:1/8
+K:G
+[P:A]D2 | "G"G2 D2 G A B c | "G"d4 "Em"B4 | "D7"A2 d2 A2 d2 |
+"G"B c B A "D7"G2 D2 | "G"G2 D2 G A B c | "G7/F"d4 "C/E"c4 | "G/D"B A G A "D7"B2 A2 |
+"G"G6 :| [P:B]G A | "G"B3 B "B7"B2 A2 | "Em"G4 G4 |
+"Am"c3 c c2 B2 | "D7"A2 F2 E2 D2 | "G"B3 A G A B c | "G7/F"d4 "C/E"c4 |
+"G/D"B A G A "D7"B2 A2 | "G"G6 :|

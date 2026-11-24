@@ -1,0 +1,2223 @@
+{
+ "id": "jigs-reels",
+ "title": "Jigs, Reels & Hornpipes",
+ "subtitle": "Fiddle tunes for piano four hands",
+ "blurb": "Dance tunes from Ireland, Scotland, England and North America.",
+ "pieces": 95,
+ "layouts": {
+  "facing": {
+   "path": "jigs-reels-facing.pdf",
+   "pages": 235,
+   "bytes": 2658595
+  },
+  "score": {
+   "path": "jigs-reels-score.pdf",
+   "pages": 201,
+   "bytes": 2064713
+  },
+  "screen": {
+   "path": "jigs-reels-screen.pdf",
+   "pages": 205,
+   "bytes": 2610781
+  },
+  "screen-score": {
+   "path": "jigs-reels-screen-score.pdf",
+   "pages": 169,
+   "bytes": 1895390
+  }
+ },
+ "items": [
+  {
+   "slug": "abbots-bromley-horn-dance",
+   "title": "Abbots Bromley Horn Dance",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 3.3,
+    "s": 2.8
+   },
+   "key": "Gm",
+   "meter": "6/8",
+   "bars": 27,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 6,
+    "screen": 4,
+    "screen-score": 4
+   }
+  },
+  {
+   "slug": "the-atholl-highlanders",
+   "title": "The Atholl Highlanders",
+   "subtitle": "",
+   "composer": "Scottish traditional pipe march",
+   "levels": {
+    "p": 3.9,
+    "s": 1.9
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 36,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 8,
+    "screen": 6,
+    "screen-score": 6
+   }
+  },
+  {
+   "slug": "the-blackthorn-stick",
+   "title": "The Blackthorn Stick",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.6,
+    "s": 4.0
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 11,
+    "screen": 9,
+    "screen-score": 8
+   }
+  },
+  {
+   "slug": "the-blarney-pilgrim",
+   "title": "The Blarney Pilgrim",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.1,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 27,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 13,
+    "screen": 11,
+    "screen-score": 9
+   }
+  },
+  {
+   "slug": "bonny-green-garters",
+   "title": "Bonny Green Garters",
+   "subtitle": "",
+   "composer": "English morris dance",
+   "levels": {
+    "p": 3.2,
+    "s": 3.3
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 54,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 20,
+    "score": 15,
+    "screen": 13,
+    "screen-score": 11
+   }
+  },
+  {
+   "slug": "cherish-the-ladies",
+   "title": "Cherish the Ladies",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.1,
+    "s": 2.7
+   },
+   "key": "D",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 19,
+    "screen": 17,
+    "screen-score": 15
+   }
+  },
+  {
+   "slug": "cock-of-the-north",
+   "title": "Cock of the North",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 3.4,
+    "s": 3.8
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 28,
+    "score": 21,
+    "screen": 19,
+    "screen-score": 16
+   }
+  },
+  {
+   "slug": "the-connaughtmans-rambles",
+   "title": "The Connaughtman's Rambles",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.1,
+    "s": 2.4
+   },
+   "key": "Bb",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 30,
+    "score": 23,
+    "screen": 21,
+    "screen-score": 17
+   }
+  },
+  {
+   "slug": "cumberland-reel",
+   "title": "Cumberland Reel",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 2.6,
+    "s": 3.4
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 26,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 32,
+    "score": 25,
+    "screen": 23,
+    "screen-score": 18
+   }
+  },
+  {
+   "slug": "dingle-regatta",
+   "title": "Dingle Regatta",
+   "subtitle": "",
+   "composer": "Irish traditional",
+   "levels": {
+    "p": 3.6,
+    "s": 3.0
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 27,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Jigs",
+   "problems": [
+    "5 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 34,
+    "score": 27,
+    "screen": 25,
+    "screen-score": 20
+   }
+  },
+  {
+   "slug": "drops-of-brandy",
+   "title": "Drops of Brandy",
+   "subtitle": "",
+   "composer": "Irish/Scottish traditional slip jig",
+   "levels": {
+    "p": 3.7,
+    "s": 1.8
+   },
+   "key": "G",
+   "meter": "9/8",
+   "bars": 9,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 29,
+    "screen": 27,
+    "screen-score": 22
+   }
+  },
+  {
+   "slug": "garryowen",
+   "title": "Garryowen",
+   "subtitle": "",
+   "composer": "Irish traditional quickstep",
+   "levels": {
+    "p": 3.0,
+    "s": 2.6
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 40,
+    "score": 31,
+    "screen": 29,
+    "screen-score": 23
+   }
+  },
+  {
+   "slug": "haste-to-the-wedding",
+   "title": "Haste to the Wedding",
+   "subtitle": "",
+   "composer": "English/Irish traditional jig",
+   "levels": {
+    "p": 3.7,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 33,
+    "screen": 31,
+    "screen-score": 24
+   }
+  },
+  {
+   "slug": "the-humours-of-donnybrook",
+   "title": "The Humours of Donnybrook",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.7,
+    "s": 4.1
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 19,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 44,
+    "score": 35,
+    "screen": 33,
+    "screen-score": 25
+   }
+  },
+  {
+   "slug": "hunt-the-squirrel",
+   "title": "Hunt the Squirrel",
+   "subtitle": "",
+   "composer": "English traditional (Playford, 1709)",
+   "levels": {
+    "p": 2.5,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 37,
+    "screen": 35,
+    "screen-score": 27
+   }
+  },
+  {
+   "slug": "the-irish-washerwoman",
+   "title": "The Irish Washerwoman",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.1,
+    "s": 3.7
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 39,
+    "screen": 37,
+    "screen-score": 28
+   }
+  },
+  {
+   "slug": "jockey-to-the-fair",
+   "title": "Jockey to the Fair",
+   "subtitle": "",
+   "composer": "English morris dance",
+   "levels": {
+    "p": 3.1,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 24,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 50,
+    "score": 41,
+    "screen": 39,
+    "screen-score": 29
+   }
+  },
+  {
+   "slug": "the-kid-on-the-mountain",
+   "title": "The Kid on the Mountain",
+   "subtitle": "",
+   "composer": "Irish traditional slip jig",
+   "levels": {
+    "p": 3.3,
+    "s": 3.8
+   },
+   "key": "Em",
+   "meter": "9/8",
+   "bars": 25,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 52,
+    "score": 43,
+    "screen": 41,
+    "screen-score": 31
+   }
+  },
+  {
+   "slug": "lanigans-ball",
+   "title": "Lanigan's Ball",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.1,
+    "s": 2.1
+   },
+   "key": "Em",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 56,
+    "score": 47,
+    "screen": 45,
+    "screen-score": 34
+   }
+  },
+  {
+   "slug": "the-lark-in-the-morning",
+   "title": "The Lark in the Morning",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.0,
+    "s": 3.2
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 32,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 58,
+    "score": 49,
+    "screen": 47,
+    "screen-score": 35
+   }
+  },
+  {
+   "slug": "larry-ogaff",
+   "title": "Larry O'Gaff",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.7,
+    "s": 3.5
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 62,
+    "score": 51,
+    "screen": 50,
+    "screen-score": 37
+   }
+  },
+  {
+   "slug": "the-monaghan-jig",
+   "title": "The Monaghan Jig",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.9,
+    "s": 2.4
+   },
+   "key": "Em",
+   "meter": "6/8",
+   "bars": 25,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 53,
+    "screen": 52,
+    "screen-score": 38
+   }
+  },
+  {
+   "slug": "my-darling-asleep",
+   "title": "My Darling Asleep",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 2.9,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 55,
+    "screen": 54,
+    "screen-score": 40
+   }
+  },
+  {
+   "slug": "off-she-goes",
+   "title": "Off She Goes",
+   "subtitle": "",
+   "composer": "English traditional jig",
+   "levels": {
+    "p": 4.0,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 68,
+    "score": 57,
+    "screen": 56,
+    "screen-score": 41
+   }
+  },
+  {
+   "slug": "the-oyster-girl",
+   "title": "The Oyster Girl",
+   "subtitle": "",
+   "composer": "English traditional jig",
+   "levels": {
+    "p": 3.2,
+    "s": 3.9
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 70,
+    "score": 59,
+    "screen": 58,
+    "screen-score": 42
+   }
+  },
+  {
+   "slug": "paddy-whack",
+   "title": "Paddy Whack",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.0,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 72,
+    "score": 61,
+    "screen": 60,
+    "screen-score": 43
+   }
+  },
+  {
+   "slug": "the-rakes-of-kildare",
+   "title": "The Rakes of Kildare",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.2,
+    "s": 3.7
+   },
+   "key": "Gm",
+   "meter": "6/8",
+   "bars": 26,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 74,
+    "score": 63,
+    "screen": 62,
+    "screen-score": 44
+   }
+  },
+  {
+   "slug": "the-road-to-lisdoonvarna",
+   "title": "The Road to Lisdoonvarna",
+   "subtitle": "",
+   "composer": "Irish traditional",
+   "levels": {
+    "p": 2.8,
+    "s": 2.8
+   },
+   "key": "Em",
+   "meter": "6/8",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 76,
+    "score": 65,
+    "screen": 64,
+    "screen-score": 46
+   }
+  },
+  {
+   "slug": "the-rocky-road-to-dublin",
+   "title": "The Rocky Road to Dublin",
+   "subtitle": "",
+   "composer": "Irish traditional slip jig",
+   "levels": {
+    "p": 3.6,
+    "s": 4.2
+   },
+   "key": "Gm",
+   "meter": "9/8",
+   "bars": 17,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 78,
+    "score": 67,
+    "screen": 66,
+    "screen-score": 47
+   }
+  },
+  {
+   "slug": "rory-omore",
+   "title": "Rory O'More",
+   "subtitle": "",
+   "composer": "Samuel Lover, 1826",
+   "levels": {
+    "p": 3.0,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 16,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 80,
+    "score": 69,
+    "screen": 68,
+    "screen-score": 49
+   }
+  },
+  {
+   "slug": "saddle-the-pony",
+   "title": "Saddle the Pony",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.0,
+    "s": 3.4
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 16,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 82,
+    "score": 71,
+    "screen": 70,
+    "screen-score": 50
+   }
+  },
+  {
+   "slug": "sir-roger-de-coverley",
+   "title": "Sir Roger de Coverley",
+   "subtitle": "",
+   "composer": "English traditional (17th century)",
+   "levels": {
+    "p": 3.7,
+    "s": 3.4
+   },
+   "key": "G",
+   "meter": "9/8",
+   "bars": 9,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 84,
+    "score": 73,
+    "screen": 72,
+    "screen-score": 51
+   }
+  },
+  {
+   "slug": "smash-the-windows",
+   "title": "Smash the Windows",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 4.1,
+    "s": 2.1
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 26,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 86,
+    "score": 75,
+    "screen": 74,
+    "screen-score": 52
+   }
+  },
+  {
+   "slug": "the-swallowtail-jig",
+   "title": "The Swallowtail Jig",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.1,
+    "s": 2.6
+   },
+   "key": "Em",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 88,
+    "score": 77,
+    "screen": 76,
+    "screen-score": 54
+   }
+  },
+  {
+   "slug": "the-sweets-of-may",
+   "title": "The Sweets of May",
+   "subtitle": "",
+   "composer": "Irish traditional",
+   "levels": {
+    "p": 3.6,
+    "s": 2.3
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 27,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 90,
+    "score": 79,
+    "screen": 78,
+    "screen-score": 55
+   }
+  },
+  {
+   "slug": "the-tenpenny-bit",
+   "title": "The Tenpenny Bit",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.6,
+    "s": 3.2
+   },
+   "key": "Em",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 94,
+    "score": 81,
+    "screen": 80,
+    "screen-score": 57
+   }
+  },
+  {
+   "slug": "tobins-favourite",
+   "title": "Tobin's Favourite",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.3,
+    "s": 2.1
+   },
+   "key": "D",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 96,
+    "score": 83,
+    "screen": 82,
+    "screen-score": 58
+   }
+  },
+  {
+   "slug": "tripping-up-the-stairs",
+   "title": "Tripping Up the Stairs",
+   "subtitle": "",
+   "composer": "Irish traditional jig",
+   "levels": {
+    "p": 3.1,
+    "s": 3.5
+   },
+   "key": "D",
+   "meter": "6/8",
+   "bars": 17,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Jigs",
+   "problems": [],
+   "pages": {
+    "facing": 98,
+    "score": 85,
+    "screen": 84,
+    "screen-score": 60
+   }
+  },
+  {
+   "slug": "arkansas-traveler",
+   "title": "Arkansas Traveler",
+   "subtitle": "",
+   "composer": "American traditional fiddle tune",
+   "levels": {
+    "p": 2.9,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 27,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 100,
+    "score": 87,
+    "screen": 86,
+    "screen-score": 62
+   }
+  },
+  {
+   "slug": "the-barren-rocks-of-aden",
+   "title": "The Barren Rocks of Aden",
+   "subtitle": "",
+   "composer": "Scottish pipe march",
+   "levels": {
+    "p": 2.0,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 104,
+    "score": 89,
+    "screen": 88,
+    "screen-score": 64
+   }
+  },
+  {
+   "slug": "billy-in-the-lowground",
+   "title": "Billy in the Lowground",
+   "subtitle": "",
+   "composer": "American traditional fiddle tune",
+   "levels": {
+    "p": 2.7,
+    "s": 2.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 106,
+    "score": 91,
+    "screen": 90,
+    "screen-score": 66
+   }
+  },
+  {
+   "slug": "the-blackbird",
+   "title": "The Blackbird",
+   "subtitle": "",
+   "composer": "Irish traditional hornpipe",
+   "levels": {
+    "p": 2.5,
+    "s": 3.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 108,
+    "score": 93,
+    "screen": 92,
+    "screen-score": 68
+   }
+  },
+  {
+   "slug": "carolans-concerto",
+   "title": "Carolan's Concerto",
+   "subtitle": "",
+   "composer": "Turlough O'Carolan (1670-1738)",
+   "levels": {
+    "p": 2.7,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 34,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 110,
+    "score": 95,
+    "screen": 94,
+    "screen-score": 70
+   }
+  },
+  {
+   "slug": "corn-rigs",
+   "title": "Corn Rigs",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 3.4,
+    "s": 3.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 114,
+    "score": 98,
+    "screen": 97,
+    "screen-score": 73
+   }
+  },
+  {
+   "slug": "cripple-creek",
+   "title": "Cripple Creek",
+   "subtitle": "",
+   "composer": "American traditional fiddle tune",
+   "levels": {
+    "p": 2.4,
+    "s": 2.3
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 116,
+    "score": 100,
+    "screen": 99,
+    "screen-score": 75
+   }
+  },
+  {
+   "slug": "the-dashing-white-sergeant",
+   "title": "The Dashing White Sergeant",
+   "subtitle": "",
+   "composer": "Henry Bishop, 1826",
+   "levels": {
+    "p": 2.2,
+    "s": 2.8
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 118,
+    "score": 101,
+    "screen": 100,
+    "screen-score": 76
+   }
+  },
+  {
+   "slug": "the-devil-among-the-tailors",
+   "title": "The Devil Among the Tailors",
+   "subtitle": "",
+   "composer": "Scottish/English traditional reel",
+   "levels": {
+    "p": 2.7,
+    "s": 3.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 122,
+    "score": 103,
+    "screen": 103,
+    "screen-score": 78
+   }
+  },
+  {
+   "slug": "drowsy-maggie",
+   "title": "Drowsy Maggie",
+   "subtitle": "",
+   "composer": "Irish traditional reel",
+   "levels": {
+    "p": 4.1,
+    "s": 2.2
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 124,
+    "score": 105,
+    "screen": 105,
+    "screen-score": 80
+   }
+  },
+  {
+   "slug": "the-drunken-sailor-hornpipe",
+   "title": "The Drunken Sailor Hornpipe",
+   "subtitle": "",
+   "composer": "English/Irish traditional hornpipe",
+   "levels": {
+    "p": 1.8,
+    "s": 2.9
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 126,
+    "score": 107,
+    "screen": 107,
+    "screen-score": 82
+   }
+  },
+  {
+   "slug": "the-fairy-dance",
+   "title": "The Fairy Dance",
+   "subtitle": "",
+   "composer": "Nathaniel Gow, 1809",
+   "levels": {
+    "p": 2.7,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 128,
+    "score": 109,
+    "screen": 109,
+    "screen-score": 83
+   }
+  },
+  {
+   "slug": "farewell-to-whisky",
+   "title": "Farewell to Whisky",
+   "subtitle": "",
+   "composer": "Niel Gow, 1799",
+   "levels": {
+    "p": 1.9,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 130,
+    "score": 111,
+    "screen": 112,
+    "screen-score": 85
+   }
+  },
+  {
+   "slug": "fishers-hornpipe",
+   "title": "Fisher's Hornpipe",
+   "subtitle": "",
+   "composer": "English traditional (18th century)",
+   "levels": {
+    "p": 2.7,
+    "s": 2.2
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 132,
+    "score": 113,
+    "screen": 114,
+    "screen-score": 86
+   }
+  },
+  {
+   "slug": "flop-eared-mule",
+   "title": "Flop-Eared Mule",
+   "subtitle": "",
+   "composer": "American traditional fiddle tune",
+   "levels": {
+    "p": 2.2,
+    "s": 3.1
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 134,
+    "score": 115,
+    "screen": 116,
+    "screen-score": 88
+   }
+  },
+  {
+   "slug": "the-flowers-of-edinburgh",
+   "title": "The Flowers of Edinburgh",
+   "subtitle": "",
+   "composer": "Scottish traditional reel",
+   "levels": {
+    "p": 2.0,
+    "s": 2.8
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 136,
+    "score": 117,
+    "screen": 118,
+    "screen-score": 90
+   }
+  },
+  {
+   "slug": "galopede",
+   "title": "Galopede",
+   "subtitle": "",
+   "composer": "English traditional country dance",
+   "levels": {
+    "p": 3.1,
+    "s": 3.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 138,
+    "score": 119,
+    "screen": 120,
+    "screen-score": 91
+   }
+  },
+  {
+   "slug": "harvest-home",
+   "title": "Harvest Home",
+   "subtitle": "",
+   "composer": "Irish traditional hornpipe",
+   "levels": {
+    "p": 2.8,
+    "s": 2.2
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 142,
+    "score": 122,
+    "screen": 123,
+    "screen-score": 94
+   }
+  },
+  {
+   "slug": "the-high-caul-cap",
+   "title": "The High Caul Cap",
+   "subtitle": "",
+   "composer": "Irish traditional",
+   "levels": {
+    "p": 1.8,
+    "s": 2.7
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 144,
+    "score": 124,
+    "screen": 125,
+    "screen-score": 96
+   }
+  },
+  {
+   "slug": "highland-mary",
+   "title": "Highland Mary",
+   "subtitle": "",
+   "composer": "English morris dance",
+   "levels": {
+    "p": 2.3,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 72,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 146,
+    "score": 125,
+    "screen": 127,
+    "screen-score": 97
+   }
+  },
+  {
+   "slug": "the-indian-queen",
+   "title": "The Indian Queen",
+   "subtitle": "",
+   "composer": "Playford's Dancing Master, 1701",
+   "levels": {
+    "p": 3.8,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 154,
+    "score": 131,
+    "screen": 132,
+    "screen-score": 101
+   }
+  },
+  {
+   "slug": "jenny-lind-polka",
+   "title": "Jenny Lind Polka",
+   "subtitle": "",
+   "composer": "Anton Wallerstein, 1846",
+   "levels": {
+    "p": 2.0,
+    "s": 2.8
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 156,
+    "score": 133,
+    "screen": 134,
+    "screen-score": 103
+   }
+  },
+  {
+   "slug": "king-of-the-fairies",
+   "title": "King of the Fairies",
+   "subtitle": "",
+   "composer": "Irish traditional set dance",
+   "levels": {
+    "p": 3.0,
+    "s": 2.1
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 158,
+    "score": 135,
+    "screen": 136,
+    "screen-score": 104
+   }
+  },
+  {
+   "slug": "kitchen-girl",
+   "title": "Kitchen Girl",
+   "subtitle": "",
+   "composer": "American traditional fiddle tune",
+   "levels": {
+    "p": 2.8,
+    "s": 3.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 162,
+    "score": 137,
+    "screen": 138,
+    "screen-score": 106
+   }
+  },
+  {
+   "slug": "la-bastringue",
+   "title": "La Bastringue",
+   "subtitle": "",
+   "composer": "French-Canadian traditional",
+   "levels": {
+    "p": 2.3,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 164,
+    "score": 139,
+    "screen": 140,
+    "screen-score": 108
+   }
+  },
+  {
+   "slug": "la-russe",
+   "title": "La Russe",
+   "subtitle": "",
+   "composer": "English traditional quadrille",
+   "levels": {
+    "p": 2.5,
+    "s": 2.6
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 166,
+    "score": 141,
+    "screen": 142,
+    "screen-score": 110
+   }
+  },
+  {
+   "slug": "liberty",
+   "title": "Liberty",
+   "subtitle": "",
+   "composer": "American traditional fiddle tune",
+   "levels": {
+    "p": 1.8,
+    "s": 2.9
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 168,
+    "score": 143,
+    "screen": 144,
+    "screen-score": 111
+   }
+  },
+  {
+   "slug": "liverpool-hornpipe",
+   "title": "Liverpool Hornpipe",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 3.2,
+    "s": 3.4
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 170,
+    "score": 144,
+    "screen": 146,
+    "screen-score": 112
+   }
+  },
+  {
+   "slug": "londonderry-hornpipe",
+   "title": "Londonderry Hornpipe",
+   "subtitle": "",
+   "composer": "Irish traditional",
+   "levels": {
+    "p": 2.9,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 54,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 172,
+    "score": 146,
+    "screen": 148,
+    "screen-score": 114
+   }
+  },
+  {
+   "slug": "lord-wellington",
+   "title": "Lord Wellington",
+   "subtitle": "",
+   "composer": "English/Irish traditional",
+   "levels": {
+    "p": 2.7,
+    "s": 2.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 178,
+    "score": 151,
+    "screen": 153,
+    "screen-score": 119
+   }
+  },
+  {
+   "slug": "the-maid-behind-the-bar",
+   "title": "The Maid Behind the Bar",
+   "subtitle": "",
+   "composer": "Irish traditional reel",
+   "levels": {
+    "p": 3.0,
+    "s": 3.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 180,
+    "score": 153,
+    "screen": 155,
+    "screen-score": 121
+   }
+  },
+  {
+   "slug": "the-masons-apron",
+   "title": "The Mason's Apron",
+   "subtitle": "",
+   "composer": "Irish/Scottish traditional reel",
+   "levels": {
+    "p": 3.8,
+    "s": 1.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 182,
+    "score": 155,
+    "screen": 157,
+    "screen-score": 123
+   }
+  },
+  {
+   "slug": "the-merry-blacksmith",
+   "title": "The Merry Blacksmith",
+   "subtitle": "",
+   "composer": "Irish traditional reel",
+   "levels": {
+    "p": 2.5,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 184,
+    "score": 157,
+    "screen": 159,
+    "screen-score": 125
+   }
+  },
+  {
+   "slug": "miss-mcleods-reel",
+   "title": "Miss McLeod's Reel",
+   "subtitle": "",
+   "composer": "Scottish/Irish traditional reel",
+   "levels": {
+    "p": 3.0,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 186,
+    "score": 159,
+    "screen": 161,
+    "screen-score": 127
+   }
+  },
+  {
+   "slug": "mississippi-sawyer",
+   "title": "Mississippi Sawyer",
+   "subtitle": "",
+   "composer": "American traditional fiddle tune",
+   "levels": {
+    "p": 2.5,
+    "s": 3.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 190,
+    "score": 161,
+    "screen": 164,
+    "screen-score": 130
+   }
+  },
+  {
+   "slug": "morpeth-rant",
+   "title": "Morpeth Rant",
+   "subtitle": "",
+   "composer": "Northumbrian traditional",
+   "levels": {
+    "p": 2.5,
+    "s": 2.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 192,
+    "score": 163,
+    "screen": 166,
+    "screen-score": 132
+   }
+  },
+  {
+   "slug": "nonesuch",
+   "title": "Nonesuch",
+   "subtitle": "",
+   "composer": "Playford's Dancing Master, 1651",
+   "levels": {
+    "p": 2.2,
+    "s": 2.0
+   },
+   "key": "Am",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 194,
+    "score": 165,
+    "screen": 168,
+    "screen-score": 134
+   }
+  },
+  {
+   "slug": "petronella",
+   "title": "Petronella",
+   "subtitle": "",
+   "composer": "Scottish traditional country dance",
+   "levels": {
+    "p": 2.4,
+    "s": 2.8
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 196,
+    "score": 166,
+    "screen": 169,
+    "screen-score": 135
+   }
+  },
+  {
+   "slug": "the-red-haired-boy",
+   "title": "The Red-Haired Boy",
+   "subtitle": "",
+   "composer": "Irish traditional",
+   "levels": {
+    "p": 3.1,
+    "s": 3.3
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 198,
+    "score": 168,
+    "screen": 171,
+    "screen-score": 137
+   }
+  },
+  {
+   "slug": "the-rights-of-man",
+   "title": "The Rights of Man",
+   "subtitle": "",
+   "composer": "Irish traditional hornpipe",
+   "levels": {
+    "p": 2.6,
+    "s": 2.1
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 200,
+    "score": 170,
+    "screen": 173,
+    "screen-score": 139
+   }
+  },
+  {
+   "slug": "the-rose-tree",
+   "title": "The Rose Tree",
+   "subtitle": "",
+   "composer": "English/Irish traditional",
+   "levels": {
+    "p": 2.3,
+    "s": 2.8
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 202,
+    "score": 172,
+    "screen": 175,
+    "screen-score": 141
+   }
+  },
+  {
+   "slug": "rufty-tufty",
+   "title": "Rufty Tufty",
+   "subtitle": "",
+   "composer": "Playford's Dancing Master, 1651",
+   "levels": {
+    "p": 2.0,
+    "s": 2.3
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 204,
+    "score": 174,
+    "screen": 177,
+    "screen-score": 142
+   }
+  },
+  {
+   "slug": "the-sailors-hornpipe",
+   "title": "The Sailor's Hornpipe",
+   "subtitle": "",
+   "composer": "English traditional (College Hornpipe)",
+   "levels": {
+    "p": 3.9,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 206,
+    "score": 175,
+    "screen": 178,
+    "screen-score": 143
+   }
+  },
+  {
+   "slug": "the-sally-gardens-reel",
+   "title": "The Sally Gardens (reel)",
+   "subtitle": "",
+   "composer": "Irish traditional reel",
+   "levels": {
+    "p": 2.4,
+    "s": 2.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 208,
+    "score": 177,
+    "screen": 180,
+    "screen-score": 145
+   }
+  },
+  {
+   "slug": "salmon-tails-up-the-water",
+   "title": "Salmon Tails Up the Water",
+   "subtitle": "",
+   "composer": "Northumbrian traditional",
+   "levels": {
+    "p": 2.4,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 210,
+    "score": 179,
+    "screen": 182,
+    "screen-score": 147
+   }
+  },
+  {
+   "slug": "soldiers-joy",
+   "title": "Soldier's Joy",
+   "subtitle": "",
+   "composer": "Scottish/American traditional reel",
+   "levels": {
+    "p": 3.0,
+    "s": 3.2
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 212,
+    "score": 181,
+    "screen": 184,
+    "screen-score": 149
+   }
+  },
+  {
+   "slug": "speed-the-plough",
+   "title": "Speed the Plough",
+   "subtitle": "",
+   "composer": "English traditional (1799)",
+   "levels": {
+    "p": 2.7,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 214,
+    "score": 183,
+    "screen": 186,
+    "screen-score": 151
+   }
+  },
+  {
+   "slug": "st-annes-reel",
+   "title": "St. Anne's Reel",
+   "subtitle": "",
+   "composer": "French-Canadian traditional reel",
+   "levels": {
+    "p": 2.3,
+    "s": 3.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 216,
+    "score": 185,
+    "screen": 188,
+    "screen-score": 153
+   }
+  },
+  {
+   "slug": "staines-morris",
+   "title": "Staines Morris",
+   "subtitle": "",
+   "composer": "Playford's Dancing Master, 1651",
+   "levels": {
+    "p": 2.1,
+    "s": 2.7
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 10,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 218,
+    "score": 187,
+    "screen": 190,
+    "screen-score": 155
+   }
+  },
+  {
+   "slug": "staten-island-hornpipe",
+   "title": "Staten Island Hornpipe",
+   "subtitle": "",
+   "composer": "Scottish/American traditional",
+   "levels": {
+    "p": 3.4,
+    "s": 2.9
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 220,
+    "score": 188,
+    "screen": 191,
+    "screen-score": 156
+   }
+  },
+  {
+   "slug": "the-swallows-tail-reel",
+   "title": "The Swallow's Tail Reel",
+   "subtitle": "",
+   "composer": "Irish traditional reel",
+   "levels": {
+    "p": 3.6,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 222,
+    "score": 190,
+    "screen": 193,
+    "screen-score": 158
+   }
+  },
+  {
+   "slug": "the-trumpet-hornpipe",
+   "title": "The Trumpet Hornpipe",
+   "subtitle": "",
+   "composer": "English traditional",
+   "levels": {
+    "p": 2.8,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 224,
+    "score": 192,
+    "screen": 195,
+    "screen-score": 160
+   }
+  },
+  {
+   "slug": "the-white-cockade",
+   "title": "The White Cockade",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 2.2,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 226,
+    "score": 194,
+    "screen": 197,
+    "screen-score": 162
+   }
+  },
+  {
+   "slug": "the-winster-gallop",
+   "title": "The Winster Gallop",
+   "subtitle": "",
+   "composer": "English traditional (Derbyshire)",
+   "levels": {
+    "p": 3.9,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "Reels, Hornpipes & Marches",
+   "problems": [],
+   "pages": {
+    "facing": 228,
+    "score": 196,
+    "screen": 199,
+    "screen-score": 163
+   }
+  },
+  {
+   "slug": "dicks-maggot",
+   "title": "Dick's Maggot",
+   "subtitle": "",
+   "composer": "Playford's Dancing Master, 1703",
+   "levels": {
+    "p": 3.2,
+    "s": 4.2
+   },
+   "key": "F",
+   "meter": "3/2",
+   "bars": 12,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Waltzes & Airs",
+   "problems": [],
+   "pages": {
+    "facing": 230,
+    "score": 198,
+    "screen": 201,
+    "screen-score": 165
+   }
+  },
+  {
+   "slug": "hole-in-the-wall",
+   "title": "Hole in the Wall",
+   "subtitle": "",
+   "composer": "Henry Purcell, 1695 (Playford's Dancing Master)",
+   "levels": {
+    "p": 3.6,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "3/2",
+   "bars": 17,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Waltzes & Airs",
+   "problems": [],
+   "pages": {
+    "facing": 232,
+    "score": 199,
+    "screen": 202,
+    "screen-score": 166
+   }
+  },
+  {
+   "slug": "mr-beveridges-maggot",
+   "title": "Mr Beveridge's Maggot",
+   "subtitle": "",
+   "composer": "Playford's Dancing Master, 1695",
+   "levels": {
+    "p": 3.9,
+    "s": 3.0
+   },
+   "key": "Em",
+   "meter": "3/2",
+   "bars": 12,
+   "flavor": "tune-below",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Waltzes & Airs",
+   "problems": [
+    "4 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 234,
+    "score": 201,
+    "screen": 204,
+    "screen-score": 168
+   }
+  }
+ ],
+ "seconds": 31.1
+}

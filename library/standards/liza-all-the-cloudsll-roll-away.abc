@@ -1,0 +1,26 @@
+X:1
+T:Liza (All the Clouds'll Roll Away)
+C:George Gershwin, 1929
+S:OpenEWLD
+R:swing
+%%duets category: standard
+%%duets tags: gershwin
+%%duets year: 1929
+%%duets credit: Melody and chords: public domain in the United States (published 1929); lead sheet from OpenEWLD.
+%%duets slug: liza-all-the-cloudsll-roll-away
+M:4/4
+L:1/8
+K:Eb
+"Eb"e4 "Gm"d3/2 d/2 d3/2 d/2 | "Cm"c4 "Gm"d4 | "Cm"c2 "Gm"d2 "Cm"c2 "Gm"d2 | "Cm6"G4 "Bb7"B4 |
+"Eb"e4 "Gm"d3/2 d/2 d3/2 d/2 | "Cm"c4 "Gm"d4 | "Cm"c2 "Gm"d2 "Cm"c2 "Gm"d2 | "F7"e4 "B7"B4 |
+"Ab"F3/2 G/2 A3/2 B/2 c3/2 d/2 "Abm6"e3/2 f/2 | "Eb"e3/2 d/2 c3/2 B/2 "Ebdim"d4 | "Fm7"B3/2 A/2 G3/2 F/2 "Abm6"A3 "Bb7"G | "Gm7"B2 "C7"B6 |
+"Ab6"F3/2 G/2 A3/2 B/2 c3/2 d/2 "Abm6"e3/2 f/2 | "Eb"e3/2 d/2 c3/2 B/2 "F7b9"d4 | "Bb"f B2 B "Eb"c2- "Ebm"c2 | "Bb"f B2 B "C7"c2- "Ebm6"c2 |
+"Bb"f2 "Gm7"B2 "Cm7"d2 "F9"G2 | "Bb"B2- "Fm7"B2- "Gm"B2- "Bb7"B2 |: "Eb"B4 "Bb7"B4 | "Cdim"c4 "C7"c4 |
+"Abm6"e4 "Cdim"e4 | "Bbm6"f4- "Eb9"f4 | "Ab"z2 e2 "Fm7"c2 A2 | "Gm"d2 B2 "C9"G4 |
+"Fm"z2 c3/2 A/2 "Bb7"F3/2 E/2 D3/2 F/2 | "Eb"E2- "Ab"E2- "Eb"E2- "Fm7"E2 | "Eb"B4 "Bb7"B4 | "Cdim"c4 "C7"c4 |
+"Ab"e4 "Cdim"e4 | "Bbm6"f4- "Eb9"f4 | "Ab"z2 e2 "Fm7"c2 A2 | "Gm"d2 B2 "C9"G4 |
+"Fm"z2 c3/2 A/2 "Bb7"F3/2 E/2 D3/2 F/2 | "Eb"E2- "G7#5"E4 "G7"z2 | "C"e4- "C7"e4 | "Cdim"z3/2 f/2 e3/2 d/2 "G7"e2 d2 |
+"Cm"c6 G2 | "Cdim"B4- "Eb7"B4 | "Ab"c4- "Fm"c4 | "Bbm7"z3/2 _d/2 c3/2 B/2 "Eb7"c2 B2 |
+"Ab6"A6 E2 | "Ebm6"_G6 "Bb7"=G2 | "Eb"B4 "Bb7"B4 | "Cdim"c4 "C7"c4 |
+"Abm6"e4 "Cdim"e4 | "Bbm6"f4- "Eb9"f4 | "Ab"z2 e2 "Fm7"c2 A2 | "Gm"d2 B2 "C9"G4 |
+"Fm"z2 c3/2 A/2 "Bb7"F3/2 E/2 D3/2 F/2 | "Eb"E2- "Db"E2- "Bm7"E2 "Bb7"z2 :| "Eb"E6 z2 |]

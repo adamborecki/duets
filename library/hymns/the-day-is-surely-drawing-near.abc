@@ -1,0 +1,42 @@
+X:1
+T:The Day Is Surely Drawing Near
+T:ES IST GEWISSLICH AN DER ZEIT
+C:Klug's Geistliche Lieder, Wittenberg, 1533
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: end-times
+%%duets tune: ES IST GEWISSLICH AN DER ZEIT
+%%duets year: 1533
+%%duets credit: Tune and setting: public domain ("Evangelical Lutheran Hymn-Book", 1931), via the Open Hymnal Project.
+%%duets lyricist: Bartholomäus Ringwaldt, 1565. Translated by Phillip A. Peter, 1872, alt
+%%duets notes: intro 16-18
+%%duets slug: the-day-is-surely-drawing-near
+M:4/4
+L:1/8
+Q:1/4=140
+K:G
+V:S
+"G"z2 G2 G2 B2 | "D"A2 "Em"G2 "Am"A2 "D"A2 | "G"B4 "C"G4 | "G"B2 "C/E"c2 "D/F#"d2 "G"B2 |
+"Dsus4"A2- "D"A2 "G"G4 | "G"z2 G2 G2 B2 | "D"A2 "Em"G2 "Am"A2 "D"A2 | "G"B4 "C"G4 |
+"G"B2 "C/E"c2 "D/F#"d2 "G"B2 | "Dsus4"A2- "D"A2 "G"G4 | "G"z2 B2 B2 "D"A2 | "Em"G2 "B"F2 "Em/G"G2 "A"E2 |
+"D"D6 D2 | "G/B"G2 "C"G2 "G"G2 "D"F2 | "Em"G2 "D"A2 "G"B4 | "C"G4 "G"B2 "C/E"c2 |
+"D"d2 "G"B2 "Dsus4"A2- "D"A2 | "G"G8 |]
+V:A
+z2 D2 D2 G2 | F2 E2 E2 F2 | G4 E4 | G2 G2 A2 G2 |
+G2 F2 D4 | z2 D2 D2 G2 | F2 E2 E2 F2 | G4 E4 |
+G2 G2 A2 G2 | G2 F2 D4 | z2 D2 G2 F2 | E2 ^D2 E2 ^C2 |
+D6 D2 | D2 E2 D2 D2 | B,2 D2 D4 | E4 D2 E2 |
+F2 D2 D4 | B,8 |]
+V:T
+z2 B,2 G,2 D2 | D2 B,2 C2 D2 | D4 C4 | D2 E2 D2 D2 |
+D4 B,4 | z2 B,2 G,2 D2 | D2 B,2 C2 D2 | D4 C4 |
+D2 E2 D2 D2 | D4 B,4 | z2 G,2 D2 D2 | B,2 B,2 B,2 A,2 |
+F,6 F,2 | G,2 C2 B,2 A,2 | G,2 F,2 G,4 | G,4 G,2 G,2 |
+A,2 G,2 G,2 F,2 | G,8 |]
+V:B
+z2 G,,2 B,,2 G,,2 | D,2 E,2 A,,2 D,2 | G,,4 C,4 | G,2 E,2 F,2 G,2 |
+D,4 G,,4 | z2 G,,2 B,,2 G,,2 | D,2 E,2 A,,2 D,2 | G,,4 C,4 |
+G,2 E,2 F,2 G,2 | D,4 G,,4 | z2 G,,2 G,2 D,2 | E,2 B,,2 G,,2 A,,2 |
+D,6 D,2 | B,,2 C,2 G,,2 D,2 | E,2 D,2 G,,4 | C,4 G,2 E,2 |
+D,2 G,,2 D,4 | G,,8 |]

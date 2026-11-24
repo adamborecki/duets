@@ -1,0 +1,21 @@
+X:1
+T:Look for the Silver Lining
+C:Jerome Kern, 1920
+S:OpenEWLD
+R:ballad
+%%duets category: standard
+%%duets tags: kern
+%%duets year: 1920
+%%duets credit: Melody and chords: public domain in the United States (published 1920); lead sheet from OpenEWLD.
+%%duets slug: look-for-the-silver-lining
+M:4/4
+L:1/8
+K:F
+"F"A4 A4- | "C7"A2 B2 G2 A2 | "F"F4 F4- | "C7"F2 G2 A2 B2 |
+"F"c4 c4 | "Bb"f2 e4 d2 | "F"c8- | c2 F2 G2 A2 |
+"Gm"B4 B4- | B2 D2 E2 G2 | "F"c4 c4- | c2 A2 c2 d2 |
+"Dm"f4 f4- | "G7"f4 e4 | "C"c3 d c3 d | c3 d B3 c |
+"F"A4 A4- | "C7"A2 B2 G2 A2 | "F"F4 F4- | "C7"F2 G2 A2 B2 |
+"F7"c4 c4 | c2 B4 A2 | "Bb"d8- | d2 d2 ^c2 d2 |
+"G7"g4 e4- | e2 f2 d2 e2 | "F"c4 c4- | c2 A2 "D7"e2 d2 |
+"Gm"B4 B4 | "C7"B c A4 G2 | "F"F8- | F6 z2 |]

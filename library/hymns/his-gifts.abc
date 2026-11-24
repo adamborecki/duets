@@ -1,0 +1,42 @@
+X:1
+T:His Gifts
+T:SIMPLE GIFTS
+C:(Shaker dance) Joseph Brackett, 1848, alt
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: thanksgiving
+%%duets tune: SIMPLE GIFTS
+%%duets year: 1848
+%%duets credit: Tune and setting: public domain (Brian J. Dumont, 2011), via the Open Hymnal Project.
+%%duets lyricist: Brian J. Dumont, 2011
+%%duets notes: intro 16-17
+%%duets slug: his-gifts
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+V:S
+"D"D D | "G/D"G2 "G/B"G A B G "G/D"B c | "D"d2 d d "G/B"B2 "D7"A G | "D"A2 A2 A2 A2 |
+"D"A B A F D2 "G/D"D2 | "C/E"G F "C"G A "G/D"B2 "D"A A | "G/D"B2 "C"c2 "D"d2 "Cmaj7"c B | "D/A"A2 "B7/A"A B "D"A2 "C"G G |
+"D/A"A2 "C"G F "G/B"G4 | "D/A"d4 "G/B"B2- "Bm7"B A | "Em7/B"B c "Bm"B A "C"G3 A | "G/B"B2 B c "D"d2 "C"c B |
+"D"A2 "Bm7/F#"A B A2 D2 | "C/E"G4 "G/D"G3 A | "G/D"B A B c "D"d2 "Cmaj7"c B | "D/A"A2 A2 "G/B"B2 "Bm7"B A |
+"C"G2 "G/B"G2 G2 |]
+V:A
+A, A, | B,2 B, D G G D E | F2 A F D2 F E | D2 F2 D2 D2 |
+F G F D A,2 B,2 | C D E F G2 F F | G2 E2 F2 G G | F2 F2 D2 E D |
+D2 E D D4 | F4 G3 F | G E G F E3 D | D2 G G A2 G D |
+F2 D D D2 B,2 | C4 B,3 D | D D B, G F2 E D | D2 F2 G2 G F |
+E2 D2 D2 |]
+V:T
+F, F, | D,2 G, F, D, E, G, C | A,2 F, A, G,2 A, G, | F,2 D,2 A,2 F,2 |
+A, B, A, F, F,2 G,2 | G, A, G, A, G,2 F, A, | B,2 G,2 A,2 G, D, | D,2 F,2 F,2 G, G, |
+F,2 G, F, G,4 | A,4 D,3 D, | D, E, D, F, E,3 F, | G,2 D, E, F,2 E, G, |
+F,2 F, B, A,2 B,2 | G,4 G,3 A, | G, A, G, E, F,2 G, G, | F,2 F,2 D,2 D, F, |
+G,2 G,2 G,2 |]
+V:B
+D, D, | D,2 B,, A,, B,, C, D, C, | D,2 D, D, B,,2 D, C, | D,2 D,2 A,,2 A,,2 |
+D, D, D, F, D,2 D,2 | E, F, C, D, D,2 D, D, | D,2 C,2 D,2 C, B,, | A,,2 A,, B,, D,2 C, B,, |
+A,,2 C, D, B,,4 | A,,4 B,,3 A,, | B,, C, B,, D, C,3 D, | B,,2 B,, C, D,2 C, D, |
+D,2 F, G, F,2 D,2 | E,4 D,3 F, | D, D, D, C, D,2 C, B,, | A,,2 A,,2 B,,2 B,, A,, |
+C,2 B,,2 B,,2 |]

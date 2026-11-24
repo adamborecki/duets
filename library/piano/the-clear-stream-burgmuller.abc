@@ -1,0 +1,35 @@
+X:1
+T:The Clear Stream
+T:Op. 100 No. 7
+C:Friedrich Burgmüller
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, burgmuller
+%%duets credit: Friedrich Burgmüller. Source edition: Bas Wassink for the Mutopia Project (Public Domain).
+%%duets tempo-text: Allegro vivace
+%%duets slug: the-clear-stream-burgmuller
+M:4/4
+L:1/8
+Q:1/4=152
+K:G
+V:S
+B,2 B,2 C2 A,2 | B,2 B,2 (3zBG G2 | (3zgd (3zgd (3zad (3zfd | (3zgd (3zed (3zcB (3zAG |
+(3zGD (3zGD (3zAD (3zFD | (3zGD (3zGD D2 (3zdB | B2 B2 c2 A2 | (3:2:2Bz11 |
+(3B,GD (3B,GD (3CAD (3A,FD | (3B,GD (3B,GD (3DBG (3GdB | B2 B2 c2 A2 | B2 B2 G2 (3DAG |
+(3B,GD (3B,GD (3CAD (3A,FD | (3B,GD (3B,GD (3DBG (3GdB | B2 B2 c2 A2 | (3Bdg (3gbd' g'2 z2 |
+(3zfA (3zfA (3zfA (3zfA | (3zgA (3zeA (3z_dA (3z=dA | (3zeA (3zfA (3zgA (3zeA | (3zfA (3zeA (3zdA (3zeA |
+(3zfA (3zfA (3zeA (3zfA | (3zgA (3zeA (3z_dA (3z=dA | (3zeA (3zfA (3zgA (3z_dA | (3ded (3cBA (3GFE (3D_DC |]
+V:rh2
+(3zGD (3zGD (3zAD (3zFD | (3zGD (3zGD D2 (3zdB | B2 B2 c2 A2 | B2 B2 G2 D2 |
+B,2 B,2 C2 A,2 | B,2 B,2 (3zBG G2 | (3zgd (3zgd (3zad (3zfd | (3zdg (3gbd' g'2 z2 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |]
+V:lh
+G,,2 D,2 G,,2 D,2 | G,,2 D,2 G,,2 D,2 | G,,2 D,2 G,,2 D,2 | G,,2 D,2 G,,2 D,2 |
+G,,2 D,2 G,,2 D,2 | G,,2 D,2 G,,2 D,2 | G,,2 D,2 G,,2 D,2 | G,,2 D,2 G,,2 z2 |
+D2 A,2 ^C2 D2 | E2 _D2 A,2 B,2 | ^C2 D2 E2 C2 | D2 G2 F2 E2 |
+D2 A,2 ^C2 D2 | E2 _D2 A,2 B,2 | ^C2 D2 E2 G2 | F2 z6 |
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |]

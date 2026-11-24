@@ -1,0 +1,38 @@
+X:1
+T:Comfort, Comfort Ye My People
+T:FREU DICH SEHR, O MEINE SEELE
+C:Trente Quatre Pseaumes de David, Geneva, 1551
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: advent
+%%duets tune: FREU DICH SEHR, O MEINE SEELE
+%%duets year: 1551
+%%duets credit: Tune and setting: public domain ("Evangelical Lutheran Hymn-Book", 1931), via the Open Hymnal Project.
+%%duets lyricist: Johann Olearius (Oelschlaeger), 1671. Translated by Catherine Winkworth, 1862
+%%duets notes: intro 15-16
+%%duets slug: comfort-comfort-ye-my-people
+M:6/4
+L:1/8
+Q:3/4=53
+K:F
+V:S
+"F"F4 G2 A4 G2 | "Dm"F2 E2 D2- "Bbmaj7"D2 C4 | "Dm7"F4 G2 "F"A4 B2 | "F/C"A4 G4 !fermata!F4 |
+"F"F4 G2 A4 G2 | "Dm"F2 E2 D2- "Bbmaj7"D2 C4 | "Dm7"F4 G2 "F"A4 B2 | "F/C"A4 G4 !fermata!F4 |
+"F"A4 A2 "F/A"c4 B2 | "F"A2 G2 A4 z4 | "F"c4 c2 "Bb"d4 c2 | "Dm7"B2 A2 G2- "C"G2 z4 |
+"F7"A4 c2 "Gm"B4 A2 | "Dm7"F2 G2 A2- "Bb/F"A2 F4 | "F"A4 A2 "Bb"B4 A2 | "Am7/G"G2 F2 E2- "F/C"E2 !fermata!F4 |]
+V:A
+C4 E2 F4 E2 | D2 C2 B,4 A,4 | D4 E2 F4 F2 | F4 E4 C4 |
+C4 E2 F4 E2 | D2 C2 B,4 A,4 | D4 E2 F4 F2 | F4 E4 C4 |
+F4 F2 F4 F2 | F2 E2 F4 z4 | A4 F2 F4 E2 | F2 F2 E4 z4 |
+C4 _E2 D4 F2 | D2 E2 F4 D4 | F4 F2 F4 F2 | D2 C2 C4 C4 |]
+V:T
+A,4 C2 C4 C2 | A,2 A,2 F,4 F,4 | A,4 C2 C4 D2 | C6 B,2 A,4 |
+A,4 C2 C4 C2 | A,2 A,2 F,4 F,4 | A,4 C2 C4 D2 | C6 B,2 A,4 |
+C4 D2 C4 D2 | C2 C2 C4 z4 | C4 A,2 B,4 G,2 | D2 C2 C4 z4 |
+F,4 G,2 G,4 C2 | A,2 C2 C4 B,4 | C4 D2 D4 C2 | B,2 A,2 G,2 B,2 A,4 |]
+V:B
+F,,4 C,2 F,4 C,2 | D,2 A,,2 B,,4 F,,4 | D,4 C,2 F,4 B,,2 | C,4 C,4 F,,4 |
+F,,4 C,2 F,4 C,2 | D,2 A,,2 B,,4 F,,4 | D,4 C,2 F,4 B,,2 | C,4 C,4 F,,4 |
+F,4 D,2 A,,4 B,,2 | F,,2 C,2 F,,4 z4 | F,4 F,2 B,,4 C,2 | D,2 F,2 C,4 z4 |
+F,4 C,2 G,,4 A,,2 | D,2 C,2 F,,4 B,,4 | F,4 D,2 B,,4 F,,2 | G,,2 A,,2 C,4 F,,4 |]

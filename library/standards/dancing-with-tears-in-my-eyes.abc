@@ -1,0 +1,21 @@
+X:1
+T:Dancing with Tears in My Eyes
+C:Joe Burke, 1930
+S:OpenEWLD
+R:waltz
+%%duets category: standard
+%%duets year: 1930
+%%duets credit: Melody and chords: public domain in the United States (published 1930); lead sheet from OpenEWLD.
+%%duets slug: dancing-with-tears-in-my-eyes
+M:3/4
+L:1/8
+K:Eb
+z2 "Fm7"!fermata!c2 "E7"!fermata!d2 | "Eb"e2 d2 c2 | =B2 _B2 z E | G6- |
+G4 ^F G | B4 ^F G | "F#dim"d4 c d | "Fm"c6- |
+"Bb7"c4 z2 | "Fm7"f2 =e2 _e2 | d2 c2 z F | "Bb7"A6- |
+A4 =E F | "Fm7"B4 =E F | "Bb7"d4 d B | "Eb"G6- |
+G4 z2 | "Gm"G2 =A2 B2 | "Cm"c6 | "Gm"B2 =A2 G2 |
+"D7"=A4 A2 | "Gm"B2 =A2 G2 | "Cm"c2 B2 =A2 | "G"d6- |
+"Bb7"d z c2 d2 | "Eb"e2 d2 c2 | =B2 _B2 z E | "Db9"G6- |
+"C7"G4 ^F G | "F7"d4 c d | "Bb7"c4 B c | "Eb"e6- |
+e4 z2 |]

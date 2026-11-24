@@ -1,0 +1,38 @@
+X:1
+T:All Who Believe and Are Baptized
+T:ES IST DAS HEIL UNS KOMMEN HER
+C:German circa 1400 from Etlich Christlich Lider, Wittenberg, 1524
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: baptism
+%%duets tune: ES IST DAS HEIL UNS KOMMEN HER
+%%duets year: 1400
+%%duets credit: Tune and setting: public domain ("Mehrstimmiges ChoralBuch", 1906), via the Open Hymnal Project.
+%%duets lyricist: Thomas Hansen Kingo, 1689. Translation by George Alfred Taylor Rygh, 1909, alt
+%%duets notes: intro 14-15
+%%duets slug: all-who-believe-and-are-baptized
+M:4/4
+L:1/8
+Q:1/4=100
+K:Eb
+V:S
+"Eb"B | "Eb"B2 "Bb/D"B2 "Eb"B2 "Bbm"_d2 | "Ab"c2 "Eb"B2 "Ab"A3 B | "Eb"G2 "Ab"E2 "Eb"G2 "Ab/C"A2 |
+"Bb"B2 "F"c2 "Bb"B2- "Ebmaj7/Bb"B B | "Eb"B2 "Bb/D"B2 "Eb"B2 "Bbm"_d2 | "Ab"c2 "Eb"B2 "Ab"A3 B | "Eb"G2 "Ab"E2 "Eb"G2 "Ab/C"A2 |
+"Bb"B2 "F"c2 "Bb"B2- "Ebmaj7/Bb"B B | "Cm"e2- "Ab/C"e _d "Ab"c2 "Eb"B2 | "Ab/C"e2 c2 "Eb"B3 B | "Cm"e3 B "Bbm"B2 "Ab"E2 |
+"Eb"G2 "Bb/D"B2 "Eb"G3 E | "Db"F2 "Ab/C"A2 "Eb"G2 "Fm/Ab"F2 | "Eb/Bb"E2 "Bb"F2 "Eb"!fermata!E3 |]
+V:A
+E | E2 F2 E2 _D2 | E2 E2 C3 E | B,2 C2 E2 E2 |
+D2 C2 D3 E | E2 F2 E2 _D2 | E2 E2 C3 E | B,2 C2 E2 E2 |
+D2 C2 D3 E | E3 F E2 E2 | E2 E2 E3 F | E3 E _D2 C2 |
+E2 B,2 E3 C | _D2 E2 E2 C2 | B,2 D2 E3 |]
+V:T
+G, | G,2 B,2 G,2 F,2 | A,2 G,2 A,3 G, | B,2 A,2 B,2 C2 |
+F, B,2 =A, B,3 G, | G,2 B,2 G,2 F,2 | A,2 G,2 A,3 G, | B,2 A,2 B,2 C2 |
+F, B,2 =A, B,3 G, | G,2 A,2 A,2 G,2 | A,2 A,2 G,3 B, | G,3 G, F,2 A,2 |
+B,2 F,2 B,3 A, | A,2 A,2 B,2 A,2 | G,2 F,2 G,3 |]
+V:B
+E, | E,2 D,2 E,2 B,,2 | A,,2 E,2 A,,3 E, | E,2 A,,2 E,2 C,2 |
+B,,2 F,2 B,,3 E, | E,2 D,2 E,2 B,,2 | A,,2 E,2 A,,3 E, | E,2 A,,2 E,2 C,2 |
+B,,2 F,2 B,,3 E, | C,3 _D, A,,2 E,2 | C,2 A,,2 E,3 D, | C,3 E, B,,2 A,,2 |
+E,2 D,2 E,3 A,, | _D,2 C,2 E,2 A,,2 | B,,4 E,,3 |]

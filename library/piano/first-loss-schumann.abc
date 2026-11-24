@@ -1,0 +1,44 @@
+X:1
+T:First Loss
+T:Album for the Young, Op. 68 No. 16
+C:Robert Schumann
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, schumann
+%%duets credit: Robert Schumann. Source edition: Philippe Hézaine for the Mutopia Project (Creative Commons Attribution-ShareAlike 2.5).
+%%duets tempo-text: Not fast
+%%duets slug: first-loss-schumann
+M:2/4
+L:1/8
+Q:1/4=84
+K:Em
+V:S
+g | f e ^d e | B3 e | c3 e |
+B3 B | c c B A | G G F E | ^D3 E |
+[^DF]3 g | f e ^d e | B3 e | c3 e |
+B3 B | c c B A | G G F E | ^D3 F |
+E2 z e |: d c B c | A [^EB] [=Ec] e | d c B c |
+E [^DF] [EG] z | z3 g | f e ^d e | d c B c |
+B A G [Ag] | f e ^d e | B3 e | c3 e |
+B3 E/2 z/2 | [Ed] [Ec] z E/2 z/2 | [_Ec] [=EB] [CFA]/2 z/2 [_DEG]/2 z/2 | [B,EG]2 [A,B,_EF]2 |
+[1 [G,B,E]2 z e :| [2 [G,B,E]2 z2 |]
+V:lh
+z | z4 | z G3 | z A3 |
+z G3 | z F z F | z E A, ^A, | z ^A, B,2- |
+B, B, B,, z | z4 | z G3 | z A3 |
+z G3 | z F z F | z E A, ^A, | z ^A, B, =A, |
+[E,G,] E, E,, z |: z3 E | =F D C z | z3 A, |
+C A, E, G | F E ^D E | z3 G | F E ^D E |
+D C B,2 | [EG]4 | z2 E2 | z2 E2 |
+z2 E z | [^G,B,] [A,C] z E,/2 z/2 | [F,A,] [G,B,] A,, ^A,, | B,,2 B,,2- |
+[1 B,, E, E,, z :| [2 B,, E, E,, z |]
+V:lh2
+z | z4 | z2 E2 | z2 E2 |
+z2 E2 | z2 ^D z | z4 | z4 |
+z4 | z4 | z2 E2 | z2 E2 |
+z2 E2 | z2 ^D z | z4 | z4 |
+z4 |: z4 | z4 | z4 |
+z4 | C4 | B,4 | A,4- |
+A,2 z ^D | z4 | z G3 | z A3 |
+z G2 z | z4 | z4 | z4 |
+[1 z4 :| [2 z4 |]

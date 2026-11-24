@@ -1,0 +1,34 @@
+X:1
+T:O Sacred Head, Now Wounded
+T:O Haupt voll Blut und Wunden · BWV 244.54
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, lent, good-friday
+%%duets tune: O Haupt voll Blut und Wunden
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 244.54), public domain; score from the music21 corpus.
+%%duets slug: bach-o-sacred-head-now-wounded
+M:4/4
+L:1/8
+K:Dm
+V:S
+"Dm"A2 | "Bb"d2 "F/A"c2 "Gm"B2 "F"A2 | "Gm7/Bb"G2- "C"G2 "F"!fermata!A2 "A/C#"e2 | "Dm"f2 "Dm/F"f2 "Asus4"e d "A7"e2 |
+"Dm"!fermata!d6 :| "Dm"f2 | "Gm"e d "F/A"c2 "Bb"d2 "C7/G"e2 | "Bb/F"f2- "F"f2 !fermata!f2 c2 |
+"Gm/Bb"d2 "D7/F#"c2 "Gm"B A B2 | "D"!fermata!A6 | "G7/B"f2 | "C"e f g2 "F/A"f2 "C/G"e2 |
+"Dm7/F"d2- "G"d2 "C"!fermata!e2 "F"A2 | "Gm"B2 "F/A"A2 "Csus4"G2 "C"c2 | "F"!fermata!A6 |]
+V:A
+F2 | F G A2 D E F2 | F2 E2 !fermata!F2 A2 | A2 A2 A2 A G |
+!fermata!F6 :| A2 | G2 G F F2 B2 | B2 A G !fermata!A2 A2 |
+A G A2 G ^F G2 | !fermata!^F6 | G2 | G2 c2 c2 c2 |
+c2 =B2 !fermata!c2 F E | D E F2 F2 E2 | !fermata!F6 |]
+V:T
+D2 | D E F2 G2 C2 | D2 C2 !fermata!C2 E2 | E2 D2 D2 ^C2 |
+!fermata!A,6 :| D C | B,2 C2 C2 B, C | D2 C B, !fermata!C2 F _E |
+D2 D2 D2 D2 | !fermata!D6 | D2 | C D E2 F2 G2 |
+A2 G2 !fermata!G2 C2 | B,2 C2 C B,/2 A,/2 G, C | !fermata!C6 |]
+V:B
+D C | B,2 A,2 G,2 F,2 | B,,2 C,2 !fermata!F,2 ^C,2 | D, E, F, G, A,2 A,,2 |
+!fermata!D,6 :| D,2 | G,2 A,2 B, A, G,2 | F,4 !fermata!F,2 F,2 |
+B,2 ^F,2 G,2 G,,2 | !fermata!D,6 | =B,,2 | C,2 C =B, A,2 G,2 |
+F,2 G,2 !fermata!C,2 F,2 | G,2 A, B, C2 C,2 | !fermata!F,6 |]

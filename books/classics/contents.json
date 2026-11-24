@@ -1,0 +1,1618 @@
+{
+ "id": "classics",
+ "title": "Classics, One Hand Each",
+ "subtitle": "Piano pieces by the masters shared between two players",
+ "blurb": "Each player takes one hand of the original: not a note is changed. Bach minuets, Schumann's Album for the Young, Burgm\u00fcller studies, Satie's Gymnop\u00e9dies and more.",
+ "pieces": 67,
+ "layouts": {
+  "facing": {
+   "path": "classics-facing.pdf",
+   "pages": 301,
+   "bytes": 3478837
+  },
+  "score": {
+   "path": "classics-score.pdf",
+   "pages": 241,
+   "bytes": 2853908
+  },
+  "screen": {
+   "path": "classics-screen.pdf",
+   "pages": 263,
+   "bytes": 3338482
+  },
+  "screen-score": {
+   "path": "classics-screen-score.pdf",
+   "pages": 231,
+   "bytes": 2684781
+  }
+ },
+ "items": [
+  {
+   "slug": "air-in-f-bach",
+   "title": "Air in F",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 131",
+   "composer": "Johann Sebastian Bach (attrib.)",
+   "levels": {
+    "p": 1.6,
+    "s": 2.2
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 5,
+    "screen": 4,
+    "screen-score": 4
+   }
+  },
+  {
+   "slug": "invention-no-1-in-c-bach",
+   "title": "Invention No. 1 in C",
+   "subtitle": "Two-Part Inventions, BWV 772",
+   "composer": "Johann Sebastian Bach",
+   "levels": {
+    "p": 3.8,
+    "s": 3.8
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 22,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 6,
+    "screen": 5,
+    "screen-score": 5
+   }
+  },
+  {
+   "slug": "invention-no-13-in-a-minor-bach",
+   "title": "Invention No. 13 in A minor",
+   "subtitle": "Two-Part Inventions, BWV 784",
+   "composer": "Johann Sebastian Bach",
+   "levels": {
+    "p": 3.6,
+    "s": 4.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 25,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 12,
+    "score": 10,
+    "screen": 9,
+    "screen-score": 9
+   }
+  },
+  {
+   "slug": "invention-no-8-in-f-bach",
+   "title": "Invention No. 8 in F",
+   "subtitle": "Two-Part Inventions, BWV 779",
+   "composer": "Johann Sebastian Bach",
+   "levels": {
+    "p": 4.7,
+    "s": 4.8
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 34,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 18,
+    "score": 15,
+    "screen": 15,
+    "screen-score": 13
+   }
+  },
+  {
+   "slug": "march-in-e-flat-bach",
+   "title": "March in E-flat",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 127",
+   "composer": "Johann Sebastian Bach (attrib.)",
+   "levels": {
+    "p": 4.8,
+    "s": 3.8
+   },
+   "key": "Eb",
+   "meter": "2/2",
+   "bars": 58,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 20,
+    "screen": 20,
+    "screen-score": 18
+   }
+  },
+  {
+   "slug": "minuet-in-a-minor-bach",
+   "title": "Minuet in A minor",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 120",
+   "composer": "Johann Sebastian Bach (attrib.)",
+   "levels": {
+    "p": 1.7,
+    "s": 2.1
+   },
+   "key": "Am",
+   "meter": "3/4",
+   "bars": 58,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 30,
+    "score": 25,
+    "screen": 25,
+    "screen-score": 23
+   }
+  },
+  {
+   "slug": "minuet-in-b-flat-bach",
+   "title": "Minuet in B-flat",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 118",
+   "composer": "Johann Sebastian Bach (attrib.)",
+   "levels": {
+    "p": 2.5,
+    "s": 2.9
+   },
+   "key": "Bb",
+   "meter": "3/4",
+   "bars": 26,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 34,
+    "score": 29,
+    "screen": 28,
+    "screen-score": 26
+   }
+  },
+  {
+   "slug": "minuet-in-c-minor-bach",
+   "title": "Minuet in C minor",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 121",
+   "composer": "Johann Sebastian Bach (attrib.)",
+   "levels": {
+    "p": 2.3,
+    "s": 2.1
+   },
+   "key": "Cm",
+   "meter": "3/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 36,
+    "score": 31,
+    "screen": 30,
+    "screen-score": 28
+   }
+  },
+  {
+   "slug": "minuet-in-f-bach",
+   "title": "Minuet in F",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 113",
+   "composer": "Johann Sebastian Bach (attrib.)",
+   "levels": {
+    "p": 2.9,
+    "s": 2.1
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 33,
+    "screen": 32,
+    "screen-score": 30
+   }
+  },
+  {
+   "slug": "minuet-in-g-petzold",
+   "title": "Minuet in G",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 114",
+   "composer": "Christian Petzold (attrib. J. S. Bach)",
+   "levels": {
+    "p": 2.4,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 36,
+    "screen": 35,
+    "screen-score": 32
+   }
+  },
+  {
+   "slug": "minuet-in-g-minor-petzold",
+   "title": "Minuet in G minor",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 115",
+   "composer": "Christian Petzold (attrib. J. S. Bach)",
+   "levels": {
+    "p": 2.6,
+    "s": 2.0
+   },
+   "key": "Gm",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 44,
+    "score": 38,
+    "screen": 37,
+    "screen-score": 34
+   }
+  },
+  {
+   "slug": "minuet-in-g-no-7-bach",
+   "title": "Minuet in G (No. 7)",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 116",
+   "composer": "Johann Sebastian Bach (attrib.)",
+   "levels": {
+    "p": 2.5,
+    "s": 3.0
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 40,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 40,
+    "screen": 39,
+    "screen-score": 36
+   }
+  },
+  {
+   "slug": "musette-in-d-bach",
+   "title": "Musette in D",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 126",
+   "composer": "Johann Sebastian Bach (attrib.)",
+   "levels": {
+    "p": 3.6,
+    "s": 3.4
+   },
+   "key": "D",
+   "meter": "2/4",
+   "bars": 20,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 50,
+    "score": 43,
+    "screen": 42,
+    "screen-score": 39
+   }
+  },
+  {
+   "slug": "polonaise-in-d-minor-bach",
+   "title": "Polonaise in D minor",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 128",
+   "composer": "Johann Sebastian Bach (attrib.)",
+   "levels": {
+    "p": 3.0,
+    "s": 1.8
+   },
+   "key": "Dm",
+   "meter": "3/4",
+   "bars": 18,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 52,
+    "score": 45,
+    "screen": 44,
+    "screen-score": 41
+   }
+  },
+  {
+   "slug": "polonaise-in-g-minor-bach",
+   "title": "Polonaise in G minor",
+   "subtitle": "Notebook for Anna Magdalena Bach, BWV Anh. 119",
+   "composer": "Johann Sebastian Bach (attrib.)",
+   "levels": {
+    "p": 3.1,
+    "s": 2.3
+   },
+   "key": "Gm",
+   "meter": "3/4",
+   "bars": 20,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 54,
+    "score": 47,
+    "screen": 46,
+    "screen-score": 43
+   }
+  },
+  {
+   "slug": "prelude-in-c-bach",
+   "title": "Prelude in C",
+   "subtitle": "The Well-Tempered Clavier I, BWV 846",
+   "composer": "Johann Sebastian Bach",
+   "levels": {
+    "p": 3.7,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 35,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Bach & His Circle",
+   "problems": [],
+   "pages": {
+    "facing": 56,
+    "score": 49,
+    "screen": 48,
+    "screen-score": 45
+   }
+  },
+  {
+   "slug": "minuet-in-f-k-2-mozart",
+   "title": "Minuet in F, K. 2",
+   "subtitle": "written at the age of six",
+   "composer": "Wolfgang Amadeus Mozart",
+   "levels": {
+    "p": 2.1,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Mozart",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 54,
+    "screen": 57,
+    "screen-score": 51
+   }
+  },
+  {
+   "slug": "sonata-in-c-k-545-allegro-mozart",
+   "title": "Sonata in C, K. 545: Allegro",
+   "subtitle": "Sonata facile, first movement",
+   "composer": "Wolfgang Amadeus Mozart",
+   "levels": {
+    "p": 4.6,
+    "s": 5.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 73,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Mozart",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 56,
+    "screen": 59,
+    "screen-score": 52
+   }
+  },
+  {
+   "slug": "sonata-in-c-k-545-andante-mozart",
+   "title": "Sonata in C, K. 545: Andante",
+   "subtitle": "Sonata facile, second movement",
+   "composer": "Wolfgang Amadeus Mozart",
+   "levels": {
+    "p": 3.2,
+    "s": 3.8
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 74,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Mozart",
+   "problems": [],
+   "pages": {
+    "facing": 80,
+    "score": 68,
+    "screen": 72,
+    "screen-score": 63
+   }
+  },
+  {
+   "slug": "theme-from-sonata-in-a-k-331-mozart",
+   "title": "Theme from Sonata in A, K. 331",
+   "subtitle": "Andante grazioso",
+   "composer": "Wolfgang Amadeus Mozart",
+   "levels": {
+    "p": 2.4,
+    "s": 3.0
+   },
+   "key": "A",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Mozart",
+   "problems": [],
+   "pages": {
+    "facing": 94,
+    "score": 78,
+    "screen": 83,
+    "screen-score": 72
+   }
+  },
+  {
+   "slug": "fur-elise-complete-beethoven",
+   "title": "F\u00fcr Elise (complete)",
+   "subtitle": "Bagatelle in A minor, WoO 59",
+   "composer": "Ludwig van Beethoven",
+   "levels": {
+    "p": 2.7,
+    "s": 3.0
+   },
+   "key": "Am",
+   "meter": "3/8",
+   "bars": 106,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Beethoven",
+   "problems": [],
+   "pages": {
+    "facing": 96,
+    "score": 80,
+    "screen": 85,
+    "screen-score": 74
+   }
+  },
+  {
+   "slug": "minuet-from-sonata-op-49-no-2-beethoven",
+   "title": "Minuet from Sonata Op. 49 No. 2",
+   "subtitle": "Tempo di Menuetto",
+   "composer": "Ludwig van Beethoven",
+   "levels": {
+    "p": 3.3,
+    "s": 3.8
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 121,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Beethoven",
+   "problems": [],
+   "pages": {
+    "facing": 106,
+    "score": 88,
+    "screen": 93,
+    "screen-score": 81
+   }
+  },
+  {
+   "slug": "minuet-in-e-flat-beethoven",
+   "title": "Minuet in E-flat",
+   "subtitle": "WoO 82",
+   "composer": "Ludwig van Beethoven",
+   "levels": {
+    "p": 3.0,
+    "s": 2.9
+   },
+   "key": "Eb",
+   "meter": "3/4",
+   "bars": 65,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Beethoven",
+   "problems": [
+    "1 moments where Secondo reaches into the Primo's notes",
+    "6 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 116,
+    "score": 96,
+    "screen": 103,
+    "screen-score": 90
+   }
+  },
+  {
+   "slug": "sonatina-in-c-clementi",
+   "title": "Sonatina in C",
+   "subtitle": "Op. 36 No. 1",
+   "composer": "Muzio Clementi",
+   "levels": {
+    "p": 4.7,
+    "s": 3.6
+   },
+   "key": "C",
+   "meter": "2/2",
+   "bars": 38,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Clementi & Kuhlau",
+   "problems": [],
+   "pages": {
+    "facing": 120,
+    "score": 100,
+    "screen": 107,
+    "screen-score": 94
+   }
+  },
+  {
+   "slug": "sonatina-in-c-allegro-kuhlau",
+   "title": "Sonatina in C: Allegro",
+   "subtitle": "Op. 20 No. 1",
+   "composer": "Friedrich Kuhlau",
+   "levels": {
+    "p": 4.3,
+    "s": 3.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 111,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Clementi & Kuhlau",
+   "problems": [
+    "10 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 124,
+    "score": 103,
+    "screen": 110,
+    "screen-score": 97
+   }
+  },
+  {
+   "slug": "moment-musical-no-3-schubert",
+   "title": "Moment musical No. 3",
+   "subtitle": "D. 780 No. 3",
+   "composer": "Franz Schubert",
+   "levels": {
+    "p": 4.3,
+    "s": 4.5
+   },
+   "key": "Fm",
+   "meter": "2/4",
+   "bars": 54,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schubert",
+   "problems": [],
+   "pages": {
+    "facing": 138,
+    "score": 113,
+    "screen": 123,
+    "screen-score": 107
+   }
+  },
+  {
+   "slug": "a-little-piece-schumann",
+   "title": "A Little Piece",
+   "subtitle": "Album for the Young, Op. 68 No. 5",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 1.1,
+    "s": 3.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [],
+   "pages": {
+    "facing": 142,
+    "score": 117,
+    "screen": 127,
+    "screen-score": 111
+   }
+  },
+  {
+   "slug": "chorale-schumann",
+   "title": "Chorale",
+   "subtitle": "Album for the Young, Op. 68 No. 4",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 2.2,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [],
+   "pages": {
+    "facing": 144,
+    "score": 119,
+    "screen": 129,
+    "screen-score": 113
+   }
+  },
+  {
+   "slug": "first-loss-schumann",
+   "title": "First Loss",
+   "subtitle": "Album for the Young, Op. 68 No. 16",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 2.8,
+    "s": 3.1
+   },
+   "key": "Em",
+   "meter": "2/4",
+   "bars": 34,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 146,
+    "score": 121,
+    "screen": 131,
+    "screen-score": 114
+   }
+  },
+  {
+   "slug": "folk-song-schumann",
+   "title": "Folk Song",
+   "subtitle": "Album for the Young, Op. 68 No. 9",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 2.9,
+    "s": 2.8
+   },
+   "key": "Dm",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [
+    "3 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 148,
+    "score": 123,
+    "screen": 133,
+    "screen-score": 116
+   }
+  },
+  {
+   "slug": "humming-song-schumann",
+   "title": "Humming Song",
+   "subtitle": "Album for the Young, Op. 68 No. 3",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 1.4,
+    "s": 3.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 152,
+    "score": 126,
+    "screen": 136,
+    "screen-score": 119
+   }
+  },
+  {
+   "slug": "hunting-song-schumann",
+   "title": "Hunting Song",
+   "subtitle": "Album for the Young, Op. 68 No. 7",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 3.5,
+    "s": 3.4
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 31,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [],
+   "pages": {
+    "facing": 156,
+    "score": 128,
+    "screen": 139,
+    "screen-score": 121
+   }
+  },
+  {
+   "slug": "little-study-schumann",
+   "title": "Little Study",
+   "subtitle": "Album for the Young, Op. 68 No. 14",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 2.7,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 50,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [],
+   "pages": {
+    "facing": 160,
+    "score": 131,
+    "screen": 142,
+    "screen-score": 124
+   }
+  },
+  {
+   "slug": "melody-schumann",
+   "title": "Melody",
+   "subtitle": "Album for the Young, Op. 68 No. 1",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 1.6,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [],
+   "pages": {
+    "facing": 164,
+    "score": 134,
+    "screen": 145,
+    "screen-score": 127
+   }
+  },
+  {
+   "slug": "sicilienne-schumann",
+   "title": "Sicilienne",
+   "subtitle": "Album for the Young, Op. 68 No. 11",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 2.9,
+    "s": 3.1
+   },
+   "key": "Am",
+   "meter": "6/8",
+   "bars": 71,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [],
+   "pages": {
+    "facing": 166,
+    "score": 136,
+    "screen": 147,
+    "screen-score": 129
+   }
+  },
+  {
+   "slug": "soldiers-march-schumann",
+   "title": "Soldiers' March",
+   "subtitle": "Album for the Young, Op. 68 No. 2",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 2.8,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "2/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [],
+   "pages": {
+    "facing": 172,
+    "score": 141,
+    "screen": 152,
+    "screen-score": 134
+   }
+  },
+  {
+   "slug": "the-happy-farmer-schumann",
+   "title": "The Happy Farmer",
+   "subtitle": "Album for the Young, Op. 68 No. 10",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 3.0,
+    "s": 3.0
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 21,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [],
+   "pages": {
+    "facing": 174,
+    "score": 143,
+    "screen": 154,
+    "screen-score": 135
+   }
+  },
+  {
+   "slug": "the-poor-orphan-schumann",
+   "title": "The Poor Orphan",
+   "subtitle": "Album for the Young, Op. 68 No. 6",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 3.5,
+    "s": 3.4
+   },
+   "key": "Am",
+   "meter": "2/4",
+   "bars": 21,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 176,
+    "score": 145,
+    "screen": 156,
+    "screen-score": 137
+   }
+  },
+  {
+   "slug": "the-reapers-song-schumann",
+   "title": "The Reaper's Song",
+   "subtitle": "Album for the Young, Op. 68 No. 18",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 3.3,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 44,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [],
+   "pages": {
+    "facing": 178,
+    "score": 147,
+    "screen": 158,
+    "screen-score": 139
+   }
+  },
+  {
+   "slug": "the-wild-rider-schumann",
+   "title": "The Wild Rider",
+   "subtitle": "Album for the Young, Op. 68 No. 8",
+   "composer": "Robert Schumann",
+   "levels": {
+    "p": 3.5,
+    "s": 3.3
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 26,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Schumann: Album for the Young",
+   "problems": [],
+   "pages": {
+    "facing": 182,
+    "score": 151,
+    "screen": 162,
+    "screen-score": 142
+   }
+  },
+  {
+   "slug": "arabesque-burgmuller",
+   "title": "Arabesque",
+   "subtitle": "Op. 100 No. 2",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 4.2,
+    "s": 3.7
+   },
+   "key": "Am",
+   "meter": "2/4",
+   "bars": 55,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 186,
+    "score": 154,
+    "screen": 166,
+    "screen-score": 145
+   }
+  },
+  {
+   "slug": "ballade-burgmuller",
+   "title": "Ballade",
+   "subtitle": "Op. 100 No. 15",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 2.4,
+    "s": 2.7
+   },
+   "key": "Cm",
+   "meter": "3/8",
+   "bars": 112,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [
+    "8 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 190,
+    "score": 157,
+    "screen": 170,
+    "screen-score": 148
+   }
+  },
+  {
+   "slug": "consolation-burgmuller",
+   "title": "Consolation",
+   "subtitle": "Op. 100 No. 13",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 2.9,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 42,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [
+    "4 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 198,
+    "score": 163,
+    "screen": 176,
+    "screen-score": 154
+   }
+  },
+  {
+   "slug": "innocence-burgmuller",
+   "title": "Innocence",
+   "subtitle": "Op. 100 No. 5",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 4.3,
+    "s": 2.8
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 202,
+    "score": 166,
+    "screen": 179,
+    "screen-score": 157
+   }
+  },
+  {
+   "slug": "la-candeur-openness-burgmuller",
+   "title": "La candeur (Openness)",
+   "subtitle": "25 Easy and Progressive Studies, Op. 100 No. 1",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 2.9,
+    "s": 2.5
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 38,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 206,
+    "score": 169,
+    "screen": 183,
+    "screen-score": 161
+   }
+  },
+  {
+   "slug": "la-gracieuse-gracefulness-burgmuller",
+   "title": "La gracieuse (Gracefulness)",
+   "subtitle": "Op. 100 No. 8",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 4.5,
+    "s": 3.5
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 210,
+    "score": 172,
+    "screen": 186,
+    "screen-score": 164
+   }
+  },
+  {
+   "slug": "pastorale-burgmuller",
+   "title": "Pastorale",
+   "subtitle": "Op. 100 No. 3",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 2.1,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 37,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 214,
+    "score": 176,
+    "screen": 190,
+    "screen-score": 168
+   }
+  },
+  {
+   "slug": "progress-burgmuller",
+   "title": "Progress",
+   "subtitle": "Op. 100 No. 6",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 4.2,
+    "s": 4.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 218,
+    "score": 178,
+    "screen": 193,
+    "screen-score": 170
+   }
+  },
+  {
+   "slug": "restlessness-burgmuller",
+   "title": "Restlessness",
+   "subtitle": "Op. 100 No. 18",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 4.5,
+    "s": 2.8
+   },
+   "key": "Em",
+   "meter": "2/4",
+   "bars": 46,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 222,
+    "score": 181,
+    "screen": 197,
+    "screen-score": 173
+   }
+  },
+  {
+   "slug": "sweet-sorrow-burgmuller",
+   "title": "Sweet Sorrow",
+   "subtitle": "Op. 100 No. 16",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 3.3,
+    "s": 4.2
+   },
+   "key": "Gm",
+   "meter": "4/4",
+   "bars": 32,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 228,
+    "score": 185,
+    "screen": 201,
+    "screen-score": 177
+   }
+  },
+  {
+   "slug": "tender-flower-burgmuller",
+   "title": "Tender Flower",
+   "subtitle": "Op. 100 No. 10",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 2.9,
+    "s": 2.4
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 48,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [
+    "11 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 232,
+    "score": 189,
+    "screen": 205,
+    "screen-score": 181
+   }
+  },
+  {
+   "slug": "the-chatterbox-burgmuller",
+   "title": "The Chatterbox",
+   "subtitle": "Op. 100 No. 17",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 2.2,
+    "s": 2.6
+   },
+   "key": "F",
+   "meter": "3/8",
+   "bars": 58,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 238,
+    "score": 193,
+    "screen": 210,
+    "screen-score": 185
+   }
+  },
+  {
+   "slug": "the-clear-stream-burgmuller",
+   "title": "The Clear Stream",
+   "subtitle": "Op. 100 No. 7",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 4.5,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [
+    "17 moments where Secondo reaches into the Primo's notes",
+    "4 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 242,
+    "score": 196,
+    "screen": 214,
+    "screen-score": 189
+   }
+  },
+  {
+   "slug": "the-farewell-burgmuller",
+   "title": "The Farewell",
+   "subtitle": "Op. 100 No. 12",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 4.7,
+    "s": 4.7
+   },
+   "key": "Am",
+   "meter": "4/4",
+   "bars": 42,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 246,
+    "score": 199,
+    "screen": 217,
+    "screen-score": 192
+   }
+  },
+  {
+   "slug": "the-hunt-burgmuller",
+   "title": "The Hunt",
+   "subtitle": "Op. 100 No. 9",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 3.7,
+    "s": 3.2
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 65,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 252,
+    "score": 204,
+    "screen": 222,
+    "screen-score": 197
+   }
+  },
+  {
+   "slug": "the-little-party-burgmuller",
+   "title": "The Little Party",
+   "subtitle": "Op. 100 No. 4",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 3.2,
+    "s": 1.9
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 54,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [],
+   "pages": {
+    "facing": 260,
+    "score": 209,
+    "screen": 228,
+    "screen-score": 202
+   }
+  },
+  {
+   "slug": "the-wagtail-burgmuller",
+   "title": "The Wagtail",
+   "subtitle": "Op. 100 No. 11",
+   "composer": "Friedrich Burgm\u00fcller",
+   "levels": {
+    "p": 4.7,
+    "s": 4.6
+   },
+   "key": "C",
+   "meter": "2/4",
+   "bars": 45,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Burgm\u00fcller: Easy Studies, Op. 100",
+   "problems": [
+    "2 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 266,
+    "score": 213,
+    "screen": 233,
+    "screen-score": 206
+   }
+  },
+  {
+   "slug": "prelude-in-c-minor-chopin",
+   "title": "Prelude in C minor",
+   "subtitle": "Op. 28 No. 20",
+   "composer": "Fr\u00e9d\u00e9ric Chopin",
+   "levels": {
+    "p": 4.0,
+    "s": 3.1
+   },
+   "key": "Cm",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Chopin",
+   "problems": [
+    "bar 10 prh: stretch of 14 semitones",
+    "6 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 270,
+    "score": 217,
+    "screen": 237,
+    "screen-score": 210
+   }
+  },
+  {
+   "slug": "prelude-in-e-minor-chopin",
+   "title": "Prelude in E minor",
+   "subtitle": "Op. 28 No. 4",
+   "composer": "Fr\u00e9d\u00e9ric Chopin",
+   "levels": {
+    "p": 2.4,
+    "s": 4.1
+   },
+   "key": "Em",
+   "meter": "2/2",
+   "bars": 26,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Chopin",
+   "problems": [],
+   "pages": {
+    "facing": 272,
+    "score": 219,
+    "screen": 239,
+    "screen-score": 212
+   }
+  },
+  {
+   "slug": "waltz-in-a-flat-brahms",
+   "title": "Waltz in A-flat",
+   "subtitle": "Op. 39 No. 15",
+   "composer": "Johannes Brahms",
+   "levels": {
+    "p": 3.6,
+    "s": 4.0
+   },
+   "key": "Ab",
+   "meter": "3/4",
+   "bars": 37,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Brahms",
+   "problems": [
+    "9 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 276,
+    "score": 222,
+    "screen": 242,
+    "screen-score": 214
+   }
+  },
+  {
+   "slug": "march-of-the-wooden-soldiers-tchaikovsky",
+   "title": "March of the Wooden Soldiers",
+   "subtitle": "Album for the Young, Op. 39 No. 5",
+   "composer": "Pyotr Ilyich Tchaikovsky",
+   "levels": {
+    "p": 3.4,
+    "s": 3.5
+   },
+   "key": "D",
+   "meter": "2/4",
+   "bars": 48,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Tchaikovsky",
+   "problems": [],
+   "pages": {
+    "facing": 280,
+    "score": 225,
+    "screen": 245,
+    "screen-score": 216
+   }
+  },
+  {
+   "slug": "morning-prayer-tchaikovsky",
+   "title": "Morning Prayer",
+   "subtitle": "Album for the Young, Op. 39 No. 1",
+   "composer": "Pyotr Ilyich Tchaikovsky",
+   "levels": {
+    "p": 2.6,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 24,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Tchaikovsky",
+   "problems": [
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 284,
+    "score": 228,
+    "screen": 249,
+    "screen-score": 219
+   }
+  },
+  {
+   "slug": "old-french-song-tchaikovsky",
+   "title": "Old French Song",
+   "subtitle": "Album for the Young, Op. 39 No. 16",
+   "composer": "Pyotr Ilyich Tchaikovsky",
+   "levels": {
+    "p": 2.2,
+    "s": 2.6
+   },
+   "key": "Gm",
+   "meter": "2/4",
+   "bars": 26,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Tchaikovsky",
+   "problems": [],
+   "pages": {
+    "facing": 286,
+    "score": 230,
+    "screen": 251,
+    "screen-score": 221
+   }
+  },
+  {
+   "slug": "album-leaf-grieg",
+   "title": "Album Leaf",
+   "subtitle": "Lyric Pieces, Op. 12 No. 7",
+   "composer": "Edvard Grieg",
+   "levels": {
+    "p": 3.1,
+    "s": 3.6
+   },
+   "key": "Em",
+   "meter": "2/4",
+   "bars": 34,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Grieg",
+   "problems": [],
+   "pages": {
+    "facing": 288,
+    "score": 232,
+    "screen": 253,
+    "screen-score": 223
+   }
+  },
+  {
+   "slug": "gymnopedie-no-1-satie",
+   "title": "Gymnop\u00e9die No. 1",
+   "subtitle": "Lent et douloureux",
+   "composer": "Erik Satie",
+   "levels": {
+    "p": 2.5,
+    "s": 2.5
+   },
+   "key": "Bm",
+   "meter": "3/4",
+   "bars": 78,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Satie",
+   "problems": [
+    "bar 24 srh: stretch of 14 semitones",
+    "bar 25 srh: stretch of 14 semitones",
+    "bar 26 srh: stretch of 14 semitones",
+    "bar 29 srh: stretch of 14 semitones",
+    "bar 30 srh: stretch of 14 semitones",
+    "bar 31 srh: stretch of 14 semitones",
+    "bar 63 srh: stretch of 14 semitones",
+    "bar 64 srh: stretch of 14 semitones",
+    "bar 65 srh: stretch of 14 semitones",
+    "bar 68 srh: stretch of 14 semitones",
+    "bar 69 srh: stretch of 14 semitones",
+    "bar 70 srh: stretch of 14 semitones",
+    "2 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 290,
+    "score": 234,
+    "screen": 255,
+    "screen-score": 225
+   }
+  },
+  {
+   "slug": "gymnopedie-no-2-satie",
+   "title": "Gymnop\u00e9die No. 2",
+   "subtitle": "Lent et triste",
+   "composer": "Erik Satie",
+   "levels": {
+    "p": 3.1,
+    "s": 1.2
+   },
+   "key": "Am",
+   "meter": "3/4",
+   "bars": 65,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Satie",
+   "problems": [],
+   "pages": {
+    "facing": 294,
+    "score": 237,
+    "screen": 258,
+    "screen-score": 228
+   }
+  },
+  {
+   "slug": "gymnopedie-no-3-satie",
+   "title": "Gymnop\u00e9die No. 3",
+   "subtitle": "Lent et grave",
+   "composer": "Erik Satie",
+   "levels": {
+    "p": 2.1,
+    "s": 2.4
+   },
+   "key": "Am",
+   "meter": "3/4",
+   "bars": 60,
+   "flavor": "original",
+   "flavor_text": "one hand each: Primo plays the right-hand part, Secondo the left",
+   "section": "Satie",
+   "problems": [],
+   "pages": {
+    "facing": 298,
+    "score": 240,
+    "screen": 261,
+    "screen-score": 230
+   }
+  }
+ ],
+ "seconds": 34.2
+}

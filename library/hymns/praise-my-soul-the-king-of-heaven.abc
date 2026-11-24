@@ -1,0 +1,50 @@
+X:1
+T:Praise My Soul the King of Heaven
+T:PRAISE MY SOUL
+C:or 'Lauda Anima' or 'St. Paul' John Goss, 1869
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: redeemer
+%%duets tune: PRAISE MY SOUL
+%%duets year: 1869
+%%duets credit: Tune and setting: public domain ("The Choral Hymnal", 1888), via the Open Hymnal Project.
+%%duets lyricist: Henry F. Lyte, 1834
+%%duets notes: intro 22-25
+%%duets slug: praise-my-soul-the-king-of-heaven
+M:2/4
+L:1/8
+Q:1/4=120
+K:Eb
+V:S
+"Eb"B2 B2 | "Bb7/F"B2 B2 | "Eb/G"e2 "Gm"d2 | "Ab"c4 |
+"Eb"B4 | "Ab/C"A2 "Eb"G2 | "Ab"c2 "Bb"B2 | "Cm"G2 "Fm"A2 |
+"Bb7"F4 | "G/B"G2 "Gm7/Bb"G2 | "Cm"G2 "G7/D"G2 | "Cm/Eb"c2 "C7/E"B2 |
+"F7"B2 "F#dim7"=A2 | "Gm"B2 "F7"c2 | "Bb"d2 "Eb/G"e2 | "Cm/Eb"G2 "F7"=A2 |
+"Bb"B4 | "Eb/G"e2 "Ebmaj7/G"d2 | "Ab"c2 "Bb7"B2 | "Cm"e2 d2 |
+"Dm7b5"c2 "Bb7/D"B2 | "Cm/Eb"c2 "Gm7/F"B2 | "Ab"A2 "Fm/Ab"F2 | "Eb/Bb"E2 "Bb7"D2 |
+"Eb"E4 |]
+V:A
+E2 E2 | D2 D2 | E2 B2 | B2 A2 |
+G4 | E2 E2 | E2 D2 | E2 F2 |
+D4 | D2 F2 | E2 D2 | C2 C2 |
+E2 E2 | D2 E2 | F2 E2 | E2 E2 |
+D4 | E3 E | E2 D2 | E2 F G |
+A2 A2 | G2 F2 | E2 C2 | B,2 B,2 |
+B,4 |]
+V:T
+G,2 G,2 | A,2 A,2 | B,2 B,2 | C2 D2 |
+E4 | A,2 B,2 | A,2 F,2 | E,2 C2 |
+B,2 A,2 | G,2 D,2 | E,2 F,2 | G,2 C2 |
+C2 C2 | B,2 =A,2 | B,2 B,2 | C2 C2 |
+B,4 | B,3 B, | A,2 A,2 | G,2 F, E, |
+F,2 B,2 | E2 D2 | C2 A,2 | G,2 F, A, |
+G,4 |]
+V:B
+E,2 E,2 | F,2 F,2 | G,2 G,2 | A,4 |
+E,4 | C,2 E,2 | A,,2 B,,2 | C,2 F,,2 |
+B,,4 | =B,,2 _B,,2 | C,2 D,2 | E,2 =E,2 |
+F,2 ^F,2 | G,2 F,2 | B,2 G,2 | E,2 F,2 |
+B,,4 | G,3 G,, | A,,2 B,,2 | C,3 C, |
+D,2 D,2 | E,2 F, G, | A,2 A,,2 | B,,2 B,,2 |
+E,4 |]

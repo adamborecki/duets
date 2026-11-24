@@ -1,0 +1,34 @@
+X:1
+T:Lord Jesus Christ, Thou Highest Good
+T:Herr Jesu Christ, du höchstes Gut · BWV 334
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, confession
+%%duets tune: Herr Jesu Christ, du höchstes Gut
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 334), public domain; score from the music21 corpus.
+%%duets slug: bach-lord-jesus-christ-thou-highest-good
+M:4/4
+L:1/8
+K:Gm
+V:S
+"Gm"G2 | "Cm6"G2 "D7"^F2 "Eb"G2 "Adim"A2 | "Gm/D"B2 "D"A2 "Gm"!fermata!G2 G2 | "Am7b5/G"A2 "D7/F#"A2 "Bdim/F"d2 "Cm/Eb"c2 |
+"Gm/D"B2- "C#dim7"B2 "D"!fermata!A2 :| "Gm/Bb"d2 | "Cm7/Bb"c2 "Eb/G"B2 "Gm"A B "Cm/Eb"c2 | "Gm/D"B2 "D"A2 "Gm"!fermata!G2 B2 |
+"A7/G"A2 "Em7"G2 "Dm"F =E D E | "Dm"F2 "Gm7/Bb"G2 "F"!fermata!A2 | "F7"A2 | "Bb/D"B2 "Adim"c2 "Bbmaj7"d2- "D7"d c |
+"Gm"B2 "Cm/Eb"c B "Cm6"A2- "D7"A2 | "G"!fermata!G6 |]
+V:A
+D2 | E2 D C B,2 E2 | D2 D2 !fermata!D2 D2 | E2 D2 D2 G ^F |
+G4 !fermata!^F2 :| G2 | G F F E E D C A | ^F G2 F !fermata!D2 G =F |
+=E D D ^C D E F C | D F2 =E !fermata!F2 | F2 | F G A2 A2 D2- |
+D2 C D E2 D C | !fermata!=B,6 |]
+V:T
+B,2 | A,2 A,2 G,2 C2 | ^F, G,2 F, !fermata!B,2 B,2 | C2 C2 =B,2 C2 |
+D2 =E G, !fermata!D2 :| D2 | E F G B, C D G, C | D E A, D !fermata!B,2 D2 |
+^C D =E2 A,3 G, | A, C D C !fermata!C2 | C2 | D2 E2 F2 ^F2 |
+G2 G,4 ^F,2 | !fermata!D,6 |]
+V:B
+G,2 | C,2 D,2 E,2 D, C, | D,2 D,2 !fermata!G,,2 G,2 | G,2 ^F,2 =F,2 E,2 |
+D,2 ^C,2 !fermata!D,2 :| B,2- | B, A, G,3 F, E,2 | D, C, D,2 !fermata!G,,2 G,2- |
+G, F, =E,2 D,4- | D, A,, B,, C, !fermata!F,,2 | F, E, | D, E, D, C, B,, C, B,, A,, |
+G,, B,, E, D, C, A,, D,2 | !fermata!G,,6 |]

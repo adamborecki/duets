@@ -1,0 +1,54 @@
+X:1
+T:The Comforter Has Come
+T:THE COMFORTER HAS COME
+C:William J. Kirkpatrick, 1890
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: pentecost
+%%duets tune: THE COMFORTER HAS COME
+%%duets year: 1890
+%%duets credit: Tune and setting: public domain ("Pentecostal Hymns, No. 2", 1898), via the Open Hymnal Project.
+%%duets lyricist: Frank Bottome, 1890
+%%duets notes: intro 28-32
+%%duets slug: the-comforter-has-come
+M:3/4
+L:1/8
+Q:1/4=95
+K:C
+V:S
+"C"G2 | "C"G3 A G E | "C"G4 c2 | "F"c3 d c A |
+"F"c4 A2 | "C"G3 A G E | "C"G4 E2 | "Am"E3 E "D7"D C |
+"G7"D4 G2 | "C"G3 A G E | "C7"G4 c2 | "F"c3 d c A |
+"F"c4 A2 | "C/G"G4 c2 | "C/G"e4 "G7"d2 | "C"c4 ||
+"C"c2 | "C"e3 d c d | "C"e4 c2 | "F"c3 d c A |
+"F"c4 A2 | "C"G3 A G E | "C"G4 E2 | "Am"E3 E "D7"D C |
+"G7"D4 G2 | "C"G3 A G E | "C7"G4 c2 | "F"c3 d c A |
+"F"c4 A2 | "C/G"G4 c2 | "C/G"e4 "G7"d2 | "C"c4 |]
+V:A
+E2 | E3 F E C | E4 E2 | F3 F F F |
+F4 F2 | E3 F E C | E4 C2 | C3 C C C |
+B,4 F2 | E3 F E C | E4 E2 | F3 F F F |
+F4 F2 | E4 E2 | G4 F2 | E4 ||
+E2 | G3 F E F | G4 E2 | F3 F F F |
+F4 F2 | E3 F E C | E4 C2 | C3 C C C |
+B,4 F2 | E3 F E C | E4 E2 | F3 F F F |
+F4 F2 | E4 E2 | G4 F2 | E4 |]
+V:T
+C2 | C3 C C G, | C4 G,2 | A,3 A, A, C |
+A,4 C2 | C3 C C G, | C4 G,2 | A,3 A, ^F, F, |
+G,4 B,2 | C3 C C G, | C4 _B,2 | A,3 A, A, C |
+A,4 C2 | C4 C2 | C4 B,2 | C4 ||
+G,2 | C3 G, G, G, | C4 G,2 | A,3 A, A, C |
+A,4 C2 | C3 C C G, | C4 G,2 | A,3 A, ^F, F, |
+G,4 B,2 | C3 C C G, | C4 _B,2 | A,3 A, A, C |
+A,4 C2 | C4 C2 | C4 B,2 | C4 |]
+V:B
+C,2 | C,3 C, C, C, | C,4 C,2 | F,3 F, F, F, |
+F,4 F,2 | C,3 C, C, C, | C,4 C,2 | A,,3 A,, D, D, |
+G,,4 G,,2 | C,3 C, C, C, | C,4 E,2 | F,3 F, F, F, |
+F,4 F,2 | G,4 G,2 | G,4 G,2 | C,4 ||
+C,2 | C,3 C, C, C, | C,4 C,2 | F,3 F, F, F, |
+F,4 F,2 | C,3 C, C, C, | C,4 C,2 | A,,3 A,, D, D, |
+G,,4 G,,2 | C,3 C, C, C, | C,4 E,2 | F,3 F, F, F, |
+F,4 F,2 | G,4 G,2 | G,4 G,2 | C,4 |]

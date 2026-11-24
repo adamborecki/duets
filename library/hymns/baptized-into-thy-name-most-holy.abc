@@ -1,0 +1,46 @@
+X:1
+T:Baptized into Thy Name Most Holy
+T:O DASS ICH TAUSEND ZUNGEN HÄTTE (DRETZEL)
+C:Kornelius Heinrich Dretzel, 1731
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: baptism
+%%duets tune: O DASS ICH TAUSEND ZUNGEN HÄTTE (DRETZEL)
+%%duets year: 1731
+%%duets credit: Tune and setting: public domain ("Mehrstimmiges ChoralBuch", 1906), via the Open Hymnal Project.
+%%duets lyricist: Johann Jakob Rambach, 1734. Translated by Catherine Winkworth, 1863 and August Crull, 1884
+%%duets notes: intro 21-24
+%%duets slug: baptized-into-thy-name-most-holy
+M:3/4
+L:1/8
+Q:1/4=140
+K:F
+V:S
+"F"F2 A2 F2 | "C"G4 "F/A"c2 | "Bb"B4 "F"A2 | "C"G2 "F"F4 |
+"C"G2 "G/B"G2 "C"G2 | "F"A4 "C/E"c2 | "Dm7/F"c4 "G"=B2 | "C"c6 |
+"F"F2 A2 F2 | "C"G4 "F/A"c2 | "Bb"B4 "F"A2 | "C"G2 "F"F4 |
+"C"G2 "G/B"G2 "C"G2 | "F"A4 "C/E"c2 | "Dm7/F"c4 "G"=B2 | "C"c6 |
+"C"G2 "G7/D"G2 "C/E"G2 | "F"A2- "Dm7/F"A2 F2 | "Gm"B2- "Edim/G"B2 "F"A2 | "C"G6 |
+"C"c2 c2 "F"c2 | "Gm"B4 "F/A"A2 | "Gm7/Bb"G2 "C"G4 | "F"!fermata!F6 |]
+V:A
+C2 C2 C2 | E4 F2 | D4 C2 | C2 C4 |
+E2 D2 E2 | F4 C2 | D4 D2 | E6 |
+C2 C2 C2 | E4 F2 | D4 C2 | C2 C4 |
+E2 D2 E2 | F4 C2 | D4 D2 | E6 |
+C2 =B,2 C2 | C4 D2 | D2 E2 F2 | E6 |
+E2 E2 F2 | D4 F2 | F2 E4 | F6 |]
+V:T
+A,2 F,2 A,2 | C4 C2 | F,4 F,2 | E,2 A,4 |
+G,2 G,2 C2 | C4 G,2 | A,4 G,2 | G,6 |
+A,2 F,2 A,2 | C4 C2 | F,4 F,2 | E,2 A,4 |
+G,2 G,2 C2 | C4 G,2 | A,4 G,2 | G,6 |
+E,2 F,2 G,2 | F,4 A,2 | B,4 C2 | C6 |
+G,2 G,2 A,2 | B,4 C2 | D2 C4 | A,6 |]
+V:B
+F,2 F,,2 F,2 | C,4 A,,2 | B,,4 F,,2 | C,2 F,,4 |
+C,2 =B,,2 C,2 | F,4 E,2 | F,4 G,2 | C,6 |
+F,2 F,,2 F,2 | C,4 A,,2 | B,,4 F,,2 | C,2 F,,4 |
+C,2 =B,,2 C,2 | F,4 E,2 | F,4 G,2 | C,6 |
+C,2 D,2 E,2 | F,4 D,2 | G,4 F,2 | C,6 |
+C,2 C,2 F,,2 | G,,4 A,,2 | B,,2 C,4 | F,,6 |]

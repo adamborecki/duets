@@ -1,0 +1,16 @@
+X:1
+T:The Honeysuckle and the Bee
+C:William H. Penn, 1901
+S:OpenEWLD
+R:march
+%%duets category: oldies
+%%duets year: 1901
+%%duets credit: Melody and chords: public domain in the United States (published 1901); lead sheet from OpenEWLD.
+%%duets slug: the-honeysuckle-and-the-bee
+M:4/4
+L:1/8
+K:F
+"F"c2 c4 =B2 | "D7"B3 A B A ^F D | "G7"G2 G4 A2 | D6 z2 |
+"C7"B2 B4 ^F2 | A3 G A G E C | "F"G2 F G3 A2 | "C7"c6 z2 |
+"F"c2 c4 =B2 | "D7"B3 A B A ^F D | "G"G2 G A3 G2 | "G7"D6 z2 |
+"Bb"F2 "Bbm"F4 G2 | "F"A3 c "Dm7"d c A F | "G7"G2 "C7"G4 A2 | "F"F6 z2 :|

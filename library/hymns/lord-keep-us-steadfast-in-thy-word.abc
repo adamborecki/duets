@@ -1,0 +1,35 @@
+X:1
+T:Lord, Keep Us Steadfast in Thy Word
+T:ERHALT UNS, HERR, BEI DEINEM WORT
+C:Klug's "Geistliche Lieder auffs new gebessert", 1543
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: reformation
+%%duets tune: ERHALT UNS, HERR, BEI DEINEM WORT
+%%duets year: 1543
+%%duets credit: Tune and setting: public domain (Hans Leo Hassler, unknown date), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1541. Translated by Catherine Winkworth, 1863
+%%duets notes: intro 8-9
+%%duets slug: lord-keep-us-steadfast-in-thy-word
+%%duets free-meter: yes
+M:6/4
+L:1/8
+Q:3/4=40
+K:G
+V:S
+"Em"E4 | "Em"G2 E2 D2 "Am7"E2 G2 F2 | "C/E"E4 G4 | "D7/A"A2 A2 B2 "D7/C"G2 A2 A2 |
+"G"B4 B4 | "C"c2 B2 d2 "Am7/E"B2 A2 A2 | "G"G4 B4 | "Cmaj7"G2 A2 G2 "Bm/D"F2 E2 ^D2 |
+"Em"E4 |]
+V:A
+B,4 | B,2 A,2 B,2 C2 E2 ^D2 | B,4 E4 | E2 F2 G2 E2 E2 F2 |
+G4 D4 | E2 D2 F2 G2 E2 F2 | D4 D4 | E2 E2 D2 D2 B,2 B,2 |
+B,4 |]
+V:T
+G,4 | E,2 E,2 F,2 A,2 B,2 B,2 | G,4 C4 | C2 D2 D2 C2 C2 D2 |
+D4 G,4 | G,2 G,2 A,2 G,2 C2 A,2 | B,4 G,4 | G,2 C2 B,2 A,2 G,2 F,2 |
+G,4 |]
+V:B
+E,4 | E,2 C,2 B,,2 A,,2 G,, A,, B,,2 | E,,4 C,4 | A,,2 D,2 G,,2 C,2 A,,2 D,2 |
+G,,4 G,,4 | C,2 G,,2 D,2 E,2 C,2 D,2 | G,,4 G,,4 | C,2 A,,2 B,,2 D,2 E,2 B,,2 |
+E,,4 |]

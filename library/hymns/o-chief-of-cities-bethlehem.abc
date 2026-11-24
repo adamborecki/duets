@@ -1,0 +1,42 @@
+X:1
+T:O Chief of Cities Bethlehem
+T:PUER NOBIS NASCITUR
+C:Michael Praetorius, 1609
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: epiphany
+%%duets tune: PUER NOBIS NASCITUR
+%%duets year: 1609
+%%duets credit: Tune and setting: public domain (George Ratcliffe Woodward for "The English Hymnal", 1906), via the Open Hymnal Project.
+%%duets lyricist: Aurelius Clemens Prudentius (348-413). v. 1,2,4 Translated by N. B. Smithers, 1879, v. 3 Translated by C. W. Douglas, v.5 Translated by John, Marquess of Bute c. 1879
+%%duets notes: intro 14-17
+%%duets slug: o-chief-of-cities-bethlehem
+M:3/4
+L:1/8
+Q:1/4=120
+K:D
+V:S
+"D"D2 | "Bm"D4 "A"E2 | "D"F2- "Dmaj7/C#"F2 "G/B"G2 | "D/A"F2- "Gmaj7"F2 "A"E2 |
+"D"D4 "G"D2 | "D/F#"A2- "Em7"A2 "D"A2 | "A/C#"A2 B2 "A"c2 | "D"d4 "G/D"d2 |
+"D"d4 "A/C#"A2 | "Bm"d2- "Bm7/A"d2 "E7/G#"d2 | "A"c2- "A7"c2 "D"A2 | "G"B4 B2 |
+"D"A4 "Em"G2 | "A/C#"A4 "D"F2 | "A"E2- "A7/G"E2 "D/F#"F2 | "G"D2- "Gmaj7"D2 "A"C2 |
+"D"!fermata!D4 |]
+V:A
+A,2 | B,4 C2 | D4 D2 | D4 A,2 |
+F,4 B,2 | D2 G2 F2 | E4 E2 | F4 G2 |
+F4 E2 | D2 F2 E2 | E4 D2 | B,4 D2 |
+D4 B,2 | E4 D2 | C4 D2 | B,4 A,2 |
+A,4 |]
+V:T
+F,2 | F,4 A,2 | A,4 D,2 | A,2 B,2 C2 |
+D4 D2 | D4 A,2 | A,4 A,2 | A,4 B,2 |
+A,4 A,2 | B,4 B,2 | A,2 G,2 F,2 | G,4 G,2 |
+F,4 G,2 | E,4 A,2 | A,4 A,2 | G,2 F,2 E,2 |
+F,4 |]
+V:B
+D,2 | B,,4 A,,2 | D,2 C,2 B,,2 | A,,2 G,,2 A,,2 |
+D,4 G,2 | F,2 E,2 D,2 | C,4 A,,2 | D,4 D,2 |
+D,4 C,2 | B,,2 A,,2 ^G,,2 | A,,4 D,2 | G,,4 B,,2 |
+D,4 E,2 | C,4 D,2 | A,,2 G,,2 F,,2 | G,,4 A,,2 |
+D,4 |]

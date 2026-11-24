@@ -1,0 +1,34 @@
+X:1
+T:All Glory, Laud and Honor
+T:Valet will ich dir geben · BWV 415
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, palm-sunday
+%%duets tune: Valet will ich dir geben
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 415), public domain; score from the music21 corpus.
+%%duets slug: bach-all-glory-laud-and-honor
+M:4/4
+L:1/8
+K:D
+V:S
+"D"D2 | "D"A2 "D/F#"A2 "G"B2 "A7/E"c2 | "G/B"d2- "D"d2 !fermata!d2 f2 | "A#dim7"e2 "Bm"d2 "G#dim7"d2 "A"c2 |
+"D"!fermata!d6 :| "D"d e | "D"f2 "Bm"f2 "E7/G#"e2- "F#m7"e d | "A"c B "C#"c2 "F#m"!fermata!A2 c2 |
+"Bm7"d2 "A/C#"c2 "Esus4"B2 "Em"B2 | "A"!fermata!A6 | "A/C#"A2 | "D"F G "D7/F#"A2 "G"B2 "D7/F#"A2 |
+"B7/D#"A2 "Em"G F "B"!fermata!F2 "D7/F#"A2 | "G"G2 "Bm"F2 "Em7/G"E2 "A7"E2 | "D"!fermata!D6 |]
+V:A
+A,2 | D2 D2 D2 G2- | G2 F E !fermata!F2 A B | c2 B2 B2 A2 |
+!fermata!A6 :| A2 | d2 d c B ^G A B | E F ^G2 !fermata!F2 A2- |
+A ^G A4 =G2 | !fermata!E6 | E2 | D2 D2 D E F2 |
+F2 E2 !fermata!^D2 =D2 | D2 D4 C2 | !fermata!A,6 |]
+V:T
+F, E, | F, G, A, F, G,2 G, A, | B,2 A, G, !fermata!A,2 A2 | G2 F2 =F2 E2 |
+!fermata!F6 :| F G | A2 D2 E D C B, | A,2 ^G,2 !fermata!C2 F E |
+D2 E2 E F E D | !fermata!C6 | A,2 | A,2 D =C B, ^C D =C |
+B,4 !fermata!B,2 =C2 | B,2 B,2 B,2 A, G, | !fermata!F,6 |]
+V:B
+D, C, | D, E, F, D, G, F, E,2 | B,, C, D,2 !fermata!D,,2 D2 | ^A,2 B, =A, ^G,2 A,2 |
+!fermata!D,6 :| D,2 | D C B, A, ^G, E, F, G, | A, ^G, F, ^E, !fermata!F,2 F,2 |
+B, B,, C, D, E, D, E, E,, | !fermata!A,,6 | C,2 | D, E, F, D, G,2 F, E, |
+^D,2 E,2 !fermata!B,,2 F,,2 | G,, A,, B,, A,, G,, E,, A,,2 | !fermata!D,,6 |]

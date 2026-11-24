@@ -1,0 +1,34 @@
+X:1
+T:Break Forth, O Beauteous Heavenly Light
+T:Ermuntre dich, mein schwacher Geist · BWV 248.12-2
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, christmas
+%%duets tune: Ermuntre dich, mein schwacher Geist
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 248.12-2), public domain; score from the music21 corpus.
+%%duets slug: bach-break-forth-o-beauteous-heavenly-light
+M:4/4
+L:1/8
+K:G
+V:S
+"G"G2 | "Em"G2 "D7"A2 "G"B ^c "D/F#"d2 | "D/A"d2 "A7"^c2 "D"!fermata!d2 "B7/D#"B2 | "C/E"c2 "G"B2 "D7/C"A2 "G"B2 |
+"Dsus4"A2- "D7"A2 "G"!fermata!G2 :| "D"A2 | "D7"A2 "Bm7"B2 "Am"c2 "D#dim7"c2 | "Esus4"B A "E7"B2 "Am"!fermata!A2 "Em"B2 |
+"Em/G"B2 "E7/G#"B2 "Am"c d "A#dim7"e2 | "Em/B"e2 "B7"^d2 "Em"!fermata!e2 | "D7"f2 | "G/B"g2 "G"B2 "Am7/E"c2 "Em/G"B2 |
+"A7/C#"A4 "D"!fermata!A2 "Bm"d2 | "C"e2 "D7"d2 "Am7/E"c2 "G"B c | "C6"A2- "D"A2 "G"!fermata!G2 |]
+V:A
+D2 | E2 F2 D E F2 | E F G2 !fermata!F2 F2 | E2 D E F2 G2- |
+G2 F2 !fermata!D2 :| F G | A3 ^G A G A2 | A2 ^G2 !fermata!E2 E ^D |
+E2 E2 E F G F | F G A2 !fermata!G2 | A2 | G A B3 A2 G |
+G4 !fermata!F2 G F | E2 F2 G A D2 | E2 D2 !fermata!D2 |]
+V:T
+B,2 | B, C2 D B, A, A,2 | A,2 A,2 !fermata!A,2 B, A, | G, A, B, C D2 D2 |
+D3 C !fermata!B,2 :| D E | F E D2 E2 F2 | B,2 E D !fermata!C2 G, A, |
+B, C D E C2 ^C2 | B,2 B,2 !fermata!B,2 | D2 | D2 G2 G, A, B,2 |
+E D E ^C !fermata!D2 D2- | D C C B, B, A, G,2 | G, F,/2 E,/2 F,2 !fermata!B,2 |]
+V:B
+G, F, | E,2 D,2 G,2 F, G, | A,2 A,,2 !fermata!D,2 ^D,2 | E, F, G, C,2 B,, A,, G,, |
+D,2 D,,2 !fermata!G,,2 :| D,2 | D C B,2 A,2 ^D,2 | E,2 E,,2 !fermata!A,,2 E, F, |
+G,2 ^G,2 A,2 ^A,2 | B,2 B,,2 !fermata!E,2 | D, C, | B,, A,, G,, F,, E,, F,, G,, E,, |
+^C, B,, C, A,, !fermata!D,2 B,,2 | C,2 D,2 E, F, G,2 | C,2 D,2 !fermata!G,,2 |]

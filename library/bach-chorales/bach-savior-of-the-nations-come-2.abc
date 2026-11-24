@@ -1,0 +1,30 @@
+X:1
+T:Savior of the Nations, Come (II)
+T:Nun komm, der Heiden Heiland · BWV 62.6
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, advent
+%%duets tune: Nun komm, der Heiden Heiland
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 62.6), public domain; score from the music21 corpus.
+%%duets slug: bach-savior-of-the-nations-come-2
+M:4/4
+L:1/8
+K:C
+V:S
+"Gm/Bb"G2 | "Gm"_B2 "Gm/Bb"G2 "Dm"F2 "Gm/Bb"G A | "Gm"_B2 "Cm6"A2 "Gm"!fermata!G2 B2 | "Gm"_B2 "Gm/Bb"B2 "Bb/D"B2 "F7"F2 |
+"Gm7/F"G2 "C7/E"_B2 "F"!fermata!A2 | "F"A2 | "F/A"c2 "Am/C"c2 "Cm/Eb"c _B/2 A/2 "Eb"G A | "Gm"_B2 "Cm6"A2 "Gm"!fermata!G2 "D"A2 |
+"Gm"_B2 "Gm/Bb"G2 "Dm"F2 "Gm/Bb"G A | "Gm"_B2 "Cm6"A2 "G"!fermata!G2 |]
+V:A
+D2 | D2 D2 D2 D ^F | G3 ^F !fermata!D2 G2 | G2 G2 F _E2 D/2 C/2 |
+D E/2 F/2 G2 !fermata!F2 | F2 | F2 E ^F G F G D | D G2 ^F !fermata!D2 F2 |
+G2 D2 D2 D ^F | G3 ^F !fermata!D2 |]
+V:T
+D C | _B,2 B,2 A,2 B, C | D2 _E D/2 C/2 !fermata!_B,2 D2 | D2 D2 D G, A, _B,- |
+_B, A, G, C !fermata!C2 | C _B, | A, G, A,2 G, C _B, A, | G, D _E D/2 C/2 !fermata!_B,2 D2 |
+D2 _B,2 A,2 B, C | D2 _E D/2 C/2 !fermata!B,2 |]
+V:B
+_B,, A,, | G,, A,, _B,, C, D, C, B,, A,, | G,, _B,, C, D, !fermata!G,,2 G,2 | G,, A,, _B,, C, D, _E, F,2- |
+F,2 E,2 !fermata!F,2 | F,, G,, | A,, _B,, C, D, _E,3 ^F,, | G,, _B,, C, D, !fermata!G,,2 D,2 |
+G,, A,, _B,, C, D, C, B,, A,, | G,, _B,, C, D, !fermata!G,,2 |]

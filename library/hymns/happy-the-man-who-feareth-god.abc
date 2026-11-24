@@ -1,0 +1,34 @@
+X:1
+T:Happy the Man Who Feareth God
+T:WO GOTT ZUM HAUS (WALTER)
+C:Walter's Geistliche Gesangbüchlein, 1524
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: obedience
+%%duets tune: WO GOTT ZUM HAUS (WALTER)
+%%duets year: 1524
+%%duets credit: Tune and setting: public domain (Bartolomäus Gesius, 1605), via the Open Hymnal Project.
+%%duets lyricist: Martin Luther, 1524. Translated by Richard Massie, 1854
+%%duets notes: intro 9-10
+%%duets slug: happy-the-man-who-feareth-god
+M:4/4
+L:1/8
+Q:1/4=100
+K:D
+V:S
+"D"D4 "A"A2 "D"A2 | "D"F2 A2 "G"B d- "A"d c | "D"d4 z2 d2 | "G"B2 "D"A2 "G"B2 "Am"A2 |
+"C"G F "A"E2 "D"D4 | "D"z2 A2 A2 "Em"G2 | "Bm"F2 "Em"E B- "G"B A "Em7"G2 | "D"F4 z B d2- |
+"A"d c "Em"B2 "A7/G"e2 "Bm"d e- | "A7/C#"e d/2 c/2 "E"B B "A"A4 |]
+V:A
+z2 D2 E2 F2 | D2 F2 G2 A2 | F4 z2 A2 | G2 F2 G2 E2 |
+E D2 C D4 | z2 F2 F2 E2 | D3/2 C/2 B, E D2 E2 | A,4 z G A2 |
+A2 G4 F G- | G F2 E C4 |]
+V:T
+A,4 C2 D2 | A,2 D3 D E2 | D4 z2 F2 | D2 D2 D2 =C2 |
+C A, A,2 A,4 | z2 D2 D2 B,2 | B,2 G,2 B,/2 C/2 D D C | D4 z D F2 |
+E2 E3 D/2 C/2 B, B, | A,3 ^G, A,4 |]
+V:B
+D,4 A,,2 D,2 | D,2 D,2 G, B, A,2 | D,4 z2 D,2 | G,2 D,2 G,,2 A,,2 |
+=C, D, A,,2 D,4 | z2 D,2 D,2 E,2 | B,,2 E,2 G, F, E,2 | D,4 z G, D,2 |
+A,2 E, F, G, A, B, E, | C, D, E, E, A,,4 |]

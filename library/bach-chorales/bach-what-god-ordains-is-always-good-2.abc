@@ -1,0 +1,34 @@
+X:1
+T:What God Ordains Is Always Good (II)
+T:Was Gott tut, das ist wohlgetan · BWV 69.6-a
+C:Harmonized by Johann Sebastian Bach
+S:music21 corpus
+R:chorale
+%%duets category: hymn
+%%duets tags: bach, trust
+%%duets tune: Was Gott tut, das ist wohlgetan
+%%duets credit: Chorale harmonization by J. S. Bach (BWV 69.6-a), public domain; score from the music21 corpus.
+%%duets slug: bach-what-god-ordains-is-always-good-2
+M:4/4
+L:1/8
+K:G
+V:S
+"G"D2 | "G"G2 "D/F#"A2 "G"B2 "C/E"c2 | "G/B"d2- "D7"d c "G"!fermata!B2 "C"e2 | "D"d2 "C/E"c2 "G"B2 "C"c2 |
+"Dsus4"A2- "D"A2 "G"!fermata!G2 :| "G"d2 | "C"e2 "A7/C#"e2 "D7"!fermata!A2 A2 | "G/B"d2 "G7/B"d2 "C"!fermata!G2 "G"B2 |
+"A"A2 "G/B"G2 "D"F2 "G"G2 | "Asus4"E2- "A"E2 "D"!fermata!D2 | "G/B"d2 | "C/E"c2 "G/D"B2 "D7"A2 "G/B"B2 |
+"Dsus4"A2- "D"A2 "G"!fermata!G2 |]
+V:A
+B,2 | D2 D2 D2 G2 | G2 F2 !fermata!D2 C B, | A,2 E2 D2 E2 |
+D4 !fermata!D2 :| G2 | G2 A G !fermata!F2 F2 | G3 =F !fermata!E2 D2 |
+^C2 B,2 A,2 B,2 | A,4 !fermata!A,2 | G,2 | G, A, B, C D2 D2 |
+D4 !fermata!D2 |]
+V:T
+G,2 | B,2 A,2 G,2 G, A, | B,2 A,2 !fermata!G,2 G,2 | F,2 G, A, B, F, G,2 |
+G,2 F,2 !fermata!B,2 :| B,2 | C B, A,2 !fermata!D2 D2 | D C B, D !fermata!C2 B, G, |
+E,2 D,2 D, F, E, D, | D,2 ^C,2 !fermata!F,2 | D,2 | E,2 D, E, F,2 G,2 |
+G,2 F,2 !fermata!B,2 |]
+V:B
+G,,2 | G,2 F,2 G,2 E,2 | B,,2 D,2 !fermata!G,,2 C,2 | D,2 E, F, G,2 C,2 |
+D,4 !fermata!G,,2 :| G,2 | C,2 ^C,2 !fermata!D,2 =C,2 | B,,2 B,,2 !fermata!C,2 G,,2 |
+A,,2 B,, ^C, D,2 G,,2 | A,,4 !fermata!D,,2 | B,,2 | E, F, G,2 D, C, B,, G,, |
+D,4 !fermata!G,,2 |]

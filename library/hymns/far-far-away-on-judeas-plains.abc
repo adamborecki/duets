@@ -1,0 +1,33 @@
+X:1
+T:Far, Far Away on Judea's Plains
+T:FAR FAR AWAY ON JUDEAS PLAINS
+C:MacFarlane, John Menzies (1833-1892)
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: christmas
+%%duets tune: FAR FAR AWAY ON JUDEAS PLAINS
+%%duets credit: Tune and setting: public domain ('Far, Far Away On Judea`s Plains' John M. MacFarlane, 1869), via the Open Hymnal Project.
+%%duets lyricist: John M. MacFarlane, 1869. Music and
+%%duets notes: intro 11-12
+%%duets slug: far-far-away-on-judeas-plains
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+V:S
+"F"F2 F3/2 G/2 A2 A3/2 B/2 | "F/A"c2 c3/2 B/2 A4 | "C"G2 G3/2 A/2 "C7"B2 "F"A c | "Bb"d c "Gm/Bb"B A "F/C"A2 "C"G2 |
+"F"F2 F3/2 G/2 A2- "Asus4/E"A2 | "C"c2 c3/2 B/2 "F"A2- "A7/G"A2 | "Bb"d2 d3/2 d/2 "F"c2 "Bb"F F | "Gm"B2 "F"A2 "C"G4 |
+"F"F2 C2 "Bb"D2 "Edim/G"E2 | "F/A"F2 "C"G2 "F"A4 | "C"c2- "C/E"c c "F"c2- "F/A"c B | "F/C"A2 "C7"G2 "F"F4 |]
+V:A
+F2 F3/2 E/2 F2 F3/2 G/2 | A2 A3/2 G/2 F4 | E2 E3/2 F/2 G2 F A | B A G F F2 E2 |
+C2 F3/2 E/2 F2 z2 | E2 E3/2 E/2 F2 z2 | F2 F3/2 F/2 F2 F C | D E F2 E4 |
+C2 A,2 B,2 B,2 | C2 C2 C4 | E F G E F3 G | F2 E2 F4 |]
+V:T
+F,2 C,2 F,2 C,2 | A,,2 C,2 F,4 | C,6 F,2 | B,,4 C,4 |
+A,2 C3/2 C/2 C2 z2 | G,2 G,3/2 G,/2 F,2 G, A, | B,4 A,2 D C | B,2 C2 C4 |
+A,2 F,2 F,2 G,2 | F,2 E,2 F,4 | G,3 G, A, B, C D | C2 C B, A,4 |]
+V:B
+F,2 C,2 F,2 C,2 | A,,2 C,2 F,4 | C,6 F,2 | B,,4 C,4 |
+F,2 A,3/2 G,/2 F,2 E, D, | C,4 F,2 z2 | B,,3/2 C,/2 D,3/2 E,/2 F,2 B, A, | G,2 F,2 C,4 |
+F,,2 F,,2 B,,2 G,,2 | A,,2 C,2 F,3 z | C, D, E, C, F, G, A, B, | C2 C,2 F,4 |]

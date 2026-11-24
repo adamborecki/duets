@@ -1,0 +1,38 @@
+X:1
+T:Lord of Our Life
+T:ISTE CONFESSOR
+C:or 'Rouen' from Poitiers Antiphoner, 1746
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: church
+%%duets tune: ISTE CONFESSOR
+%%duets year: 1746
+%%duets credit: Tune and setting: public domain (Healey Willan, 1918, alt), via the Open Hymnal Project.
+%%duets lyricist: Matthäus Apelles von Löwenstern, 1644. Translated by Philip Pusey, 1840
+%%duets notes: intro 13-15
+%%duets slug: lord-of-our-life
+M:4/4
+L:1/8
+Q:1/4=120
+K:F
+V:S
+"Dm"D4 "Am/C"A2 "Dm"F2 | "C6"G4 A4 | "Bb"D3 E "F/A"F2 "Gm/Bb"G2 | "F/C"F2 "C"E2 "Dm7"D4 |
+"Bb"D4 "Dm7/F"A2 F2 | "C"G4 "F"A2- "Fmaj7/E"A2 | "Dm"A3 G "F"A2 "Bdim/D"=B2 | "C6"c2 =B2 A4 |
+"Dm"d4 "C/E"c2 "D"d2 | "F"c2 "Gm"B2 "A"A4 | "F"c2- "Fsus4"c B "F/A"A2 "Gm"B2 | "F/A"A2 "C"G2 "Dm"F4 |
+"A"A4 "Bb"D2 "Edim/G"E2 | "F"F2- "Bb"F2 "C"E2- "C7"E2 | "Dsus4"D4- "Dm"D4 |]
+V:A
+A,4 E2 D2 | E4 E4 | B,3 B, C2 D2 | C4 A,4 |
+B,4 C2 D2 | E4 F4 | F3 C C2 F2 | E4 E4 |
+F4 G2 A2 | A2 G2 E4 | F3 E F2 G2 | F2 E2 D4 |
+E4 B,2 B,2 | C2 D4 C B, | A,8 |]
+V:T
+F,4 A,2 F,2 | G,4 A,4 | F,3 G, F,2 B,2 | A,2 G,2 F,4 |
+F,4 F,2 A,2 | C4 C4 | D3 G, F,2 F,2 | G,4 A,4 |
+A,4 G,2 A,2 | F,2 G,2 A,4 | F,3 G, A,2 G,2 | A,2 G,2 A,4 |
+A,4 F,2 G,2 | A,2 B,2 G,4 | G,4 F,4 |]
+V:B
+D,4 C,2 D,2 | C,4 A,,4 | B,,3 G,, A,,2 B,,2 | C,4 D,2 C,2 |
+B,,4 F,,2 D,2 | C,4 F,2 E,2 | D,3 E, F,2 D,2 | C,2 E,2 A,,4 |
+D,,4 E,,2 D,,2 | F,,2 G,,2 A,,4 | F,,3 G,, A,,2 G,,2 | A,,2 C,2 D,4 |
+A,,4 B,,2 G,,2 | F,,2 B,,2 C,2 C,,2 | D,,8 |]

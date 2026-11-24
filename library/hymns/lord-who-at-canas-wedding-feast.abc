@@ -1,0 +1,42 @@
+X:1
+T:Lord, Who at Cana's Wedding Feast
+T:ST. URSULA
+C:Frederick Westlake, 1863
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: home
+%%duets tune: ST. URSULA
+%%duets year: 1863
+%%duets credit: Tune and setting: public domain ("The Church Hymnal, Revised and Enlarged" (Episcopal), 1896), via the Open Hymnal Project.
+%%duets lyricist: Adelaide Thrupp, 1853
+%%duets notes: intro 14-17
+%%duets slug: lord-who-at-canas-wedding-feast
+M:4/4
+L:1/8
+Q:1/4=110
+K:G
+V:S
+"G"B2 | "G"d2- "D7/A"d c "G/B"B2 "C"G2 | "Bm/D"B2 "D7"A2 "G"G2 D2 | "C"E2 "Em"G2 "G/B"G2- "C"G A |
+"D7"F6 A2 | "G/B"d2- "Bm"d c "Em7/G"B2 e d | "Am"c3 B "Am/C"A2 "B"B2 | "Em"G2 B2 "Bm/F#"d2- "F#7"d ^c |
+"Bm"B6 d2 | "G"d3 d "C/G"e2 "G"d2 | "D/F#"d3 c "G"B2 B2 | "Cmaj7"G3 G "Am7"c2 e2 |
+"D/F#"A2- "Am/E"A2- "Bm7/D"A2 "Am/C"A2 | "G/B"d3 d "C"e2 "E7"d2 | "D7/A"c2 d2 "G"B2 "D7"A2 | "Em"G3 G "G/D"G2 "D"F2 |
+"G"G6 |]
+V:A
+G2 | G2 F2 G2 E2 | D2 D2 D2 B,2 | C2 B,2 D2 E2 |
+D6 F2 | G3 F G2 E2 | E3 E E2 ^D2 | E2 G2 F2 E2 |
+D6 F2 | G3 G G2 G2 | A3 A G2 G2 | E3 E E2 E2 |
+D6 E F | G3 G G2 ^G2 | A2 A2 G2 F2 | G3 E D2 D2 |
+D6 |]
+V:T
+D2 | B,2 C2 D2 C2 | C2 C2 B,2 G,2 | G,2 G,2 G,2 C2 |
+A,6 D2 | D3 D D2 G,2 | A,3 ^G, A,2 F,2 | G,2 G, A, B,2 ^A,2 |
+B,6 B,2 | B,3 B, C2 B,2 | A,3 D D2 D2 | C3 C C2 C2 |
+D2 C2 B,2 A,2 | G,3 G, C2 B,2 | A,2 A,2 D2 C2 | B,3 C B,2 A,2 |
+B,6 |]
+V:B
+G,2 | G,,2 A,,2 B,,2 C,2 | D,2 E, F, G,2 G,,2 | C,2 E,2 B,,2 C,2 |
+D,6 C,2 | B,,3 A,, G,,2 C, B,, | A,,3 B,, C,2 B,,2 | E,2 E,2 F,2 F,,2 |
+B,,6 B, A, | G,3 G, G,2 G,2 | F,3 F, G,2 G,2 | C2 B,2 A,2 G,2 |
+F,2 E,2 D,2 C,2 | B,,3 B,, C,2 E,2 | A,2 F,2 G,2 D,2 | E,3 C, D,2 D,2 |
+G,,6 |]

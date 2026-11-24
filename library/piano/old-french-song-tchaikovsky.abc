@@ -1,0 +1,46 @@
+X:1
+T:Old French Song
+T:Album for the Young, Op. 39 No. 16
+C:Pyotr Ilyich Tchaikovsky
+S:Mutopia Project
+%%duets category: piano
+%%duets tags: classical, tchaikovsky
+%%duets credit: Pyotr Ilyich Tchaikovsky. Source edition: David McNamara for the Mutopia Project (Public Domain).
+%%duets tempo-text: Molto moderato
+%%duets slug: old-french-song-tchaikovsky
+M:2/4
+L:1/8
+Q:1/4=66
+K:Gm
+V:S
+D |: G A B c | d3 d | c d e c |
+d3 d | c d e c | d e/2 d/2 c B | A7/2 G/2 |
+[1 G3 D :| [2 G4 | G2 G A | B3 B |
+c2 c2 | A3 A | d3 d | e f/2 e/2 d c |
+B2 A G | [_GA]3 D | G A B c | d3 d |
+c d e c | d3 d | c d e c | d e/2 d/2 c B |
+A7/2 G/2 | [B,G]4 |]
+V:lh
+z |: B, C D C | B,4 | E2 C2 |
+B,2 z2 | E2 C2 | B,2 z2 | C4 |
+[1 [G,B,]2 z2 :| [2 [G,B,]4 | z G,/2 z/2 C/2 z/2 E/2 z/2 | z G,/2 z/2 C/2 z/2 E/2 z/2 |
+z2 C/2 z/2 E/2 z/2 | z A,/2 z/2 C/2 z/2 _G/2 z/2 | [G,B,] D G z | [CEG]4 |
+[DG]2 z2 | D2 D,2 | B, C D C | B,4 |
+E2 C2 | B,2 z2 | E2 C2 | B,2 z2 |
+[C,G,]2 [D,_G,]2 | [G,,D,]4 |]
+V:lh2
+z |: G,4- | G,2 G,2- | G,4- |
+G,2 G,2- | G,4- | G,2 G,2 | _G,2 D,2 |
+[1 z2 G,, z :| [2 z4 | C,/2 z7/2 | G,,/2 z7/2 |
+C,/2 z/2 G,/2 z5/2 | D,/2 z7/2 | z4 | z4 |
+z4 | z4 | G,4- | G,2 G,2- |
+G,4- | G,2 G,2- | G,4- | G,2 G,2 |
+z4 | z4 |]
+V:rh2
+z |: z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+[1 z4 :| [2 z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+E2 D2 | z4 |]

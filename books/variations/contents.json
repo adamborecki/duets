@@ -1,0 +1,492 @@
+{
+ "id": "variations",
+ "title": "Themes & Variations",
+ "subtitle": "Familiar tunes with variations, for piano four hands",
+ "blurb": "Each tune is played plainly, then with a flowing accompaniment, with the tune in the bass, in the minor, as a jig, decorated, and in a broad finale.",
+ "pieces": 20,
+ "layouts": {
+  "facing": {
+   "path": "variations-facing.pdf",
+   "pages": 149,
+   "bytes": 1562500
+  },
+  "score": {
+   "path": "variations-score.pdf",
+   "pages": 124,
+   "bytes": 1360380
+  },
+  "screen": {
+   "path": "variations-screen.pdf",
+   "pages": 131,
+   "bytes": 1548425
+  },
+  "screen-score": {
+   "path": "variations-screen-score.pdf",
+   "pages": 139,
+   "bytes": 1279291
+  }
+ },
+ "items": [
+  {
+   "slug": "twinkle-twinkle-little-star",
+   "title": "Variations on \u201cTwinkle, Twinkle, Little Star\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "French melody \"Ah! vous dirai-je, maman\", 1761",
+   "levels": {
+    "p": 1.7,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 84,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 4,
+    "score": 4,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "ode-to-joy",
+   "title": "Variations on \u201cOde to Joy\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "Ludwig van Beethoven, 1824",
+   "levels": {
+    "p": 1.9,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 112,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 12,
+    "score": 10,
+    "screen": 9,
+    "screen-score": 8
+   }
+  },
+  {
+   "slug": "surprise-symphony-andante",
+   "title": "Variations on \u201cSurprise Symphony (Andante)\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "Joseph Haydn, 1791",
+   "levels": {
+    "p": 2.7,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "2/4",
+   "bars": 48,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 22,
+    "score": 17,
+    "screen": 16,
+    "screen-score": 16
+   }
+  },
+  {
+   "slug": "simple-gifts",
+   "title": "Variations on \u201cSimple Gifts\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "Joseph Brackett (Shaker song), 1848",
+   "levels": {
+    "p": 2.5,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 117,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 20,
+    "screen": 20,
+    "screen-score": 19
+   }
+  },
+  {
+   "slug": "yankee-doodle",
+   "title": "Variations on \u201cYankee Doodle\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "American traditional (18th century)",
+   "levels": {
+    "p": 2.8,
+    "s": 2.9
+   },
+   "key": "C",
+   "meter": "2/4",
+   "bars": 96,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 36,
+    "score": 29,
+    "screen": 29,
+    "screen-score": 27
+   }
+  },
+  {
+   "slug": "what-shall-we-do-with-a-drunken-sailor",
+   "title": "Variations on \u201cWhat Shall We Do with a Drunken Sailor?\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "Sea shanty (traditional)",
+   "levels": {
+    "p": 3.2,
+    "s": 3.1
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 56,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 35,
+    "screen": 34,
+    "screen-score": 33
+   }
+  },
+  {
+   "slug": "au-clair-de-la-lune",
+   "title": "Variations on \u201cAu clair de la lune\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "French traditional (18th century)",
+   "levels": {
+    "p": 1.9,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 112,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 40,
+    "screen": 39,
+    "screen-score": 39
+   }
+  },
+  {
+   "slug": "when-the-saints-go-marching-in",
+   "title": "Variations on \u201cWhen the Saints Go Marching In\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "American traditional spiritual",
+   "levels": {
+    "p": 1.8,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 117,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 56,
+    "score": 46,
+    "screen": 46,
+    "screen-score": 47
+   }
+  },
+  {
+   "slug": "oh-susanna",
+   "title": "Variations on \u201cOh! Susanna\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "Stephen Foster, 1848",
+   "levels": {
+    "p": 2.8,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "2/4",
+   "bars": 102,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 53,
+    "screen": 54,
+    "screen-score": 55
+   }
+  },
+  {
+   "slug": "good-king-wenceslas",
+   "title": "Variations on \u201cGood King Wenceslas\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "Tempus adest floridum (Piae Cantiones, 1582)",
+   "levels": {
+    "p": 1.9,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 91,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 70,
+    "score": 58,
+    "screen": 59,
+    "screen-score": 61
+   }
+  },
+  {
+   "slug": "deck-the-halls",
+   "title": "Variations on \u201cDeck the Halls\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "Nos Galan (Welsh traditional)",
+   "levels": {
+    "p": 2.3,
+    "s": 2.6
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 84,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 78,
+    "score": 65,
+    "screen": 66,
+    "screen-score": 69
+   }
+  },
+  {
+   "slug": "old-macdonald-had-a-farm",
+   "title": "Variations on \u201cOld MacDonald Had a Farm\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "American traditional",
+   "levels": {
+    "p": 1.9,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 112,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 88,
+    "score": 71,
+    "screen": 73,
+    "screen-score": 78
+   }
+  },
+  {
+   "slug": "pachelbel-canon-in-d",
+   "title": "Variations on \u201cCanon in D\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "Johann Pachelbel, c. 1680",
+   "levels": {
+    "p": 2.1,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 91,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 96,
+    "score": 78,
+    "screen": 80,
+    "screen-score": 86
+   }
+  },
+  {
+   "slug": "amazing-grace",
+   "title": "Variations on \u201cAmazing Grace\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "James P. Carrell and David L. Clayton, 1831",
+   "levels": {
+    "p": 2.0,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 102,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 104,
+    "score": 84,
+    "screen": 87,
+    "screen-score": 93
+   }
+  },
+  {
+   "slug": "lightly-row",
+   "title": "Variations on \u201cLightly Row\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "German traditional (\"H\u00e4nschen klein\")",
+   "levels": {
+    "p": 1.7,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 112,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 110,
+    "score": 89,
+    "screen": 93,
+    "screen-score": 99
+   }
+  },
+  {
+   "slug": "skip-to-my-lou",
+   "title": "Variations on \u201cSkip to My Lou\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "American traditional play-party song",
+   "levels": {
+    "p": 1.8,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 56,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 118,
+    "score": 95,
+    "screen": 100,
+    "screen-score": 107
+   }
+  },
+  {
+   "slug": "joy-to-the-world",
+   "title": "Variations on \u201cJoy to the World\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "pieced together from \"Messiah\" George F. Handel, 1741",
+   "levels": {
+    "p": 2.6,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "2/4",
+   "bars": 114,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 122,
+    "score": 99,
+    "screen": 105,
+    "screen-score": 112
+   }
+  },
+  {
+   "slug": "the-ash-grove",
+   "title": "Variations on \u201cThe Ash Grove\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "Welsh traditional (Llwyn Onn)",
+   "levels": {
+    "p": 2.8,
+    "s": 3.2
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 198,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 130,
+    "score": 105,
+    "screen": 111,
+    "screen-score": 119
+   }
+  },
+  {
+   "slug": "london-bridge-is-falling-down",
+   "title": "Variations on \u201cLondon Bridge Is Falling Down\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "English traditional",
+   "levels": {
+    "p": 1.8,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 56,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 142,
+    "score": 117,
+    "screen": 122,
+    "screen-score": 130
+   }
+  },
+  {
+   "slug": "mary-had-a-little-lamb",
+   "title": "Variations on \u201cMary Had a Little Lamb\u201d",
+   "subtitle": "Theme and variations for piano four hands",
+   "composer": "Lowell Mason, 1830",
+   "levels": {
+    "p": 1.7,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 56,
+   "flavor": "variations",
+   "flavor_text": "Theme and variations",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 146,
+    "score": 121,
+    "screen": 127,
+    "screen-score": 135
+   }
+  }
+ ],
+ "seconds": 20.4
+}

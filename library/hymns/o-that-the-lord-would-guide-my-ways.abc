@@ -1,0 +1,34 @@
+X:1
+T:O That the Lord Would Guide My Ways
+T:EVAN
+C:or 'Eva' William H. Havergal, 1847
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: consecration
+%%duets tune: EVAN
+%%duets year: 1847
+%%duets credit: Tune and setting: public domain (Lowell Mason, 1850), via the Open Hymnal Project.
+%%duets lyricist: Isaac Watts, 1719, alt
+%%duets notes: intro 8-9
+%%duets slug: o-that-the-lord-would-guide-my-ways
+M:3/2
+L:1/8
+Q:1/2=65
+K:Ab
+V:S
+"Ab"E4 | "Ab"E2 A2 c4 "Eb7"B4 | "Db/F"A2 F2 "Ab"E4 E4 | "Fm/Ab"E2 A2 c4 A4 |
+"Eb7"B8 d4 | "Ab"c2 B2 "Fm"A4 "Eb"B4 | "Ab"c2 A2 "Db"F4 "Eb"E4 | "Ab"E2 A2 "Ab/Eb"c4 "Eb7"B4 |
+"Ab"A8 |]
+V:A
+C4 | C2 C2 E4 D4 | C2 D2 C4 C4 | C2 C2 C4 C4 |
+E8 E4 | E2 E2 C4 E4 | E2 E2 D4 B,4 | C2 C2 E4 D4 |
+C8 |]
+V:T
+A,4 | A,2 A,2 A,4 G,4 | A,2 A,2 A,4 A,4 | A,2 A,2 A,4 A,4 |
+G,8 B,4 | A,2 G,2 A,4 G,4 | A,2 A,2 A,4 G,4 | A,2 A,2 A,4 G,4 |
+A,8 |]
+V:B
+A,,4 | A,,2 A,,2 A,,4 E,4 | F,2 D,2 A,,4 A,,4 | A,,2 A,2 F,4 F,4 |
+E,8 E,4 | A,2 E,2 F,4 E,4 | A,2 C,2 D,4 E,4 | A,,2 F,2 E,4 E,4 |
+A,,8 |]

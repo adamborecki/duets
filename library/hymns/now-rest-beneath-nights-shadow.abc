@@ -1,0 +1,38 @@
+X:1
+T:Now Rest Beneath Night's Shadow
+T:INNSBRUCK
+C:or 'Nun ruhen alle Wälder' or 'O Welt, Ich Muss Dich Lassen' Heinrich Isaac, 1490
+S:Open Hymnal Project
+R:chorale
+%%duets category: hymn
+%%duets tags: evening
+%%duets tune: INNSBRUCK
+%%duets year: 1490
+%%duets credit: Tune and setting: public domain (Johann Sebastian Bach, 1734), via the Open Hymnal Project.
+%%duets lyricist: Paul Gerhardt, 1648. Translation composite before 1941
+%%duets notes: intro 12-13
+%%duets slug: now-rest-beneath-nights-shadow
+M:4/4
+L:1/8
+Q:1/4=84
+K:G
+V:S
+"G"B2 | "C"G2 "F#dim/A"A2 "G"B c d2 | "Cmaj7/E"c2- "D7/F#"c2 "Em7/G"!fermata!B2 B c | "Bm"d2 "G/B"d2 "D7"A2 "Bm"B2 |
+"Em7"G2- "C#dim/E"G2 "D7"!fermata!F2 D2 | "G/B"G2 "Am"A2 "G"B2 "G/B"B2 | "D"!fermata!A6 "B/D#"B2 | "Em"G2 "Bm7/F#"A2 "G"B c "E7/G#"d2 |
+"Am"c4 "E"!fermata!B2 "Em"B c | "D7/F#"d2 "G"d2 "A7/G"A2 "B"B2 | "Em"G2- "Em/G"G2 "B"!fermata!F2 "Bm"D2 | "Em7"G2 "Bm7/F#"A2 "G"B2 "C/E"c2 |
+"Cmaj7"B2 "D"A2 "G"!fermata!G2 |]
+V:A
+G2 | E2 F2 G A B2 | B2 A2 G2 G2 | G F G E F E D2 |
+D2 ^C2 D2 A,2 | D2 C2 B, C D2 | D6 F2 | E2 D2 D2 E2 |
+E D E F ^G2 =G2 | A2 G F E2 F2 | F2 E2 ^D2 =D2 | D E D C B, D E F |
+G2 F2 D2 |]
+V:T
+D2 | C2 C2 D C B, A, | G,2 D2 D2 E2 | D2 D2 D2 F,2 |
+G, F, G,2 A,2 F, E, | D,2 E, F, G,2 G,2 | F,6 B,2 | B, C B, A, G, A, B,2 |
+A, B, C D E2 E2 | D C B,2 ^C2 F,2 | B,4 B,2 B,2 | B, C B, A, G,2 G,2 |
+E2 A, B,/2 C/2 B,2 |]
+V:B
+G,2 | C B, A,2 G,3 F, | E,2 F,2 G,2 E,2 | B,, A,, B,, C, D, C, B,,2 |
+E,4 D,2 C,2 | B,,2 A,,2 G,, A,, B,, C, | D,6 ^D,2 | E,2 F,2 G,2 ^G,2 |
+A,2 A,,2 E,2 E,2 | F,2 G,2 G, F, E, ^D, | E, F, G, A, B,2 B,,2 | E,2 F,2 G, F, E, D, |
+C,2 D,2 G,,2 |]

@@ -1,0 +1,26 @@
+X:1
+T:Rêverie
+C:Claude Debussy, 1890
+S:OpenEWLD
+R:flowing
+%%duets category: classical
+%%duets year: 1890
+%%duets credit: Melody and chords: public domain in the United States (published 1890); lead sheet from OpenEWLD.
+%%duets slug: reverie
+M:4/4
+L:1/8
+K:F
+"Gm"g4 d4- | d2 e f g2 e d | (3e2c2e2 d4- | d4 B2 d2 |
+"F"e2 f2 c4- | "C7"c4 G4 | "F"A8- | A8 |
+"Dm7"a4 "Am"e4- | e2 d e "Gm7"d2 B G | "Dm7"a4 "Am"e4- | e2 d e "Gm7"d2 B G |
+"C9"g4 d4- | d2 B d "F"c2 A G | "Am"A2 E G "Dm"F2 D F | "Gm7"D4 "C7"C4 |
+"F9"c4 G4- | G2 A B c2 A G | (3A2F2A2 G4- | G4 _E2 G2 |
+"Bb"A2 B2 F4- | F4 A2 B2 | c2 d2 A4- | A4 B2 d2 |
+"F+/G"f4 ^c4 | "Dm"z2 d e f2 f a | "F+/G"g4 ^c4 | "Dm"z2 d e f2 f a |
+f2 D E F2 F A | "G7"F4 D4- | "C"D2 C2 c4 | "Gm"g4 d4- |
+d2 e f g2 e d | (3e2c2e2 d4- | d4 B2 d2 | "F"e2 f2 c4- |
+"C7"c4 G4 | "F"A8- | A8 | "Dm7"a4 "Am"e4- |
+e2 d e "Gm7"d2 B G | "Dm7"a4 "Am"e4- | e2 d e "Gm7"d2 B G | "Eb"g4 d4- |
+d2 B d c2 "F7"A F | "Eb"g4 d4- | d2 B d "Cm6"c2 "D"d2 | "Gm"B2 "A"A2 A2 "Gm"B2 |
+B2 "A"A2 A4 | "Gm"B2 "A"A2 A2 "Gm"(3BdB | "A"A2 G2 "Dm"F4 | "Gm"B2 "A"A2 A2 "Gm"B2 |
+B2 "A7"A2 A4 | "Gm6"B2 "A7"A2 A2 "Gm"(3BdB | "C7"A4 G4 | "F"F8 |]

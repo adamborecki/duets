@@ -1,0 +1,17 @@
+X:1
+T:Jenny Lind Polka
+C:Anton Wallerstein, 1846
+S:Nottingham Music Database
+R:march
+%%duets category: folk
+%%duets tags: polka
+%%duets credit: Melody and chords: traditional / public domain, from the Nottingham Music Database.
+%%duets slug: jenny-lind-polka
+M:4/4
+L:1/8
+K:D
+[P:A]A G | "D"F2 A2 "A7/E"G2 B2 | "D"A2 f2 f e f2 | "Em"G2 e2 "A7"e ^d e2 |
+"D"F2 d2 "A7"d2 A G | "D"F2 "Bm"A2 "A7/E"G2 "A7"B2 | "D"A2 f2 "D"f e f2 | "G"g2 f2 "A7"e g f e |
+"D"d2 f2 d2 :| [P:B][K:G]e f | "Em"g2- "C"g f "D7"e g "C"f e | "G"d2 B2 B A B2 |
+"Am"c2 A2 "D7"A G A2 | "G"B2 G2 G2 e f | "Em"g2- "C"g f "D7"e g "C"f e | "G"d2 B2 B A B2 |
+"D7"c2 A2 A c B A | "G"G2 B2 G2 :|

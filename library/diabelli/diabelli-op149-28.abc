@@ -1,0 +1,38 @@
+X:1
+T:Melodious Piece No. 28
+T:Melodische Übungsstücke, Op. 149 No. 28
+C:Anton Diabelli (1781–1858)
+S:Mutopia Project
+%%duets category: duet
+%%duets tags: classical, original-duet, diabelli
+%%duets credit: Original duet by Anton Diabelli. Source edition: Alberto Simões for the Mutopia Project; this engraving is licensed CC BY-SA 3.0.
+%%duets tempo-text: Allegro
+%%duets slug: diabelli-op149-28
+M:4/4
+L:1/8
+Q:1/4=90
+K:G
+V:S
+|: e/2 z/2 b/2 z/2 g/2 z/2 f/2 z/2 e2 z2 | e/2 z/2 f/2 z/2 g/2 z/2 a/2 z/2 b2 z2 | f b/2 z/2 a/2 z/2 g/2 z/2 f2 z2 |
+f g/2 z/2 a/2 z/2 f/2 z/2 b2 z2 | g/2 z/2 e/2 f/2 g/2 z/2 f/2 g/2 a/2 z/2 f/2 z/2 b2 | g/2 z/2 e/2 f/2 g/2 z/2 f/2 g/2 a/2 z/2 f/2 z/2 b2 | g2 e3/2 f/2 g2 e2 |
+b6 z2 :: a/2 z/2 b/2 z/2 g/2 z/2 a/2 z/2 f2 z2 | g/2 z/2 a/2 z/2 f/2 z/2 g/2 z/2 e2 z2 | a/2 z/2 f/2 z/2 g/2 z/2 e/2 z/2 a/2 z/2 f/2 z/2 g/2 z/2 e/2 z/2 |
+f b b/2 z/2 b/2 z/2 b/2 z/2 a/2 z/2 g/2 z/2 f/2 z/2 | g/2 z/2 e/2 f/2 g/2 z/2 f/2 g/2 a/2 z/2 f/2 z/2 b2 | g/2 z/2 e/2 f/2 g/2 z/2 f/2 g/2 a/2 z/2 f/2 z/2 b2 | g2 e3/2 g/2 b2 b/2 a/2 g/2 f/2 |
+e z g z e z3 :|
+V:plh
+|: [EGB]2 z2 E/2 z/2 B/2 z/2 G/2 z/2 F/2 z/2 | E2 z2 E/2 z/2 F/2 z/2 G/2 z/2 A/2 z/2 | B2 z2 F/2 z/2 B/2 z/2 A/2 z/2 G/2 z/2 |
+F2 z2 F/2 z/2 G/2 z/2 A/2 z/2 F/2 z/2 | G z2 F/2 G/2 A/2 z/2 F/2 z/2 B2 | G z2 F/2 G/2 A/2 z/2 F/2 z/2 B2 | G2 E3/2 F/2 G2 E2 |
+B6 z2 :: [FAB]2 z2 F/2 z/2 G/2 z/2 A/2 z/2 F/2 z/2 | G2 z2 E/2 z/2 F/2 z/2 G/2 z/2 E/2 z/2 | F/2 z/2 B/2 z/2 G/2 z/2 B/2 z/2 F/2 z/2 B/2 z/2 G/2 z/2 B/2 z/2 |
+F B B/2 z/2 B/2 z/2 B/2 z/2 A/2 z/2 G/2 z/2 F/2 z/2 | G/2 z/2 E/2 F/2 G/2 z/2 F/2 G/2 A/2 z/2 F/2 z/2 B2 | G/2 z/2 E/2 F/2 G/2 z/2 F/2 G/2 A/2 z/2 F/2 z/2 B2 | G2 E3/2 G/2 B2 B/2 A/2 G/2 F/2 |
+E z [EGB] z [EGB] z3 :|
+V:srh
+|: [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 | [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 | [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 |
+[F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 | [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 | [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 | [E,G,B,]2 E,3/2 F,/2 G,2 E,2 |
+B,/2 z/2 F,/2 z/2 ^D,/2 z/2 F,/2 z/2 B,,2 z2 :: [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 | [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 | z [F,A,B,] z [E,G,B,] z [F,A,B,] z [E,G,B,] |
+[^D,F,B,] B, B, B, B, [A,B,] [G,B,] [F,B,] | [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 | [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [E,G,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 [F,A,B,]/2 z/2 | [E,G,B,]2 E,3/2 G,/2 B,2 B,/2 A,/2 G,/2 F,/2 |
+E,2 [E,G,B,]2 [E,G,B,]2 z2 :|
+V:slh
+|: E,,2 z6 | E,,2 B,,,2 E,,2 z2 | _E,,2 z6 |
+_E,,2 B,,,2 ^D,,2 z2 | E,, z B,,, z _E,, z B,,, z | E,, z B,,, z _E,, z B,,, z | E,,2 E,,3/2 F,,/2 G,,2 E,,2 |
+B,,/2 z/2 F,,/2 z/2 ^D,,/2 z/2 F,,/2 z/2 B,,,2 z2 :: _E,,2 z2 E,, z B,,, z | E,,2 z2 E,, z B,,, z | ^D,, z E,, z D,, z E,, z |
+B,,, B,, B,, B,, B,, [A,,B,,] [G,,B,,] [F,,B,,] | E,, z B,,, z _E,, z B,,, z | E,, z B,,, z _E,, z B,,, z | E,,2 E,,3/2 G,,/2 B,,2 B,,/2 A,,/2 G,,/2 F,,/2 |
+E,,2 [E,,G,,B,,]2 [E,,G,,B,,]2 z2 :|
