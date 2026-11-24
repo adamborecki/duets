@@ -222,6 +222,18 @@ def chords_bar_ly(chords, length: Fraction, carried: Optional[Chord]) -> tuple:
 # ---------------------------------------------------------------------------
 # whole file
 # ---------------------------------------------------------------------------
+def hands_of(piece: Piece) -> tuple:
+    """The staves a piece uses: the four hands, plus organ pedals if present."""
+    from .model import HANDS as FOUR
+    if any("ped" in b.hands for b in piece.bars):
+        return FOUR + ("ped",)
+    return FOUR
+
+
+def part_name(piece: Piece, part: str) -> str:
+    return getattr(piece, "part_names", None) and piece.part_names.get(part) or PART_NAME[part]
+
+
 def _per_bar(value, n, default):
     if isinstance(value, (list, tuple)):
         return list(value) + [default] * (n - len(value))
@@ -247,7 +259,8 @@ def build_music(piece: Piece, spec: Spec, unfolded: bool = False) -> dict:
     plan = timing_plan(seq, piece.meter)
     meter = piece.meter
     key = piece.key
-    clefs = {h: _per_bar(piece.clefs.get(h), len(bars), "treble" if h[0] == "p" else "bass") for h in HANDS}
+    HANDS = hands_of(piece)
+    clefs = {h: _per_bar(piece.clefs.get(h), len(bars), "treble" if h[0] == "p" and h != "ped" else "bass") for h in HANDS}
     ottava = {h: _per_bar(piece.ottava.get(h), len(bars), 0) for h in HANDS}
 
     g: list = []
@@ -486,12 +499,16 @@ def _layout(spec: Spec, piece: Piece) -> str:
     return "\n".join(lines)
 
 
-def _part_block(part: str, spec: Spec, with_global: bool, named: bool) -> str:
+def _part_block(part: str, spec: Spec, with_global: bool, named: bool, piece: Optional[Piece] = None) -> str:
     rh, lh = PART_HANDS[part]
     with_ = ""
+    pedal = piece is not None and part == "s" and "ped" in hands_of(piece)
     if named:
         short = {"p": "I", "s": "II"}[part]
-        with_ = ' \\with { instrumentName = %s shortInstrumentName = %s }' % (q(PART_NAME[part]), q(short))
+        name = part_name(piece, part) if piece is not None else PART_NAME[part]
+        if name != PART_NAME[part]:
+            short = name[:3] + "."
+        with_ = ' \\with { instrumentName = %s shortInstrumentName = %s }' % (q(name), q(short))
     top = "<< \\global \\%s >>" % rh if with_global else "\\%s" % rh
     lines = []
     if spec.chords:
@@ -503,6 +520,9 @@ def _part_block(part: str, spec: Spec, with_global: bool, named: bool) -> str:
         "      \\new Staff = \"%s\" \\%s" % (lh, lh),
         "    >>",
     ]
+    if pedal:
+        lines.append('    \\new Staff = "ped" \\with { instrumentName = %s } \\ped'
+                     % (q("Ped.") if named else q("")))
     return "\n".join(lines)
 
 
@@ -534,13 +554,13 @@ def render_ly(piece: Piece, spec: Spec) -> str:
     out.append("harmonies = " + music["chords"])
     out.append("dynP = " + music["dyn_p"])
     out.append("dynS = " + music["dyn_s"])
-    for h in HANDS:
+    for h in hands_of(piece):
         out.append(f"{h} = " + music[h])
     out.append("")
     out.append("\\score {")
     out.append("  <<")
     for i, part in enumerate(spec.parts):
-        out.append(_part_block(part, spec, with_global=(i == 0), named=spec.is_score))
+        out.append(_part_block(part, spec, with_global=(i == 0), named=spec.is_score, piece=piece))
     out.append("  >>")
     out.append(_layout(spec, piece))
     out.append("}")
@@ -554,16 +574,18 @@ def midi_score(piece: Piece, spec: Spec, parts=("p", "s")) -> str:
     beat = piece.meter.beat_len
     out = ["", "% ---- playback (repeats written out) ----"]
     out.append("globalMidi = " + um["global"])
-    for h in HANDS:
+    for h in hands_of(piece):
         out.append(f"{h}Midi = " + um[h])
     out.append("\\score {")
     out.append("  <<")
     first = True
+    organ = "ped" in hands_of(piece)
     for part in parts:
-        for h in PART_HANDS[part]:
+        for h in PART_HANDS[part] + (("ped",) if (organ and part == "s") else ()):
             g = "\\globalMidi " if first else ""
             first = False
-            out.append('    \\new Staff \\with { midiInstrument = "acoustic grand" } << %s\\%sMidi >>' % (g, h))
+            inst = "church organ" if (organ and part == "s") else "acoustic grand"
+            out.append('    \\new Staff \\with { midiInstrument = "%s" } << %s\\%sMidi >>' % (inst, g, h))
     out.append("  >>")
     out.append("  \\midi { }")
     out.append("}")

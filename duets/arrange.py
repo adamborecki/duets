@@ -1321,3 +1321,38 @@ def arrange_split(tune: Tune, opts: Optional[Options] = None) -> Piece:
 def _mean_pitch(events: list) -> float:
     ms = [p.midi for e in events for p in e.pitches]
     return sum(ms) / len(ms) if ms else 999.0
+
+
+# ---------------------------------------------------------------------------
+# organ and piano
+# ---------------------------------------------------------------------------
+def arrange_organ_piano(tune: Tune, opts: Optional[Options] = None) -> Piece:
+    """A hymn for two instruments: the organ plays the four-part setting as an
+    organist would (soprano and alto in the right hand, tenor in the left,
+    bass in the pedals) while the piano plays the tune an octave up over
+    flowing broken chords.  The hymnal key is kept."""
+    o = opts or Options()
+    key = "original" if o.key == "auto" else o.key
+    organ = arrange_satb(tune, replace(o, primo=4, secondo=2, key=key))
+    piano = arrange(tune, replace(o, primo=max(2, min(o.primo, 3)), secondo=3, melody="p", style="flowing",
+                                  key=organ.key.tonic.class_name))
+    bars = []
+    for ob, pn in zip(organ.bars, piano.bars):
+        pb = PBar(length=ob.length)
+        pb.pickup, pb.start_repeat, pb.end_repeat, pb.volta = ob.pickup, ob.start_repeat, ob.end_repeat, ob.volta
+        pb.double_bar, pb.meter, pb.key, pb.final = ob.double_bar, ob.meter, ob.key, ob.final
+        pb.chords = list(ob.chords)
+        pb.hands["prh"] = pn.hands["prh"]
+        pb.hands["plh"] = pn.hands["srh"]            # the pianist's left hand takes the broken chords
+        pb.hands["srh"] = [[e.shifted(-1) for e in v] for v in ob.hands["prh"]]   # S+A at pitch
+        pb.hands["slh"] = ob.hands["srh"]            # tenor
+        pb.hands["ped"] = ob.hands["slh"]            # bass
+        bars.append(pb)
+    bars[0].dyn = {"p": "mf", "s": "mf"}
+    piece = copy.copy(organ)
+    piece.bars = bars
+    piece.clefs, piece.ottava, piece.levels, piece.stats = {}, {}, {}, {}
+    piece.part_names = {"p": "Piano", "s": "Organ"}
+    piece.flavor = "Organ plays the four-part setting (with pedals) · Piano has the tune over broken chords"
+    piece.tempo_text = organ.tempo_text
+    return piece

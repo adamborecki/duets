@@ -59,7 +59,8 @@ def _sections(piece: Piece) -> list:
 def plan_clefs(piece: Piece) -> None:
     """Choose a clef per hand and section, and 8va where the Primo climbs."""
     n = len(piece.bars)
-    for hand in HANDS:
+    from .lily import hands_of
+    for hand in hands_of(piece):
         default = "treble" if hand in ("prh", "plh") else "bass"
         clefs = [default] * n
         prev = None
@@ -73,7 +74,7 @@ def plan_clefs(piece: Piece) -> None:
                     cost[c] = sum(ledger_lines(p.d, c) ** 1.3 for p in notes) / len(notes)
                 if hand == "prh":
                     choice = "treble"
-                elif hand == "slh":
+                elif hand in ("slh", "ped") and not (hand == "slh" and "ped" in piece.clefs):
                     choice = "bass"
                 else:
                     bias = 0.25
@@ -250,6 +251,8 @@ def plan_part_layout(piece: Piece, paper: tuple, sizes=(22.0, 20.5, 19.0, 17.5, 
         breaks = plan_breaks(piece, cap)
         systems = len(breaks) + 1
         sys_h = 31.0 * ss          # grand staff + chord names + breathing room
+        if any("ped" in b.hands for b in piece.bars):
+            sys_h = 44.0 * ss      # an organ part has a third staff
         title_h = 30.0
         usable = h - top - bottom
         per_first = max(1, int((usable - title_h) // sys_h))
@@ -304,7 +307,8 @@ def plan_score_layout(piece: Piece, paper: tuple, size: float, margins=(10, 10, 
 
 def level_label(piece: Piece, part: str) -> str:
     lv = piece.levels.get(part)
-    name = PART_NAME[part].upper()
+    from .lily import part_name
+    name = part_name(piece, part).upper()
     return f"{name}   {dots(lv)}" if lv else name
 
 

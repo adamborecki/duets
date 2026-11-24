@@ -241,7 +241,7 @@ def check(piece: Piece) -> list:
                 for (b0, b1, blo, bhi) in lh:
                     if a0 < b1 and b0 < a1 and bhi > alo:
                         crossings += 1
-    if collisions:
+    if collisions and not getattr(piece, "part_names", None):
         problems.append(f"{collisions} moments where Secondo reaches into the Primo's notes")
     if crossings:
         problems.append(f"{crossings} moments where a player's hands cross")

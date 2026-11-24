@@ -281,6 +281,7 @@ class Piece:
     free_meter: bool = False
     swing: bool = False
     notes: str = ""
+    part_names: dict = field(default_factory=dict)   # e.g. {'p': 'Piano', 's': 'Organ'}
 
     def play_order(self) -> list:
         return play_order(self.bars)

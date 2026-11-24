@@ -297,7 +297,26 @@ def _originals(tunes):
                                      "easy-primo-rich", "trade-easy"])
 
 
+ORGAN_PIANO = ["savior-of-the-nations-come", "wake-awake-for-night-is-flying", "o-come-o-come-emmanuel",
+               "comfort-comfort-ye-my-people", "on-jordans-bank-the-baptists-cry", "from-heaven-above",
+               "lo-how-a-rose-eer-blooming", "of-the-fathers-love-begotten", "silent-night", "joy-to-the-world",
+               "o-come-all-ye-faithful", "hark-the-herald-angels-sing", "now-thank-we-all-our-god",
+               "come-ye-thankful-people-come", "we-gather-together", "praise-to-the-lord-the-almighty",
+               "a-mighty-fortress-is-our-god", "holy-holy-holy", "beautiful-savior", "abide-with-me",
+               "amazing-grace", "for-the-beauty-of-the-earth", "jesus-christ-is-risen-today",
+               "o-sacred-head-now-wounded", "crown-him-with-many-crowns", "the-churchs-one-foundation"]
+
+
+def _organ_piano(tunes):
+    by = {t.slug: t for t in tunes}
+    return [Entry(slug=s, flavor="organ-piano", cap=0) for s in ORGAN_PIANO if s in by and by[s].has_satb]
+
+
 BOOKS = [
+    BookDef("organ-piano", "Hymns for Organ & Piano", "Two instruments, two players",
+            "The organ plays each hymn as it stands in the hymnal, with pedals; the piano adds the tune in "
+            "octaves over flowing broken chords. Hymnal keys are kept. In the facing-pages edition the organ "
+            "part is on the left-hand pages and the piano part on the right.", _organ_piano, 6),
     BookDef("variations", "Themes & Variations", "Familiar tunes with variations, for piano four hands",
             "Each tune is played plainly, then with a flowing accompaniment, with the tune in the bass, in the minor, "
             "as a jig, decorated, and in a broad finale.", _variations, 15),

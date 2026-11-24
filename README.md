@@ -40,6 +40,7 @@ python -m duets make "Silent Night"                       # all four editions + 
 python -m duets make "Embraceable You" --flavor easy-secondo --layout screen
 python -m duets make "Ode to Joy" --primo 1 --secondo 3 --key G
 python -m duets make wachet --flavor setting              # three-stanza hymn setting
+python -m duets make "A Mighty Fortress" --flavor organ-piano   # organ (with pedals) + piano
 python -m duets variations "Twinkle"                      # theme and variations
 python -m duets new --style waltz --seed 42 --count 3     # compose new pieces
 python -m duets abc my-tunes.abc                          # your own ABC file (chords optional)
@@ -68,6 +69,7 @@ Useful switches for `make`: `--flavor`, `--primo N`, `--secondo N` (1–5), `--m
 | `setting`, `setting-easy` (hymns) | several stanzas, each set differently | |
 | `variations` | theme, flowing, tune in the bass, minore, jig, decorated, finale | |
 | `round` | the Secondo follows the Primo in canon | |
+| `organ-piano` (hymns) | **piano**: the tune in octaves over broken chords | **organ**: the hymnal setting on three staves, bass in the pedals |
 
 Easy piano classics (`library/piano`) become "one hand each" duets: the Primo plays the composer's
 right-hand part, the Secondo the left-hand part, with octave doublings where a hand is free — not a note
@@ -122,5 +124,6 @@ later book — are still under copyright, so they are not here.
   pleasant; a few will be plain, and now and then an inner chord will be odd. Chord symbols for hymns and
   classics are inferred from the notes and can be fussy.
 - Dynamics, slurs, fingering and pedalling are mostly left to you.
+- The organ-and-piano settings are a first version: one recipe, hymns only, and no registration hints.
 - "One hand each" classics are only as easy as the original hand was.
 - Ratings are estimates — good for comparing pieces, not gospel.

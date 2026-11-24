@@ -50,9 +50,12 @@ FLAVORS = {
     "setting-easy": ("Two stanzas: tune in octaves · tune in the Secondo", Options(primo=2, secondo=2)),
     "original": ("Original duet, as the composer wrote it", Options()),
     "round": ("Round: the Secondo follows the Primo", Options(primo=2, secondo=2)),
+    "organ-piano": ("For organ and piano: organ plays the hymn setting, piano the tune over broken chords",
+                    Options(primo=3, secondo=3)),
     "variations": ("Theme and variations", Options(primo=2, secondo=3)),
 }
-SATB_FLAVORS = ("chorale", "chorale-octaves", "chorale-easy", "chorale-full", "setting", "setting-easy")
+SATB_FLAVORS = ("chorale", "chorale-octaves", "chorale-easy", "chorale-full", "setting", "setting-easy",
+                "organ-piano")
 
 # what a book rotates through, by kind of tune (weights favour the easier side)
 ROTATION = {
@@ -123,7 +126,8 @@ def make_piece(tune: Tune, flavor: str = "", style: str = "auto", key: str = "au
         raise KeyError(f"unknown flavor {flavor!r}; choose from {', '.join(FLAVORS)}")
     if flavor in SATB_FLAVORS and not tune.has_satb:
         flavor = {"chorale": "gentle", "chorale-octaves": "easy-primo", "chorale-easy": "gentle",
-                  "chorale-full": "easy-primo-rich", "setting": "trade", "setting-easy": "trade-easy"}[flavor]
+                  "chorale-full": "easy-primo-rich", "setting": "trade", "setting-easy": "trade-easy",
+                  "organ-piano": "easy-primo"}[flavor]
     desc, _ = FLAVORS[flavor]
     o = flavor_options(flavor, style, key, seed)
     if primo is not None:
@@ -143,6 +147,9 @@ def make_piece(tune: Tune, flavor: str = "", style: str = "auto", key: str = "au
         k = a.key.short
         b = arrange(tune, replace(o, primo=2, secondo=2, melody="s", key=k))
         piece = join_pieces([a, b], labels=["1", "2"])
+    elif flavor == "organ-piano":
+        from .arrange import arrange_organ_piano
+        piece = arrange_organ_piano(tune, o)
     elif flavor in SATB_FLAVORS:
         piece = arrange_satb(tune, o)
     else:
