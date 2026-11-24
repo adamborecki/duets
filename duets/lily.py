@@ -13,7 +13,7 @@ from typing import Optional
 
 from .model import HANDS, Ev, F, PBar, Piece
 from .notate import lily_dur, notate, representable
-from .theory import Chord, Key, Meter
+from .theory import Chord, IrregularMeter, Key, Meter
 
 PART_HANDS = {"p": ("prh", "plh"), "s": ("srh", "slh")}
 PART_NAME = {"p": "Primo", "s": "Secondo"}
@@ -38,6 +38,7 @@ class Spec:
     title: bool = True
     midi: bool = False
     footer: str = ""
+    footer2: str = ""
     label: str = ""                      # e.g. "Secondo ●●○○○"
     ragged_last: bool = False
     auto_pages: bool = False             # let LilyPond choose page breaks even with manual line breaks
@@ -248,8 +249,7 @@ def build_music(piece: Piece, spec: Spec, unfolded: bool = False) -> dict:
         if b.meter is not None:
             meter = b.meter
         if k == 0:
-            if not piece.free_meter:
-                pre.append(meter.lily())
+            pre.append(meter.lily())        # (hidden by the layout for free-rhythm pieces)
             pre.append(key.lily())
             beat = meter.beat_len
             unit = lily_dur(beat) if representable(beat) else "4"
@@ -258,7 +258,7 @@ def build_music(piece: Piece, spec: Spec, unfolded: bool = False) -> dict:
             else:
                 pre.append(f"\\tempo {unit} = {piece.tempo}")
         else:
-            if b.meter is not None and not piece.free_meter:
+            if b.meter is not None:
                 pre.append(b.meter.lily())
             if b.key is not None:
                 key = b.key
@@ -337,6 +337,9 @@ def build_music(piece: Piece, spec: Spec, unfolded: bool = False) -> dict:
 
         # notes
         whole_ok = (not act["joined"]) and (not act["open"]) and act["partial"] is None
+        bar_meter = meter
+        if b.length != meter.bar_len and not b.pickup and not act["joined"] and not act["open"]:
+            bar_meter = IrregularMeter(b.length, meter.beat_len, meter.compound)
         for h in HANDS:
             pre_h = []
             if k == 0:
@@ -351,7 +354,7 @@ def build_music(piece: Piece, spec: Spec, unfolded: bool = False) -> dict:
             if o != cur_ott[h]:
                 pre_h.append(f"\\ottava #{o}")
                 cur_ott[h] = o
-            body = hand_bar_ly(b.hands.get(h, []), meter, mpos, b.length, whole_ok)
+            body = hand_bar_ly(b.hands.get(h, []), bar_meter, mpos, b.length, whole_ok)
             sep = "" if act["open"] else " |"
             hv[h].append(" ".join(pre_h + [body]) + sep)
         mpos = (mpos + b.length) % meter.bar_len if act["open"] or act["joined"] else F(0)
@@ -405,7 +408,9 @@ def _paper(spec: Spec, piece: Piece) -> str:
         "                      \\fontsize #-0.5 \\fromproperty #'header:arranger }",
         "    }",
         "  }",
-        "  oddFooterMarkup = \\markup \\fill-line { \\fontsize #-3.5 \\if \\on-first-page \\fromproperty #'header:copyright }",
+        "  oddFooterMarkup = \\markup \\if \\on-first-page \\fontsize #-3.5 \\column {",
+        "    \\fill-line { \\fromproperty #'header:copyright }",
+        "    \\fill-line { \\fromproperty #'header:duetnote } }",
         "  evenFooterMarkup = \\oddFooterMarkup",
         "  markup-system-spacing.padding = #%s" % ("2.5" if spec.compact else "3.5"),
         "  system-system-spacing.padding = #%s" % ("2.2" if spec.compact else "3.2"),
@@ -500,6 +505,8 @@ def render_ly(piece: Piece, spec: Spec) -> str:
             hdr.append(f"  poet = {q(spec.label)}")
     if spec.footer:
         hdr.append(f"  copyright = {q(spec.footer)}")
+    if spec.footer2:
+        hdr.append(f"  duetnote = {q(spec.footer2)}")
     hdr.append("  tagline = ##f")
     hdr.append("}")
     out.append("\n".join(hdr))

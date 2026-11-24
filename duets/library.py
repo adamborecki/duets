@@ -112,3 +112,22 @@ def validate(tune: Tune) -> list:
     if len(notes) < 8:
         problems.append("too few notes")
     return problems
+
+
+_SMALL = {"a", "an", "the", "and", "but", "or", "nor", "for", "of", "on", "in", "to", "at", "by", "with",
+          "from", "as", "o'er", "unto", "into", "upon"}
+
+
+def title_case(text: str) -> str:
+    """Hymnal-style capitalisation: small words stay lower case inside a title."""
+    words = text.split()
+    out = []
+    for i, w in enumerate(words):
+        lw = w.lower()
+        if 0 < i < len(words) - 1 and lw in _SMALL:
+            out.append(lw)
+        elif w.isupper() and len(w) > 1:
+            out.append(w.capitalize())
+        else:
+            out.append(w[:1].upper() + w[1:])
+    return " ".join(out)

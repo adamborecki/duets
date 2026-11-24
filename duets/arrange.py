@@ -952,3 +952,218 @@ def _final_len(bar, melody) -> Fraction:
 def arrange(tune: Tune, opts: Optional[Options] = None) -> Piece:
     """Arrange a lead sheet for piano four hands."""
     return Arranger(tune, opts or Options()).run()
+
+
+# ---------------------------------------------------------------------------
+# hymns: arranging from an existing four-part setting
+# ---------------------------------------------------------------------------
+def _same_rhythm(a: list, b: list) -> bool:
+    if len(a) != len(b):
+        return False
+    return all(x.dur == y.dur and x.is_rest == y.is_rest and x.tie == y.tie for x, y in zip(a, b))
+
+
+def combine_voices(upper: list, lower: list, max_span: int = 12) -> list:
+    """Put two lines into one hand.  Returns a list of voices: a single voice
+    of chords when the rhythms match, otherwise two voices."""
+    if not lower or all(e.is_rest for e in lower):
+        return [upper]
+    if not upper or all(e.is_rest for e in upper):
+        return [lower]
+    if _same_rhythm(upper, lower):
+        out = []
+        for u, l in zip(upper, lower):
+            if u.is_rest:
+                out.append(u)
+                continue
+            ps = set(u.pitches)
+            for p in l.pitches:
+                if u.top.midi - p.midi <= max_span and p.midi <= u.top.midi:
+                    ps.add(p)
+            out.append(Ev(u.dur, tuple(sorted(ps, key=lambda p: (p.midi, p.d))), u.tie, u.marks))
+        return [out]
+    # different rhythms: drop lower notes that would need a stretch
+    low2 = []
+    tu = F(0)
+    for e in lower:
+        if e.pitches:
+            top_here = _sounding_top(upper, tu)
+            keep = tuple(p for p in e.pitches if top_here is None or 0 <= top_here - p.midi <= max_span)
+            low2.append(Ev(e.dur, keep, e.tie if keep else False, e.marks if keep else ()))
+        else:
+            low2.append(e)
+        tu += e.dur
+    if all(e.is_rest for e in low2):
+        return [upper]
+    return [upper, merge_ties(low2)]
+
+
+def _sounding_top(events: list, pos: Fraction):
+    t = F(0)
+    for e in events:
+        if t <= pos < t + e.dur:
+            return e.top.midi if e.pitches else None
+        t += e.dur
+    return None
+
+
+def _shift(events: list, octaves: int) -> list:
+    return [e.shifted(octaves) for e in events]
+
+
+def _strip_marks(events: list, keep=("ferm",)) -> list:
+    return [Ev(e.dur, e.pitches, e.tie, tuple(m for m in e.marks if m in keep)) for e in events]
+
+
+def arrange_satb(tune: Tune, opts: Optional[Options] = None) -> Piece:
+    """Four-hand setting of a hymn that keeps its real harmonisation.
+
+    primo <= 2 : the Primo plays the tune in octaves; the Secondo has tenor and
+                 bass (plus the alto at secondo >= 3).
+    primo == 3 : soprano and alto for the Primo (one line per hand, an octave
+                 up), tenor and bass for the Secondo.
+    primo >= 4 : soprano+alto in the Primo right hand, the tune doubled below;
+                 the Secondo bass moves in octaves at secondo >= 4.
+    """
+    o = opts or Options()
+    t = copy.deepcopy(tune)
+    if not t.has_chords:
+        H.infer_chords(t)
+    H.fill_chords(t)
+    for b in t.bars:
+        b.chords = _dedupe([(off, c.simplified(1)) for off, c in b.chords])
+    if o.key == "original":
+        iv = Interval(0, 0)
+    elif o.key != "auto":
+        iv = transposition_interval(t.key, Key(Key.parse(o.key).tonic, t.key.mode))
+    else:
+        iv = choose_transposition(t, 60, 77, o.max_accidentals, prefer_original=3.0, max_shift=3)
+    t = transpose_tune(t, iv)
+    bars = []
+    n = len(t.bars)
+    for i, b in enumerate(t.bars):
+        S = _strip_marks(b.melody)
+        A = _strip_marks(b.voices.get("A", [Ev(b.length)]), keep=())
+        T = _strip_marks(b.voices.get("T", [Ev(b.length)]), keep=())
+        B = _strip_marks(b.voices.get("B", [Ev(b.length)]), keep=())
+        # copy the soprano's fermatas to the other parts
+        if any("ferm" in e.marks for e in S):
+            A, T, B = (_copy_fermatas(S, v) for v in (A, T, B))
+        pb = PBar(length=b.length)
+        pb.pickup = b.pickup
+        pb.start_repeat, pb.end_repeat, pb.volta = b.start_repeat, b.end_repeat, b.volta
+        pb.double_bar, pb.meter, pb.key = b.double_bar, b.meter, b.key
+        pb.chords = list(b.chords)
+        if o.primo <= 2:
+            pb.hands["prh"] = [_shift(S, 1)]
+            pb.hands["plh"] = [S] if o.primo == 2 else [_only_long(S, t.meter)]
+            if o.secondo >= 3:
+                floor = min((e.bottom.midi for e in S if e.pitches), default=72)
+                A2 = [Ev(e.dur, tuple(p for p in e.pitches if p.midi < floor - 1), e.tie) for e in A]
+                A2 = [e if e.pitches else Ev(e.dur) for e in A2]
+                # alto above, tenor below, if one hand can hold both
+                pb.hands["srh"] = combine_voices(merge_ties(A2), T) if not all(e.is_rest for e in A2) else [T]
+                if len(pb.hands["srh"]) == 1 and all(e.is_rest for e in pb.hands["srh"][0]):
+                    pb.hands["srh"] = [T]
+            else:
+                pb.hands["srh"] = [T if not all(e.is_rest for e in T) else A]
+            pb.hands["slh"] = [B]
+        elif o.primo == 3:
+            pb.hands["prh"] = [_shift(S, 1)]
+            pb.hands["plh"] = [_shift(A, 1)] if not all(e.is_rest for e in A) else [S]
+            pb.hands["srh"] = [T]
+            pb.hands["slh"] = [B]
+        else:
+            pb.hands["prh"] = combine_voices(_shift(S, 1), _shift(A, 1))
+            pb.hands["plh"] = [S]
+            pb.hands["srh"] = [T]
+            pb.hands["slh"] = [B]
+        if o.secondo >= 4:
+            pb.hands["slh"] = [[Ev(e.dur, tuple(sorted({e.bottom.octave_shift(-1), e.bottom}, key=lambda p: p.midi))
+                                   if (e.pitches and e.bottom.midi - 12 >= 36) else e.pitches, e.tie, e.marks)
+                                for e in B]]
+        bars.append(pb)
+    bars[0].dyn = {"p": "mf", "s": "mf"}
+    bars[-1].final = True
+    tempo = o.tempo or t.tempo or 88
+    piece = Piece(title=t.title, key=t.key, meter=t.meter, bars=bars, tempo=tempo,
+                  tempo_text=t.tempo_text or "", subtitle=t.subtitle, composer=t.composer,
+                  credit=t.credit, category=t.category, tags=list(t.tags), slug=t.slug,
+                  free_meter=t.free_meter)
+    piece.flavor = {True: "four-part setting · tune in octaves",
+                    False: "four-part setting"}[o.primo <= 2]
+    return piece
+
+
+def _only_long(events: list, meter: Meter) -> list:
+    pulse = meter.beat_len if not meter.compound else meter.beat_len / 3
+    if all(e.dur >= pulse for e in events if e.pitches):
+        return events
+    return merge_ties([e if (e.is_rest or e.dur >= pulse) else Ev(e.dur) for e in events])
+
+
+def _copy_fermatas(src: list, dst: list) -> list:
+    """Give ``dst`` a fermata wherever ``src`` has one at the same moment."""
+    marks_at = set()
+    tt = F(0)
+    for e in src:
+        if "ferm" in e.marks:
+            marks_at.add(tt)
+        tt += e.dur
+    out = []
+    tt = F(0)
+    for e in dst:
+        if e.pitches and any(tt <= m < tt + e.dur for m in marks_at):
+            out.append(e.with_marks("ferm"))
+        else:
+            out.append(e)
+        tt += e.dur
+    return out
+
+
+# ---------------------------------------------------------------------------
+# joining arrangements end to end (stanzas, variations)
+# ---------------------------------------------------------------------------
+def join_pieces(parts: list, labels: Optional[list] = None, title: Optional[str] = None) -> Piece:
+    """Concatenate arrangements of the same tune into one piece.  Each part
+    gets a rehearsal mark from ``labels``."""
+    first = parts[0]
+    bars = []
+    key = first.key
+    meter = first.meter
+    tempo = first.tempo
+    for k, pc in enumerate(parts):
+        seg = copy.deepcopy(pc.bars)
+        for b in seg:
+            b.final = False
+        # remove inner fermatas except at the very end
+        if k < len(parts) - 1:
+            for b in seg[-1:]:
+                for h in list(b.hands):
+                    b.hands[h] = [[Ev(e.dur, e.pitches, e.tie, tuple(m for m in e.marks if m != "ferm"))
+                                   for e in v] for v in b.hands[h]]
+            seg[-1].double_bar = True
+        if labels and k < len(labels) and labels[k]:
+            anchor = next((b for b in seg if not b.pickup), seg[0])
+            anchor.mark = labels[k]
+        if k > 0:
+            head = seg[0]
+            if pc.key != key:
+                head.key = pc.key
+                key = pc.key
+            if pc.meter != meter:
+                head.meter = pc.meter
+                meter = pc.meter
+            if pc.tempo != tempo or pc.tempo_text != parts[k - 1].tempo_text:
+                head.tempo = (pc.tempo_text, pc.tempo)
+                tempo = pc.tempo
+            if not head.dyn and pc.bars[0].dyn:
+                head.dyn = dict(pc.bars[0].dyn)
+        bars.extend(seg)
+    bars[-1].final = True
+    out = copy.copy(first)
+    out.bars = bars
+    out.clefs, out.ottava, out.levels, out.stats = {}, {}, {}, {}
+    if title:
+        out.title = title
+    return out

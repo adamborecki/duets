@@ -19,7 +19,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from duets import harmony as H                                     # noqa: E402
 from duets.abc import AbcBar, guess_meter, irregular_bars, parse_abc  # noqa: E402
 from duets.abcwrite import write_abc                               # noqa: E402
-from duets.library import slugify, tune_from_abc, validate         # noqa: E402
+from duets.library import slugify, title_case, tune_from_abc, validate  # noqa: E402
 from duets.model import Ev, F, TBar, Tune, merge_ties, total       # noqa: E402
 from duets.theory import Meter                                     # noqa: E402
 
@@ -218,7 +218,7 @@ def import_one(path: Path):
     common_len = Counter(lengths).most_common(1)[0][0]
     if free:
         meter = guess_meter(common_len)
-    tune = Tune(title=clean(abc.title), key=abc.key, meter=meter)
+    tune = Tune(title=title_case(clean(abc.title)), key=abc.key, meter=meter)
     for i in range(n):
         rb = ref[i]
         tb = TBar(length=lengths[i], melody=merge_ties(S[i]))
@@ -272,11 +272,6 @@ def import_one(path: Path):
     cat = abc.comments.get("OHCATEGORY", "").strip().upper()
     if cat in SEASON_TAGS:
         tags.append(SEASON_TAGS[cat])
-    topics = abc.comments.get("OHTOPICS", "")
-    for key, tag in (("Christmas/Advent", None), ("Thanksgiving", "thanksgiving"), ("Harvest", "thanksgiving"),
-                     ("Easter", "easter"), ("Advent", "advent")):
-        if tag and re.search(r"\{%s[^}]*\}" % re.escape(key), topics) and tag not in tags:
-            tags.append(tag)
     tune.tags = tags
     tune.source = "Open Hymnal Project"
     tune.credit = "Tune and setting: public domain" + (f" ({setting_t})" if setting_t else "") \

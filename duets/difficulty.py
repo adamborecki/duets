@@ -11,7 +11,7 @@ from fractions import Fraction
 from statistics import mean
 
 from .lily import PART_HANDS
-from .model import HANDS, F, Piece, onsets, total
+from .model import HANDS, Ev, F, Piece, onsets, total
 from .notate import written_ok
 
 LEVEL_NAMES = {1: "beginner", 2: "late beginner", 3: "early intermediate", 4: "intermediate", 5: "late intermediate"}
@@ -22,11 +22,27 @@ def _clamp(x, lo, hi):
 
 
 def _hand_events(piece: Piece, hand: str):
-    """Yield (bar_index, offset, event) for the first voice of a hand, ties merged."""
+    """Yield (bar_index, offset, event) for everything a hand plays.  When the
+    hand has two voices their simultaneous notes are merged into one event."""
     for i, b in enumerate(piece.bars):
-        for v in b.hands.get(hand, [])[:1]:
-            for off, e in onsets(v):
+        voices = [v for v in b.hands.get(hand, []) if v]
+        if not voices:
+            continue
+        if len(voices) == 1:
+            for off, e in onsets(voices[0]):
                 yield i, off, e
+            continue
+        merged = {}
+        for v in voices:
+            prev_tied = False
+            for off, e in onsets(v):
+                if e.pitches and not prev_tied:
+                    cur = merged.get(off)
+                    merged[off] = e if cur is None else Ev(min(cur.dur, e.dur), tuple(sorted(
+                        set(cur.pitches + e.pitches), key=lambda p: (p.midi, p.d))))
+                prev_tied = bool(e.tie and e.pitches)
+        for off in sorted(merged):
+            yield i, off, merged[off]
 
 
 def rate_part(piece: Piece, part: str) -> tuple:
@@ -156,8 +172,10 @@ def rate_part(piece: Piece, part: str) -> tuple:
     keyterm = _clamp(max(sharps - 1, 0) / 5.0 + 3.0 * chroma / max(count, 1), 0, 1)
     wide = max((f["range"] for f in feats.values()), default=0)
     reach = _clamp((wide - 9) / 16.0, 0, 1)
+    poly = sum(1 for b in piece.bars for h in hands if len([v for v in b.hands.get(h, []) if v]) > 1)
+    poly = _clamp(poly / max(n_bars, 1), 0, 1)
     level = (1.0 + 1.35 * speed + 1.1 * chord + 0.9 * leap + 1.3 * indep * together
-             + 0.7 * rhythm + 0.5 * keyterm + 0.45 * reach)
+             + 0.7 * rhythm + 0.5 * keyterm + 0.45 * reach + 0.8 * poly)
     level = _clamp(level, 1.0, 5.0)
     details = {"speed": round(speed, 2), "chord": round(chord, 2), "leap": round(leap, 2),
                "independence": round(indep * together, 2), "rhythm": round(rhythm, 2),

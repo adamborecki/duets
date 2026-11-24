@@ -217,6 +217,23 @@ SEL = [
 ]
 
 
+# tunes that are songs rather than dance tunes (they go in the song books)
+SONGS = set('''Ye Banks and Braes o' Bonnie Doon|Blow the Wind Southerly|Bonnie Dundee|Daisy Bell (A Bicycle Built for Two)
+Believe Me, If All Those Endearing Young Charms|I Belong to Glasgow|Great Is Thy Faithfulness|Kelvingrove|Scots Wha Hae
+The Waters of Tyne|The Road to Dundee|Slane (Be Thou My Vision)|The Minstrel Boy|The Girl I Left Behind Me|Buffalo Gals
+She'll Be Coming 'Round the Mountain|Oh! Susanna|Turkey in the Straw|Oh, Dem Golden Slippers|Little Brown Jug
+The Leaving of Liverpool|When the Saints Go Marching In|This Old Man|Polly Put the Kettle On|The Grand Old Duke of York
+Aiken Drum|Pop! Goes the Weasel|Oh Dear! What Can the Matter Be?|Nancy Dawson (Here We Go Round the Mulberry Bush)
+The Blaydon Races|D'ye Ken John Peel|The Keel Row|The Bluebells of Scotland|Rosin the Bow|Marching Through Georgia
+John Brown's Body (in Jig Time)|Old Joe Clark|Liza Jane|Little Liza Jane|Angeline the Baker|Bile 'Em Cabbage Down
+The Rattlin' Bog|Roddy McCorley|Scotland the Brave|The Hundred Pipers|My Love She's But a Lassie Yet
+Ho Ro, My Nut-Brown Maiden|Green Grow the Rushes, O|Castles in the Air|Korobushka|The Swiss Boy|Megan's Daughter (Merch Megan)
+It's a Long Way to Tipperary|My Old Man (Said Follow the Van)|Pack Up Your Troubles in Your Old Kit-Bag
+There's a Long, Long Trail|A Hot Time in the Old Town|When You and I Were Young, Maggie|In the Good Old Summertime
+Red Wing|I Do Like to Be Beside the Seaside|The Trail of the Lonesome Pine|Alabama Jubilee|Hector the Hero
+Sheebeg and Sheemore|Planxty Irwin'''.replace("\n", "|").split("|"))
+
+
 def main():
     src = Path(sys.argv[1])
     root = Path(__file__).resolve().parent.parent / "library"
@@ -266,6 +283,8 @@ def main():
         tune.category = "carol" if is_carol else ("classical" if "classical" in tl else
                                                   "oldies" if "oldies" in tl else
                                                   "rag" if "rag" in tl and "oldies" not in tl else "folk")
+        if tune.title in SONGS or title in SONGS:
+            tl.append("song")
         tune.tags = tl
         tune.style = style
         tune.source = "Nottingham Music Database"

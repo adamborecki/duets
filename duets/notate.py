@@ -164,7 +164,7 @@ def notate(events, meter: Meter, mpos: Fraction = F(0)) -> list:
     n = len(events)
     while i < n:
         e = events[i]
-        if not meter.compound and (_ternary(e.dur) or _ternary(t)):
+        if _ternary(e.dur) or _ternary(t):
             # gather a triplet group
             j = i
             span = F(0)

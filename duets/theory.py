@@ -685,3 +685,39 @@ def transposition_interval(src: Key, dst: Key, direction: str = "nearest") -> In
         while iv.semis < -6:
             iv = iv + OCTAVE
     return iv
+
+
+@dataclass(frozen=True)
+class IrregularMeter:
+    """A stand-in meter for a bar whose length differs from the time signature
+    (free-rhythm hymns): same beat, but the bar is as long as it is."""
+
+    bar_len: Fraction
+    beat_len: Fraction
+    compound: bool = False
+
+    @property
+    def beats(self) -> int:
+        return max(1, int(self.bar_len / self.beat_len))
+
+    @property
+    def levels(self) -> tuple:
+        lv = [self.bar_len]
+        if not self.compound and self.bar_len % (2 * self.beat_len) == 0 and self.bar_len > 2 * self.beat_len:
+            lv.append(2 * self.beat_len)
+        lv.append(self.beat_len)
+        sub = self.beat_len / (3 if self.compound else 2)
+        for _ in range(4):
+            lv.append(sub)
+            sub = sub / 2
+        out = []
+        for u in lv:
+            if not out or u < out[-1]:
+                out.append(u)
+        return tuple(out)
+
+    def strength(self, pos: Fraction) -> int:
+        for i, u in enumerate(self.levels):
+            if pos % u == 0:
+                return i
+        return len(self.levels)
