@@ -1,0 +1,676 @@
+{
+ "id": "thanksgiving",
+ "title": "Thanksgiving & Harvest",
+ "pieces": 28,
+ "layouts": {
+  "facing": {
+   "path": "/home/user/duets/books/thanksgiving/thanksgiving-facing.pdf",
+   "pages": 67,
+   "bytes": 959299
+  },
+  "score": {
+   "path": "/home/user/duets/books/thanksgiving/thanksgiving-score.pdf",
+   "pages": 53,
+   "bytes": 697092
+  },
+  "screen": {
+   "path": "/home/user/duets/books/thanksgiving/thanksgiving-screen.pdf",
+   "pages": 57,
+   "bytes": 937684
+  },
+  "screen-score": {
+   "path": "/home/user/duets/books/thanksgiving/thanksgiving-screen-score.pdf",
+   "pages": 48,
+   "bytes": 671060
+  }
+ },
+ "items": [
+  {
+   "slug": "now-thank-we-all-our-god",
+   "title": "Now Thank We All Our God",
+   "subtitle": "NUN DANKET",
+   "composer": "Johann Cr\u00fcger, 1647",
+   "levels": {
+    "p": 3.2,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 57,
+   "flavor": "setting",
+   "flavor_text": "Three stanzas: chorale \u00b7 tune in the Secondo \u00b7 full",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 4,
+    "score": 4,
+    "screen": 3,
+    "screen-score": 3
+   }
+  },
+  {
+   "slug": "we-gather-together",
+   "title": "We Gather Together",
+   "subtitle": "KREMSER",
+   "composer": "Traditional Dutch circa 1597",
+   "levels": {
+    "p": 2.0,
+    "s": 2.2
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 34,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 8,
+    "screen": 7,
+    "screen-score": 7
+   }
+  },
+  {
+   "slug": "for-the-beauty-of-the-earth",
+   "title": "For the Beauty of the Earth",
+   "subtitle": "DIX",
+   "composer": "Conrad Kocher, 1838",
+   "levels": {
+    "p": 1.8,
+    "s": 1.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 10,
+    "screen": 9,
+    "screen-score": 9
+   }
+  },
+  {
+   "slug": "praise-to-the-lord-the-almighty",
+   "title": "Praise to the Lord, the Almighty",
+   "subtitle": "LOBE DEN HERREN",
+   "composer": "Ander Theil des Erneuerten Gesangbuch, 1665",
+   "levels": {
+    "p": 3.1,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 63,
+   "flavor": "setting",
+   "flavor_text": "Three stanzas: chorale \u00b7 tune in the Secondo \u00b7 full",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 12,
+    "screen": 11,
+    "screen-score": 11
+   }
+  },
+  {
+   "slug": "all-creatures-of-our-god-and-king",
+   "title": "All Creatures of Our God and King",
+   "subtitle": "LASST UNS ERFREUEN",
+   "composer": "Geistliche Kirchenges\u00e4ng, K\u00f6ln, 1623",
+   "levels": {
+    "p": 2.5,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "6/4",
+   "bars": 17,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 18,
+    "score": 17,
+    "screen": 15,
+    "screen-score": 15
+   }
+  },
+  {
+   "slug": "praise-god-from-whom-all-blessings-flow",
+   "title": "Praise God from Whom All Blessings Flow",
+   "subtitle": "OLD 100TH",
+   "composer": "Genevan Psalter, attr. Louis Bourgeois, c. 1551",
+   "levels": {
+    "p": 1.6,
+    "s": 1.8
+   },
+   "key": "G",
+   "meter": "6/4",
+   "bars": 8,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 20,
+    "score": 19,
+    "screen": 17,
+    "screen-score": 16
+   }
+  },
+  {
+   "slug": "simple-gifts",
+   "title": "Simple Gifts",
+   "subtitle": "",
+   "composer": "Joseph Brackett (Shaker song), 1848",
+   "levels": {
+    "p": 3.2,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 22,
+    "score": 20,
+    "screen": 18,
+    "screen-score": 17
+   }
+  },
+  {
+   "slug": "the-ash-grove",
+   "title": "The Ash Grove",
+   "subtitle": "",
+   "composer": "Welsh traditional (Llwyn Onn)",
+   "levels": {
+    "p": 2.4,
+    "s": 2.3
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "both-easy",
+   "flavor_text": "Both parts easy: tune in octaves over held chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 22,
+    "screen": 20,
+    "screen-score": 19
+   }
+  },
+  {
+   "slug": "harvest-home",
+   "title": "Harvest Home",
+   "subtitle": "",
+   "composer": "Irish traditional hornpipe",
+   "levels": {
+    "p": 3.0,
+    "s": 2.9
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 24,
+    "screen": 22,
+    "screen-score": 21
+   }
+  },
+  {
+   "slug": "america-the-beautiful",
+   "title": "America the Beautiful",
+   "subtitle": "",
+   "composer": "Samuel A. Ward, 1882",
+   "levels": {
+    "p": 1.9,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 28,
+    "score": 26,
+    "screen": 24,
+    "screen-score": 23
+   }
+  },
+  {
+   "slug": "shine-on-harvest-moon",
+   "title": "Shine On, Harvest Moon",
+   "subtitle": "",
+   "composer": "Nora Bayes & Jack Norworth, 1908",
+   "levels": {
+    "p": 3.1,
+    "s": 2.4
+   },
+   "key": "C",
+   "meter": "2/2",
+   "bars": 33,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 30,
+    "score": 27,
+    "screen": 26,
+    "screen-score": 24
+   }
+  },
+  {
+   "slug": "holy-god-we-praise-thy-name",
+   "title": "Holy God, We Praise Thy Name",
+   "subtitle": "TE DEUM",
+   "composer": "or 'Hursley' or 'Grosser Gott, wir Loben Dich' from Katholisches Gesangbuch, Maria Theresa, 1774",
+   "levels": {
+    "p": 1.2,
+    "s": 2.9
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 24,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 32,
+    "score": 29,
+    "screen": 28,
+    "screen-score": 26
+   }
+  },
+  {
+   "slug": "great-is-thy-faithfulness",
+   "title": "Great Is Thy Faithfulness",
+   "subtitle": "",
+   "composer": "William M. Runyan, 1923",
+   "levels": {
+    "p": 2.5,
+    "s": 2.3
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 32,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 34,
+    "score": 31,
+    "screen": 30,
+    "screen-score": 27
+   }
+  },
+  {
+   "slug": "praise-my-soul-the-king-of-heaven",
+   "title": "Praise My Soul the King of Heaven",
+   "subtitle": "PRAISE MY SOUL",
+   "composer": "or 'Lauda Anima' or 'St. Paul' John Goss, 1869",
+   "levels": {
+    "p": 1.6,
+    "s": 2.2
+   },
+   "key": "Eb",
+   "meter": "2/4",
+   "bars": 25,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 36,
+    "score": 33,
+    "screen": 32,
+    "screen-score": 29
+   }
+  },
+  {
+   "slug": "our-god-our-help-in-ages-past",
+   "title": "Our God, Our Help in Ages Past",
+   "subtitle": "ST. ANNE",
+   "composer": "William Croft, 1708",
+   "levels": {
+    "p": 3.1,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 34,
+    "screen": 34,
+    "screen-score": 30
+   }
+  },
+  {
+   "slug": "turkey-in-the-straw",
+   "title": "Turkey in the Straw",
+   "subtitle": "",
+   "composer": "American traditional",
+   "levels": {
+    "p": 2.2,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 40,
+    "score": 35,
+    "screen": 35,
+    "screen-score": 31
+   }
+  },
+  {
+   "slug": "home-sweet-home",
+   "title": "Home, Sweet Home",
+   "subtitle": "",
+   "composer": "Henry Bishop, 1823",
+   "levels": {
+    "p": 1.1,
+    "s": 1.9
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 37,
+    "screen": 37,
+    "screen-score": 32
+   }
+  },
+  {
+   "slug": "and-can-it-be",
+   "title": "And Can It Be",
+   "subtitle": "FILLMORE",
+   "composer": "Jeremiah Ingalls (1764-1828)",
+   "levels": {
+    "p": 1.1,
+    "s": 2.1
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 25,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 39,
+    "screen": 40,
+    "screen-score": 34
+   }
+  },
+  {
+   "slug": "bach-give-thanks-unto-the-lord",
+   "title": "Give Thanks unto the Lord",
+   "subtitle": "Danket dem Herren, denn er ist sehr freundlich \u00b7 BWV 286",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.0,
+    "s": 2.7
+   },
+   "key": "Am",
+   "meter": "4/4",
+   "bars": 8,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 40,
+    "screen": 42,
+    "screen-score": 35
+   }
+  },
+  {
+   "slug": "his-gifts",
+   "title": "His Gifts",
+   "subtitle": "SIMPLE GIFTS",
+   "composer": "(Shaker dance) Joseph Brackett, 1848, alt",
+   "levels": {
+    "p": 2.7,
+    "s": 2.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 50,
+    "score": 41,
+    "screen": 43,
+    "screen-score": 36
+   }
+  },
+  {
+   "slug": "bach-let-us-sing-with-all-our-heart",
+   "title": "Let Us Sing with All Our Heart",
+   "subtitle": "Singen wir aus Herzensgrund \u00b7 BWV 187.7",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.1,
+    "s": 2.3
+   },
+   "key": "Gm",
+   "meter": "3/4",
+   "bars": 28,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 52,
+    "score": 43,
+    "screen": 45,
+    "screen-score": 37
+   }
+  },
+  {
+   "slug": "bach-now-let-us-come-before-him",
+   "title": "Now Let Us Come before Him",
+   "subtitle": "Nun lasst uns Gott dem Herren \u00b7 BWV 194.12",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.2,
+    "s": 2.8
+   },
+   "key": "Bb",
+   "meter": "3/4",
+   "bars": 18,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 54,
+    "score": 45,
+    "screen": 47,
+    "screen-score": 39
+   }
+  },
+  {
+   "slug": "bach-now-thank-we-all-our-god",
+   "title": "Now Thank We All Our God",
+   "subtitle": "Nun danket alle Gott \u00b7 BWV 386",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.4,
+    "s": 2.8
+   },
+   "key": "A",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 56,
+    "score": 46,
+    "screen": 49,
+    "screen-score": 41
+   }
+  },
+  {
+   "slug": "bach-now-thank-we-all-our-god-2",
+   "title": "Now Thank We All Our God (II)",
+   "subtitle": "Nun danket alle Gott \u00b7 BWV 252",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.1,
+    "s": 2.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 58,
+    "score": 47,
+    "screen": 50,
+    "screen-score": 42
+   }
+  },
+  {
+   "slug": "o-day-of-rest-and-gladness",
+   "title": "O Day of Rest and Gladness",
+   "subtitle": "WOODBIRD",
+   "composer": "or 'Es Flog Ein Kleins Waldv\u00f6gelein' traditional German found in \"Memminger Tabulaturbuche\", 17th Century",
+   "levels": {
+    "p": 3.4,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 60,
+    "score": 48,
+    "screen": 51,
+    "screen-score": 43
+   }
+  },
+  {
+   "slug": "o-lord-of-heavn-and-earth-and-sea",
+   "title": "O Lord of Heav'n and Earth and Sea",
+   "subtitle": "ES IST KEIN TAG",
+   "composer": "Johann D. Meyer, 1692",
+   "levels": {
+    "p": 2.4,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 62,
+    "score": 50,
+    "screen": 53,
+    "screen-score": 45
+   }
+  },
+  {
+   "slug": "bach-old-hundredth",
+   "title": "Old Hundredth",
+   "subtitle": "Herr Gott, dich loben alle wir \u00b7 BWV 326",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 2.2,
+    "s": 2.6
+   },
+   "key": "Bb",
+   "meter": "3/4",
+   "bars": 18,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 51,
+    "screen": 54,
+    "screen-score": 46
+   }
+  },
+  {
+   "slug": "bach-praise-the-lord-for-he-is-kind",
+   "title": "Praise the Lord, for He Is Kind",
+   "subtitle": "Lobet den Herren, denn er ist sehr freundlich \u00b7 BWV 374",
+   "composer": "Harmonized by Johann Sebastian Bach",
+   "levels": {
+    "p": 1.2,
+    "s": 3.9
+   },
+   "key": "Dm",
+   "meter": "4/4",
+   "bars": 23,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "",
+   "problems": [
+    "1 moments where a player's hands cross"
+   ],
+   "pages": {
+    "facing": 66,
+    "score": 52,
+    "screen": 56,
+    "screen-score": 47
+   }
+  }
+ ],
+ "seconds": 33.6
+}

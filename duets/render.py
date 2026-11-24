@@ -65,7 +65,7 @@ def compile_ly(text: str, out_pdf: Path, midi_out: Path | None = None, use_cache
     out_pdf = Path(out_pdf)
     out_pdf.parent.mkdir(parents=True, exist_ok=True)
     lazy_fonts = gs_available()
-    digest = hashlib.sha1((("noembed|" if lazy_fonts else "embed|") + text).encode("utf-8")).hexdigest()
+    digest = _digest(text)
     cdir = CACHE / digest[:2] / digest
     cpdf = cdir / "out.pdf"
     cmid = cdir / "out.midi"
@@ -91,6 +91,52 @@ def compile_ly(text: str, out_pdf: Path, midi_out: Path | None = None, use_cache
         shutil.copyfile(cmid, midi_out)
     warnings = [ln for ln in log.splitlines() if "warning" in ln.lower() or "error" in ln.lower()]
     return {"pages": len(PdfReader(str(out_pdf)).pages), "warnings": warnings, "log": log}
+
+
+def _digest(text: str) -> str:
+    return hashlib.sha1((("noembed|" if gs_available() else "embed|") + text).encode("utf-8")).hexdigest()
+
+
+def compile_batch(texts: list) -> int:
+    """Compile many LilyPond sources in one LilyPond run and file the results
+    in the cache, so that later ``compile_ly`` calls return at once.  Starting
+    LilyPond costs more than engraving a short piece, so this is several times
+    faster than compiling one by one.  Returns the number compiled."""
+    todo = {}
+    for text in texts:
+        d = _digest(text)
+        if not (CACHE / d[:2] / d / "out.pdf").exists():
+            todo[d] = text
+    if not todo:
+        return 0
+    bdir = CACHE / f"_batch_{os.getpid()}"
+    if bdir.exists():
+        shutil.rmtree(bdir)
+    bdir.mkdir(parents=True)
+    for d, text in todo.items():
+        (bdir / f"{d}.ly").write_text(text, encoding="utf-8")
+    names = [f"{d}.ly" for d in todo]
+    proc = subprocess.run(
+        ["lilypond", "-dno-point-and-click"] + (["-dgs-never-embed-fonts"] if gs_available() else [])
+        + ["--loglevel=WARNING"] + names, capture_output=True, text=True, cwd=str(bdir))
+    log = proc.stdout + proc.stderr
+    done = 0
+    for d in todo:
+        pdf = bdir / f"{d}.pdf"
+        if not pdf.exists():
+            continue
+        cdir = CACHE / d[:2] / d
+        cdir.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(bdir / f"{d}.ly", cdir / "out.ly")
+        mine = [ln.replace(f"{d}.ly", "out.ly") for ln in log.splitlines() if d in ln]
+        (cdir / "out.log").write_text("\n".join(mine), encoding="utf-8")
+        mid = bdir / f"{d}.midi"
+        if mid.exists():
+            shutil.move(str(mid), cdir / "out.midi")
+        shutil.move(str(pdf), cdir / "out.pdf")
+        done += 1
+    shutil.rmtree(bdir, ignore_errors=True)
+    return done
 
 
 def page_count(pdf: Path) -> int:

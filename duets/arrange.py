@@ -1078,6 +1078,9 @@ def arrange_satb(tune: Tune, opts: Optional[Options] = None) -> Piece:
             pb.hands["plh"] = [S]
             pb.hands["srh"] = [T]
             pb.hands["slh"] = [B]
+        for a, c in (("prh", "plh"), ("srh", "slh")):
+            if len(pb.hands[a]) == 1 and len(pb.hands[c]) == 1:
+                pb.hands[a][0], pb.hands[c][0] = _uncross(pb.hands[a][0], pb.hands[c][0])
         if o.secondo >= 4:
             pb.hands["slh"] = [[Ev(e.dur, tuple(sorted({e.bottom.octave_shift(-1), e.bottom}, key=lambda p: p.midi))
                                    if (e.pitches and e.bottom.midi - 12 >= 36) else e.pitches, e.tie, e.marks)
@@ -1093,6 +1096,23 @@ def arrange_satb(tune: Tune, opts: Optional[Options] = None) -> Piece:
     piece.flavor = {True: "four-part setting · tune in octaves",
                     False: "four-part setting"}[o.primo <= 2]
     return piece
+
+
+def _uncross(upper: list, lower: list) -> tuple:
+    """Where two single lines with the same rhythm cross (the 'lower' one goes
+    above the 'upper'), swap the notes so each hand stays on its own side."""
+    if not _same_rhythm(upper, lower):
+        return upper, lower
+    up, lo = [], []
+    for u, l in zip(upper, lower):
+        if u.pitches and l.pitches and len(u.pitches) == 1 and len(l.pitches) == 1 \
+                and l.pitches[0].midi > u.pitches[0].midi and not (u.tie or l.tie):
+            up.append(Ev(u.dur, l.pitches, u.tie, u.marks))
+            lo.append(Ev(l.dur, u.pitches, l.tie, l.marks))
+        else:
+            up.append(u)
+            lo.append(l)
+    return up, lo
 
 
 def _only_long(events: list, meter: Meter) -> list:

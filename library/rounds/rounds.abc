@@ -1,0 +1,65 @@
+% Rounds, set down by hand for the duets project.  The line
+% "%%duets round: N" gives the number of bars after which the next voice enters.
+% All melodies are traditional and in the public domain.
+
+X:1
+T:Frère Jacques
+C:French traditional round
+%%duets category: round
+%%duets tags: round, children, french
+%%duets round: 2
+%%duets credit: Traditional round, public domain.
+%%duets slug: frere-jacques
+M:4/4
+L:1/4
+Q:1/4=100
+K:C
+"C"C D E C | C D E C | E F G2 | E F G2 |
+G/2 A/2 G/2 F/2 E C | G/2 A/2 G/2 F/2 E C | C G, C2 | C G, C2 |]
+
+X:2
+T:Row, Row, Row Your Boat
+C:American traditional round
+%%duets category: round
+%%duets tags: round, children, american
+%%duets round: 2
+%%duets credit: Traditional round, public domain.
+%%duets slug: row-row-row-your-boat
+M:6/8
+L:1/8
+Q:3/8=76
+K:C
+"C"C3 C3 | C2 D E3 | E2 D E2 F | G6 |
+c c c G G G | E E E C C C | G2 F E2 D | C6 |]
+
+X:3
+T:Three Blind Mice
+C:English traditional round
+%%duets category: round
+%%duets tags: round, children, english
+%%duets round: 4
+%%duets credit: Traditional round, public domain.
+%%duets slug: three-blind-mice
+M:6/8
+L:1/8
+Q:3/8=80
+K:C
+"C"E3 D3 | C6 | E3 D3 | C6 |
+G3 F2 F | E6 | G3 F2 F | E3- E2 G |
+c2 c B A B | c2 G G2 G | c c c B A B | c2 G G2 G |
+c c c B A B | c G G G2 F | E3 D3 | C6 |]
+
+X:4
+T:London's Burning
+C:English traditional round
+%%duets category: round
+%%duets tags: round, children, english
+%%duets round: 2
+%%duets credit: Traditional round, public domain.
+%%duets slug: londons-burning
+M:4/4
+L:1/4
+Q:1/4=108
+K:G
+"G"D D G G | D D G G | A A B2 | A A B2 |
+d2 d2 | d2 d2 | d c B B | d c B B |]

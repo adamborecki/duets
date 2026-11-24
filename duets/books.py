@@ -266,7 +266,38 @@ def _joplin(tunes):
     return [Entry(slug=t.slug, flavor="original", section="", cap=0) for t in p]
 
 
+VARIATION_TUNES = ["twinkle-twinkle-little-star", "ode-to-joy", "surprise-symphony-andante", "simple-gifts",
+                   "yankee-doodle", "what-shall-we-do-with-a-drunken-sailor", "au-clair-de-la-lune",
+                   "when-the-saints-go-marching-in", "oh-susanna", "good-king-wenceslas", "deck-the-halls",
+                   "old-macdonald-had-a-farm", "pachelbel-canon-in-d", "amazing-grace", "lightly-row",
+                   "skip-to-my-lou", "joy-to-the-world", "the-ash-grove", "london-bridge-is-falling-down",
+                   "mary-had-a-little-lamb"]
+
+
+def _variations(tunes):
+    by = {t.slug: t for t in tunes}
+    return [Entry(slug=s, flavor="variations", cap=0) for s in VARIATION_TUNES if s in by]
+
+
+def _rounds(tunes):
+    r = sorted([t for t in tunes if t.category == "round"], key=sort_key)
+    return [Entry(slug=t.slug, flavor="round", cap=0) for t in r]
+
+
+def _originals(tunes):
+    o = sorted([t for t in tunes if t.category == "original"], key=lambda t: t.slug)
+    return rotate(o, "", 0, flavors=["easy-primo", "easy-secondo", "trade", "gentle", "tune-below", "both-easy",
+                                     "easy-primo-rich", "trade-easy"])
+
+
 BOOKS = [
+    BookDef("variations", "Themes & Variations", "Familiar tunes with variations, for piano four hands",
+            "Each tune is played plainly, then with a flowing accompaniment, with the tune in the bass, in the minor, "
+            "as a jig, decorated, and in a broad finale.", _variations, 15),
+    BookDef("rounds", "Rounds", "Canons for two players", "The Secondo chases the Primo.", _rounds, 16),
+    BookDef("originals", "New Pieces", "Thirty-six original duets composed by the generator",
+            "Waltzes, marches, minuets, jigs, lullabies and songs that nobody has ever played before. "
+            "Run 'python -m duets new' for more.", _originals, 17),
     BookDef("bach-chorales", "Bach Chorales", "Four-part chorales of J. S. Bach set for piano four hands",
             "Bach's own harmonizations of the great Lutheran chorales, arranged by season, with chord symbols.", _bach, 3),
     BookDef("diabelli", "Diabelli: Melodious Pieces", "Original duets by Anton Diabelli, Op. 149 and Op. 163",
@@ -332,12 +363,39 @@ def _tunes() -> dict:
     return _TUNES
 
 
-def _render_job(job: tuple) -> dict:
-    entry_d, layout, workdir, paper = job
-    entry = Entry(**entry_d)
+def _render_chunk(job: tuple) -> list:
+    """Render several entries in all requested layouts.  The first-attempt
+    LilyPond sources of the whole chunk are compiled in a single run."""
+    entry_ds, layouts, workdir, paper = job
+    from .engrave import first_texts
+    pieces = {}
+    texts = []
+    out = []
+    for ed in entry_ds:
+        entry = Entry(**ed)
+        try:
+            piece = entry_piece(entry, _tunes())
+            pieces[entry.id] = (entry, piece)
+            for layout in layouts:
+                texts += first_texts(piece, layout, paper)
+        except Exception as exc:
+            import traceback
+            for layout in layouts:
+                out.append({"ok": False, "id": entry.id, "slug": entry.slug, "layout": layout,
+                            "error": f"{type(exc).__name__}: {exc}", "trace": traceback.format_exc()[-1500:]})
+    try:
+        render.compile_batch(texts)
+    except Exception:
+        pass
+    for entry, piece in pieces.values():
+        for layout in layouts:
+            out.append(_render_one(entry, piece, layout, workdir, paper))
+    return out
+
+
+def _render_one(entry: Entry, piece, layout: str, workdir: str, paper: str) -> dict:
     t0 = time.time()
     try:
-        piece = entry_piece(entry, _tunes())
         r = render_layout(piece, layout, Path(workdir), entry.id, paper=paper)
         return {"ok": True, "id": entry.id, "slug": entry.slug, "layout": layout, "path": str(r["path"]),
                 "pages": r["pages"], "warnings": r["warnings"], "title": piece.title,
@@ -540,12 +598,15 @@ def build_book(book: BookDef, layouts=LAYOUTS, paper: str = "letter", jobs: int 
     work = ROOT / ".cache" / "books" / book.id
     work.mkdir(parents=True, exist_ok=True)
     jobs = jobs or max(1, (os.cpu_count() or 2))
-    job_list = [(e.__dict__, layout, str(work), paper) for layout in layouts for e in entries]
+    chunk = 6
+    job_list = [([e.__dict__ for e in entries[i:i + chunk]], tuple(layouts), str(work), paper)
+                for i in range(0, len(entries), chunk)]
     t0 = time.time()
     results = {}
     with ProcessPoolExecutor(max_workers=jobs) as ex:
-        for r in ex.map(_render_job, job_list, chunksize=2):
-            results[(r["id"], r["layout"])] = r
+        for rs in ex.map(_render_chunk, job_list):
+            for r in rs:
+                results[(r["id"], r["layout"])] = r
     failures = [r for r in results.values() if not r["ok"]]
     report = {"id": book.id, "title": book.title, "pieces": 0, "layouts": {}, "failures": failures,
               "warnings": [], "items": []}

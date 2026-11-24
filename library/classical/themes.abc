@@ -1,0 +1,87 @@
+% Famous classical themes, set down by hand for the duets project.
+% All are long out of copyright.
+
+X:1
+T:Ode to Joy
+T:from Symphony No. 9
+C:Ludwig van Beethoven, 1824
+%%duets category: classical
+%%duets tags: classical, beethoven, variations
+%%duets credit: Public domain.
+%%duets slug: ode-to-joy
+R:march
+M:4/4
+L:1/4
+Q:1/4=112
+K:C
+"C"E E F G | "G7"G F E D | "C"C C D E | "G"E3/2 D/2 D2 |
+"C"E E F G | "G7"G F E D | "C"C C D E | "G7"D3/2 C/2 "C"C2 |
+"G"D D "C"E C | "G"D E/2 F/2 "C"E C | "G"D E/2 F/2 "C"E D | "Am"C "D7"D "G"G,2 |
+"C"E E F G | "G7"G F E D | "C"C C D E | "G7"D3/2 C/2 "C"C2 |]
+
+X:2
+T:Surprise Symphony (Andante)
+T:from Symphony No. 94
+C:Joseph Haydn, 1791
+%%duets category: classical
+%%duets tags: classical, haydn, variations
+%%duets credit: Public domain.
+%%duets slug: surprise-symphony-andante
+R:march
+M:2/4
+L:1/8
+Q:1/4=84
+K:C
+|: "C"C C E E | G G E2 | "G7"F F D D | B, B, G,2 |
+"C"C C E E | G G E2 | "C"c c "D7"^F F | "G"G2 z2 :|
+
+X:3
+T:Symphony No. 40 (Opening Theme)
+C:Wolfgang Amadeus Mozart, 1788
+%%duets category: classical
+%%duets tags: classical, mozart
+%%duets credit: Public domain.
+%%duets slug: mozart-symphony-no-40-theme
+R:alberti
+M:4/4
+L:1/8
+Q:1/4=120
+K:Gm
+_e d | "Gm"d2 e d d2 e d | d2 b2 z2 b a | "Cm"g2 g f e2 e d | "D7"c2 c2 z2 d c |
+"D7"c2 d c c2 d c | c2 a2 z2 a g | ^f2 f e d2 d c | "Gm"B2 B2 z4 |]
+
+X:4
+T:Largo from the "New World" Symphony
+T:"Goin' Home"
+C:Antonín Dvořák, 1893
+%%duets category: classical
+%%duets tags: classical, dvorak
+%%duets credit: Public domain.
+%%duets slug: largo-from-the-new-world-symphony
+R:ballad
+M:4/4
+L:1/8
+Q:1/4=56
+K:C
+"C"E3 G G4 | "C"E3 D C4 | "F"D3 E "C"G3 E | "G7"D8 |
+"C"E3 G G4 | "C"E3 D C4 | "Dm"D2 E2 "G7"D3 C | "C"C8 ||
+"Am"A3 c c4 | "Em"B2 G2 "Am"A4 | "Am"A2 c2 "Em"B2 G2 | "Am"A8 |
+"Am"A3 c c4 | "Em"B2 G2 "Am"A4 | "Am"A2 c2 "Em"B2 G2 | "Am"A8 ||
+"C"E3 G G4 | "C"E3 D C4 | "Dm"D2 E2 "G7"D3 C | "C"C8 |]
+
+X:5
+T:Canon in D
+C:Johann Pachelbel, c. 1680
+%%duets category: classical
+%%duets tags: classical, pachelbel, baroque, wedding
+%%duets credit: Public domain.
+%%duets slug: pachelbel-canon-in-d
+R:flowing
+M:4/4
+L:1/4
+Q:1/4=60
+K:D
+"D"f2 "A"e2 | "Bm"d2 "F#m"c2 | "G"B2 "D"A2 | "G"B2 "A"c2 |
+"D"d2 "A"c2 | "Bm"B2 "F#m"A2 | "G"G2 "D"F2 | "G"G2 "A"E2 |
+"D"d f "A"a g | "Bm"f d "F#m"f e | "G"d B "D"d a | "G"g b "A"a g |
+"D"f4 |]

@@ -1,0 +1,1696 @@
+{
+ "id": "advent-christmas",
+ "title": "Advent & Christmas",
+ "pieces": 72,
+ "layouts": {
+  "facing": {
+   "path": "/home/user/duets/books/advent-christmas/advent-christmas-facing.pdf",
+   "pages": 177,
+   "bytes": 2012513
+  },
+  "score": {
+   "path": "/home/user/duets/books/advent-christmas/advent-christmas-score.pdf",
+   "pages": 131,
+   "bytes": 1518331
+  },
+  "screen": {
+   "path": "/home/user/duets/books/advent-christmas/advent-christmas-screen.pdf",
+   "pages": 133,
+   "bytes": 1991137
+  },
+  "screen-score": {
+   "path": "/home/user/duets/books/advent-christmas/advent-christmas-screen-score.pdf",
+   "pages": 123,
+   "bytes": 1451986
+  }
+ },
+ "items": [
+  {
+   "slug": "the-advent-of-our-god",
+   "title": "The Advent of Our God",
+   "subtitle": "ST. THOMAS",
+   "composer": "Aaron Williams, 1770",
+   "levels": {
+    "p": 2.4,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 6,
+    "score": 5,
+    "screen": 4,
+    "screen-score": 4
+   }
+  },
+  {
+   "slug": "come-thou-long-expected-jesus",
+   "title": "Come, Thou Long-Expected Jesus",
+   "subtitle": "JEFFERSON",
+   "composer": "from Southern Harmony, 1835",
+   "levels": {
+    "p": 1.7,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "2/4",
+   "bars": 32,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 8,
+    "score": 6,
+    "screen": 5,
+    "screen-score": 5
+   }
+  },
+  {
+   "slug": "comfort-comfort-ye-my-people",
+   "title": "Comfort, Comfort Ye My People",
+   "subtitle": "FREU DICH SEHR, O MEINE SEELE",
+   "composer": "Trente Quatre Pseaumes de David, Geneva, 1551",
+   "levels": {
+    "p": 2.6,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "6/4",
+   "bars": 48,
+   "flavor": "setting",
+   "flavor_text": "Three stanzas: chorale \u00b7 tune in the Secondo \u00b7 full",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 10,
+    "score": 8,
+    "screen": 7,
+    "screen-score": 7
+   }
+  },
+  {
+   "slug": "gabriels-message",
+   "title": "Gabriel's Message",
+   "subtitle": "GABRIEL`S MESSAGE",
+   "composer": "Traditional Basque Carol",
+   "levels": {
+    "p": 1.4,
+    "s": 1.9
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 14,
+    "score": 12,
+    "screen": 10,
+    "screen-score": 10
+   }
+  },
+  {
+   "slug": "hark-the-glad-sound",
+   "title": "Hark the Glad Sound",
+   "subtitle": "CHESTERFIELD",
+   "composer": "or 'Richmond (Haweis)' or 'Spa Fields Chapel' Thomas Haweis, 1792",
+   "levels": {
+    "p": 3.0,
+    "s": 2.1
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 14,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 16,
+    "score": 14,
+    "screen": 12,
+    "screen-score": 11
+   }
+  },
+  {
+   "slug": "jesus-came-the-heavens-adoring",
+   "title": "Jesus Came, the Heavens Adoring",
+   "subtitle": "SIEH, HIER BIN ICH, EHRENKOENIG",
+   "composer": "Geistreiches Gesangbuch Darmstadt, Germany, 1698",
+   "levels": {
+    "p": 1.8,
+    "s": 1.9
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 18,
+    "score": 15,
+    "screen": 14,
+    "screen-score": 12
+   }
+  },
+  {
+   "slug": "the-king-shall-come",
+   "title": "The King Shall Come",
+   "subtitle": "CONSOLATION-MORNING SONG",
+   "composer": "Wyeth, John (1770-1858)",
+   "levels": {
+    "p": 2.2,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 20,
+    "score": 16,
+    "screen": 15,
+    "screen-score": 13
+   }
+  },
+  {
+   "slug": "lift-up-your-heads-ye-mighty-gates",
+   "title": "Lift Up Your Heads, Ye Mighty Gates",
+   "subtitle": "MILWAUKEE",
+   "composer": "or 'Macht hoch die T\u00fcr (Lemke)' August Lemke, 1849",
+   "levels": {
+    "p": 1.8,
+    "s": 3.0
+   },
+   "key": "A",
+   "meter": "3/4",
+   "bars": 31,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 22,
+    "score": 17,
+    "screen": 16,
+    "screen-score": 14
+   }
+  },
+  {
+   "slug": "lo-he-comes-with-clouds-descending",
+   "title": "Lo! He Comes with Clouds Descending",
+   "subtitle": "HELMSLEY",
+   "composer": "attr. Thomas Olivers, 1765",
+   "levels": {
+    "p": 1.9,
+    "s": 2.9
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 26,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 24,
+    "score": 19,
+    "screen": 18,
+    "screen-score": 16
+   }
+  },
+  {
+   "slug": "o-come-o-come-emmanuel",
+   "title": "O Come O Come Emmanuel",
+   "subtitle": "VENI EMMANUEL",
+   "composer": "15th Century French processional",
+   "levels": {
+    "p": 3.5,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 60,
+   "flavor": "setting",
+   "flavor_text": "Three stanzas: chorale \u00b7 tune in the Secondo \u00b7 full",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 26,
+    "score": 21,
+    "screen": 20,
+    "screen-score": 18
+   }
+  },
+  {
+   "slug": "o-lord-how-shall-i-meet-thee",
+   "title": "O Lord, How Shall I Meet Thee",
+   "subtitle": "WIE SOLL ICH DICH EMPFANGE",
+   "composer": "Johann Cr\u00fcger, 1653",
+   "levels": {
+    "p": 2.1,
+    "s": 2.3
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 32,
+    "score": 26,
+    "screen": 24,
+    "screen-score": 22
+   }
+  },
+  {
+   "slug": "on-jordans-bank-the-baptists-cry",
+   "title": "On Jordan's Bank the Baptist's Cry",
+   "subtitle": "PUER NOBIS NASCITUR",
+   "composer": "Michael Praetorius, 1609",
+   "levels": {
+    "p": 1.9,
+    "s": 2.1
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 34,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "Advent",
+   "problems": [
+    "2 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 34,
+    "score": 28,
+    "screen": 26,
+    "screen-score": 23
+   }
+  },
+  {
+   "slug": "savior-of-the-nations-come",
+   "title": "Savior of the Nations Come",
+   "subtitle": "NUN KOMM, DER HEIDEN HEILAND",
+   "composer": "Walter's Geistliche Gesangb\u00fcchlein, 1524",
+   "levels": {
+    "p": 3.1,
+    "s": 2.3
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "setting",
+   "flavor_text": "Three stanzas: chorale \u00b7 tune in the Secondo \u00b7 full",
+   "section": "Advent",
+   "problems": [],
+   "pages": {
+    "facing": 38,
+    "score": 30,
+    "screen": 28,
+    "screen-score": 25
+   }
+  },
+  {
+   "slug": "all-my-heart-this-night-rejoices",
+   "title": "All My Heart This Night Rejoices",
+   "subtitle": "EBELING",
+   "composer": "or 'Bonn' or 'Warum Sollt Ich' or 'All My Heart This Night' Johann Georg Ebeling, 1666",
+   "levels": {
+    "p": 1.2,
+    "s": 1.7
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 42,
+    "score": 33,
+    "screen": 30,
+    "screen-score": 27
+   }
+  },
+  {
+   "slug": "all-praise-to-jesus-hallowed-name",
+   "title": "All Praise to Jesus' Hallowed Name",
+   "subtitle": "GELOBET SEIST DU",
+   "composer": "ancient German found in Walter's Geistliche Gesangb\u00fcchlein, 1524",
+   "levels": {
+    "p": 3.5,
+    "s": 2.2
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 11,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 44,
+    "score": 34,
+    "screen": 31,
+    "screen-score": 28
+   }
+  },
+  {
+   "slug": "angels-from-the-realms-of-glory",
+   "title": "Angels from the Realms of Glory",
+   "subtitle": "REGENT SQUARE",
+   "composer": "Henry Smart, 1867",
+   "levels": {
+    "p": 1.9,
+    "s": 1.9
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 46,
+    "score": 35,
+    "screen": 32,
+    "screen-score": 29
+   }
+  },
+  {
+   "slug": "angels-we-have-heard-on-high",
+   "title": "Angels We Have Heard on High",
+   "subtitle": "GLORIA",
+   "composer": "French carol melody",
+   "levels": {
+    "p": 2.8,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 21,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 48,
+    "score": 36,
+    "screen": 33,
+    "screen-score": 30
+   }
+  },
+  {
+   "slug": "away-in-a-manger",
+   "title": "Away in a Manger",
+   "subtitle": "MUELLER",
+   "composer": "James R. Murray, 1887",
+   "levels": {
+    "p": 1.2,
+    "s": 3.4
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 50,
+    "score": 38,
+    "screen": 35,
+    "screen-score": 32
+   }
+  },
+  {
+   "slug": "the-boars-head-carol",
+   "title": "The Boar's Head Carol",
+   "subtitle": "",
+   "composer": "English traditional carol",
+   "levels": {
+    "p": 1.3,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 10,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 52,
+    "score": 39,
+    "screen": 36,
+    "screen-score": 34
+   }
+  },
+  {
+   "slug": "bring-a-torch-jeanette-isabella",
+   "title": "Bring a Torch, Jeanette, Isabella",
+   "subtitle": "",
+   "composer": "French traditional carol (Provence)",
+   "levels": {
+    "p": 2.4,
+    "s": 2.3
+   },
+   "key": "Bb",
+   "meter": "3/4",
+   "bars": 48,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 54,
+    "score": 40,
+    "screen": 37,
+    "screen-score": 35
+   }
+  },
+  {
+   "slug": "christmas-day-in-the-morning",
+   "title": "Christmas Day in the Morning",
+   "subtitle": "",
+   "composer": "Shetland traditional",
+   "levels": {
+    "p": 3.1,
+    "s": 2.0
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 24,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 56,
+    "score": 42,
+    "screen": 39,
+    "screen-score": 37
+   }
+  },
+  {
+   "slug": "come-your-heart-and-voices-raising",
+   "title": "Come, Your Heart and Voices Raising",
+   "subtitle": "QUEM PASTORES",
+   "composer": "German, 1410",
+   "levels": {
+    "p": 1.4,
+    "s": 2.4
+   },
+   "key": "F",
+   "meter": "3/4",
+   "bars": 16,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 58,
+    "score": 44,
+    "screen": 41,
+    "screen-score": 39
+   }
+  },
+  {
+   "slug": "coventry-carol",
+   "title": "Coventry Carol",
+   "subtitle": "",
+   "composer": "English traditional carol (16th century)",
+   "levels": {
+    "p": 2.4,
+    "s": 2.5
+   },
+   "key": "Bb",
+   "meter": "3/4",
+   "bars": 16,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 60,
+    "score": 45,
+    "screen": 42,
+    "screen-score": 40
+   }
+  },
+  {
+   "slug": "deck-the-halls",
+   "title": "Deck the Halls",
+   "subtitle": "",
+   "composer": "Nos Galan (Welsh traditional)",
+   "levels": {
+    "p": 1.6,
+    "s": 2.7
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 62,
+    "score": 46,
+    "screen": 43,
+    "screen-score": 41
+   }
+  },
+  {
+   "slug": "ding-dong-merrily-on-high",
+   "title": "Ding Dong! Merrily on High",
+   "subtitle": "",
+   "composer": "French dance tune (Arbeau, 1589)",
+   "levels": {
+    "p": 1.9,
+    "s": 2.5
+   },
+   "key": "Bb",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 64,
+    "score": 47,
+    "screen": 44,
+    "screen-score": 43
+   }
+  },
+  {
+   "slug": "far-far-away-on-judeas-plains",
+   "title": "Far, Far Away on Judea's Plains",
+   "subtitle": "FAR FAR AWAY ON JUDEAS PLAINS",
+   "composer": "MacFarlane, John Menzies (1833-1892)",
+   "levels": {
+    "p": 2.3,
+    "s": 2.2
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 66,
+    "score": 48,
+    "screen": 45,
+    "screen-score": 44
+   }
+  },
+  {
+   "slug": "the-first-noel",
+   "title": "The First Noel",
+   "subtitle": "THE FIRST NOEL",
+   "composer": "Traditional English carol, possibly dating from as early as the 13th Century",
+   "levels": {
+    "p": 2.3,
+    "s": 2.4
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 25,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 68,
+    "score": 49,
+    "screen": 46,
+    "screen-score": 45
+   }
+  },
+  {
+   "slug": "from-heaven-above-to-earth-i-come",
+   "title": "From Heaven Above to Earth I Come",
+   "subtitle": "VOM HIMMEL HOCH",
+   "composer": "traditional German from Schumann's Geistliche Lieder, Leipzig, 1539",
+   "levels": {
+    "p": 1.3,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 70,
+    "score": 51,
+    "screen": 48,
+    "screen-score": 47
+   }
+  },
+  {
+   "slug": "gentle-mary-laid-her-child",
+   "title": "Gentle Mary Laid Her Child",
+   "subtitle": "TEMPUS ADEST FLORIDUM",
+   "composer": "13th Century spring carol; first published in the Swedish Piae Cantones, 1582",
+   "levels": {
+    "p": 1.7,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 72,
+    "score": 52,
+    "screen": 49,
+    "screen-score": 48
+   }
+  },
+  {
+   "slug": "gloucestershire-wassail",
+   "title": "Gloucestershire Wassail",
+   "subtitle": "",
+   "composer": "English traditional carol",
+   "levels": {
+    "p": 2.6,
+    "s": 4.0
+   },
+   "key": "D",
+   "meter": "6/8",
+   "bars": 17,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 74,
+    "score": 54,
+    "screen": 51,
+    "screen-score": 49
+   }
+  },
+  {
+   "slug": "god-rest-ye-merry-gentlemen",
+   "title": "God Rest Ye Merry Gentlemen",
+   "subtitle": "GOD REST YE MERRY GENTLEMEN",
+   "composer": "Traditional English",
+   "levels": {
+    "p": 2.2,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 20,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 76,
+    "score": 56,
+    "screen": 53,
+    "screen-score": 51
+   }
+  },
+  {
+   "slug": "god-rest-you-merry-gentlemen",
+   "title": "God Rest You Merry, Gentlemen",
+   "subtitle": "",
+   "composer": "English traditional carol",
+   "levels": {
+    "p": 3.9,
+    "s": 2.2
+   },
+   "key": "Em",
+   "meter": "4/4",
+   "bars": 21,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "Christmas",
+   "problems": [
+    "1 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 78,
+    "score": 58,
+    "screen": 55,
+    "screen-score": 53
+   }
+  },
+  {
+   "slug": "good-christian-friends-rejoice",
+   "title": "Good Christian Friends, Rejoice",
+   "subtitle": "",
+   "composer": "In dulci jubilo (14th-century German carol)",
+   "levels": {
+    "p": 2.0,
+    "s": 2.8
+   },
+   "key": "F",
+   "meter": "6/8",
+   "bars": 18,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 80,
+    "score": 60,
+    "screen": 57,
+    "screen-score": 55
+   }
+  },
+  {
+   "slug": "good-king-wenceslas",
+   "title": "Good King Wenceslas",
+   "subtitle": "",
+   "composer": "Tempus adest floridum (Piae Cantiones, 1582)",
+   "levels": {
+    "p": 2.2,
+    "s": 2.3
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 13,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 82,
+    "score": 62,
+    "screen": 59,
+    "screen-score": 56
+   }
+  },
+  {
+   "slug": "a-great-and-mighty-wonder",
+   "title": "A Great and Mighty Wonder",
+   "subtitle": "ES IST EIN ROS ENTSPRUNGEN (RHYTHMIC)",
+   "composer": "German from K\u00f6ln, 1599",
+   "levels": {
+    "p": 3.0,
+    "s": 1.9
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 15,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 84,
+    "score": 63,
+    "screen": 60,
+    "screen-score": 57
+   }
+  },
+  {
+   "slug": "hark-the-herald-angels-sing",
+   "title": "Hark! the Herald Angels Sing",
+   "subtitle": "MENDELSSOHN",
+   "composer": "'Festgesang' Felix Mendelssohn, 1840",
+   "levels": {
+    "p": 3.2,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 60,
+   "flavor": "setting",
+   "flavor_text": "Three stanzas: chorale \u00b7 tune in the Secondo \u00b7 full",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 86,
+    "score": 65,
+    "screen": 62,
+    "screen-score": 59
+   }
+  },
+  {
+   "slug": "the-holly-and-the-ivy",
+   "title": "The Holly and the Ivy",
+   "subtitle": "",
+   "composer": "English traditional carol",
+   "levels": {
+    "p": 2.2,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 92,
+    "score": 69,
+    "screen": 67,
+    "screen-score": 64
+   }
+  },
+  {
+   "slug": "i-heard-the-bells-on-christmas-day",
+   "title": "I Heard the Bells on Christmas Day",
+   "subtitle": "WALTHAM (CALKIN)",
+   "composer": "John B. Calkin, 1872",
+   "levels": {
+    "p": 1.5,
+    "s": 2.8
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 94,
+    "score": 70,
+    "screen": 68,
+    "screen-score": 65
+   }
+  },
+  {
+   "slug": "i-saw-three-ships",
+   "title": "I Saw Three Ships",
+   "subtitle": "",
+   "composer": "English traditional carol",
+   "levels": {
+    "p": 3.3,
+    "s": 3.4
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 9,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 96,
+    "score": 71,
+    "screen": 69,
+    "screen-score": 66
+   }
+  },
+  {
+   "slug": "in-the-bleak-midwinter",
+   "title": "In the Bleak MidWinter",
+   "subtitle": "CRANHAM",
+   "composer": "Holst, Gustav Theodore (1874-1934)",
+   "levels": {
+    "p": 2.2,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 98,
+    "score": 72,
+    "screen": 70,
+    "screen-score": 67
+   }
+  },
+  {
+   "slug": "it-came-upon-a-midnight-clear",
+   "title": "It Came upon a Midnight Clear",
+   "subtitle": "CAROL",
+   "composer": "Richard S. Willis, 1861",
+   "levels": {
+    "p": 1.9,
+    "s": 1.7
+   },
+   "key": "Bb",
+   "meter": "6/8",
+   "bars": 17,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 100,
+    "score": 73,
+    "screen": 71,
+    "screen-score": 68
+   }
+  },
+  {
+   "slug": "it-came-upon-the-midnight-clear",
+   "title": "It Came upon the Midnight Clear",
+   "subtitle": "",
+   "composer": "Richard Storrs Willis (Carol), 1850",
+   "levels": {
+    "p": 2.8,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "6/8",
+   "bars": 17,
+   "flavor": "trade-easy",
+   "flavor_text": "The tune passes between the players (easy)",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 102,
+    "score": 74,
+    "screen": 72,
+    "screen-score": 69
+   }
+  },
+  {
+   "slug": "jingle-bells",
+   "title": "Jingle Bells",
+   "subtitle": "",
+   "composer": "James Lord Pierpont, 1857",
+   "levels": {
+    "p": 3.8,
+    "s": 2.0
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "showy-primo",
+   "flavor_text": "Primo: tune over a running left hand \u00b7 Secondo: simple",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 104,
+    "score": 76,
+    "screen": 74,
+    "screen-score": 70
+   }
+  },
+  {
+   "slug": "joy-to-the-world",
+   "title": "Joy to the World",
+   "subtitle": "ANTIOCH",
+   "composer": "pieced together from \"Messiah\" George F. Handel, 1741",
+   "levels": {
+    "p": 2.2,
+    "s": 2.4
+   },
+   "key": "D",
+   "meter": "2/4",
+   "bars": 38,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 108,
+    "score": 79,
+    "screen": 77,
+    "screen-score": 73
+   }
+  },
+  {
+   "slug": "let-our-gladness-have-no-end",
+   "title": "Let Our Gladness Have No End",
+   "subtitle": "NARODIL SE KRISTUS P\u00c1N",
+   "composer": "or 'Salvator Natus' 15th Century Bohemian",
+   "levels": {
+    "p": 3.8,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 18,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 112,
+    "score": 81,
+    "screen": 79,
+    "screen-score": 75
+   }
+  },
+  {
+   "slug": "lo-how-a-rose-eer-blooming",
+   "title": "Lo, How a Rose E'er Blooming",
+   "subtitle": "ES IST EIN ROS ENTSPRUNGEN (RHYTHMIC)",
+   "composer": "German from K\u00f6ln, 1599",
+   "levels": {
+    "p": 3.2,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 45,
+   "flavor": "setting",
+   "flavor_text": "Three stanzas: chorale \u00b7 tune in the Secondo \u00b7 full",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 114,
+    "score": 83,
+    "screen": 81,
+    "screen-score": 77
+   }
+  },
+  {
+   "slug": "now-praise-we-christ-the-holy-one",
+   "title": "Now Praise We Christ, the Holy One",
+   "subtitle": "CHRISTUM WIR SOLLEN LOBEN SCHON",
+   "composer": "ancient Latin found in Erfurt Enchiridion, 1524",
+   "levels": {
+    "p": 2.3,
+    "s": 2.6
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 11,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 118,
+    "score": 87,
+    "screen": 85,
+    "screen-score": 81
+   }
+  },
+  {
+   "slug": "o-christmas-tree",
+   "title": "O Christmas Tree",
+   "subtitle": "",
+   "composer": "German traditional (O Tannenbaum)",
+   "levels": {
+    "p": 2.3,
+    "s": 2.5
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 33,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 120,
+    "score": 88,
+    "screen": 86,
+    "screen-score": 82
+   }
+  },
+  {
+   "slug": "o-come-all-ye-faithful",
+   "title": "O Come, All Ye Faithful",
+   "subtitle": "ADESTE FIDELES",
+   "composer": "or 'Portuguese Hymn' John F. Wade, 1743",
+   "levels": {
+    "p": 3.4,
+    "s": 2.4
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 63,
+   "flavor": "setting",
+   "flavor_text": "Three stanzas: chorale \u00b7 tune in the Secondo \u00b7 full",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 122,
+    "score": 90,
+    "screen": 88,
+    "screen-score": 84
+   }
+  },
+  {
+   "slug": "o-little-town-of-bethlehem",
+   "title": "O Little Town of Bethlehem",
+   "subtitle": "ST. LOUIS",
+   "composer": "Lewis H. Redner, 1868",
+   "levels": {
+    "p": 2.5,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale-full",
+   "flavor_text": "Full four-part setting with octave bass",
+   "section": "Christmas",
+   "problems": [
+    "1 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 128,
+    "score": 95,
+    "screen": 93,
+    "screen-score": 89
+   }
+  },
+  {
+   "slug": "of-the-fathers-love-begotten",
+   "title": "Of the Father's Love Begotten",
+   "subtitle": "DIVINUM MYSTERIUM",
+   "composer": "or 'Corde Natus' Latin Plainsong, 13th Century",
+   "levels": {
+    "p": 2.1,
+    "s": 2.3
+   },
+   "key": "F",
+   "meter": "6/4",
+   "bars": 28,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 130,
+    "score": 96,
+    "screen": 95,
+    "screen-score": 90
+   }
+  },
+  {
+   "slug": "see-amid-the-winters-snow",
+   "title": "See Amid the Winter's Snow",
+   "subtitle": "HUMILITY",
+   "composer": "John Goss, 1870",
+   "levels": {
+    "p": 1.2,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 16,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 132,
+    "score": 98,
+    "screen": 97,
+    "screen-score": 92
+   }
+  },
+  {
+   "slug": "silent-night",
+   "title": "Silent Night",
+   "subtitle": "STILLE NACHT",
+   "composer": "Franz Xaver Gruber, 1818",
+   "levels": {
+    "p": 2.0,
+    "s": 2.3
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 24,
+   "flavor": "setting-easy",
+   "flavor_text": "Two stanzas: tune in octaves \u00b7 tune in the Secondo",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 134,
+    "score": 100,
+    "screen": 99,
+    "screen-score": 93
+   }
+  },
+  {
+   "slug": "sing-o-sing-this-blessed-morn",
+   "title": "Sing, O Sing, This Blessed Morn",
+   "subtitle": "NATIVITY",
+   "composer": "Monk, William Henry (1823-1889)",
+   "levels": {
+    "p": 1.3,
+    "s": 1.9
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 136,
+    "score": 102,
+    "screen": 101,
+    "screen-score": 95
+   }
+  },
+  {
+   "slug": "still-still-still",
+   "title": "Still, Still, Still",
+   "subtitle": "",
+   "composer": "Austrian traditional carol",
+   "levels": {
+    "p": 1.4,
+    "s": 2.5
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 24,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 138,
+    "score": 103,
+    "screen": 102,
+    "screen-score": 96
+   }
+  },
+  {
+   "slug": "to-shepherds-as-they-watched-by-night",
+   "title": "To Shepherds as They Watched by Night",
+   "subtitle": "VOM HIMMEL HOCH",
+   "composer": "traditional German from Schumann's Geistliche Lieder, Leipzig, 1539",
+   "levels": {
+    "p": 1.8,
+    "s": 1.9
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 142,
+    "score": 105,
+    "screen": 105,
+    "screen-score": 98
+   }
+  },
+  {
+   "slug": "twas-in-the-moon-of-wintertime",
+   "title": "Twas in the Moon of Wintertime",
+   "subtitle": "HURON CAROL",
+   "composer": "or 'Jesous Ahatonia' or 'Une Jeunne Pucelle' traditional French, 1557",
+   "levels": {
+    "p": 2.3,
+    "s": 2.5
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 19,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 144,
+    "score": 106,
+    "screen": 106,
+    "screen-score": 99
+   }
+  },
+  {
+   "slug": "up-on-the-housetop",
+   "title": "Up on the Housetop",
+   "subtitle": "",
+   "composer": "Benjamin Hanby, 1864",
+   "levels": {
+    "p": 2.0,
+    "s": 2.1
+   },
+   "key": "D",
+   "meter": "4/4",
+   "bars": 35,
+   "flavor": "gentle",
+   "flavor_text": "Tune in octaves over a simple bass-and-chord pattern",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 146,
+    "score": 108,
+    "screen": 108,
+    "screen-score": 101
+   }
+  },
+  {
+   "slug": "we-three-kings-of-orient-are",
+   "title": "We Three Kings of Orient Are",
+   "subtitle": "",
+   "composer": "John Henry Hopkins Jr., 1857",
+   "levels": {
+    "p": 3.5,
+    "s": 3.0
+   },
+   "key": "Em",
+   "meter": "6/8",
+   "bars": 16,
+   "flavor": "tune-below",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo accompanies above",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 148,
+    "score": 110,
+    "screen": 110,
+    "screen-score": 103
+   }
+  },
+  {
+   "slug": "we-wish-you-a-merry-christmas",
+   "title": "We Wish You a Merry Christmas",
+   "subtitle": "",
+   "composer": "English traditional carol",
+   "levels": {
+    "p": 1.8,
+    "s": 2.8
+   },
+   "key": "C",
+   "meter": "3/4",
+   "bars": 25,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 150,
+    "score": 112,
+    "screen": 112,
+    "screen-score": 104
+   }
+  },
+  {
+   "slug": "the-wexford-carol",
+   "title": "The Wexford Carol",
+   "subtitle": "",
+   "composer": "Irish traditional carol",
+   "levels": {
+    "p": 3.3,
+    "s": 4.0
+   },
+   "key": "G",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 152,
+    "score": 114,
+    "screen": 114,
+    "screen-score": 105
+   }
+  },
+  {
+   "slug": "what-child-is-this",
+   "title": "What Child Is This?",
+   "subtitle": "GREENSLEEVES",
+   "composer": "16th Century English Traditional",
+   "levels": {
+    "p": 2.2,
+    "s": 2.7
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Christmas",
+   "problems": [
+    "2 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 154,
+    "score": 116,
+    "screen": 116,
+    "screen-score": 107
+   }
+  },
+  {
+   "slug": "what-child-is-this-greensleeves",
+   "title": "What Child Is This? (Greensleeves)",
+   "subtitle": "",
+   "composer": "English traditional (Greensleeves)",
+   "levels": {
+    "p": 2.9,
+    "s": 3.3
+   },
+   "key": "Am",
+   "meter": "6/8",
+   "bars": 20,
+   "flavor": "easy-primo-rich",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: busier accompaniment",
+   "section": "Christmas",
+   "problems": [],
+   "pages": {
+    "facing": 156,
+    "score": 117,
+    "screen": 118,
+    "screen-score": 109
+   }
+  },
+  {
+   "slug": "as-with-gladness-men-of-old",
+   "title": "As with Gladness Men of Old",
+   "subtitle": "DIX",
+   "composer": "or 'Treuer Heiland, Wir Sind Heir' Conrad Kocher, 1838. Abridged by William Henry Monk, 1861",
+   "levels": {
+    "p": 1.2,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 12,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Epiphany",
+   "problems": [],
+   "pages": {
+    "facing": 158,
+    "score": 119,
+    "screen": 120,
+    "screen-score": 111
+   }
+  },
+  {
+   "slug": "in-his-temple-now-behold-him",
+   "title": "In His Temple Now Behold Him",
+   "subtitle": "WESTMINSTER ABBEY",
+   "composer": "Henry Purcell, circa 1692",
+   "levels": {
+    "p": 1.1,
+    "s": 3.6
+   },
+   "key": "G",
+   "meter": "6/8",
+   "bars": 12,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "Epiphany",
+   "problems": [],
+   "pages": {
+    "facing": 160,
+    "score": 120,
+    "screen": 121,
+    "screen-score": 112
+   }
+  },
+  {
+   "slug": "o-chief-of-cities-bethlehem",
+   "title": "O Chief of Cities Bethlehem",
+   "subtitle": "PUER NOBIS NASCITUR",
+   "composer": "Michael Praetorius, 1609",
+   "levels": {
+    "p": 1.2,
+    "s": 1.9
+   },
+   "key": "D",
+   "meter": "3/4",
+   "bars": 17,
+   "flavor": "chorale-easy",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: tenor and bass",
+   "section": "Epiphany",
+   "problems": [
+    "2 moments where Secondo reaches into the Primo's notes"
+   ],
+   "pages": {
+    "facing": 162,
+    "score": 122,
+    "screen": 123,
+    "screen-score": 114
+   }
+  },
+  {
+   "slug": "the-people-that-in-darkness-sat",
+   "title": "The People That in Darkness Sat",
+   "subtitle": "LOBT GOTT, IHR CHRISTEN ALLZUGLEICH",
+   "composer": "Nikolaus Hermann, 1554",
+   "levels": {
+    "p": 3.3,
+    "s": 2.2
+   },
+   "key": "F",
+   "meter": "4/4",
+   "bars": 11,
+   "flavor": "tune-below-flowing",
+   "flavor_text": "Secondo plays the tune \u00b7 Primo has flowing broken chords",
+   "section": "Epiphany",
+   "problems": [],
+   "pages": {
+    "facing": 164,
+    "score": 123,
+    "screen": 124,
+    "screen-score": 115
+   }
+  },
+  {
+   "slug": "songs-of-thankfulness-and-praise",
+   "title": "Songs of Thankfulness and Praise",
+   "subtitle": "ST. GEORGE`S WINDSOR",
+   "composer": "George Job Elvey, 1858",
+   "levels": {
+    "p": 2.0,
+    "s": 2.2
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 17,
+   "flavor": "chorale",
+   "flavor_text": "Four-part setting: soprano & alto (Primo), tenor & bass (Secondo)",
+   "section": "Epiphany",
+   "problems": [],
+   "pages": {
+    "facing": 166,
+    "score": 124,
+    "screen": 125,
+    "screen-score": 116
+   }
+  },
+  {
+   "slug": "the-star-proclaims-the-king-is-here",
+   "title": "The Star Proclaims the King Is Here",
+   "subtitle": "WO GOTT ZUM HAUS",
+   "composer": "Klug's Geistliche Lieder, Wittenberg, 1533",
+   "levels": {
+    "p": 2.4,
+    "s": 2.7
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "easy-secondo",
+   "flavor_text": "Primo: tune with harmony notes \u00b7 Secondo: simple bass and chords",
+   "section": "Epiphany",
+   "problems": [],
+   "pages": {
+    "facing": 168,
+    "score": 125,
+    "screen": 127,
+    "screen-score": 117
+   }
+  },
+  {
+   "slug": "to-jordan-came-our-lord-the-christ",
+   "title": "To Jordan Came Our Lord, the Christ",
+   "subtitle": "CHRIST, UNSER HERR",
+   "composer": "Johann Walter, 1524",
+   "levels": {
+    "p": 1.4,
+    "s": 2.7
+   },
+   "key": "C",
+   "meter": "4/4",
+   "bars": 23,
+   "flavor": "chorale-octaves",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: alto, tenor and bass",
+   "section": "Epiphany",
+   "problems": [],
+   "pages": {
+    "facing": 170,
+    "score": 126,
+    "screen": 128,
+    "screen-score": 118
+   }
+  },
+  {
+   "slug": "within-the-fathers-house",
+   "title": "Within the Father's House",
+   "subtitle": "FRANCONIA",
+   "composer": "Johann Balthasar K\u00f6nig, 1738",
+   "levels": {
+    "p": 2.2,
+    "s": 2.6
+   },
+   "key": "Eb",
+   "meter": "4/4",
+   "bars": 9,
+   "flavor": "trade",
+   "flavor_text": "The tune passes between the players",
+   "section": "Epiphany",
+   "problems": [],
+   "pages": {
+    "facing": 172,
+    "score": 128,
+    "screen": 130,
+    "screen-score": 120
+   }
+  },
+  {
+   "slug": "auld-lang-syne",
+   "title": "Auld Lang Syne",
+   "subtitle": "",
+   "composer": "Scottish traditional",
+   "levels": {
+    "p": 1.3,
+    "s": 2.6
+   },
+   "key": "G",
+   "meter": "4/4",
+   "bars": 33,
+   "flavor": "easy-primo",
+   "flavor_text": "Primo: the tune in octaves \u00b7 Secondo: full accompaniment",
+   "section": "New Year",
+   "problems": [],
+   "pages": {
+    "facing": 174,
+    "score": 129,
+    "screen": 131,
+    "screen-score": 121
+   }
+  }
+ ],
+ "seconds": 26.1
+}

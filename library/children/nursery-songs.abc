@@ -1,0 +1,160 @@
+% Nursery songs and singing games, set down by hand for the duets project.
+% All melodies are traditional and in the public domain.
+
+X:1
+T:Twinkle, Twinkle, Little Star
+C:French melody "Ah! vous dirai-je, maman", 1761
+%%duets category: children
+%%duets tags: children, french, variations
+%%duets credit: Traditional melody, public domain.
+%%duets slug: twinkle-twinkle-little-star
+R:pad
+M:4/4
+L:1/4
+Q:1/4=100
+K:C
+"C"C C G G | "F"A A "C"G2 | "F"F F "C"E E | "G7"D D "C"C2 |
+"C"G G "F"F F | "C"E E "G"D2 | "C"G G "F"F F | "C"E E "G"D2 |
+"C"C C G G | "F"A A "C"G2 | "F"F F "C"E E | "G7"D D "C"C2 |]
+
+X:2
+T:Mary Had a Little Lamb
+C:Lowell Mason, 1830
+%%duets category: children
+%%duets tags: children, american
+%%duets credit: Traditional melody, public domain.
+%%duets slug: mary-had-a-little-lamb
+R:march
+M:4/4
+L:1/4
+Q:1/4=108
+K:C
+"C"E D C D | E E E2 | "G7"D D D2 | "C"E G G2 |
+"C"E D C D | E E E E | "G7"D D E D | "C"C4 |]
+
+X:3
+T:London Bridge Is Falling Down
+C:English traditional
+%%duets category: children
+%%duets tags: children, english
+%%duets credit: Traditional melody, public domain.
+%%duets slug: london-bridge-is-falling-down
+R:march
+M:4/4
+L:1/4
+Q:1/4=112
+K:C
+"C"G3/2 A/2 G F | E F G2 | "G7"D E F2 | "C"E F G2 |
+"C"G3/2 A/2 G F | E F G2 | "G7"D2 G2 | "C"E C2 z |]
+
+X:4
+T:Yankee Doodle
+C:American traditional (18th century)
+%%duets category: children
+%%duets tags: children, american, patriotic
+%%duets credit: Traditional melody, public domain.
+%%duets slug: yankee-doodle
+R:march
+M:2/4
+L:1/8
+Q:1/4=104
+K:G
+"G"G G A B | G B "D7"A D | "G"G G A B | G2 "D7"F2 |
+"G"G G A B | "C"c B A G | "D7"F D E F | "G"G2 G2 ||
+"C"E3/2 F/2 E D | "G"E F G2 | "D7"D3/2 E/2 D C | "G"B,2 D2 |
+"C"E3/2 F/2 E D | "G"E F G E | "D7"D G F A | "G"G2 G2 |]
+
+X:5
+T:Lightly Row
+C:German traditional ("Hänschen klein")
+%%duets category: children
+%%duets tags: children, german
+%%duets credit: Traditional melody, public domain.
+%%duets slug: lightly-row
+R:pad
+M:4/4
+L:1/4
+Q:1/4=108
+K:C
+"C"G E E2 | "G7"F D D2 | "C"C D E F | G G G2 |
+"C"G E E2 | "G7"F D D2 | "C"C E G G | C4 ||
+"G7"D D D D | D E F2 | "C"E E E E | E F G2 |
+"C"G E E2 | "G7"F D D2 | "C"C E G G | C4 |]
+
+X:6
+T:Au clair de la lune
+C:French traditional (18th century)
+%%duets category: children
+%%duets tags: children, french
+%%duets credit: Traditional melody, public domain.
+%%duets slug: au-clair-de-la-lune
+R:pad
+M:4/4
+L:1/4
+Q:1/4=100
+K:G
+"G"G G G A | B2 "D7"A2 | "G"G B "D7"A A | "G"G4 |
+"G"G G G A | B2 "D7"A2 | "G"G B "D7"A A | "G"G4 ||
+"D"A A A A | "A7"E2 E2 | "D"A G "A7"F E | "D"D4 |
+"G"G G G A | B2 "D7"A2 | "G"G B "D7"A A | "G"G4 |]
+
+X:7
+T:Sur le pont d'Avignon
+C:French traditional
+%%duets category: children
+%%duets tags: children, french
+%%duets credit: Traditional melody, public domain.
+%%duets slug: sur-le-pont-davignon
+R:march
+M:2/4
+L:1/8
+Q:1/4=96
+K:F
+"F"F F F2 | "C7"G G G2 | "F"A B c F | "C7"E F G C |
+"F"F F F2 | "C7"G G G2 | "F"A B c F | "C7"G E "F"F2 |]
+
+X:8
+T:Skip to My Lou
+C:American traditional play-party song
+%%duets category: children
+%%duets tags: children, american
+%%duets credit: Traditional melody, public domain.
+%%duets slug: skip-to-my-lou
+R:march
+M:4/4
+L:1/4
+Q:1/4=120
+K:C
+"C"E E C C | E E G2 | "G7"D D B, B, | D D F2 |
+"C"E E C C | E E G2 | "G7"D E/2 F/2 E D | "C"C2 C2 |]
+
+X:9
+T:Old MacDonald Had a Farm
+C:American traditional
+%%duets category: children
+%%duets tags: children, american
+%%duets credit: Traditional melody, public domain.
+%%duets slug: old-macdonald-had-a-farm
+R:march
+M:4/4
+L:1/4
+Q:1/4=112
+K:G
+"G"G G G D | "C"E E "G"D2 | "G"B B "D7"A A | "G"G3 D |
+"G"G G G D | "C"E E "G"D2 | "G"B B "D7"A A | "G"G3 D/2 D/2 |
+"G"G G G D/2 D/2 | G G G2 | G/2 G/2 G G/2 G/2 G | G/2 G/2 G/2 G/2 G G |
+"G"G G G D | "C"E E "G"D2 | "G"B B "D7"A A | "G"G4 |]
+
+X:10
+T:Hot Cross Buns
+C:English street cry
+%%duets category: children
+%%duets tags: children, english
+%%duets credit: Traditional melody, public domain.
+%%duets slug: hot-cross-buns
+R:pad
+M:4/4
+L:1/4
+Q:1/4=96
+K:C
+"C"E D C2 | E D C2 | "C"C/2 C/2 C/2 C/2 "G7"D/2 D/2 D/2 D/2 | "C"E D C2 |]

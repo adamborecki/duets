@@ -41,6 +41,8 @@ def tune_from_abc(abc: AbcTune) -> Tune:
     tune.lyricist = meta.get("lyricist", "")
     tune.tempo_text = meta.get("tempo-text", "")
     tune.notes = meta.get("notes", "")
+    if meta.get("round"):
+        tune.notes = (tune.notes + " round " + meta["round"]).strip()
     if meta.get("year", "").strip().isdigit():
         tune.year = int(meta["year"])
     if meta.get("free-meter", "").lower() in ("yes", "true", "1"):
@@ -109,6 +111,7 @@ def validate(tune: Tune) -> list:
         if irr:
             problems.append("irregular bars: " + ", ".join(str(i + 1) for i in irr[:6]))
     notes = [p for p in tune.melody_pitches()]
+    notes += [p for b in tune.bars for v in b.voices.values() for e in v for p in e.pitches]
     if len(notes) < 8:
         problems.append("too few notes")
     return problems

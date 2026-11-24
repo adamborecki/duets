@@ -49,6 +49,8 @@ FLAVORS = {
     "setting": ("Three stanzas: chorale · tune in the Secondo · full", Options(primo=3, secondo=3)),
     "setting-easy": ("Two stanzas: tune in octaves · tune in the Secondo", Options(primo=2, secondo=2)),
     "original": ("Original duet, as the composer wrote it", Options()),
+    "round": ("Round: the Secondo follows the Primo", Options(primo=2, secondo=2)),
+    "variations": ("Theme and variations", Options(primo=2, secondo=3)),
 }
 SATB_FLAVORS = ("chorale", "chorale-octaves", "chorale-easy", "chorale-full", "setting", "setting-easy")
 
@@ -83,6 +85,10 @@ def flavor_options(flavor: str, style: str = "auto", key: str = "auto", seed: in
 
 
 def default_flavor(tune: Tune, index: int = 0) -> str:
+    if tune.category == "round":
+        return "round"
+    if tune.category in ("duet", "piano"):
+        return "original"
     rot = ROTATION["hymn" if tune.has_satb else "lead"]
     return rot[index % len(rot)]
 
@@ -98,6 +104,18 @@ def make_piece(tune: Tune, flavor: str = "", style: str = "auto", key: str = "au
         o = Options(primo=primo if primo is not None else 2, secondo=secondo if secondo is not None else 2)
         piece = arrange_split(tune, o)
         piece.arranger = "Duet version: each player takes one hand of the original"
+        finish(piece)
+        return piece
+    if flavor == "round" and tune.category != "round":
+        flavor = "trade-easy"
+    if flavor == "round" or (not flavor and tune.category == "round"):
+        from .variations import round_delay, round_piece
+        piece = round_piece(tune, round_delay(tune), opts=Options(primo=primo or 2, secondo=secondo or 2))
+        finish(piece)
+        return piece
+    if flavor == "variations":
+        from .variations import variations
+        piece = variations(tune, seed=seed)
         finish(piece)
         return piece
     flavor = flavor or default_flavor(tune)
