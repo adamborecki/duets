@@ -40,6 +40,7 @@ class Spec:
     footer: str = ""
     label: str = ""                      # e.g. "Secondo ●●○○○"
     ragged_last: bool = False
+    auto_pages: bool = False             # let LilyPond choose page breaks even with manual line breaks
     compact: bool = False                # tighter vertical spacing
 
     @property
@@ -433,7 +434,8 @@ def _layout(spec: Spec, piece: Piece) -> str:
     ]
     if manual:
         lines.append("      \\override NonMusicalPaperColumn.line-break-permission = ##f")
-        lines.append("      \\override NonMusicalPaperColumn.page-break-permission = ##f")
+        if not spec.auto_pages:
+            lines.append("      \\override NonMusicalPaperColumn.page-break-permission = ##f")
     lines += [
         "    }",
         "    \\context { \\Staff",

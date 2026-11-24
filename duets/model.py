@@ -137,6 +137,9 @@ class TBar:
     double_bar: bool = False      # a section ends after this bar
     fermata_end: bool = False
     meter: Optional[Meter] = None  # meter change taking effect at this bar
+    key: Optional[Key] = None      # key change taking effect at this bar
+    intro_start: bool = False      # hymnal "introduction" bracket starts here
+    intro_end: bool = False        # ... and ends after this bar
 
     def chord_at(self, pos: Fraction) -> Optional[Chord]:
         cur = None
