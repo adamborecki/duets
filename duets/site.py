@@ -164,6 +164,8 @@ h2 { color:var(--accent); border-bottom:2px solid var(--line); }
   clip-path:ellipse(60% 100% at 50% 100%); }
 .hero h1 { font:400 clamp(3rem, 10vw, 5.6rem)/1.05 "Great Vibes", "Snell Roundhand", cursive; margin:0; text-shadow:0 3px 14px rgba(60,0,15,.45); }
 .hero p { margin:.7em auto 0; max-width:34em; font:italic 500 1.15rem/1.5 "Playfair Display", Georgia, serif; color:#ffe9ec; }
+.hero .kicker { font:600 .85rem/1 system-ui, sans-serif; letter-spacing:.32em; text-transform:uppercase; color:#ffd0d8; margin-bottom:.9em; }
+.hero p.sig, #gift .wish p.sig { font:400 clamp(1.7rem, 5vw, 2.3rem)/1.2 "Great Vibes", cursive; color:#fff; margin-top:.35em; }
 .hero .bow { font-size:2rem; display:block; margin-bottom:.2em; animation:bob 3s ease-in-out infinite; }
 .hero .float { position:absolute; bottom:-30px; color:rgba(255,255,255,.28); animation:rise linear infinite; pointer-events:none; }
 @keyframes bob { 50% { transform:translateY(-6px) rotate(-4deg); } }
@@ -221,15 +223,18 @@ body.wrapped { overflow:hidden; }
   </div>
   <div class="wish">
     <h2>Happy Birthday, Mom!</h2>
-    <p>__TOTAL__ piano duets for the two of us — hymns, carols, Bach, ragtime and the old songs. A lifetime of four hands at one piano.</p>
+    <p>This part of your birthday present is a collection of a TON of piano duets so that we’ll never run out of music to play together :D</p>
+    <p class="sig">I love you!! — Adam</p>
     <div class="hearts">♥ ♪ ♥</div>
     <button id="enter">Let’s play ♪</button>
   </div>
 </div>
 <header class="hero">
   <span class="bow">🎁</span>
+  <div class="kicker">Piano Duets</div>
   <h1>Happy Birthday, Mom!</h1>
-  <p>__TOTAL__ piano duets for the two of us to play, with all my love.</p>
+  <p>This part of your birthday present is a collection of a TON of piano duets so that we’ll never run out of music to play together :D</p>
+  <p class="sig">I love you!! — Adam</p>
   <nav class="jump"><a href="#books">The books</a><a href="#find">Find a duet</a><a href="#" id="lucky1">🎲 Surprise us</a><button id="again" title="Open the present again">🎁 Open it again</button></nav>
 </header>
 <main>
