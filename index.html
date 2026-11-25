@@ -3,18 +3,21 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Piano Duets</title>
+<title>Happy Birthday, Mom! · Piano Duets</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display:ital,wght@0,500;0,700;1,500&display=swap" rel="stylesheet">
 <style>
-:root { --bg:#faf8f3; --ink:#1d1b18; --muted:#6b6459; --line:#ddd6c8; --card:#fff; --accent:#7a2e1f; --dot:#7a2e1f; }
+:root { --bg:#fff6f4; --ink:#2a1216; --muted:#7d5a60; --line:#f0d3d6; --card:#fff; --accent:#b0122f; --dot:#d2143a;
+  --crimson:#a50f2d; --cherry:#d2143a; --wine:#5e0a1c; --blush:#ffe3e6; --gold:#d9b36a; }
 @media (prefers-color-scheme: dark) {
-  :root { --bg:#17161a; --ink:#ece8df; --muted:#a39d91; --line:#34323a; --card:#201f25; --accent:#e0a28f; --dot:#e0a28f; }
+  :root { --bg:#1c0c10; --ink:#fbe9ea; --muted:#c99aa1; --line:#4a1f28; --card:#2a1218; --accent:#ff8fa3; --dot:#ff6b85; --blush:#3a1820; }
 }
 * { box-sizing: border-box; }
 body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.5 Georgia, "Iowan Old Style", "Palatino Linotype", serif; }
 main { max-width:1100px; margin:0 auto; padding:24px 16px 80px; }
-h1 { font-size:2.2rem; margin:.4em 0 .1em; letter-spacing:.01em; }
+h1 { margin:0; }
 h2 { margin:2.2em 0 .6em; font-size:1.35rem; border-bottom:1px solid var(--line); padding-bottom:.3em; }
-.lede { color:var(--muted); max-width:46em; }
+.lede { color:var(--muted); max-width:46em; margin:1.2em auto 0; text-align:center; }
 .books { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:14px; }
 .book { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:14px 16px; }
 .book h3 { margin:0 0 .15em; font-size:1.12rem; }
@@ -51,7 +54,6 @@ button.lucky { font:14px system-ui, sans-serif; border-radius:6px; padding:7px 1
 button.more { display:block; width:100%; padding:12px; border:0; background:var(--card); color:var(--accent);
   font:14px system-ui, sans-serif; cursor:pointer; border-radius:0 0 8px 8px; }
 @media (max-width: 760px) {
-  h1 { font-size:1.8rem; }
   thead { display:none; }
   table, tbody, tr, td { display:block; }
   tr { padding:10px 12px; border-bottom:1px solid var(--line); }
@@ -63,20 +65,91 @@ button.more { display:block; width:100%; padding:12px; border:0; background:var(
   td.l br { display:none; }
 }
 footer { margin-top:3em; color:var(--muted); font-size:.9rem; }
+h2, .book h3 { font-family:"Playfair Display", Georgia, serif; }
+h2 { color:var(--accent); border-bottom:2px solid var(--line); }
+.book { border-radius:14px; box-shadow:0 2px 10px rgba(165,15,45,.07); transition:transform .2s, box-shadow .2s; border-top:4px solid var(--cherry); }
+.book:hover { transform:translateY(-3px); box-shadow:0 8px 22px rgba(165,15,45,.16); }
+.hero { background:radial-gradient(circle at 20% 0%, #e8244c 0, transparent 55%), linear-gradient(135deg, var(--cherry), var(--crimson) 45%, var(--wine));
+  color:#fff; text-align:center; padding:54px 18px 60px; position:relative; overflow:hidden; }
+.hero::after { content:""; position:absolute; left:0; right:0; bottom:-1px; height:26px; background:var(--bg);
+  clip-path:ellipse(60% 100% at 50% 100%); }
+.hero h1 { font:400 clamp(3rem, 10vw, 5.6rem)/1.05 "Great Vibes", "Snell Roundhand", cursive; margin:0; text-shadow:0 3px 14px rgba(60,0,15,.45); }
+.hero p { margin:.7em auto 0; max-width:34em; font:italic 500 1.15rem/1.5 "Playfair Display", Georgia, serif; color:#ffe9ec; }
+.hero .bow { font-size:2rem; display:block; margin-bottom:.2em; animation:bob 3s ease-in-out infinite; }
+.hero .float { position:absolute; bottom:-30px; color:rgba(255,255,255,.28); animation:rise linear infinite; pointer-events:none; }
+@keyframes bob { 50% { transform:translateY(-6px) rotate(-4deg); } }
+@keyframes rise { to { transform:translateY(-420px) rotate(25deg); opacity:0; } }
+nav.jump { justify-content:center; margin-top:1.6em; }
+.hero nav.jump a { background:rgba(255,255,255,.14); border-color:rgba(255,255,255,.45); color:#fff; backdrop-filter:blur(3px); }
+.hero nav.jump a:hover { background:#fff; color:var(--crimson); }
+/* ---- the present ---- */
+body.wrapped { overflow:hidden; }
+#gift { position:fixed; inset:0; z-index:50; display:flex; flex-direction:column; align-items:center; justify-content:center;
+  background:radial-gradient(circle at 50% 35%, #e3254b 0, var(--crimson) 45%, var(--wine) 100%); color:#fff; text-align:center;
+  transition:opacity .9s ease, visibility .9s; padding:20px; }
+#gift.gone { opacity:0; visibility:hidden; }
+#gift canvas { position:absolute; inset:0; width:100%; height:100%; pointer-events:none; }
+#gift .to { font:400 clamp(2.2rem, 8vw, 3.6rem)/1 "Great Vibes", cursive; margin:0 0 34px; text-shadow:0 2px 10px rgba(0,0,0,.3); }
+#gift .hint { font:italic 1.05rem "Playfair Display", Georgia, serif; margin-top:30px; opacity:.9; animation:pulse 1.8s ease-in-out infinite; }
+@keyframes pulse { 50% { opacity:.45; } }
+#box { all:unset; cursor:pointer; position:relative; width:190px; height:170px; display:block; animation:wiggle 2.6s ease-in-out infinite; -webkit-tap-highlight-color:transparent; }
+#box:focus-visible { outline:3px solid #fff; outline-offset:12px; border-radius:8px; }
+@keyframes wiggle { 0%, 70%, 100% { transform:rotate(0); } 76% { transform:rotate(-4deg); } 82% { transform:rotate(4deg); } 88% { transform:rotate(-3deg); } 94% { transform:rotate(2deg); } }
+#box .body { position:absolute; left:10px; right:10px; bottom:0; height:120px; border-radius:4px 4px 10px 10px;
+  background:linear-gradient(90deg, #fff5f0, #ffe1dc); box-shadow:0 18px 40px rgba(40,0,10,.45); }
+#box .lid { position:absolute; left:0; right:0; top:22px; height:36px; border-radius:6px; background:linear-gradient(90deg, #fff, #ffe9e4);
+  box-shadow:0 4px 10px rgba(40,0,10,.3); transition:transform 1s cubic-bezier(.3,1.6,.5,1), opacity .9s .25s; transform-origin:20% 100%; }
+#box .rv, #box .rh { position:absolute; background:linear-gradient(90deg, #c40f33, #ff3b5f, #c40f33); }
+#box .rv { left:50%; width:28px; margin-left:-14px; top:22px; bottom:0; }
+#box .bowk { position:absolute; left:50%; top:-6px; width:0; height:0; transition:transform 1s cubic-bezier(.3,1.6,.5,1), opacity .9s .25s; }
+#box .bowk::before, #box .bowk::after { content:""; position:absolute; top:0; width:46px; height:34px; border:9px solid #ff3b5f; border-radius:50% 50% 50% 50% / 60% 60% 40% 40%; box-sizing:border-box; }
+#box .bowk::before { right:0; transform:rotate(-18deg); } #box .bowk::after { left:0; transform:rotate(18deg); }
+#gift.open #box { animation:none; }
+#gift.open #box .lid, #gift.open #box .bowk { transform:translate(-40px, -230px) rotate(-38deg); opacity:0; }
+#gift.open #box .body, #gift.open #box .rv { transition:transform .9s .35s ease-in, opacity .8s .35s; transform:translateY(60px) scale(.8); opacity:0; }
+#gift.open .to, #gift.open .hint { transition:opacity .5s; opacity:0; animation:none; }
+#gift .wrap { transition:opacity .4s 1s; }
+#gift.open .wrap { opacity:0; pointer-events:none; position:absolute; }
+#gift .wish { position:absolute; opacity:0; transform:scale(.6) translateY(30px); pointer-events:none; max-width:92vw; }
+#gift.open .wish { opacity:1; transform:none; pointer-events:auto; transition:opacity 1s .7s, transform 1.2s .7s cubic-bezier(.2,1.5,.4,1); }
+#gift .wish h2 { font:400 clamp(3.2rem, 13vw, 7rem)/1.05 "Great Vibes", "Snell Roundhand", cursive; margin:0; border:0; color:#fff; text-shadow:0 4px 18px rgba(50,0,12,.5); }
+#gift .wish p { font:italic 500 clamp(1.05rem, 3.4vw, 1.4rem)/1.5 "Playfair Display", Georgia, serif; margin:.8em auto 0; max-width:26em; color:#ffe9ec; }
+#gift .wish .hearts { font-size:1.5rem; letter-spacing:.5em; margin-top:.6em; color:#ffd0d8; }
+#enter { margin-top:1.6em; font:600 1.1rem "Playfair Display", Georgia, serif; color:var(--crimson); background:#fff; border:0; border-radius:999px;
+  padding:13px 34px; cursor:pointer; box-shadow:0 8px 24px rgba(40,0,10,.4); transition:transform .2s; }
+#enter:hover { transform:scale(1.06); }
+#again { border:1px solid rgba(255,255,255,.45); border-radius:999px; padding:6px 14px; background:rgba(255,255,255,.14); color:#fff; font:inherit; cursor:pointer; }
+@media (prefers-reduced-motion: reduce) { #box, .hero .bow, .hero .float, #gift .hint { animation:none; } #gift *, #gift { transition-duration:.01s !important; transition-delay:0s !important; } }
 </style>
 </head>
-<body>
-<main>
-<h3>Piano Duets</h3>
+<body class="wrapped">
+<div id="gift" role="dialog" aria-label="A birthday present">
+  <canvas id="confetti"></canvas>
+  <div class="wrap">
+    <p class="to">For Mom</p>
+    <button id="box" aria-label="Open your present"><span class="body"></span><span class="rv"></span><span class="lid"></span><span class="bowk"></span></button>
+    <p class="hint">Tap the present to open it</p>
+  </div>
+  <div class="wish">
+    <h2>Happy Birthday, Mom!</h2>
+    <p>1173 piano duets for the two of us — hymns, carols, Bach, ragtime and the old songs. A lifetime of four hands at one piano.</p>
+    <div class="hearts">♥ ♪ ♥</div>
+    <button id="enter">Let’s play ♪</button>
+  </div>
+</div>
+<header class="hero">
+  <span class="bow">🎁</span>
   <h1>Happy Birthday, Mom!</h1>
-  <h4>This part of your birthday present is a collection of a TON of piano duets so that we'll never run out of music to play together :D  --- I love you!! - Adam</h4>
+  <p>1173 piano duets for the two of us to play, with all my love.</p>
+  <nav class="jump"><a href="#books">The books</a><a href="#find">Find a duet</a><a href="#" id="lucky1">🎲 Surprise us</a><button id="again" title="Open the present again">🎁 Open it again</button></nav>
+</header>
+<main>
 <p class="lede">1173 duets for one piano, four hands, in 23 books. Every piece comes in four
 editions: facing pages for printing (Secondo on the left, Primo on the right, lines and bar numbers matching),
 a printed full score, and two 16:10 screen editions for a laptop or tablet on the music stand.
 Dots rate each seat from 1 (beginner) to 5 (late intermediate); chord symbols are printed over both parts.
 <strong>▶ practice</strong> opens a piece on the music stand with a player that can sound either part while you
 play the other.</p>
-<nav class="jump"><a href="#books">The books</a><a href="#find">Find a duet</a><a href="#" id="lucky1">🎲 Surprise us</a></nav>
 
 <h2 id="books">The books</h2>
 <section class="books">
@@ -172,6 +245,52 @@ function lucky(ev) {
 }
 $("lucky1").addEventListener("click", lucky); $("lucky2").addEventListener("click", lucky);
 render();
+
+// ---- the present ----
+(function () {
+  const gift = $("gift"), cv = $("confetti"), cx = cv.getContext("2d"), hero = document.querySelector(".hero");
+  const calm = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const COL = ["#ffffff", "#ffd0d8", "#ff6b85", "#ff3b5f", "#f7d58b", "#ffe9ec"], SH = ["♥", "♪", "♫", "●", "✦", "♥"];
+  for (let k = 0; k < 14; k++) {                      // notes and hearts drifting up the banner
+    const f = document.createElement("span"); f.className = "float"; f.textContent = SH[k % 3];
+    f.style.left = (4 + Math.random() * 92) + "%"; f.style.fontSize = (1 + Math.random() * 1.6) + "rem";
+    f.style.animationDuration = (9 + Math.random() * 10) + "s"; f.style.animationDelay = (-Math.random() * 16) + "s";
+    hero.appendChild(f);
+  }
+  let parts = [], raf = 0, until = 0;
+  function size() { cv.width = innerWidth; cv.height = innerHeight; }
+  function burst(n, x, y, up) {
+    for (let k = 0; k < n; k++) { const a = up ? -Math.PI / 2 + (Math.random() - .5) * 2.1 : Math.random() * Math.PI * 2, v = 5 + Math.random() * 12;
+      parts.push({x, y, vx: Math.cos(a) * v, vy: Math.sin(a) * v - (up ? 5 : 0), r: Math.random() * 6, vr: (Math.random() - .5) * .3,
+        s: 14 + Math.random() * 22, c: COL[k % COL.length], t: SH[k % SH.length], life: 1}); }
+  }
+  function frame(now) {
+    cx.clearRect(0, 0, cv.width, cv.height);
+    if (now < until && Math.random() < .35) parts.push({x: Math.random() * cv.width, y: -20, vx: (Math.random() - .5) * 2, vy: 2 + Math.random() * 3,
+      r: 0, vr: (Math.random() - .5) * .2, s: 14 + Math.random() * 18, c: COL[parts.length % COL.length], t: SH[parts.length % SH.length], life: 1});
+    parts = parts.filter(p => p.y < cv.height + 40 && p.life > 0);
+    for (const p of parts) { p.vy += .22; p.vx *= .99; p.x += p.vx; p.y += p.vy; p.r += p.vr; if (now > until) p.life -= .012;
+      cx.save(); cx.globalAlpha = Math.max(0, p.life); cx.translate(p.x, p.y); cx.rotate(p.r); cx.fillStyle = p.c;
+      cx.font = p.s + "px Georgia, serif"; cx.textAlign = "center"; cx.fillText(p.t, 0, 0); cx.restore(); }
+    if (parts.length || now < until) raf = requestAnimationFrame(frame);
+  }
+  function open() {
+    if (gift.classList.contains("open")) return;
+    gift.classList.add("open");
+    if (!calm) { size(); const r = $("box").getBoundingClientRect(); burst(110, r.left + r.width / 2, r.top + 40, true);
+      setTimeout(() => { burst(60, cv.width * .2, cv.height * .35); burst(60, cv.width * .8, cv.height * .35); }, 900);
+      until = performance.now() + 6000; cancelAnimationFrame(raf); raf = requestAnimationFrame(frame); }
+    setTimeout(() => $("enter").focus(), 1600);
+  }
+  function close() { gift.classList.add("gone"); document.body.classList.remove("wrapped"); until = 0;
+    try { sessionStorage.setItem("duets-opened", "1"); } catch (e) {} }
+  function wrap() { parts = []; gift.classList.remove("open", "gone"); document.body.classList.add("wrapped"); scrollTo(0, 0); }
+  $("box").addEventListener("click", open); $("enter").addEventListener("click", close); $("again").addEventListener("click", wrap);
+  addEventListener("resize", size);
+  addEventListener("keydown", ev => { if (ev.key === "Escape" && !gift.classList.contains("gone")) close(); });
+  let seen = false; try { seen = sessionStorage.getItem("duets-opened") === "1"; } catch (e) {}
+  if (seen || location.hash) { gift.classList.add("gone"); document.body.classList.remove("wrapped"); }
+})();
 </script>
 </body>
 </html>
