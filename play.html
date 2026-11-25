@@ -52,6 +52,15 @@ main { flex:1 1 auto; min-height:300px; display:flex; background:var(--desk); po
 iframe { flex:1; border:0; width:100%; }
 .note { padding:24px 16px; max-width:40em; }
 .note a { color:var(--accent); }
+#printout { display:none; }
+@page { margin:0; }
+@media print {
+  html, body { height:auto; background:#fff; display:block; }
+  header, main { display:none !important; }
+  #printout { display:block; }
+  #printout canvas { display:block; margin:0 auto; width:auto; height:auto; max-width:100%; max-height:99vh; break-after:page; page-break-after:always; break-inside:avoid; }
+  #printout canvas:last-child { break-after:auto; page-break-after:auto; }
+}
 </style>
 </head>
 <body>
@@ -85,6 +94,7 @@ iframe { flex:1; border:0; width:100%; }
     <a id="open" class="opt" target="_blank" rel="noopener" style="color:var(--accent)">Open PDF ↗</a>
     <button id="prev" title="Previous duet in this book">‹ duet</button>
     <button id="next" title="Next duet in this book">duet ›</button>
+    <button id="print" title="Print this duet (Ctrl/⌘ P)">🖨 Print</button>
     <button id="full" class="opt" title="Full screen (F)" aria-label="Full screen">⛶</button>
   </div>
 </header>
@@ -93,6 +103,7 @@ iframe { flex:1; border:0; width:100%; }
   <button class="turn" id="pgprev" aria-label="Previous page">‹</button>
   <button class="turn" id="pgnext" aria-label="Next page">›</button>
 </main>
+<div id="printout" aria-hidden="true"></div>
 <script src="vendor/pdfjs/pdf.min.js"></script>
 <script>
 const Q = new URLSearchParams(location.search), book = Q.get("b") || "", idx = parseInt(Q.get("i") || "0", 10);
@@ -141,6 +152,7 @@ function setup(c, n) {
   $("play").disabled = false;
   draw();
   showPdf();
+  warmPrint();
 }
 
 // ---- the page on the stand ---------------------------------------------------
@@ -370,6 +382,48 @@ $("bar").onclick = ev => {
   const was = resume(); startTick = snap; draw(); if (doc) followPage(snap);
   if (was) start(false);
 };
+// ---- printing: the real print edition of this duet, one sheet per page, none of the controls ----
+let printKey = "", printJob = null;
+function printPlan() {
+  let k = $("ed").value.includes("score") ? "score" : "facing";
+  if (!files[k]) k = files.facing ? "facing" : $("ed").value;
+  return {k, part: k === "facing" ? $("part").value : "both"};
+}
+function preparePrint() {
+  const {k, part} = printPlan(), key = k + "/" + part;
+  if (key === printKey && printJob) return printJob;
+  printKey = key;
+  return printJob = (async () => {
+    const url = `books/${book}/${files[k]}`;
+    const d = url === docUrl && doc ? doc
+      : await pdfjsLib.getDocument({url, rangeChunkSize: 131072, disableAutoFetch: true, disableStream: true}).promise;
+    const first = item.pages[k], last = nextItem ? Math.max(first, nextItem.pages[k] - 1) : d.numPages, out = [];
+    for (let n = first + (part === "p" ? 1 : 0); n <= last; n += part === "both" ? 1 : 2) {
+      const page = await d.getPage(n), vp = page.getViewport({scale: 2.6}), cv = document.createElement("canvas");
+      cv.width = Math.floor(vp.width); cv.height = Math.floor(vp.height);
+      await page.render({canvasContext: cv.getContext("2d"), viewport: vp, intent: "print"}).promise;
+      out.push(cv);
+    }
+    if (key === printKey) $("printout").replaceChildren(...out);
+  })().catch(e => { printKey = ""; printJob = null; throw e; });
+}
+async function doPrint() {
+  if (!window.pdfjsLib || !item) return window.print();
+  const b = $("print"), label = b.textContent;
+  b.textContent = "Preparing…"; b.disabled = true;
+  try { await preparePrint(); } catch (e) {}
+  b.textContent = label; b.disabled = false;
+  window.print();
+}
+$("print").onclick = doPrint;
+document.addEventListener("keydown", ev => {
+  if ((ev.ctrlKey || ev.metaKey) && (ev.key === "p" || ev.key === "P")) { ev.preventDefault(); doPrint(); }
+});
+// get the pages ready in the background, so File > Print from the browser menu works too
+let warm = 0;
+function warmPrint() { clearTimeout(warm); warm = setTimeout(() => { if (item && window.pdfjsLib) preparePrint().catch(() => {}); }, 1500); }
+$("ed").addEventListener("change", warmPrint); $("part").addEventListener("change", warmPrint);
+
 // keep the screen awake on the music stand, and offer the whole screen to the page
 let lock = null;
 async function awake() {

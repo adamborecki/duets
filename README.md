@@ -33,6 +33,8 @@ In the catalog, **▶ practice** (or a duet's title) puts that piece on the scre
   edge turns by hand, Space starts and stops, and a click on the progress bar jumps to that bar.
 - **Both parts or just yours.** *Primo only* / *Secondo only* fills a tablet or phone held upright with one
   part; *Both parts* is the two-up view for a laptop on the music stand.
+- **Print** (the 🖨 button, or Ctrl/⌘ P) prints the proper print edition of that duet — the facing pages, or
+  just your part if *Primo only* / *Secondo only* is chosen — with none of the controls.
 - **🎲 Surprise us** on the catalog opens a random duet from whatever the search and level filters show.
 
 The practice page needs a web server (it fetches the notes and only the pages it shows). With GitHub Pages
